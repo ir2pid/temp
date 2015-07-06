@@ -1,0 +1,164 @@
+[
+    {
+    "option1": "You have be going.",
+    "option2": "You have been going.",
+    "option3": "You have  gone.",
+    "option4": "You are going.",
+    "question": "তুমি যেতে থাকছো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You will be going.",
+    "option2": "You will be gone.",
+    "option3": "You shall be going.",
+    "option4": "You are going.",
+    "question": "তুমি যেতে থাকবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You had been gone.",
+    "option2": "You were going.",
+    "option3": "You had going.",
+    "option4": "You had been going.",
+    "question": "তুমি যেতে থেকেছিলে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Are you been going ?",
+    "option2": "Have you been gone ?",
+    "option3": "Have you been going ?",
+    "option4": "Had you been going ?",
+    "question": "তুমি কি যেতে থাকছো ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Will you been going ?",
+    "option2": "Will you be going ?",
+    "option3": "Shall you be going ?",
+    "option4": "Are you be going ?",
+    "question": "তুমি কি যেতে  থাকবে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Had you been going ?",
+    "option2": "Had you going ?",
+    "option3": "Have you been going ?",
+    "option4": "Had you be going ?",
+    "question": "তুমি কি যেতে  থাকছিলে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "You have gone.",
+    "option2": "You had went.",
+    "option3": "You had gone.",
+    "option4": "You had been gone.",
+    "question": "তুমি গেলে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Had you gone ?",
+    "option2": "Had you go ?",
+    "option3": "Was you gone ?",
+    "option4": "Had you went ?",
+    "question": "তুমি কি গেলে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You could had gone.",
+    "option2": "You could have gone.",
+    "option3": "You can have gone.",
+    "option4": "You could go.",
+    "question": "তুমি যেতে পারতে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Could you had gone ?",
+    "option2": "Could you have go ?",
+    "option3": "Could you have gone ?",
+    "option4": "Could you had went ?",
+    "question": "তুমি কি যেতে পারতে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You would had gone.",
+    "option2": "You was have gone.",
+    "option3": "You would have go.",
+    "option4": "You would have gone.",
+    "question": "তুমি যেতে পারতে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Would you had gone ?",
+    "option2": "Would you have gone ?",
+    "option3": "Would you have been gone ?",
+    "option4": "Would you have go ?",
+    "question": "তুমি কি যেতে পারতে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "You should have gone.",
+    "option2": "You should had gone.",
+    "option3": "You could have gone.",
+    "option4": "You should have went.",
+    "question": "তোমার যেতে পারা উচিৎ ছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Should you had gone ?",
+    "option2": "Would you have gone ?",
+    "option3": "Should you have going ?",
+    "option4": "Should you have gone ?",
+    "question": "তোমার কি যেতে পারা উচিৎ ছিল ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You may have went.",
+    "option2": "You may have gone.",
+    "option3": "You may be have gone.",
+    "option4": "You may have going.",
+    "question": "তুমি যেতে পারতে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "May you have gone ?",
+    "option2": "May you had gone ?",
+    "option3": "May you has gone ?",
+    "option4": "May you have go ?",
+    "question": "তুমি কি যেতে পারতে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You can but not go.",
+    "option2": "You cannot but going.",
+    "option3": "You cannot but go.",
+    "option4": "You cannot but went.",
+    "question": "তুমি না গিয়ে পারো না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You can help  not going.",
+    "option2": "You cannot help going.",
+    "option3": "You cannot helped going.",
+    "option4": "You cannot help go.",
+    "question": "তুমি না গিয়ে পারো না",
+    "correct": 2,
+    "isPicture": false
+    }
+]

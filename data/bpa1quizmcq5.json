@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "Akbar ruled after the country for many years.",
+    "option2": "Akbar ruled down the country for many years.",
+    "option3": "Akbar ruled over the country for many years.",
+    "option4": "Akbar ruled on the country for many years.",
+    "question": "আকবর অনেক বছর ধরে দেশ শাসন করেছিলেন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He has no control for his brother.",
+    "option2": "He has no control to his brother.",
+    "option3": "He has no control at his brother.",
+    "option4": "He has no control over his brother.",
+    "question": "ভাইয়ের ওপর তার কোন নিয়ন্ত্রণ নেই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Mrs. Biswas is now under yoga.",
+    "option2": "Mrs. Biswas is now into yoga.",
+    "option3": "Mrs. Biswas is now among yoga.",
+    "option4": "Mrs. Biswas is now within yoga.",
+    "question": "শ্রীমতি বিশ্বাস আজকাল যোগাভ্যাস করে থাকেন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is highly regarded within his profession.",
+    "option2": "He is highly regarded by his profession.",
+    "option3": "He is highly regarded from his profession.",
+    "option4": "He is highly regarded on his profession.",
+    "question": "ওনার পেশায় উনি রীতিমত সমাদৃত",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Mr. Roy presided at the meeting.",
+    "option2": "Mr. Roy presided in the meeting.",
+    "option3": "Mr. Roy presided over the meeting.",
+    "option4": "Mr. Roy presided on the meeting.",
+    "question": "শ্রী রায় সভার সভাপতিত্ব করলেন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "She always gets to trouble.",
+    "option2": "She always gets into trouble.",
+    "option3": "She always gets within trouble.",
+    "option4": "She always gets in trouble.",
+    "question": "সে সবসময় ঝামেলায় জড়িয়ে পড়ে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I believe in God, so I have faith in God's work.",
+    "option2": "I believe on God, so I have faith in God's work.",
+    "option3": "I believe in God, so I have faith on God's work.",
+    "option4": "I believe on God, so I have faith on God's work.",
+    "question": "আমি ঈশ্বরে বিশ্বাস করি, তাই ঈশ্বরের কাজে আমার আস্থা আছে",
+    "correct": 1,
+    "isPicture": false
+    }
+]

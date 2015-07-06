@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "Let us eat everything at the table.",
+    "option2": "Let us eat everything on the table.",
+    "option3": "Let us eat everything of the table.",
+    "option4": "Let us eat everything in the table.",
+    "question": "টেবিলের উপর সবকিছু খেয়ে ফেলা যাক",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I can see a flag on the pole.",
+    "option2": "I can see a flag with the pole.",
+    "option3": "I can see a flag next to the pole.",
+    "option4": "I can see a flag in the pole.",
+    "question": "আমি খুঁটির উপর একটি পতাকা দেখতে পাচ্ছি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "My friend is in work.",
+    "option2": "My friend is with work.",
+    "option3": "My friend is on work.",
+    "option4": "My friend is at work.",
+    "question": "আমার বন্ধু কাজ করছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "On the left of Sachin is Sourav.",
+    "option2": "At the left of Sachin is Sourav.",
+    "option3": "To the left of Sachin is Sourav.",
+    "option4": "In the left of Sachin is Sourav.",
+    "question": "শচীনের বাঁদিকে সৌরভ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They have made a toilet at the top floor.",
+    "option2": "They have made a toilet on the top floor.",
+    "option3": "They have made a toilet to the top floor.",
+    "option4": "They have made a toilet in the top floor.",
+    "question": "তারা সবচেয়ে ওপরের তলায় একটা শৌচাগার বানিয়েছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "A picture is printed at the last page of the book.",
+    "option2": "A picture is printed in the last page of the book.",
+    "option3": "A picture is printed to the last page of the book.",
+    "option4": "A picture is printed on the last page of the book.",
+    "question": "বইটির শেষ পাতায় একটি ছবি ছাপা আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Old men should keep to the left at stairs.",
+    "option2": "Old men should keep to the left on stairs.",
+    "option3": "Old men should keep at the left on stairs.",
+    "option4": "Old men should keep on the left at stairs.",
+    "question": "বৃদ্ধদের সিঁড়ির বাঁদিক করে থাকা উচিৎ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Kids are to home.",
+    "option2": "Kids are at home.",
+    "option3": "Kids are inside home.",
+    "option4": "Kids are in home.",
+    "question": "বাচ্চারা বাড়ীতে আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We have six rooms for our house.",
+    "option2": "We have six rooms at our house.",
+    "option3": "We have six rooms in our house.",
+    "option4": "We have six rooms of our house.",
+    "question": "আমাদের বাড়িতে ছ'টি ঘর",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I want more attention at your work.",
+    "option2": "I want more attention on your work.",
+    "option3": "I want more attention for your work.",
+    "option4": "I want more attention in your work.",
+    "question": "আমি তোমার কাজে আরো মনোযোগ চাই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Sumona is singing at the function.",
+    "option2": "Sumona is singing in the function.",
+    "option3": "Sumona is singing on the function.",
+    "option4": "Sumona is singing to the function.",
+    "question": "সুমনা অনুষ্ঠানে গান গাইছে",
+    "correct": 1,
+    "isPicture": false
+    }
+]

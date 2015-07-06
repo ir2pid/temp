@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "Angshuman has no ambition to fame.",
+    "option2": "Angshuman has no ambition for fame.",
+    "option3": "Angshuman has no ambition in fame.",
+    "option4": "Angshuman has no ambition of fame.",
+    "question": "অংশুমানের যশের কোন উচ্চাকাঙ্ক্ষা নেই",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The police was searching of the thief.",
+    "option2": "The police was searching at the thief.",
+    "option3": "The police was searching for the thief.",
+    "option4": "The police was searching over the thief.",
+    "question": "পুলিশ চোরের খোঁজ করছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Lawrence is eligible for the post.",
+    "option2": "Lawrence is eligible in the post.",
+    "option3": "Lawrence is eligible to the post.",
+    "option4": "Lawrence is eligible at the post.",
+    "question": "লরেন্স পদটির জন্য যোগ্য",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Bidyut always longs for fame.",
+    "option2": "Bidyut always longs on fame.",
+    "option3": "Bidyut always longs in fame.",
+    "option4": "Bidyut always longs to fame.",
+    "question": "বিদ্যুৎ সবসময় খ্যাতির আকাঙ্ক্ষা করে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He has no taste on music.",
+    "option2": "He has no taste for music.",
+    "option3": "He has no taste of music.",
+    "option4": "He has no taste in music.",
+    "question": "তার সঙ্গীতে কোন রুচি নেই",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I have a request for behalf for my team.",
+    "option2": "I have a request for behalf of my team.",
+    "option3": "I have a request on behalf for my team.",
+    "option4": "I have a request on behalf of my team.",
+    "question": "আমার দলের পক্ষ থেকে আমার একটি অনুরোধ আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Is Dhoni a match to Dada as captain ?",
+    "option2": "Is Dhoni a match of Dada as captain ?",
+    "option3": "Is Dhoni a match for Dada as captain ?",
+    "option4": "Is Dhoni a match with Dada as captain ?",
+    "question": "ধোনি কি দলনেতা হিসেবে দাদার সমকক্ষ ?",
+    "correct": 3,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "On arrival in India, he was sent to jail.",
+    "option2": "In arrival to India, he was sent to jail.",
+    "option3": "On arrival at India, he was sent to jail.",
+    "option4": "In arrival on India, he was sent to jail.",
+    "question": "ভারতে পৌঁছতে তাকে জেলে ভরা হল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "We must abide by traffic rules.",
+    "option2": "We must abide to traffic rules.",
+    "option3": "We must abide with traffic rules.",
+    "option4": "We must abide in traffic rules.",
+    "question": "আমাদের ট্র্যাফিক নিয়ম মেনে চলতে হবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Knock to the door to see if he is inside.",
+    "option2": "Knock in the door to see if he is inside.",
+    "option3": "Knock at the door to see if he is inside.",
+    "option4": "Knock on the door to see if he is inside.",
+    "question": "দরজায় করাঘাত করে দ্যাখো উনি ভেতরে আছেন কিনা",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Agriculture depends for monsoon.",
+    "option2": "Agriculture depends on monsoon.",
+    "option3": "Agriculture depends by monsoon.",
+    "option4": "Agriculture depends at monsoon.",
+    "question": "কৃষি বর্ষার ওপর নির্ভর করে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Don't stare to me.",
+    "option2": "Don't stare on me.",
+    "option3": "Don't stare at me.",
+    "option4": "Don't stare of me.",
+    "question": "আমার দিকে কটমট করে তাকিয়ো না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Abheda Foundation insists in learning English.",
+    "option2": "Abheda Foundation insists of learning English.",
+    "option3": "Abheda Foundation insists at learning English.",
+    "option4": "Abheda Foundation insists on learning English.",
+    "question": "অভেদ ফাউন্ডেশন ইংরাজি শেখার ওপর জোর দেয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We all were surprised in Brazil's defeat.",
+    "option2": "We all were surprised for Brazil's defeat.",
+    "option3": "We all were surprised of Brazil's defeat.",
+    "option4": "We all were surprised at Brazil's defeat.",
+    "question": "আমরা সবাই ব্রাজিলের হারে অবাক হয়েছিলাম",
+    "correct": 4,
+    "isPicture": false
+    }
+]

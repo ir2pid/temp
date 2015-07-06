@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "Manisha is coming down the stairs.",
+    "option2": "Manisha is coming down to the stairs.",
+    "option3": "Manisha is coming from the stairs.",
+    "option4": "Manisha is coming down from the stairs.",
+    "question": "মনীষা সিঁড়ি দিয়ে নীচে নামছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Get off that roof.",
+    "option2": "Get from that roof.",
+    "option3": "Get down from that roof.",
+    "option4": "Get down off that roof.",
+    "question": "ছাদ থেকে নীচে নামো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The fox jumped over the gate.",
+    "option2": "The fox jumped on the gate.",
+    "option3": "The fox jumped above the gate.",
+    "option4": "The fox jumped up the gate.",
+    "question": "শেয়ালটি গেটের উপর দিয়ে লাফিয়েছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The big tree has fallen to the ground.",
+    "option2": "The big tree has fallen above the ground.",
+    "option3": "The big tree has fallen over the ground.",
+    "option4": "The big tree has fallen down the ground.",
+    "question": "বড় গাছটি মাটির ওপর পড়ে গেছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I was walking on the street.",
+    "option2": "I was walking down the street.",
+    "option3": "I was walking to the street.",
+    "option4": "I was walking in the street.",
+    "question": "আমি রাস্তা ধরে হাঁটছিলাম",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I shall go to Kolkata today.",
+    "option2": "I shall go up in Kolkata today.",
+    "option3": "I shall go up to in Kolkata today.",
+    "option4": "I shall go up to Kolkata today.",
+    "question": "আমি আজ কোলকাতা পর্যন্ত যাব",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He puts the clock up over the wall.",
+    "option2": "He puts the clock up on the wall.",
+    "option3": "He puts the clock up above the wall.",
+    "option4": "He puts the clock up the wall.",
+    "question": "সে ঘড়িটি দেওয়ালে লাগায়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The gas prices are rising over at the market.",
+    "option2": "The gas prices are rising up in the market.",
+    "option3": "The gas prices are rising over in the market.",
+    "option4": "The gas prices are rising up at the market.",
+    "question": "বাজারে গ্যাসের দাম বাড়ছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Suresh is climbing below the tree.",
+    "option2": "Suresh is climbing under the tree.",
+    "option3": "Suresh is climbing down the tree.",
+    "option4": "Suresh is climbing down to the tree.",
+    "question": "সুরেশ গাছ থেকে নীচে নামছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "We are flying over the mountains.",
+    "option2": "We are flying up the mountains.",
+    "option3": "We are flying above the mountains.",
+    "option4": "We are flying on the mountains.",
+    "question": "আমরা পাহাড়ের ওপর দিয়ে উড়ছি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Spread the blanket above the bed.",
+    "option2": "Spread the blanket on the bed.",
+    "option3": "Spread the blanket up on the bed.",
+    "option4": "Spread the blanket over the bed.",
+    "question": "কম্বলটা খাটের ওপরে ছড়িয়ে দাও",
+    "correct": 4,
+    "isPicture": false
+    }
+]

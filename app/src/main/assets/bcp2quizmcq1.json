@@ -1,0 +1,227 @@
+[
+    {
+    "option1": "Who is here ?",
+    "option2": "Who is there ?",
+    "option3": "Who is their ?",
+    "option4": "Here is who ?",
+    "question": "কে ওখানে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "That Sumita.",
+    "option2": "He is Sumita.",
+    "option3": "Sumita her name.",
+    "option4": "That is Sumita.",
+    "question": "ওটি সুমিতা",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Sumita is in his room.",
+    "option2": "Sumita is in her room.",
+    "option3": "Sumita has in her room.",
+    "option4": "Sumita has in the room.",
+    "question": "সুমিতা তার ঘরে আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I for Sumita am very happy.",
+    "option2": "I am very happy for the Sumita.",
+    "option3": "I am very happy for Sumita.",
+    "option4": "I is very happy for Sumita.",
+    "question": "আমি সুমিতার জন্য খুব খুশি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Here is a gift for Sumita.",
+    "option2": "Here a gift is for Sumita.",
+    "option3": "Here for Sumita is a gift.",
+    "option4": "Here a gift for Sumita.",
+    "question": "এই যে সুমিতার জন্য একটা উপহার",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "What there ?",
+    "option2": "There what ?",
+    "option3": "What is there ?",
+    "option4": "What is their ?",
+    "question": "কি ওখানে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "That a red pen.",
+    "option2": "There a red pen is.",
+    "option3": "That is a red pen.",
+    "option4": "That is a pen red.",
+    "question": "ওটা একটি লাল পেন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Its Sumita's pen.",
+    "option2": "That is Sumita's pen.",
+    "option3": "That Sumita's pen.",
+    "option4": "This is Sumita's pen.",
+    "question": "ওটা সুমিতার পেন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The red pen has above the table.",
+    "option2": "The red pen is above the table.",
+    "option3": "This is the red pen on the table.",
+    "option4": "The red pen is on the table.",
+    "question": "লাল পেনটি টেবিলের উপরে আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The table is on the floor.",
+    "option2": "The table is above the floor.",
+    "option3": "The table has on the floor.",
+    "option4": "The table is in the floor.",
+    "question": "টেবিলটি মেঝের উপর আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "How am I ?",
+    "option2": "I am how ?",
+    "option3": "How I am ?",
+    "option4": "How I have ?",
+    "question": "আমি কেমন আছি ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I well.",
+    "option2": "Fine am I.",
+    "option3": "I fine am.",
+    "option4": "I am well.",
+    "question": "আমি ভালো আছি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I with you.",
+    "option2": "I with you are.",
+    "option3": "I am with you.",
+    "option4": "I with you am.",
+    "question": "আমি তোমার সঙ্গে আছি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You are with my.",
+    "option2": "You are with me.",
+    "option3": "You with me are.",
+    "option4": "You are with I.",
+    "question": "তুমি আমার সঙ্গে আছ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "This flower is for you with love.",
+    "option2": "With love this flower for you.",
+    "option3": "For you is this flower with love.",
+    "option4": "This flower is for your with love.",
+    "question": "ভালবাসা সহ এই ফুলটা তোমার জন্য",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "How You ?",
+    "option2": "How are you ?",
+    "option3": "How is you ?",
+    "option4": "You are how ?",
+    "question": "তুমি কেমন আছ ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You are the well.",
+    "option2": "You have well.",
+    "option3": "You fine are.",
+    "option4": "You are well.",
+    "question": "তুমি ভালো আছ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You have in front of a school.",
+    "option2": "You are in a school's front.",
+    "option3": "You are in front of a school.",
+    "option4": "You are a school in front.",
+    "question": "তুমি একটি বিদ্যালয়ের সামনে আছ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You are a teacher of the school.",
+    "option2": "You are a school teacher.",
+    "option3": "You are a school's teacher.",
+    "option4": "You are one school teacher.",
+    "question": "তুমি বিদ্যালয়টির একজন শিক্ষক",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The school is 10 PM to 3 AM.",
+    "option2": "The school is 10 AM to 3 PM.",
+    "option3": "The school is from 10 PM to 3 AM.",
+    "option4": "The school is from 10 AM to 3 PM.",
+    "question": "বিদ্যালয়টি সকাল ১০ টা থেকে বিকেল ৩ টা পর্যন্ত",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We are how ?",
+    "option2": "How are we ?",
+    "option3": "How we have ?",
+    "option4": "We have how ?",
+    "question": "আমরা কেমন আছি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "How is he/ she ?",
+    "option2": "He/ She is how ?",
+    "option3": "How he/ she ?",
+    "option4": "How is him/ her ?",
+    "question": "সে কেমন আছে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "It is how ?",
+    "option2": "Its how ?",
+    "option3": "How it is ?",
+    "option4": "How is it ?",
+    "question": "এটা কেমন ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "How have they ?",
+    "option2": "How are them ?",
+    "option3": "How are they ?",
+    "option4": "They are how ?",
+    "question": "তারা কেমন আছে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Who is I ?",
+    "option2": "Who am I ?",
+    "option3": "I am who ?",
+    "option4": "Who I am ?",
+    "question": "আমি কে ?",
+    "correct": 2,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "Standing to the mirror helps me sometimes.",
+    "option2": "Standing after the mirror helps me sometimes.",
+    "option3": "Standing before the mirror helps me sometimes.",
+    "option4": "Standing by the mirror helps me sometimes.",
+    "question": "আয়নার সামনে দাঁড়ানো আমায় মাঝেমাঝে সাহায্য করে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "\"Back of you\", Smiled Maharaja.",
+    "option2": "\"Behind you\", Smiled Maharaja.",
+    "option3": "\"Behind to you\", Smiled Maharaja.",
+    "option4": "\"After you\", Smiled Maharaja.",
+    "question": "মহারাজ হাসলেন, \"আমি আপনার পরে\"",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Many children die of malnutrition every year.",
+    "option2": "Many children die in malnutrition every year.",
+    "option3": "Many children die with malnutrition every year.",
+    "option4": "Many children die from malnutrition every year.",
+    "question": "অপুষ্টিজনিত কারণে প্রতি বছর বহু শিশু মারা যায়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Pollution is a challenge for mankind.",
+    "option2": "Pollution is a challenge before mankind.",
+    "option3": "Pollution is a challenge of mankind.",
+    "option4": "Pollution is a challenge to mankind.",
+    "question": "দূষণ মানবজাতির সামনে এক চ্যালেঞ্জ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Five comes after six.",
+    "option2": "Six comes after five.",
+    "option3": "Six comes after of five.",
+    "option4": "Five comes next to six.",
+    "question": "ছয় পাঁচের পরে আসে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Paper is made of wood.",
+    "option2": "Paper is made with wood.",
+    "option3": "Paper is made by wood.",
+    "option4": "Paper is made from wood.",
+    "question": "কাগজ তৈরি হয় কাঠ থেকে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Four comes before five.",
+    "option2": "Four comes in front of five.",
+    "option3": "Five comes after four.",
+    "option4": "Five comes in front of four.",
+    "question": "চার পাঁচের আগে আসে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Why are you next to me always ?",
+    "option2": "Why are you behind me always ?",
+    "option3": "Why are you with me always ?",
+    "option4": "Why are you after me always ?",
+    "question": "সবসময় আমার পেছনে পড়ে আছ কেন ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Mr. Smith died at old age.",
+    "option2": "Mr. Smith died in old age.",
+    "option3": "Mr. Smith died of old age.",
+    "option4": "Mr. Smith died from old age.",
+    "question": "মি. স্মিথ বয়সজনিত কারণে মারা যান",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He has been suffering in fever.",
+    "option2": "He has been suffering with fever.",
+    "option3": "He has been suffering from fever.",
+    "option4": "He has been suffering by fever.",
+    "question": "সে জ্বরে ভুগে চলেছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Mr. Shehnawaz comes from a noble family.",
+    "option2": "Mr. Shehnawaz comes of a noble family.",
+    "option3": "Mr. Shehnawaz comes to a noble family.",
+    "option4": "Mr. Shehnawaz comes by a noble family.",
+    "question": "মি. শাহ্নওয়াজ এক অভিজাত বংশের মানুষ",
+    "correct": 2,
+    "isPicture": false
+    }
+]

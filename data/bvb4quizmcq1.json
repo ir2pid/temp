@@ -1,0 +1,453 @@
+[
+    {
+    "option1": "The teacher gave pass to the student.",
+    "option2": "The teacher has passed the student.",
+    "option3": "The student is passed by the teacher.",
+    "option4": "The teacher passed the student.",
+    "question": "শিক্ষক ছাত্রটিকে পাশ করিয়ে দিলেন",
+    "correct":  4,
+    "isPicture": false
+    },
+    
+    {
+    "option1": "You did not tell me that you had passed.",
+    "option2": "You have not told me that you had passed.",
+    "option3": "You did not tell me that you have passed.",
+    "option4": "You have not told me that you have passed.",
+    "question": "তুমি আমাকে জানাওনি যে তুমি পাশ করে গেছো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "It is easy to pass this examination.",
+    "option2": "Easy to pass this examination.",
+    "option3": "This is an easy examination to pass.",
+    "option4": "You can pass this examination easily.",
+    "question": "এ পরীক্ষায় পাশ করা সহজ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The king's sentry told, 'OK, pass'.",
+    "option2": "The king's sentry says, 'OK, pass'.",
+    "option3": "The king's sentry said, 'OK, passed'.",
+    "option4": "The king's sentry said, 'OK, pass'.",
+    "question": "রাজার দ্বারী বলল, 'আচ্ছা, যাও'",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Sujit has done pass in examination.",
+    "option2": "Sujit has passed in examination.",
+    "option3": "Sujit passed in examination.",
+    "option4": "Sujit had passed in examination.",
+    "question": "সুজিত পরীক্ষায় পাশ করেছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The car did not start.",
+    "option2": "The car failed to start.",
+    "option3": "The car has failed to start.",
+    "option4": "The car can not start.",
+    "question": "গাড়িটা চলতে ব্যর্থ হলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I try, but failed.",
+    "option2": "I tried, but fail.",
+    "option3": "I failed, but tried.",
+    "option4": "I tried, but failed.",
+    "question": "আমি চেষ্টা করেছিলাম, কিন্তু পারিনি?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "How many times will you fail ?",
+    "option2": "How many more times you fail ?",
+    "option3": "How many more times will you fail ?",
+    "option4": "How much more times will you fail ?",
+    "question": "তুমি আর কতবার ফেল করবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He did not walk before, now can swim.",
+    "option2": "He failed to walk before, now can swim.",
+    "option3": "He failed to move before, now can swim.",
+    "option4": "He failed to walk before, now he swims.",
+    "question": "আগে সে হাঁটতে ব্যর্থ হত, এখন সাঁতার কাটতে পারে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The candidate has failed to pass the test.",
+    "option2": "The candidate failed for passing the test.",
+    "option3": "The candidate was failing for pass the test.",
+    "option4": "The candidate had failed to pass the test.",
+    "question": "প্রার্থীটি পরীক্ষায় পাশ করতে ব্যর্থ হয়েছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Amit had won a lottery.",
+    "option2": "Amit won a lottery.",
+    "option3": "Amit has won a lottery.",
+    "option4": "Amit wins a lottery.",
+    "question": "অমিত একটা লটারী জিতেছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Sima wins her friends to her side.",
+    "option2": "Sima has won friends to her side.",
+    "option3": "Sima had won her friends to her side.",
+    "option4": "Sima had won her friends on her side.",
+    "question": "সীমা তার বন্ধুদের নিজের দিকে জিতে নিলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Who wins world cup this time ?",
+    "option2": "Who will win world cup this time ?",
+    "option3": "Who can win world cup this time ?",
+    "option4": "Who is winning world cup this time ?",
+    "question": "এবারে বিশ্বকাপ কে জিতবে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Try to know why you did not win.",
+    "option2": "Try to understand why you do not win.",
+    "option3": "Try to know why you could not win.",
+    "option4": "Try to understand why you did not win.",
+    "question": "বোঝবার চেষ্টা কর, কেন তুমি জিতলে না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You must go and win the game.",
+    "option2": "Please go to win the game.",
+    "option3": "Go and win the game.",
+    "option4": "You have to go to winning the game.",
+    "question": "যাও আর খেলাটা জিতে এসো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The child lost, but found by police.",
+    "option2": "The child lost, but police found it.",
+    "option3": "The child was lost, but found by police.",
+    "option4": "The child is lost, but found by police.",
+    "question": "বাচ্চাটি হারিয়ে গিয়েছিলো, কিন্তু পুলিশ খুঁজে পেলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The speaker lost temper.",
+    "option2": "The speaker loses temper.",
+    "option3": "The speaker was lost temper.",
+    "option4": "The speaker has lost temper.",
+    "question": "বক্তা মেজাজ হারালেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "What have you lost ?",
+    "option2": "What did you lost ?",
+    "option3": "What you lost ?",
+    "option4": "What is lost by you ?",
+    "question": "তুমি কী হারিয়েছো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You can not find a lost thing.",
+    "option2": "You will not find a lost thing.",
+    "option3": "You may not find a lost thing.",
+    "option4": "You may not search a lost thing.",
+    "question": "হারানো জিনিস না-ও খুঁজে পেতে পারো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Loose weight, danger ahead.",
+    "option2": "Lose weight, danger infront.",
+    "option3": "Loose weight, danger infront.",
+    "option4": "Lose weight, danger ahead.",
+    "question": "ওজন কমাও, সামনে বিপদ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He wanted to sell love with gift.",
+    "option2": "He wants to buy love with gift.",
+    "option3": "He wanted to buy love with gift.",
+    "option4": "He has wanted to buy love with gift.",
+    "question": "সে উপহার দিয়ে ভালোবাসা কিনতে চেয়েছিলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You can not buy this judge.",
+    "option2": "You can not sell this judge.",
+    "option3": "This judge cannot be bought.",
+    "option4": "This judge cannot be sold.",
+    "question": "এই বিচারপতিকে কেনা যায় না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Bought tea for me.",
+    "option2": "Can you buy tea for me ?",
+    "option3": "You buy tea for me.",
+    "option4": "Buy tea for me.",
+    "question": "আমার জন্যে চা কিনে আনো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I heard that he has bought a ticket for the cinema.",
+    "option2": "I have heard that he has bought a ticket for the cinema.",
+    "option3": "I have heard that he bought a ticket for the cinema.",
+    "option4": "I have heard that he has cut a ticket for the cinema.",
+    "question": "আমি শুনেছি, সে সিনেমার একটা টিকিট কেটেছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I can not buy this piano.",
+    "option2": "I could not buy this piano.",
+    "option3": "I can not bought this piano.",
+    "option4": "I could not bought this piano.",
+    "question": "আমি এই পিয়ানোটা কিনতে পারিনি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Those books sell well in bookfair.",
+    "option2": "These books sell well in bookfair.",
+    "option3": "These books sell good in bookfair.",
+    "option4": "These books sell well on bookfair.",
+    "question": "বইমেলায় এই বইগুলোর ভালো বিক্রী",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Grapes sold high in this season.",
+    "option2": "The grapes are sold many in this season.",
+    "option3": "Grapes have sold high in this season.",
+    "option4": "Grapes are sold high in this season.",
+    "question": "এইসময় আঙ্গুর খুব বিক্রী হয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Sell what you not need.",
+    "option2": "Sell what you do not need.",
+    "option3": "Sell if you do not need.",
+    "option4": "You can sell what you do not need.",
+    "question": "যা লাগবে না তা বেচে দাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I shall buy your lamp.",
+    "option2": "If you will sell the lamp, I shall buy it.",
+    "option3": "If you sell the lamp, I will buy it.",
+    "option4": "If you sell the lamp, I shall buy it.",
+    "question": "যদি প্রদীপটা বেচো, আমি কিনে নেব",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You have sold all your ornaments ?",
+    "option2": "You had sold all your ornaments ?",
+    "option3": "Have you sold all your ornaments ?",
+    "option4": "Did you sell all your ornaments ?",
+    "question": "তুমি কি তোমার সব গয়না বেচে দিয়েছো ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You can add some extra plates to the table.",
+    "option2": "You may add some extra plates to the table.",
+    "option3": "Add some extra plates to the table.",
+    "option4": "Add some extra plates in the table.",
+    "question": "টেবিলে আরো কয়েকটা প্লেট দাও",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Some flowers can be added here.",
+    "option2": "Some flowers should be added here.",
+    "option3": "Some flowers can add here.",
+    "option4": "Some flowers need to be added here.",
+    "question": "এখানে আরো কিছু ফুল দেওয়া যাবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Salt and oil can be added ?",
+    "option2": "Should you add salt and oil ?",
+    "option3": "Can salt and oil be added ?",
+    "option4": "Can salt and oil add ?",
+    "question": "নুন আর তেল কি যোগ করা যায় ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Reading, writing, thinking, adding - one has to learn all.",
+    "option2": "Read, write, think, add - one has to learn all.",
+    "option3": "Reading, writing, thinking, adding - one must learn all.",
+    "option4": "Read, write, think, add - one must learn all.",
+    "question": "পড়া, লেখা, ভাবা, যোগ করা - সবই শিখতে হয়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Let me see, add 27 and 49 !",
+    "option2": "Show how to add 27 and 49.",
+    "option3": "Let me see how you add 27 and 49.",
+    "option4": "See how you add 27 and 49.",
+    "question": "২৭ আর ৪৯ যোগ করো দেখি !",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "How can you divide 49 by 7 ?",
+    "option2": "Can 49 be divided by 7 ?",
+    "option3": "Can you divide 49 by 7 ?",
+    "option4": "Can you divide 7 by 49 ?",
+    "question": "তুমি কি ৪৯কে ৭ দিয়ে ভাগ করতে পারবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The party divided in the issue.",
+    "option2": "The party divides on the issue.",
+    "option3": "The party divided on the issue.",
+    "option4": "The party has divided on the issue.",
+    "question": "দল এই বিষয়টা নিয়ে ভাগ হয়ে গেলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Will you divide your cake ?",
+    "option2": "Your cake you will divide ?",
+    "option3": "Your cake will you divide ?",
+    "option4": "Shall you divide your cake ?",
+    "question": "তোমার কেক কি তুমি ভাগ করবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Eat the chocolate divide it.",
+    "option2": "Divide, eat the chocolate.",
+    "option3": "Eat the chocolate by dividing.",
+    "option4": "Divide and eat the chocolate.",
+    "question": "ভাগ করে চকোলেটটা খাও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Divide the fruits between your friends.",
+    "option2": "Fruits are to be divided between your friends.",
+    "option3": "Divide the fruits among your friends.",
+    "option4": "Please divide the fruits among your friends.",
+    "question": "ফলগুলো বন্ধুদের মধ্যে ভাগ করে দাও",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Ratan was selecting the captain of the team.",
+    "option2": "Ratan selected the captain of the team.",
+    "option3": "Ratan was selected the captain of the team.",
+    "option4": "Ratan had selected the captain of the team.",
+    "question": "রতন দলের অধিনায়ক নির্বাচিত হলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The leader said,\"Will select me\" ?",
+    "option2": "The leader said, \"Selecting me\".",
+    "option3": "The leader said, \"Selected me\".",
+    "option4": "The leader said, \"Select me\". ",
+    "question": "নেতাটি বললেন,\"আমায় নির্বাচিত করুন\"",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Whom has you selected ?",
+    "option2": "Whom have you selected ?",
+    "option3": "Whom have you select ?",
+    "option4": "Whom was you selected ?",
+    "question": "তোমরা কাকে নির্বাচন করেছো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Selecting the poems.",
+    "option2": "Selection  the poems.",
+    "option3": "Select the poems.",
+    "option4": "Selected  the poems.",
+    "question": "কবিতাগুলো বেছে নাও ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Selection your aim in life.",
+    "option2": "Select your aim in life.",
+    "option3": "Select to your aim in life.",
+    "option4": "Selection to your aim in life.",
+    "question": "তোমার জীবনের উদ্দেশ্য ঠিক করো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Don't missing the programme.",
+    "option2": "Isn't miss the programme.",
+    "option3": "Can't miss the programme.",
+    "option4": "Don't miss the programme.",
+    "question": "অনুষ্ঠানটা দেখতে ভুলো না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The player was missed the catch.",
+    "option2": "The player can miss the catch.",
+    "option3": "The player missing the catch.",
+    "option4": "The player missed the catch.",
+    "question": "খেলোয়াড়টি ক্যাচটা ধরতে পারলো না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "How can you miss this ?",
+    "option2": "How could you miss this ?",
+    "option3": "How could you missed this ?",
+    "option4": "How could you missing this ?",
+    "question": "কীভাবে এটা তুমি মিস করলে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Antara missed the train.",
+    "option2": "Antara miss the train.",
+    "option3": "Antara missing the train.",
+    "option4": "Antara is  miss the train.",
+    "question": "অন্তরা ট্রেনটা পেলো না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "She has missed her mother a lot.",
+    "option2": "She missed for her mother a lot.",
+    "option3": "She was missing for her mother a lot.",
+    "option4": "She missed her mother a lot.",
+    "question": "সে তার মায়ের অভাব বোধ করতো খুব",
+    "correct": 4,
+    "isPicture": false
+    }
+]

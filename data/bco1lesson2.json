@@ -1,0 +1,86 @@
+[
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (1)",
+                        "text1": "যদি a+b = 4 হয়, তবে x+y = 3",
+                        "text2": "If a+b = 4, then x+y = 3. <br> <br>এইরকম সামান্য কয়েকটি ক্ষেত্রেই, যেমন অঙ্ক বা অকাট্য যুক্তি (এটা হলে ওটা হবেই) থাকলে then ব্যবহার হয় ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (2)",
+                        "text1": "যদি a+b = 4 হয়, তবে x+y = 8 নাহলে x+y = 9",
+                        "text2": "If a+b = 4, then x+y = 8 else x+y = 9. <br> <br>আগের মতই । এখানে \"যদি-তবে-নাহলে\" আছে, তাই if, then আর else তিনটেই লিখতে হবে । এটাও অকাট্য যুক্তির মত । নাহলে - else (বা otherwise) ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (3)",
+                        "text1": "তাড়াতাড়ি হাঁটো, না হলে তুমি ওকে অতিক্রম করতে পারবে না",
+                        "text2": "Walk quickly else you can not overtake him. <br> <br>\"নাহলে\" আছে বলে else হল । otherwise-ও হতে পারে । অতিক্রম করা - overtake । এটাও হতে পারত - you will not be able to overtake him ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (4)",
+                        "text1": "একমাত্র আমি গেলেই কি তুমি যাবে ?",
+                        "text2": "Will you go only if I go ? <br> <br>উত্তর - যদি একমাত্র আমি যাই, তবে তুমি যাবে । প্রশ্ন - তুমি কি যাবে, যদি একমাত্র আমি যাই ? তাই, Will you go only if I go ? লক্ষ্য কর - only if-এর ব্যবহার, 'একমাত্র যদি' বোঝাতে । if only I go লিখলেও ঠিক হত ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (5)",
+                        "text1": "না, তুমি গেলেও আমি যাব না",
+                        "text2": "No, even if you go, I shall not. <br> <br>এভাবে সাজাও - যদি তুমি যাও-ও, আমি যাব না । তাই হল, even if you go, I shall not । \"যাও-ও\"র ভাবটা even if নিয়ে এল । লক্ষ্য কর, শেষে go আর লেখা হল না (I shall not go), কারণ যেহেতু দুটি বাক্যেই verb হল go, শেষের বাক্যে সেটা উহ্য রাখা  যায় ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (6)",
+                        "text1": "কেবল মাত্র মেঘ হলেই বৃষ্টি পড়ে",
+                        "text2": "It rains only if it is cloudy. <br> <br>এখানে চালক বাক্য বৃষ্টি পড়ে, তাই এটা আগে হবে । only if - কেবল মাত্র । বৃষ্টি পড়ে - it rains । rain falls না লিখে it rains লিখবে । তেমনি it is cloudy ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (7)",
+                        "text1": "মেসি খেলা সত্ত্বেও আর্জেন্টিনা হারল",
+                        "text2": "Even if Messi played, Argentina lost. <br> <br>এখানে চালক বাক্য মেসি খেলেছিল । সাজিয়ে নাও - যদিও মেসি খেলেছিল আর্জেন্টিনা হারল । যদিও - even if । এখানে even if -এর জায়গায় though ব্যবহার করা যায় ।  played হল, কারণ পুরো ঘটনা্টা অতীতকালের । lose - lost - lost ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (8)",
+                        "text1": "রাত্রি শেষ হলে দিন শুরু হয়",
+                        "text2": "When night ends, day breaks. <br> <br>রাত্রির শেষে দিন হয় - এটা সব সময়েই সত্য, তাই এখানে যদি-র (if) ব্যবহার হল না, যখন-এর (when) ব্যবহার হল, যদিও \"যখন\" উহ্য আছে । দিন শুরু - day breaks । Then এখানেও দিতে হয় না ।"
+                      }, 
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (9)",
+                        "text1": "তাকে দেখায় যেন সে রাগী",
+                        "text2": "He looks as if he is angry. <br> <br>তাকে দেখায় - He looks বা He shows । এখানে He sees বা One sees him হবে না । যেন - as if । এখানে as if (যেন) দিয়ে দুটি বাক্যকে জোড়া হল । দেখে আর দেখায়, দুটোই look দিয়ে বোঝানো হয় । only if - একমাত্র যদি, even if - সত্ত্বেও, as if - যেন ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (10)",
+                        "text1": "সে এমনভাবে কথা বলে যেন সে প্রধানমন্ত্রী",
+                        "text2": "He talks as if he is the Prime Minister. <br> <br>সে কথা বলে - He talks, He speaks-ও হতে পারত । আগের মতই এখানেও \"যেন\" (as if) দিয়ে দুটি বাক্যকে জোড়া হল । যেহেতু \"Prime Minister\" একজনই হয় তাই তার আগে সবসময়ই the বসবে ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (11)",
+                        "text1": "যখন সূর্য ওঠে তখন কি চাঁদ দেখতে পাও ?",
+                        "text2": "Can you see the moon when the sun rises ? <br> <br>দ্বিতীয় বাক্যটি প্রথমে এল, কারণ প্রশ্ন আছে । then এখানেও দিতে হল না । sun আর moon-এর আগে the বসেছে, লক্ষ্য কর । \"দেখতে পাওয়া\" মানে \"দেখতে পারা\" (can see) ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "",
+                        "name": "Bco1-Lesson2 (12)",
+                        "text1": "বেড়ালটা দুধ খেতেই নাফিসা ওটাকে মেরেছে",
+                        "text2": "Whenever the cat has drunk milk, Nafisa has beaten it. <br> <br>Whenever - যেই (বা যখনই) ।  Whenever আর as soon as-এর ব্যবহারে কিন্তু তফাৎ আছে । সামান্য কিছু পরে হলে whenever, আর একসঙ্গে ঘটলে as soon as ব্যবহার করবে । কারোকে মারা কিন্তু hit নয়, beat । বল মারা হলে hit বা kick হয় ।"
+                      }
+]

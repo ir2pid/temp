@@ -1,0 +1,227 @@
+[
+    {
+    "option1": "It is 6 PM.",
+    "option2": "Its 6 PM.",
+    "option3": "It is at 6 PM in the evening.",
+    "option4": "It is at 6 PM.",
+    "question": "এটা সন্ধ্যা ৬ টায়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "It is on 6 in the evening at Monday.",
+    "option2": "It is in 6 at the evening on Monday.",
+    "option3": "It is at 6 in the evening on Monday.",
+    "option4": "It is at 6 on the evening in Monday.",
+    "question": "এটা সোমবার সন্ধ্যা ৬ টায়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Why it ?",
+    "option2": "Why is it ?",
+    "option3": "It is why ?",
+    "option4": "Its why ?",
+    "question": "এটা কেন ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "It is because of rain.",
+    "option2": "It is because rain.",
+    "option3": "Its because of rain.",
+    "option4": "It is rain because.",
+    "question": "এটা বৃষ্টির কারণে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Clouds are in the sky.",
+    "option2": "There are clouds on the sky.",
+    "option3": "Sky has clouds.",
+    "option4": "Clouds have in sky.",
+    "question": "আকাশে মেঘ আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Some clouds above mountains.",
+    "option2": "Some the clouds are on mountains.",
+    "option3": "Some clouds are on the mountains.",
+    "option4": "Some clouds are above the mountains.",
+    "question": "কিছু মেঘ পাহাড়গুলোর উর্দ্ধে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Those mountains are the cloud's under.",
+    "option2": "Those mountains are below clouds.",
+    "option3": "Those mountains are under the clouds.",
+    "option4": "Those the mountains are below the clouds.",
+    "question": "সেই পাহাড়গুলো মেঘগুলোর নীচে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I am at home.",
+    "option2": "I at home.",
+    "option3": "I am in home.",
+    "option4": "I am home.",
+    "question": "আমি বাড়িতে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I am down the roof.",
+    "option2": "I am under roof.",
+    "option3": "I down the roof.",
+    "option4": "Under roof I am.",
+    "question": "আমি ছাদের নীচে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The roof is above me.",
+    "option2": "The roof is above I.",
+    "option3": "The roof is my above.",
+    "option4": "The roof is on me.",
+    "question": "ছাদটি আমার উপরে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Where am I ?",
+    "option2": "Where I ?",
+    "option3": "I Where ?",
+    "option4": "I am where ?",
+    "question": "আমি কোথায় ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You where ?",
+    "option2": "Where is you ?",
+    "option3": "Where are you ?",
+    "option4": "You are where ?",
+    "question": "তুমি কোথায় ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He/She is where ?",
+    "option2": "Where is he/she ?",
+    "option3": "Where are he/she ?",
+    "option4": "Where he/she ?",
+    "question": "সে কোথায় ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He/ She in train.",
+    "option2": "He/ She in one train.",
+    "option3": "He/ She is in a train.",
+    "option4": "In train he/ she is.",
+    "question": "সে একটি ট্রেনে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "We five also in train.",
+    "option2": "Five of we are also in the train.",
+    "option3": "Five of us are also on the train.",
+    "option4": "Five of us are also in the train.",
+    "question": "আমরা পাঁচ জনও ট্রেনে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We on our seats.",
+    "option2": "We are at our seats.",
+    "option3": "We are on our seats.",
+    "option4": "We are in our seats.",
+    "question": "আমরা আমাদের আসনে আছি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The train in the night.",
+    "option2": "Train is at night.",
+    "option3": "The train is on night.",
+    "option4": "The train is at night.",
+    "question": "ট্রেনটি রাত্রে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "It is ten half now.",
+    "option2": "It is half past ten now.",
+    "option3": "Now is half past ten.",
+    "option4": "Its half past ten now.",
+    "question": "এখন সাড়ে দশটা",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "There are three trains before 2 PM.",
+    "option2": "There are three trains before 2 PM in the noon.",
+    "option3": "Three trains are before 2 PM in the noon.",
+    "option4": "Three trains are before noon the 2 PM.",
+    "question": "দুপুর ২ টার আগে তিনটি ট্রেন আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "No train is there after 11 PM.",
+    "option2": "Not any train is after 11 PM.",
+    "option3": "No train is there not after 11 PM.",
+    "option4": "There is no train after 11 PM in the night.",
+    "question": "রাত্রি ১১ টার পরে কোনো ট্রেন নেই",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Where we ?",
+    "option2": "Where are we ?",
+    "option3": "We are where ?",
+    "option4": "Where we am ?",
+    "question": "আমরা কোথায় ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Where are them ?",
+    "option2": "They are where  ?",
+    "option3": "Where are they ?",
+    "option4": "Where are those ?",
+    "question": "তারা কোথায় ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They at Barrackpore.",
+    "option2": "They are in the Barrackpore.",
+    "option3": "In the Barrackpore they are.",
+    "option4": "They are at Barrackpore.",
+    "question": " তারা ব্যারাকপুরে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Barrackpore is West Bengal's old city.",
+    "option2": "Barrackpore is a old city of West Bengal.",
+    "option3": "Barrackpore is an old city of West Bengal.",
+    "option4": "The Barrackpore is the old city of  the West Bengal.",
+    "question": "ব্যারাকপুর পশ্চিমবঙ্গের একটি পুরানো শহর",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "B. T. Road is from Kolkata to Barrackpore.",
+    "option2": "B. T. Road is from the Kolkata to the Barrackpore.",
+    "option3": "B. T. Road is there from Kolkata to Barrackpore.",
+    "option4": "B. T. Road is Kolkata to Barrackpore.",
+    "question": "বি টি রোড কোলকাতা থেকে ব্যারাকপুর পর্যন্ত",
+    "correct": 1,
+    "isPicture": false
+    }
+]

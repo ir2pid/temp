@@ -1,0 +1,272 @@
+[
+    {
+    "option1": "I is.",
+    "option2": "I am.",
+    "option3": "I was.",
+    "option4": "I are.",
+    "question": "আমি হই",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You is.",
+    "option2": "You were.",
+    "option3": "You are.",
+    "option4": "You am.",
+    "question": "তুমি হও",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "We is.",
+    "option2": "We were.",
+    "option3": "We has.",
+    "option4": "We are.",
+    "question": "আমরা হই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You are.",
+    "option2": "You is.",
+    "option3": "You were.",
+    "option4": "You was.",
+    "question": "তোমরা হও",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He are.",
+    "option2": "She are.",
+    "option3": "He is.",
+    "option4": "She is.",
+    "question": "সে (ছেলে) হয়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He are.",
+    "option2": "She are.",
+    "option3": "He is.",
+    "option4": "She is.",
+    "question": "সে (মেয়ে) হয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You are.",
+    "option2": "They are.",
+    "option3": "They were.",
+    "option4": "These are.",
+    "question": "তারা হয়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "It has.",
+    "option2": "This are.",
+    "option3": "It is.",
+    "option4": "It are.",
+    "question": "এটি হয়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "These are.",
+    "option2": "This are.",
+    "option3": "These is.",
+    "option4": "This is.",
+    "question": "এগুলি হয়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I am.",
+    "option2": "I has.",
+    "option3": "I was.",
+    "option4": "I were.",
+    "question": "আমি ছিলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You was.",
+    "option2": "You were.",
+    "option3": "You is.",
+    "option4": "You are.",
+    "question": "তুমি ছিলে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We were.",
+    "option2": "We was.",
+    "option3": "We are.",
+    "option4": "You were.",
+    "question": "আমরা ছিলাম",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You are.",
+    "option2": "You were.",
+    "option3": "Your were.",
+    "option4": "Your are.",
+    "question": "তোমরা ছিলে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He had.",
+    "option2": "He has.",
+    "option3": "She was.",
+    "option4": "He was.",
+    "question": "সে (ছেলে) ছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Her was.",
+    "option2": "His was.",
+    "option3": "He was.",
+    "option4": "She was.",
+    "question": "সে (মেয়ে) ছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "They are.",
+    "option2": "They was.",
+    "option3": "They were.",
+    "option4": "You were.",
+    "question": "তারা ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It was.",
+    "option2": "It had.",
+    "option3": "This were.",
+    "option4": "Its was.",
+    "question": "এটি ছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "These were.",
+    "option2": "This was.",
+    "option3": "Those were.",
+    "option4": "These are.",
+    "question": "এগুলি ছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I am.",
+    "option2": "I shall.",
+    "option3": "I is.",
+    "option4": "I will.",
+    "question": "আমি হব",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You shall.",
+    "option2": "You will.",
+    "option3": "Your will.",
+    "option4": "Your shall.",
+    "question": "তুমি হবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Our will.",
+    "option2": "You will.",
+    "option3": "Our shall.",
+    "option4": "We shall.",
+    "question": "আমরা হব",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Your will.",
+    "option2": "Your shall.",
+    "option3": "You will.",
+    "option4": "They will.",
+    "question": "তোমরা হবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He will.",
+    "option2": "She will.",
+    "option3": "His will.",
+    "option4": "He shall.",
+    "question": "সে (ছেলে) হবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Her will.",
+    "option2": "He will.",
+    "option3": "She shall.",
+    "option4": "She will.",
+    "question": "সে (মেয়ে) হবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "They shall.",
+    "option2": "You will.",
+    "option3": "They will.",
+    "option4": "Them will.",
+    "question": "তারা হবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It Shall.",
+    "option2": "It will.",
+    "option3": "This shall.",
+    "option4": "These shall.",
+    "question": "এটি হবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "These will.",
+    "option2": "This will.",
+    "option3": "This shall.",
+    "option4": "Its will.",
+    "question": "এগুলি হবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "My have.",
+    "option2": "My has.",
+    "option3": "I have.",
+    "option4": "I has.",
+    "question": "আমার আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Your have.",
+    "option2": "Your has.",
+    "option3": "You have.",
+    "option4": "You has.",
+    "question": "তোমার আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Our has.",
+    "option2": "Our have.",
+    "option3": "We have.",
+    "option4": "We has.",
+    "question": "আমাদের আছে",
+    "correct": 3,
+    "isPicture": false
+    }
+]

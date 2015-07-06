@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "Many people gather at the Taj Mahal.",
+    "option2": "Many people gather to the Taj Mahal.",
+    "option3": "Many people gather in the Taj Mahal.",
+    "option4": "Many people gather by the Taj Mahal.",
+    "question": "তাজমহলে অনেক লোকের সমাগম হয়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I saw a tiger in the Alipur Zoo.",
+    "option2": "I saw a tiger from the Alipur Zoo.",
+    "option3": "I saw a tiger of the Alipur Zoo.",
+    "option4": "I saw a tiger at the Alipur Zoo.",
+    "question": "আমি আলিপুর চিড়িয়াখানায় একটি বাঘ দেখেছিলাম",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "They are in Esplanade locality.",
+    "option2": "They are to Esplanade locality.",
+    "option3": "They are at Esplanade locality.",
+    "option4": "They are next to Esplanade locality.",
+    "question": "তারা এসপ্ল্যানেড পাড়ায় আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He is at the Himalayas, looking on the Himalayas, thinking of going to the Himalayas only.",
+    "option2": "He is on the Himalayas, looking at the Himalayas, thinking of going to the Himalayas only.",
+    "option3": "He is on the Himalayas, looking to the Himalayas, thinking of going at the Himalayas only.",
+    "option4": "He is at the Himalayas, looking to the Himalayas, thinking of going on the Himalayas only.",
+    "question": "সে হিমালয়ের ওপর, হিমালয়ের দিকে তাকিয়ে আবার হিমালয়ে যাবার কথাই ভাবছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "She is waiting on the bus stop.",
+    "option2": "She is waiting by the bus stop.",
+    "option3": "She is waiting in the bus stop.",
+    "option4": "She is waiting at the bus stop.",
+    "question": "সে বাস স্টপেজে অপেক্ষা করছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Oh, how nice is this scenery in our village !",
+    "option2": "Oh, how nice is this scenery for our village !",
+    "option3": "Oh, how nice is this scenery at our village !",
+    "option4": "Oh, how nice is this scenery by our village !",
+    "question": "আহা, আমাদের গ্রামে এই দৃশ্য কি চমৎকার !",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Alas ! The counters at the post office are closed too.",
+    "option2": "Alas ! The counters of the post office are closed too.",
+    "option3": "Alas ! The counters in the post office are closed too.",
+    "option4": "Alas ! The counters for the post office are closed too.",
+    "question": "হায় ! ডাকঘরে কাউন্টারগুলিও তো বন্ধ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The office of Abheda Foundation is on 80A Vivekananda Road.",
+    "option2": "The office of Abheda Foundation is in 80A Vivekananda Road.",
+    "option3": "The office of Abheda Foundation is 80A Vivekananda Road.",
+    "option4": "The office of Abheda Foundation is at 80A Vivekananda Road.",
+    "question": "অভেদ ফাউন্ডেশনের দপ্তর ৮০এ বিবেকানন্দ রোডে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Why is there no police in the police station ?",
+    "option2": "Why is there no police for the police station ?",
+    "option3": "Why is there no police at the police station ?",
+    "option4": "Why is there no police from the police station ?",
+    "question": "থানায় পুলিশ নেই কেন ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The mountaineers are in the Himalayas now.",
+    "option2": "The mountaineers are through the Himalayas now.",
+    "option3": "The mountaineers are to the Himalayas now.",
+    "option4": "The mountaineers are on the Himalayas now.",
+    "question": "পর্বতারোহীরা এখন হিমালয়ে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The students however are quite happy in the school.",
+    "option2": "The students however are quite happy at the school.",
+    "option3": "The students however are quite happy to the school.",
+    "option4": "The students however are quite happy on the school.",
+    "question": "ছাত্রছাত্রীরা অবশ্য বিদ্যালয়ে বেশ খুশীই",
+    "correct": 2,
+    "isPicture": false
+    }
+]

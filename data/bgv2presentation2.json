@@ -1,0 +1,62 @@
+[
+                      { 
+                        "image1": "lookover",             
+                        "name": "Bgv2-Lesson2 (1)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Look over</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;পরীক্ষা করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "I have <font color='#ED7745'>looked over</font> (<i>examined</i>) your paper. <br> <br>আমি তোমার কাগজটি পরীক্ষা করেছি । <br> <br> <br>I suggest, you should have a doctor to <font color='#ED7745'>look</font> you <font color='#ED7745'>over</font> (<i>examine</i>). <br> <br>আমি মনে করি, একজন ডাক্তারের তোমায় পরীক্ষা করা উচিৎ ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "makeout",             
+                        "name": "Bgv2-Lesson2 (2)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Make out</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;বুঝতে পারা, তফাৎ করতে পারা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Can you <font color='#ED7745'>make out</font> (<i>differentiate</i>) which line is bigger ? <br> <br>তুমি কি তফাৎ করতে পারবে কোন লাইনটা বড় ? <br> <br> <br>I finally <font color='#ED7745'>made out</font> (<i>understood</i>) what she tried to say. <br> <br>শেষে বুঝলাম, সে কী বলতে চাইছিল ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "makeup",             
+                        "name": "Bgv2-Lesson2 (3)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Make up (for)</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ক্ষতি) পূরণ করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Waking up the rabbit tried to <font color='#ED7745'>make up</font> for (<i>compensate</i>) the distance. <br> <br>জেগে উঠে খরগোশ দূরত্ব পূরণ করার চেষ্টা করল । <br> <br> <br>Can Brazil ever <font color='#ED7745'>make up</font> (<i>compensate</i>) such a big loss ? <br> <br>ব্রাজিল কি কখনো এত বড় হারের ক্ষতি পূরণ করতে পারবে ?",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "passaway",             
+                        "name": "Bgv2-Lesson2 (4)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Pass away</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;মারা যাওয়া",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "The old man <font color='#ED7745'>passed away</font> (<i>expired</i>) yesterday. <br> <br>গতকাল বৃদ্ধ মানুষটি মারা গেছেন । <br> <br> <br>When I <font color='#ED7745'>pass away</font> (<i>die</i>), will my money go with me ? <br> <br>যখন মারা যাব, আমার টাকা কি আমার সঙ্গে যাবে ?",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "putout",             
+                        "name": "Bgv2-Lesson2 (5)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Put out</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;নেভানো",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "A fireman <font color='#ED7745'>puts out</font> (<i>extinguishes</i>) fire. <br> <br>দমকলকর্মী আগুন নেভায় । <br> <br> <br>Please <font color='#ED7745'>put out</font> (<i>make it off</i>) the light. <br> <br>দয়া করে আলোটি নিভিয়ে দাও ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "putupwith",             
+                        "name": "Bgv2-Lesson2 (6)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Put up with</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;সহ্য করা, মানিয়ে চলা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "How can I <font color='#ED7745'>put up with</font> (<i>tolerate</i>) such an insult ? <br> <br>এরকম একটা অপমান আমি কি করে সহ্য করতে পারি ? <br> <br> <br>It is impossible to <font color='#ED7745'>put up with</font> (<i>get along</i>) Mr. Smellbad. <br> <br>মি. স্মেলব্যাডের সঙ্গে মানিয়ে চলা অসম্ভব ।",
+                        "description": ""
+                      }
+]

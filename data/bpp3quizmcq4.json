@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "The bird could finally get out from the cage.",
+    "option2": "The bird could finally get out of the cage.",
+    "option3": "The bird could finally get outside of the cage.",
+    "option4": "The bird could finally get outside from the cage.",
+    "question": "পাখিটি শেষ পর্যন্ত খাঁচা থেকে বেরোতে পেরেছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We drove within the city.",
+    "option2": "We drove in the city.",
+    "option3": "We drove through the city.",
+    "option4": "We drove inside the city.",
+    "question": "আমরা শহরের মধ্যে দিয়ে গাড়ি চালিয়ে গেলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "There are some houses next to the field.",
+    "option2": "There are some houses across the field.",
+    "option3": "There are some houses opposite the field.",
+    "option4": "There are some houses after the field.",
+    "question": "মাঠের ওপারে কিছু বাড়ি আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The rain stopped and the sun came outside.",
+    "option2": "The rain stopped and the sun came in.",
+    "option3": "The rain stopped and the sun came outwards.",
+    "option4": "The rain stopped and the sun came out.",
+    "question": "বৃষ্টি থেমে যাওয়ার পর রোদ বেরিয়ে এসেছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The children are out at the garden.",
+    "option2": "The children are out in the garden.",
+    "option3": "The children are out on the garden.",
+    "option4": "The children are out to the garden.",
+    "question": "বাচ্চাগুলি বাগানে বেরিয়েছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I can still put thread into a needle.",
+    "option2": "I can still put thread across a needle.",
+    "option3": "I can still put thread through a needle.",
+    "option4": "I can still put thread within a needle.",
+    "question": "আমি এখনো ছুঁচের ভেতর দিয়ে সুতো গলাতে পারি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I'm running out in ideas.",
+    "option2": "I'm running out of ideas.",
+    "option3": "I'm running out by ideas.",
+    "option4": "I am running out ideas.",
+    "question": "আমার মাথায় কিছু আসছে না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The runners are running near the finish line.",
+    "option2": "The runners are running into the finish line.",
+    "option3": "The runners are running towards the finish line.",
+    "option4": "The runners are running down the finish line.",
+    "question": "দৌড়বাজেরা শেষরেখার দিকে ছুটছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The phone call is not going through.",
+    "option2": "The phone call is not going with.",
+    "option3": "The phone call is not going to.",
+    "option4": "The phone call is not going over.",
+    "question": "ফোন কলটি লাগছে না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Death moves forward everybody slowly.",
+    "option2": "Death moves near to everybody slowly.",
+    "option3": "Death moves to everybody slowly.",
+    "option4": "Death moves towards everybody slowly.",
+    "question": "মৃত্যু ধীরে ধীরে সকলের দিকে এগিয়ে আসে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The train was passing across the tunnel.",
+    "option2": "The train was passing through the tunnel.",
+    "option3": "The train was passing within the tunnel.",
+    "option4": "The train was passing among the tunnel.",
+    "question": "ট্রেনটি সুড়ঙ্গের মধ্যে দিয়ে যাচ্ছিল",
+    "correct": 2,
+    "isPicture": false
+    }
+]

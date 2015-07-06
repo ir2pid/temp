@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "On spite of illness, he went to school.",
+    "option2": "In spite of illness, he went to school.",
+    "option3": "On spite on illness, he went to school.",
+    "option4": "In spite on illness, he went to school.",
+    "question": "অসুস্থতা সত্ত্বেও সে বিদ্যালয়ে গিয়েছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We are at want of money.",
+    "option2": "We are at want for money.",
+    "option3": "We are in want of money.",
+    "option4": "We are in want for money.",
+    "question": "আমাদের অর্থের অভাব আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Is he not worthy of our praise ?",
+    "option2": "Is he not worthy for our praise ?",
+    "option3": "Is he not worthy to our praise ?",
+    "option4": "Is he not worthy from our praise ?",
+    "question": "তিনি কি আমাদের প্রশংসার যোগ্য নন ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Akbar became king in place for Humayun.",
+    "option2": "Akbar became king in place of Humayun.",
+    "option3": "Akbar became king at place of Humayun.",
+    "option4": "Akbar became king at place for Humayun.",
+    "question": "হুমায়ুনের স্থানে আকবর রাজা হন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Khudiram sacrificed his life of the sake for his country.",
+    "option2": "Khudiram sacrificed his life for the sake for his country.",
+    "option3": "Khudiram sacrificed his life of the sake of his country.",
+    "option4": "Khudiram sacrificed his life for the sake of his country.",
+    "question": "ক্ষুদিরাম তার দেশের জন্য নিজের প্রাণ বিসর্জন দিয়েছিলেন",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Start a business instead a job.",
+    "option2": "Start a business instead with a job.",
+    "option3": "Start a business instead of a job.",
+    "option4": "Start a business instead for a job.",
+    "question": "চাকরির বদলে ব্যবসা শুরু কর",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The umpire decided on favour of the bowler.",
+    "option2": "The umpire decided in favour for the bowler.",
+    "option3": "The umpire decided on favour for the bowler.",
+    "option4": "The umpire decided in favour of the bowler.",
+    "question": "আম্পায়ার বোলারের অনুকূলে সিদ্ধান্ত নিলেন",
+    "correct": 4,
+    "isPicture": false
+    }
+]

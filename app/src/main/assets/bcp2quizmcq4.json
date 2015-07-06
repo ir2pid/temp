@@ -1,0 +1,227 @@
+[
+    {
+    "option1": "Their parent's are from Kolkata.",
+    "option2": "Their parents are from the Kolkata.",
+    "option3": "Their parents are from Kolkata.",
+    "option4": "There parents are from Kolkata.",
+    "question": "তাদের বাবা মা কোলকাতার লোক",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "When is it ?",
+    "option2": "Where is it ?",
+    "option3": "It is where ?",
+    "option4": "When it ?",
+    "question": "এটা কোথায় ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Its in the room.",
+    "option2": "In the room it is.",
+    "option3": "It is in the room.",
+    "option4": "It is in room.",
+    "question": "এটা ঘরের ভেতর",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Its a good dog.",
+    "option2": "It a nice dog.",
+    "option3": "It is a nice the dog.",
+    "option4": "It is a nice dog.",
+    "question": "এটা বেশ ভালো কুকুর",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "With the dog a red and a blue ball have.",
+    "option2": "A red and a blue ball are with the dog.",
+    "option3": "There has a red and a blue ball with the dog.",
+    "option4": "There is a red and a blue ball with the dog.",
+    "question": "কুকুরটার সঙ্গে একটা লাল আর একটা নীল বল আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The red ball has in air.",
+    "option2": "The red ball is on the air.",
+    "option3": "The red ball is in the air.",
+    "option4": "The red ball is in airs.",
+    "question": "লাল বলটা হাওয়ায় আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The blue ball is the table under.",
+    "option2": "The blue ball has under the table.",
+    "option3": "The table is under the blue ball.",
+    "option4": "The blue ball is under the table.",
+    "question": "নীল বলটা টেবিলের নীচে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "There is an almirah behind the table.",
+    "option2": "There an almirah has behind the table.",
+    "option3": "A almirah is behind the table.",
+    "option4": "Table's behind there is an almirah.",
+    "question": "টেবিলের পেছনে একটা আলমারী আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The dog is beside his master.",
+    "option2": "The dog is beside its master.",
+    "option3": "The dog is beside it's master.",
+    "option4": "The master is beside the dog.",
+    "question": "কুকুরটা তার প্রভুর পাশে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The master beside a wall.",
+    "option2": "The master is wall's beside.",
+    "option3": "The master is beside a wall.",
+    "option4": "The wall is beside the master.",
+    "question": "প্রভুটি একটি দেওয়ালের পাশে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The master has between the wall and the dog.",
+    "option2": "The master is between the wall and the dog.",
+    "option3": "Between the wall and the dog the master is.",
+    "option4": "The master is the wall and the dog between.",
+    "question": "প্রভুটি দেওয়াল আর কুকুরটার মাঝে আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The master and his dog is here for fun.",
+    "option2": "The dog and his master are here for fun.",
+    "option3": "The master and the dog have here for fun.",
+    "option4": "The master and his dog are here for fun.",
+    "question": "প্রভু ও তার কুকুরটা এখানে মজায় আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Table's above a nice story book has.",
+    "option2": "There is a nice story book above the table.",
+    "option3": "There is a nice story book on the table.",
+    "option4": "On the table a nice story book has.",
+    "question": "টেবিলের ওপর একটা সুন্দর গল্পের বই আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The book's story is on ghosts.",
+    "option2": "The story of the book is about ghosts.",
+    "option3": "The story of the book is about the ghosts.",
+    "option4": "The story book is on ghosts.",
+    "question": "বইয়ের গল্পটা ভূতের ওপর",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Songs also are in the book.",
+    "option2": "The book's has Songs also.",
+    "option3": "Also Songs have in the book.",
+    "option4": "In the book also Songs are.",
+    "question": " বইটায় গানও আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "But the songs were on love.",
+    "option2": "But the songs are about the love.",
+    "option3": "But the songs are about love.",
+    "option4": "But the songs are for love.",
+    "question": " কিন্তু গানগুলি প্রেমের ওপর",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It is now afternoon 4 PM.",
+    "option2": "It is 4 PM in the afternoon now.",
+    "option3": "Now its afternoon 4.",
+    "option4": "It is 4 PM now.",
+    "question": "এখন বিকেল চারটে বাজে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I am inside happy.",
+    "option2": "I happy inside.",
+    "option3": "I am happy inside.",
+    "option4": "Inside happy I am.",
+    "question": "আমি ভেতরে খুশী",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "But it is outside hot.",
+    "option2": "But its hot outside.",
+    "option3": "But it is outside the hot.",
+    "option4": "But it is hot outside.",
+    "question": "কিন্তু বাইরে গরম",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "There Animesh is in a bicycle.",
+    "option2": "Animesh is on a bicycle there.",
+    "option3": "There is Animesh in the bicycle.",
+    "option4": "There Animesh is on one bicycle.",
+    "question": "সেখানে অনিমেষ একটা সাইকেলে আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Nomita is also at the street.",
+    "option2": "Nomita also has on the street.",
+    "option3": "Nomita is also on the street.",
+    "option4": "Nomita on street also.",
+    "question": "নমিতাও রাস্তায় আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Some workers are at work on the street.",
+    "option2": "Some workers do work on the street.",
+    "option3": "Some the workers are on work at the street.",
+    "option4": "Some workers at the street do the work.",
+    "question": " কিছু কর্মী রাস্তায় কাজ করছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Behind the road a pond is.",
+    "option2": "There is a pond behind the road.",
+    "option3": "Road's behind there is a pond.",
+    "option4": "A pond has behind the road.",
+    "question": " রাস্তার পেছনে একটা পুকুর আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "In pond no water has inside.",
+    "option2": "There is not water inside the pond.",
+    "option3": "There is no water inside the pond.",
+    "option4": "Not the water is there inside the pond.",
+    "question": "পুকুরে জল নেই",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The pond is outside a frog.",
+    "option2": "A frog is pond's outside.",
+    "option3": "Pond's outside there is a frog.",
+    "option4": "A frog is outside the pond.",
+    "question": "পুকুরের বাইরে একটা ব্যাঙ আছে",
+    "correct": 4,
+    "isPicture": false
+    }
+]

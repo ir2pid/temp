@@ -1,0 +1,152 @@
+[
+                       { 
+                        "image1": "read1",             
+                        "name": "Bsv1-Lesson2 (1/1)", 
+                        "ltext1": "",
+                        "rtext1": "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Read</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আমাদের উজান একটা বই পড়ছে <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our Ujaan is <font color='#ED7745'><i>reading</i></font> a book.",
+                        "utext1": "<font color='#ED7745'>Read, Study, Learn, Know, Teach</font>",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "study",             
+                        "name": "Bsv1-Lesson2 (1/2)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Study</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;পৃথা কম্পুটারে নানা বিষয় অধ্যয়ন করেছে <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pritha has <font color='#ED7745'><i>studied</i></font> many subjects on computer.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "learn1",             
+                        "name": "Bsv1-Lesson2 (1/3)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Learn</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;জুয়েল আমার কাছে গিটার শিখত <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jewel used to <font color='#ED7745'><i>learn</i></font> guitar from me.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "know1",             
+                        "name": "Bsv1-Lesson2 (1/4)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Know</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;রাহুল একহাতে হাঁটতে জানে <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rahul <font color='#ED7745'><i>knows</i></font> how to walk with one hand.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "know2",             
+                        "name": "Bsv1-Lesson2 (1/5)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Know</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;সবিতা আয়নাকে প্রশ্ন করে, 'আয়না, এই মহিলাকে কি আমি চিনি ?' <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sabita asks the mirror, \"Mirror, do I <font color='#ED7745'><i>know</i></font> this woman\" ?",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "teach2",             
+                        "name": "Bsv1-Lesson2 (1/6)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Teach</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আমাদের দীপিকা ম্যাডাম খুব ভালো ইতিহাস পড়ান <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Our Dipika Madam <font color='#ED7745'><i>teaches</i></font> History very well.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "",             
+                        "name": "Bsv1-Lesson2 (1/7)", 
+                        "ltext1": "",
+                        "rtext1": "",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Read শুধু 'পড়া' অর্থে ব্যবহার হয়, যেমন he is reading a book, আর বুঝে বুঝে পড়া বা অধ্যয়ন বা চর্চা করা বোঝাতে study ব্যবহার হয় । study করলেই শিখবে তার কোন মানে নেই, তাই study আর learn (শেখা) আলাদা । আবার know হল জানা বা চেনা (আরো উদাহরণ, He knows English  - সে ইংরিজি জানে) । আর learn - শেখা, teach - শেখানো । Read - Read (উচ্চারণ রেড) - Read (উচ্চারণ রেড), Learn - Learned - Learnt, Know - Knew-Known, Teach - Taught - Taught ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "draw1",             
+                        "name": "Bsv1-Lesson2 (2/1)", 
+                        "ltext1": "",
+                        "rtext1": "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Draw</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ঈশান ভালোই ছবি আঁকে <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ishan <font color='#ED7745'><i>draws</i></font> picture fairly well.",
+                        "utext1": "<font color='#ED7745'>Draw, Paint, Sketch</font>",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                       },
+                       { 
+                        "image1": "paint1",             
+                        "name": "Bsv1-Lesson2 (2/2)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Paint</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;কি বাজে ছবি ! এতে আবার চিত্রকর রং করছে ! <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;What a bad painting ! And the painter is <font color='#ED7745'><i>painting</i></font> this picture !",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "sketch",             
+                        "name": "Bsv1-Lesson2 (2/3)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Sketch</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;দেখ, রবীন কেমন একটা পায়রার রেখাচিত্র এঁকেছে <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;See, how Robin has <font color='#ED7745'><i>sketched</i></font> a pigeon.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "",             
+                        "name": "Bsv1-Lesson2 (2/4)", 
+                        "ltext1": "",
+                        "rtext1": "",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "সাধারণভাবে ছবি আঁকা বোঝাতে draws a picture লেখা হয়, আর যখন রং করা বোঝাতে হবে, তখন paint ব্যবহার করবে । পেন্সিল দিয়ে যে রেখাচিত্র আঁকা হয়, sketch তার ক্ষেত্রে ব্যবহার হয় । Draw - Drew - Drawn ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "love2",             
+                        "name": "Bsv1-Lesson2 (3/1)", 
+                        "ltext1": "",
+                        "rtext1": "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Love</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;দাদু আমাদের সবাইকে ভালোবাসেন <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grandpa <font color='#ED7745'><i>loves</i></font> all of us.",
+                        "utext1": "<font color='#ED7745'>Love, Like, Prefer</font>",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                       },
+                       { 
+                        "image1": "like2",             
+                        "name": "Bsv1-Lesson2 (3/2)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Like</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আমি দাবা খেলতে পছন্দ করি <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I <font color='#ED7745'><i>like</i></font> playing chess.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "prefer1",             
+                        "name": "Bsv1-Lesson2 (3/3)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Prefer</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আমি কফির চেয়ে চা বেশী পছন্দ করি <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I <font color='#ED7745'><i>prefer</i></font> tea to coffee.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "",             
+                        "name": "Bsv1-Lesson2 (3/4)", 
+                        "ltext1": "",
+                        "rtext1": "",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Love - ভালোবাসা (I love you), Like - পছন্দ করা (I like to sing everyday) । আর prefer ব্যবহার হয় তখনই যখন একটা জিনিশের চেয়ে আরেকটিকে বেশী পছন্দ করা হয় (I prefer cricket to football) । আর prefer-এর পর than ব্যবহার করবে না, to দেবে । I prefer cricket than football ভুল ইংরিজি ।",
+                        "description": ""
+                      }
+]

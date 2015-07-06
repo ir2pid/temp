@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "Listened  to the song before you sing.",
+    "option2": "Listening to the song before you sing.",
+    "option3": "Listen to the song before you singing.",
+    "option4": "Listen to the song before you sing.",
+    "question": "গান করার আগে গানটা শোন",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I listen to your problems.",
+    "option2": "I listened to your problems.",
+    "option3": "I was listened to your problems.",
+    "option4": "I am  listening to your problems.",
+    "question": "আমি তোমার সমস্যাগুলো শুনেছিলাম",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you listen to me ?",
+    "option2": "Will you listening to me ?",
+    "option3": "Will you listen to me ?",
+    "option4": "Shall  you listen to me ?",
+    "question": "তুমি কি আমার  কথা শুনবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I wish to listen.",
+    "option2": "I wish to listened.",
+    "option3": "I wished to listen.",
+    "option4": "I wish to listening.",
+    "question": "আমার শোনার ইচ্ছে আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You have not listened to a word that I have said.",
+    "option2": "You have not listened to a word that I am saying.",
+    "option3": "You have not listen to a word that I am saying.",
+    "option4": "You have not listen to a word that I have said.",
+    "question": "আমি যা বলেছি তার একটা কথাও তুমি শোননি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "What are you talk about ?",
+    "option2": "What are you talking about ?",
+    "option3": "What are you talking ?",
+    "option4": "What do you talk about ?",
+    "question": "তোমরা কি নিয়ে কথা বলছো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Sujit talked big, but does he know the subject ?",
+    "option2": "Sujit talked big, but  he knows the subject ?",
+    "option3": "Sujit talks big, but does he know the subject ?",
+    "option4": "Sujit talked big, but did he know the subject ?",
+    "question": "সুজিত বড় বড় কথা বলেছিল, কিন্তু সে কি বিষয়টা জানে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Why are you not talking  me ?",
+    "option2": "Why you not talking to me ?",
+    "option3": "Why are you not talk to me ?",
+    "option4": "Why are you not talking to me ?",
+    "question": "কেন আমার সঙ্গে কথা বলছো না ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Why  you talk so much ?",
+    "option2": "Why are you talking so much ?",
+    "option3": "Why do you talk so much ?",
+    "option4": "Why do you talking so much ?",
+    "question": "অতো কথা কেন বলো ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You should talk less and work more.",
+    "option2": "Talk less, work more.",
+    "option3": "You talk less, you work more.",
+    "option4": "Talk less to work more.",
+    "question": "কথা কম বল, কাজ বেশী কর ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Koushik smiled when he say that.",
+    "option2": "Koushik smiled when he said that.",
+    "option3": "Koushik smiles when he said that.",
+    "option4": "Koushik smiled when he was say that.",
+    "question": "সেটা বলার সময় কৌশিক মৃদু হেসেছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Your joke makes me smiled.",
+    "option2": "Your joke made me smile.",
+    "option3": "Your joke make me smile.",
+    "option4": "Your joke makes me smile.",
+    "question": "তোমার রসিকতা আমায় হাসায়",
+    "correct":4 ,
+    "isPicture": false
+    },
+    {
+    "option1": "Did he smile looking at me ?",
+    "option2": "Did he smiled looking at me ?",
+    "option3": "Has he smile looking at me ?",
+    "option4": "Did he smile looking in me ?",
+    "question": "সে কি আমায় দেখে হাসলো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Manisha smiles when talked.",
+    "option2": "Manisha smiles when talks.",
+    "option3": "Manisha smiled when talking.",
+    "option4": "Manisha smiles when talking.",
+    "question": "মনীষা হেসে কথা বলে",
+    "correct":4 ,
+    "isPicture": false
+    },
+    {
+    "option1": "Go in smiling.",
+    "option2": "Keep smile.",
+    "option3": "Keep smiling.",
+    "option4": "Go smiling.",
+    "question": "হেসে যাও",
+    "correct":3 ,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you not smell the cake ?",
+    "option2": "Have you not smelt the cake ?",
+    "option3": "Have you not smelling the cake ?",
+    "option4": "Are you not smelt the cake ?",
+    "question": "তুমি কেকের গন্ধ পাওনি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Your cooking is smelled this place up.",
+    "option2": "Your cooking was smelled this place up.",
+    "option3": "Your cooking smelled this place up.",
+    "option4": "Your cooking smelling this place up.",
+    "question": "তোমার রান্না এই জায়গায় গন্ধ ছড়িয়েছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "How are you like the smell of flowers ?",
+    "option2": "How do you like the smell of flowers ?",
+    "option3": "How do you liking the smell of flowers ?",
+    "option4": "How are you liking the smell of flowers ?",
+    "question": "ফুলের গন্ধ তোমার কেমন লাগে ?",
+    "correct":2 ,
+    "isPicture": false
+    },
+    {
+    "option1": "He gets the smell of danger.",
+    "option2": "He gets the smelling of danger.",
+    "option3": "He got the smell of danger.",
+    "option4": "He is getting the smell of danger.",
+    "question": "সে বিপদের গন্ধ পায়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Dogs smells better than man.",
+    "option2": "Dogs smelt better than men.",
+    "option3": "Dogs smelling better than man.",
+    "option4": "Dogs smell better than men.",
+    "question": "কুকুরেরা মানুষের চেয়ে বেশী ভালো গন্ধ শোঁকে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We live because we can breathe.",
+    "option2": "We live because we breathed.",
+    "option3": "We live because we breathe.",
+    "option4": "We lived because we breathe.",
+    "question": "আমরা বাঁচি, কারণ আমরা শ্বাস নিই",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Did Netaji really breathe his last ?",
+    "option2": "Was Netaji really breathed his last ?",
+    "option3": "Had Netaji really breathed his last ?",
+    "option4": "Has Netaji really breathed his last ?",
+    "question": "নেতাজি কি সত্যিই মারা গিয়েছেন ?",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Practised breathing exercise after you know it.",
+    "option2": "Practise breathing exercise after you know it.",
+    "option3": "Practise breathing exercise after you knew it.",
+    "option4": "Practise breathing exercise after you knowing it.",
+    "question": "শ্বাসপ্রশ্বাসের অনুশীলন জেনে করবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We need to breathe.",
+    "option2": "We sure breathe.",
+    "option3": "We have to breathe.",
+    "option4": "We breathe.",
+    "question": "শ্বাস আমাদের নিতেই হয়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I have breathed deeply as I ran fast.",
+    "option2": "I was breathing deeply as I ran fast.",
+    "option3": "I breathed deeply as I was running fast.",
+    "option4": "I breathed deeply as I ran fast.",
+    "question": "আমি জোরে ছুটছিলাম বলে জোরে জোরে শ্বাস নিয়েছিলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you ever chewing water ?",
+    "option2": "Are you ever chewed water ?",
+    "option3": "Have you ever chew water ?",
+    "option4": "Have you ever chewed water ?",
+    "question": "তুমি কি কখনো জল চিবিয়েছো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The dog chewed away a ball all night.",
+    "option2": "The dog was chewed away a ball all night.",
+    "option3": "The dog has chewed away  a ball all night.",
+    "option4": "The dog can chewed away  a ball all night.",
+    "question": "কুকুরটা সারা রাত্তির বলটা চিবোলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you chew nuts ?",
+    "option2": "Can you chew nuts ?",
+    "option3": "Are you chewing nuts ?",
+    "option4": "Have you chewed  nuts ?",
+    "question": "বাদাম চিবোতে পারো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Dogs love chew bones.",
+    "option2": "Dogs love to chew bones.",
+    "option3": "Dogs chew bones to love.",
+    "option4": "Dogs loves to chew bones.",
+    "question": "কুকুর হাড় চিবোতে ভালোবাসে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Chew well to eat well.",
+    "option2": "You must chew well to eat well.",
+    "option3": "Chew well for eat well.",
+    "option4": "Please chew well to eating well.",
+    "question": "ভালো করে খেতে ভালো করে চিবোও",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Washing  your hands before you eat.",
+    "option2": "Washed  your hands before you eat.",
+    "option3": "Wash your hands before you eating.",
+    "option4": "Wash your hands before you eat.",
+    "question": "খাবার আগে হাত ধোও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He washed off the dog with a pipe.",
+    "option2": "He washing off the dog with a pipe.",
+    "option3": "He has  washed off the dog with a pipe.",
+    "option4": "He can wash off the dog with a pipe.",
+    "question": "সে একটা পাইপ দিয়ে কুকুরটিকে পরিষ্কার করল",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "It is good to wash your own clothes.",
+    "option2": "It is good to washing your own clothes.",
+    "option3": "It is good washed  your own clothes.",
+    "option4": "It was good to wash your own clothes.",
+    "question": "নিজের জামাকাপড় নিজে কাচা ভালো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I washed hands and legs after I worked.",
+    "option2": "I washed hands and legs before I worked.",
+    "option3": "I wash hands and legs after I worked.",
+    "option4": "I wash hands and legs after I work.",
+    "question": "আমি কাজ করার পর হাত-পা ধুই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The flood has washed away the boat.",
+    "option2": "The flood washes the boat away.",
+    "option3": "The flood washed the boat away.",
+    "option4": "The flood had been washing away the boat.",
+    "question": "বন্যা নৌকোটি ভাসিয়ে নিয়ে গিয়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I have bathe at eleven o'clock.",
+    "option2": "I am bathing at eleven o'clock.",
+    "option3": "I bathe at eleven o'clock.",
+    "option4": " I bathed at eleven o'clock.",
+    "question": "আমি এগারোটায় স্নান করি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The girl was bathing by her mother.",
+    "option2": "The girl has bathed by her mother.",
+    "option3": "The girl was bathed by her mother.",
+    "option4": "The girl was bathing with her mother.",
+    "question": "মেয়েটির মা তাকে স্নান করালো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you have  bathe everyday ?",
+    "option2": "Do you bathe everyday ?",
+    "option3": "Have you bathe everyday ?",
+    "option4": "Did you bathe everyday ?",
+    "question": "তুমি কি রোজ স্নান করো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Subrata is singing when he bathes.",
+    "option2": "Subrata bathes when he sings.",
+    "option3": "Subrata has sung when he bathes.",
+    "option4": "Subrata sings when he bathes.",
+    "question": "সুব্রত স্নান করার সময় গান করে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He baths for long.",
+    "option2": "He has been bathing for long.",
+    "option3": "He keeps on bath for long.",
+    "option4": "He keeps bathing for long.",
+    "question": "সে অনেকক্ষণ ধরে স্নান করে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Let us swim in the river.",
+    "option2": "Let us swimming in the river.",
+    "option3": "Let us to swim in the river.",
+    "option4": "Go to swim in the river.",
+    "question": "চলো, নদীতে সাঁতার কাটি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Swamiji had swam against the tide.",
+    "option2": "Swamiji did swim against the tide.",
+    "option3": "Swamiji could swim against the tide.",
+    "option4": "Swamiji swam against the tide.",
+    "question": "স্বামিজী স্রোতের বিপক্ষে গিয়েছিলেন ",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Fish knows how to swim.",
+    "option2": "Does not fish know how to swim ?",
+    "option3": "Is not fish knowing how to swim ?",
+    "option4": "Fish does not know how to swim ?",
+    "question": "মাছ কি সাঁতার জানে না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I learned swimming in one month.",
+    "option2": "I learnt swimming in one month.",
+    "option3": "I have learnt swimming in one month.",
+    "option4": "I have learnt swimming for one month.",
+    "question": "আমি এক মাসে সাঁতার শিখেছি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Why have you swimmed in dirty water ?",
+    "option2": "Why have you swam in dirty water ?",
+    "option3": "Why have you been swimming in dirty water ?",
+    "option4": "Why had you swam in dirty water ?",
+    "question": "নোংরা জলে সাঁতার কেটেছো কেন ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He cries and his mind was cleaned.",
+    "option2": "He cried and his mind is cleaned.",
+    "option3": "He cried and his mind was clean.",
+    "option4": "He cried and his mind was cleaned.",
+    "question": "সে কাঁদলো আর তার মন পরিষ্কার হল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I am cleaned out !",
+    "option2": "I was cleaned out !",
+    "option3": "I am cleaning out !",
+    "option4": "I have cleaned out !",
+    "question": "আমার আর একটাও পয়সা নেই !",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you kept the front side of your house clean ?",
+    "option2": "Do you keeping the front side of your house clean ?",
+    "option3": "Are you keep the front side of your house clean ?",
+    "option4": "Do you keep the front side of your house clean ?",
+    "question": "বাড়ির সামনেটা পরিষ্কার রাখো তো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I hope to clean the world.",
+    "option2": "I shall clean the world.",
+    "option3": "I want to clean the world.",
+    "option4": "I shall want to clean the world.",
+    "question": "আমি পৃথিবীটা পরিষ্কার করতে চাই",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Take bath, wash body and clean everything.",
+    "option2": "You have to take bath, wash body and clean everything.",
+    "option3": "Taking bath, washing body and cleaning everything.",
+    "option4": "Take bath, wash body to clean everything.",
+    "question": "স্নান কর, গা ধোও আর সব পরিষ্কার কর",
+    "correct": 1,
+    "isPicture": false
+    }
+]

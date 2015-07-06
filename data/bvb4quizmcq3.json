@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "Ten minus two will leave eight.",
+    "option2": "Ten minus two is leave eight.",
+    "option3": "Ten minus two left eight.",
+    "option4": "Ten minus two leaves eight.",
+    "question": "দশ থেকে দুই বাদ দিলে আট থাকে",
+    "correct":  4,
+    "isPicture": false
+    },
+    {
+    "option1": "Someone has left the bag here.",
+    "option2": "Someone has leaving  the bag here.",
+    "option3": "Someone  leaves  the bag here.",
+    "option4": "Someone has been left the bag here.",
+    "question": "কেউ এখানে ব্যাগটা ফেলে গেছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I do not like to leaving my house.",
+    "option2": "I do not like to leave my house.",
+    "option3": "I do not like leave my house.",
+    "option4": "I not like to leave my house.",
+    "question": "আমার বাড়ি ছেড়ে বেরোতে ভালো লাগে না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The ship leaving at midnight.",
+    "option2": "The ship left at midnight.",
+    "option3": "The ship leaves on midnight.",
+    "option4": "The ship leaves at midnight.",
+    "question": "জাহাজটা মাঝরাতে  ছাড়ে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We may leave the place soon.",
+    "option2": "Let us leave the place soon.",
+    "option3": "Let us left the place soon.",
+    "option4": "We may leaves the place soon.",
+    "question": "এখান থেকে তাড়াতাড়ি যাওয়া যাক",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The boy growing into a man.",
+    "option2": "The boy grows into a man.",
+    "option3": "The boy grew into a man.",
+    "option4": "The boy is grow into a man.",
+    "question": "ছেলেটা লোকে পরিণত হলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The plant  grows up into a tree now.",
+    "option2": "The plant is growing up into a tree now.",
+    "option3": "The plant has grown up into a tree now.",
+    "option4": "The plant had grown up into a tree now.",
+    "question": "গাছটা বৃক্ষে পরিণত হয়েছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Oh! how grown up you have became.",
+    "option2": "Oh! how growing  up you have become.",
+    "option3": "Oh! how grows up you have become.",
+    "option4": "Oh! how grown up you have become.",
+    "question": "ওঃ, কতো বড়ো হয়ে গেছো তুমি !",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Rupenbabu grown  angry suddenly.",
+    "option2": "Rupenbabu grew angry suddenly.",
+    "option3": "Rupenbabu has grew angry suddenly.",
+    "option4": "Rupenbabu growing angry suddenly.",
+    "question": "রুপেনবাবু হঠাৎ রেগে গেলেন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The business grew under new owners.",
+    "option2": "The business could grow under new owners.",
+    "option3": "The business grown under new owners.",
+    "option4": "The business was growing under new owners.",
+    "question": "ব্যবসাটা নতুন মালিকদের হাতে গড়ে উঠলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Are you count up to 100 ?",
+    "option2": "Can you count up to 100 ?",
+    "option3": "Do you count up to 100 ?",
+    "option4": "Are you counting  up to 100 ?",
+    "question": "একশো পর্যন্ত গুনতে পারো ? ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Their words do not count.",
+    "option2": "Their words are not count.",
+    "option3": "Their words have not count.",
+    "option4": "Their words will not count.",
+    "question": "তাদের কথা কাজে লাগে না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Count  many persons are there in that room.",
+    "option2": "Count how many person  are there in that room.",
+    "option3": "Counting  how many persons are there in that room.",
+    "option4": "Count how many persons are there in that room.",
+    "question": "ওঘরে কজন আছে গুণে বলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We have to count your change.",
+    "option2": "We can count your change.",
+    "option3": "We have count your change.",
+    "option4": "We are counting  your change.",
+    "question": "তোমার পরিবর্তন ধরা যাচ্ছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You will count yourself lucky for being in the team.",
+    "option2": "You can count yourself lucky for being in the team.",
+    "option3": "You may count yourself lucky being in the team.",
+    "option4": "Count yourself lucky being in the team.",
+    "question": "টিমে আছ বলে নিজেকে ভাগ্যবান ভাবো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Let us to fix the picture to the frame.",
+    "option2": "Let us fixed  the picture to the frame.",
+    "option3": "Let us fixing  the picture to the frame.",
+    "option4": "Let us fix the picture to the frame.",
+    "question": "চলো ছবিটা ফ্রেমে লাগাই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The date of the final  was fixed.",
+    "option2": "The date of the final  is fixed.",
+    "option3": "The date of the final   fixed.",
+    "option4": "The date of the final  had fixed.",
+    "question": "ফাইনালের দিন ঠিক হয়ে গেছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Has the date of journey been fixed ?",
+    "option2": "Is the date of journey been fixed ?",
+    "option3": "Was the date of journey fixed ?",
+    "option4": "Had the date of journey been fixed ?",
+    "question": "যাবার দিন ঠিক হয়েছে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Fixing  your eyes on that side.",
+    "option2": "Fixed  your eyes on that side.",
+    "option3": "Fix your eyes on that side.",
+    "option4": "Can fix your eyes on that side.",
+    "question": "চোখ ওদিকেই স্থির করে রাখো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You should to fix the target.",
+    "option2": "You should fix the target.",
+    "option3": "You should fixed the target.",
+    "option4": "You should fixing the target.",
+    "question": "তোমার উচিৎ লক্ষ্য স্থির করা",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I am need your help.",
+    "option2": "I need for your help.",
+    "option3": "I needing  your help.",
+    "option4": "I need your help.",
+    "question": "আমি তোমার সাহায্য চাই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Your advice is not needed.",
+    "option2": "Your advice is not need.",
+    "option3": "Your advice is not needing.",
+    "option4": "Your advice has not needed.",
+    "question": "তোমার উপদেশ দরকার নেই",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "This time he has need you.",
+    "option2": "This time he is  need you.",
+    "option3": "This time he need you.",
+    "option4": "This time he needs you.",
+    "question": "এসময়ে ওর তোমাকে  দরকার",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You need not going there.",
+    "option2": "You need not go there.",
+    "option3": "You are need not go there.",
+    "option4": "You will need not going there.",
+    "question": "তোমার যাবার দরকার নেই",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you really needed the pen ?",
+    "option2": "You really need the pen ?",
+    "option3": "Do you really need the pen ?",
+    "option4": "Need you really the pen ?",
+    "question": "তোমার কি পেনটা দরকার ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You can fill your life with joy.",
+    "option2": "You have filled your life with joy.",
+    "option3": "Fill your life with joy.",
+    "option4": "Fill your life with fun.",
+    "question": "জীবনকে আনন্দে ভরে তোলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "A beautiful music was filled the room.",
+    "option2": "A beautiful music filled the room.",
+    "option3": "The room filled a beautiful music.",
+    "option4": "A beautiful music has filled the room.",
+    "question": "একটা সুন্দর সঙ্গীতে ঘরটা ভরে গেল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Please fill in the tub.",
+    "option2": "You please fill in the tub.",
+    "option3": "You should fill in the tub.",
+    "option4": "You have to fill in the tub.",
+    "question": "বালতিটা ভরে আনতো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The copy filled up.",
+    "option2": "The copy did fill up.",
+    "option3": "The copy has filled up.",
+    "option4": "The copy was filled up.",
+    "question": "খাতাটা ভরে গেল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Suniti had tried to fill in the blanks.",
+    "option2": "Suniti tried for fill in the blanks.",
+    "option3": "Suniti tried to filling in the blanks.",
+    "option4": "Suniti tried to filled in the blanks.",
+    "question": "সুনীতি চেষ্টা করলো শূণ্যস্থান পূরণ করতে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You can not hate her for her ignorance.",
+    "option2": "Should you hate her for her ignorance ?",
+    "option3": "Can she be hated for her ignorance ?",
+    "option4": "Can you hate her for her ignorance ?",
+    "question": "তুমি কি তার অজ্ঞানতার জন্য তাকে ঘৃণা করতে পারো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "All hates crime.",
+    "option2": "Crime is hated by all.",
+    "option3": "Isn't crime hated by all ?",
+    "option4": "Everybody hates crime.",
+    "question": "অপরাধকে সবাই ঘৃণা করে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "One should not hate the poor.",
+    "option2": "One can not hate the poor.",
+    "option3": "One need not hate the poor.",
+    "option4": "One must not hate the poor.",
+    "question": "গরীবকে ঘৃণা করতে নেই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He told, \"Get me a person, who only loves and does not hate\".",
+    "option2": "He said, \"Take me a person, who only loves and does not hate\".",
+    "option3": "He said, \"Get me a person, who only loves and not hates\".",
+    "option4": "He said, \"Get me a person, who only loves and does not hate\".",
+    "question": "সে বলল, \"একজন লোক আনতো দেখি যে শুধু ভালবাসে, ঘৃণা করে না\"",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I have hated unfit peoples.",
+    "option2": "I hated unfit people.",
+    "option3": "I hate unfit people.",
+    "option4": "I hated unfit peoples.",
+    "question": "আমি অপটু লোকেদের ঘৃণা করি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Two much garlic killed the taste of the food.",
+    "option2": "Too much garlic killed the taste of the food.",
+    "option3": "Too much garlic has killed the taste of the food.",
+    "option4": "Too much garlic and the taste of the food was killed.",
+    "question": "এতো রসুনে রান্নার স্বাদ নষ্ট হলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The soldier killed in a war.",
+    "option2": "The soldier was killed in a war.",
+    "option3": "The war killed the soldier.",
+    "option4": "The soldier has killed in a war.",
+    "question": "সৈন্যটি যুদ্ধে মারা গেলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Stop ! I shall kill you laughing.",
+    "option2": "Stop ! You can not kill me laughing.",
+    "option3": "Stop ! You kill me laughing.",
+    "option4": "Stop ! You will kill me laughing.",
+    "question": "থামো ! আমায় হাসিয়ে মেরে ফেলবে তুমি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Ram hated Shyam first, then fought with him, and killed him finally.",
+    "option2": "Ram hated Shyam first, then fought with him, and has killed him finally.",
+    "option3": "Ram killed Shyam after hating and fighting with him.",
+    "option4": "Ram has hated Shyam first, then has fought with him, and has killed him finally.",
+    "question": "রাম শ্যামকে প্রথমে ঘৃণা করেছে, তারপর লড়াই করেছে, শেষে মেরে ফেলেছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "My shoes killed me.",
+    "option2": "My shoes were killing me.",
+    "option3": "My shoes kill me.",
+    "option4": "My shoes are killing me.",
+    "question": "আমার জুতো আমায় পাগল করছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Martyrs do not die.",
+    "option2": "Martyrs never died.",
+    "option3": "Martyrs never die.",
+    "option4": "Martyrs will never die.",
+    "question": "শহীদের মৃত্যু নেই",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Cowards die many times before their death.",
+    "option2": "Don't cowards die many times before their death ?",
+    "option3": "Cowards dies many times before their death.",
+    "option4": "Cowards die many times after their death.",
+    "question": "কাপুরুষরা মরার আগে অনেকবার মরে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "How does he die ?",
+    "option2": "How he died ?",
+    "option3": "How did he die ?",
+    "option4": "How he dies ?",
+    "question": "উনি কী করে মারা গেলেন ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Man can change, grow, live and then die.",
+    "option2": "Man has changed, has grown, has lived and then has died.",
+    "option3": "Man changes, grows, lives and then dies.",
+    "option4": "Man change, grow, live and then die.",
+    "question": "মানুষ বদল হয়, বাড়ে, বাঁচে, তারপর মারা যায়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I am going for die for a box of chocolates.",
+    "option2": "I am dying for a box of chocolates.",
+    "option3": "I am to die for a box of chocolates.",
+    "option4": "I go to die for a box of chocolates.",
+    "question": "আমি এক বাক্স চকোলেটের জন্য পাগল হয়ে যাচ্ছি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Tapan finished because of lying.",
+    "option2": "Tapan finishes because of lying.",
+    "option3": "Tapan lied and was finished.",
+    "option4": "Tapan was finished because of lying.",
+    "question": "মিথ্যে বলার জন্য তপন শেষ হয়ে গেল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you finish the writing ?",
+    "option2": "Can you write the finish ?",
+    "option3": "Can you finishes the writing ?",
+    "option4": "You can finish the writing ?",
+    "question": "তুমি কি লেখাটা শেষ করতে পারো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "See me after you finish eating.",
+    "option2": "See me after you eating finish.",
+    "option3": "See me before you finish eating.",
+    "option4": "See me after finish eating.",
+    "question": "খাওয়া শেষ করে দেখা করো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "When you will finish your work, you will help me.",
+    "option2": "When you finish your work, you will help me.",
+    "option3": "When you will finish your work, you help me.",
+    "option4": "When you will help me, you will finish your work.",
+    "question": "যখন তোমার কাজ শেষ হবে তখন আমায় সাহায্য করবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do finish your job.",
+    "option2": "Finish your job.",
+    "option3": "You can finish your job.",
+    "option4": "You must finish your job.",
+    "question": "তোমার কাজ শেষ করো",
+    "correct": 2,
+    "isPicture": false
+    }
+]

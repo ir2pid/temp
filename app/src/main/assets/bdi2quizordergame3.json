@@ -1,0 +1,237 @@
+[
+    {
+        "question": "Alice said, \"How clever I am !\"",
+        "words": {
+          "4": "Alice",
+          "1": "very",
+          "3": "that",
+          "2": "is",
+          "5": "said",
+          "6": "exclaimed",
+          "7": "was",
+          "8": "clever",
+          "9": "she"
+        },
+        "answers":[[4,6,3,9,7,1,8]]
+    },
+    {
+        "question": "Geeta cried, \"My God ! I am lost in the forest.\"",
+        "words": {
+          "4": "forest",
+          "1": "that",
+          "3": "was",
+          "2": "in",
+          "5": "Geeta",
+          "6": "she",
+          "7": "her",
+          "8": "and",
+          "9": "lost",
+          "10": "cried",
+          "11": "the",
+          "12": "exclaimed",
+          "13": "God"
+        },
+        "answers":[[5,10,8,12,1,6,3,9,2,11,4]]
+    },
+    {
+        "question": "Nandita said to Jagdish, \"Happy birthday !\"",
+        "words": {
+          "4": "Jagdish",
+          "1": "a",
+          "3": "Nandita",
+          "2": "happy",
+          "5": "to",
+          "6": "wished",
+          "7": "asked",
+          "8": "birthday"
+        },
+        "answers":[[3,6,4,1,2,8]]
+    },
+    {
+        "question": "He said, \"Oh, if only I am taller !\"",
+        "words": {
+          "4": "he were",
+          "1": "that",
+          "3": "be",
+          "2": "he",
+          "5": "to",
+          "6": "he was",
+          "7": "wished",
+          "8": "taller",
+          "9": "he"
+        },
+        "answers":[[2,7,1,6,8],[2,7,1,4,8]]
+    },
+    {
+        "question": "He said, \"How sad that you did not come !\"",
+        "words": {
+          "4": "was",
+          "1": "not",
+          "3": "I",
+          "2": "sadly",
+          "5": "it",
+          "6": "that",
+          "7": "come",
+          "8": "exclaimed",
+          "9": "had",
+          "10": "sad",
+          "11": "he"
+        },
+        "answers":[[11,8,2,6,3,9,1,7]]
+    },
+    {
+        "question": "She asked me what I was going to do at the weekend.",
+        "words": {
+          "4": "me",
+          "1": "weekend",
+          "3": "you", 
+          "5": "going",
+          "2": "she",
+          "6": "what",
+          "7": "the",
+          "8": "to",
+          "9": "at",
+          "10": "are",
+          "11": "told",
+          "12": "were",
+          "13": "do"
+        },
+        "answers":[[2,11,4,6,10,3,5,8,13,9,7,1]]
+    },
+    {
+        "question": "Deepa asked me how my journey had been.",
+        "words": {
+          "4": "me",
+          "1": "your",
+          "3": "Deepa",
+          "2": "been",
+          "5": "was",
+          "6": "asked",
+          "7": "journey",
+          "8": "is",
+          "9": "has",
+          "10": "how"
+        },
+        "answers":[[3,6,4,10,5,1,7]]
+    },
+    {
+        "question": "Navin asked me what I had been doing when he had seen me.",
+        "words": {
+          "4": "Navin",
+          "1": "saw",
+          "3": "me",
+          "2": "said",
+          "5": "you",
+          "6": "what",
+          "7": "I",
+          "8": "to",
+          "9": "you",
+          "10": "when",
+          "11": "were",
+          "12": "seeing",
+          "13": "doing",
+          "14": "was"
+        },
+        "answers":[[4,2,8,3,6,11,5,13,10,7,1,9]]
+    },
+    {
+        "question": "Michael asked his friend if he could borrow his friend's car on Sunday.",
+        "words": {
+          "4": "friend",
+          "1": "can",
+          "3": "Sunday",
+          "2": "your",
+          "5": "I",
+          "6": "Michael",
+          "7": "his",
+          "8": "car",
+          "9": "asked",
+          "10": "borrow",
+          "11": "on"
+        },
+        "answers":[[6,9,7,4,1,5,10,2,8,11,3]]
+    },
+    {
+        "question": "She asked me whether I had studied indirect speech before.",
+        "words": {
+          "4": "you",
+          "1": "me",
+          "3": "she",
+          "2": "indirect",
+          "5": "have",
+          "6": "before",
+          "7": "studied",
+          "8": "did",
+          "9": "to",
+          "10": "speech",
+          "11": "said",
+          "12": "study",
+          "13": "when"
+        },
+        "answers":[[3,11,9,1,5,4,7,2,10,6],[3,11,9,1,8,4,12,2,10,6]]
+    },
+    {
+        "question": "Mother ordered us not to play in front of the window.",
+        "words": {
+          "4": "front",
+          "1": "the",
+          "3": "us",
+          "2": "mother",
+          "5": "in",
+          "6": "Don't",
+          "7": "of",
+          "8": "not",
+          "9": "play",
+          "10": "told",
+          "11": "window",
+          "12": "to"
+        },
+        "answers":[[2,10,3,6,9,5,4,7,1,11]]
+    },
+    {
+        "question": "Mr. Gomes requested Arindam to shut the door.",
+        "words": {
+          "4": "Arindam",
+          "1": "said",
+          "3": "shut",
+          "2": "to",
+          "5": "Mr. Gomes",
+          "6": "please",
+          "7": "door",
+          "8": "to",
+          "9": "the"
+        },
+        "answers":[[5,1,2,4,6,3,9,7],[5,1,8,4,6,3,9,7]]
+    },
+    {
+        "question": "Parveen wished that she had a new house.",
+        "words": {
+          "4": "I",
+          "1": "a",
+          "3": "oh",
+          "2": "Parveen",
+          "5": "had",
+          "6": "if",
+          "7": "have",
+          "8": "said",
+          "9": "house",
+          "10": "been",
+          "11": "new"
+        },
+        "answers":[[2,8,3,6,4,7,1,11,9]]
+    },
+    {
+        "question": "He exclaimed with joy that he had won a prize.",
+        "words": {
+          "4": "Hurrah!",
+          "1": "I",
+          "3": "he",
+          "2": "won",
+          "5": "said",
+          "6": "a",
+          "7": "have",
+          "8": "prize"
+        },
+        "answers":[[3,5,4,1,7,2,6,8],[3,5,4,1,2,6,8]]
+    }
+]

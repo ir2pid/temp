@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "Why are you ignorant to this law ?",
+    "option2": "Why are you ignorant at this law ?",
+    "option3": "Why are you ignorant of this law ?",
+    "option4": "Why are you ignorant in this law ?",
+    "question": "তুমি কেন এই নিয়ম সম্বন্ধে অজ্ঞ ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He has lack of joy in his life.",
+    "option2": "He has lack in joy in his life.",
+    "option3": "He has lack for joy in his life.",
+    "option4": "He has lack at joy in his life.",
+    "question": "তার জীবনে আনন্দের অভাব আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Get rid of bad habits.",
+    "option2": "Get rid from bad habits.",
+    "option3": "Get rid over bad habits.",
+    "option4": "Get rid for bad habits.",
+    "question": "খারাপ অভ্যাস থেকে মুক্ত হও",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "This chair is made from wood.",
+    "option2": "This chair is made of wood.",
+    "option3": "This chair is made in wood.",
+    "option4": "This chair is made with wood.",
+    "question": "এই চেয়ারটা কাঠের তৈরী",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Is Kalu guilty for murder ?",
+    "option2": "Is Kalu guilty on murder ?",
+    "option3": "Is Kalu guilty of murder ?",
+    "option4": "Is Kalu guilty to murder ?",
+    "question": "কালু কি খুনের দায়ে দোষী ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He is sure on his success.",
+    "option2": "He is sure for his success.",
+    "option3": "He is sure in his success.",
+    "option4": "He is sure of his success.",
+    "question": "সে তার সাফল্যে নিশ্চিত",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He is proud on his own position.",
+    "option2": "He is proud of his own position.",
+    "option3": "He is proud in his own position.",
+    "option4": "He is proud for his own position.",
+    "question": "তিনি নিজের পদে গর্বিত",
+    "correct": 2,
+    "isPicture": false
+    }
+]

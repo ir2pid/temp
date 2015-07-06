@@ -1,0 +1,251 @@
+[
+    {
+        "question": "Compound (যৌগিক বাক্য) to Complex (জটিল বাক্য): I won prizes and I was surprised.",
+        "words": {
+          "4": "I",
+          "1": "prizes",
+          "3": "surprised",
+          "2": "win",
+          "5": "I",
+          "6": "when",
+          "7": "at",
+          "8": "was",
+          "9": "to",
+          "10": "won",
+          "11": "then"
+        },
+        "answers":[[4,8,3,6,5,10,1],[5,8,3,6,4,10,1]]
+    },
+    {
+        "question": "Complex (জটিল বাক্য) to Compound (যৌগিক বাক্য): If you listen to me, you will be happy.",
+        "words": {
+          "4": "me",
+          "1": "happy",
+          "3": "for",
+          "2": "and",
+          "5": "to",
+          "6": "be",
+          "7": "listen",
+          "8": "will",
+          "9": "being"
+        },
+        "answers":[[7,5,4,2,6,1]]
+    },
+    {
+        "question": "Compound (যৌগিক বাক্য) to Simple (সরল বাক্য): Rahul washed his hands and started eating.",
+        "words": {
+          "4": "wash",
+          "1": "eat",
+          "3": "start",
+          "2": "Rahul",
+          "5": "his",
+          "6": "washing",
+          "7": "eating",
+          "8": "starting",
+          "9": "hands",
+          "10": "and",
+          "11": "washed",
+          "12": "started",
+          "13": "to"
+        },
+        "answers":[[6,5,9,2,12,7]]
+    },
+    {
+        "question": "Compound (যৌগিক বাক্য) to Complex (জটিল বাক্য): Work hard or fail.",
+        "words": {
+          "4": "work",
+          "1": "if",
+          "3": "not",
+          "2": "fail",
+          "5": "you",
+          "6": "hard",
+          "7": "do",
+          "8": "you",
+          "9": "to",
+          "10": "will"
+        },
+        "answers":[[1,8,7,3,4,6,5,10,2],[1,5,7,3,4,6,8,10,2]]
+    },
+    {
+        "question": "Complex (জটিল বাক্য) to Compound (যৌগিক বাক্য): As you are young, you must work hard.",
+        "words": {
+          "4": "for",
+          "1": "you",
+          "3": "young",
+          "2": "work",
+          "5": "you",
+          "6": "hard",
+          "7": "so",
+          "8": "must",
+          "9": "are",
+          "10": "as",
+          "11": "being"
+        },
+        "answers":[[1,9,3,7,5,8,2,6],[5,9,3,7,1,8,2,6]]
+    },
+    {
+        "question": "Compound (যৌগিক বাক্য) to Complex (জটিল  বাক্য): Waste not, want not.",
+        "words": {
+          "4": "you",
+          "1": "waste",
+          "3": "want",
+          "2": "will",
+          "5": "if",
+          "6": "today",
+          "7": "you",
+          "8": "tomorrow",
+          "9": "do not",
+          "10": "and",
+          "11": "not"
+        },
+        "answers":[[5,4,9,1,6,7,2,11,3,8],[5,7,9,1,6,4,2,11,3,8]]
+    },
+    {
+        "question": "Complex (জটিল বাক্য) to Compound (যৌগিক বাক্য): We can prove that the earth is round.",
+        "words": {
+          "4": "earth",
+          "1": "round",
+          "3": "prove",
+          "2": "that",
+          "5": "the",
+          "6": "can",
+          "7": "and",
+          "8": "is",
+          "9": "we",
+          "10": "it",
+          "11": "which"
+        },
+        "answers":[[5,4,8,1,7,9,6,3,10]]
+    },
+    {
+        "question": "Compound (যৌগিক বাক্য) to Complex (জটিল বাক্য): Do or die.",
+        "words": {
+          "4": "you",
+          "1": "this",
+          "3": "do",
+          "2": "die",
+          "5": "you",
+          "6": "do not",
+          "7": "if",
+          "8": "will",
+          "9": "not"
+        },
+        "answers":[[7,4,6,3,1,5,8,2],[7,5,6,3,1,4,8,2],[7,4,6,3,5,8,2],[7,5,6,3,4,8,2]]
+    },
+    {
+        "question": "Compound (যৌগিক বাক্য) to Simple (সরল বাক্য): He tried hard but did not succeed.",
+        "words": {
+          "4": "in",
+          "1": "he",
+          "3": "beside",
+          "2": "spite",
+          "5": "succeed",
+          "6": "trying",
+          "7": "does",
+          "8": "of",
+          "9": "not",
+          "10": "hard",
+          "11": "although",
+          "12": "did"
+        },
+        "answers":[[4,2,8,6,10,1,12,9,5]]
+    },
+    {
+        "question": "Compound (যৌগিক বাক্য) to Complex (জটিল বাক্য): She must weep or she will die.",
+        "words": {
+          "4": "if",
+          "1": "weep",
+          "3": "die",
+          "2": "not",
+          "5": "must",
+          "6": "she",
+          "7": "will",
+          "8": "does",
+          "9": "she"
+        },
+        "answers":[[4,9,8,2,1,6,7,3],[4,6,8,2,1,9,7,3]]
+    },
+    {
+        "question": "Complex (জটিল বাক্য) to Compound (যৌগিক বাক্য): As soon as Tanay got the telegram, he left in a taxi.",
+        "words": {
+          "4": "Tanay",
+          "1": "taxi",
+          "3": "immediately",
+          "2": "getting",
+          "5": "left",
+          "6": "the",
+          "7": "a",
+          "8": "after",
+          "9": "telegram",
+          "10": "in",
+          "11": "got",
+          "12": "and"
+        },
+        "answers":[[4,11,6,9,12,3,5,10,7,1]]
+    },
+    {
+        "question": "Compound (যৌগিক বাক্য) to Complex (জটিল বাক্য): Dipanwita saw the danger and paused.",
+        "words": {
+          "4": "Dipanwita",
+          "1": "paused",
+          "3": "danger",
+          "2": "seeing",
+          "5": "then",
+          "6": "when",
+          "7": "the",
+          "8": "she",
+          "9": "after",
+          "10": "saw"
+        },
+        "answers":[[6,4,10,7,3,8,1]]
+    },
+    {
+        "question": "Complex (জটিল বাক্য) to Compound (যৌগিক বাক্য): Barun is more a philosopher than a poet.",
+        "words": {
+          "4": "Barun",
+          "1": "poet",
+          "3": "philosopher",
+          "2": "more",
+          "5": "something",
+          "6": "rather",
+          "7": "of a",
+          "8": "is",
+          "9": "but",
+          "10": "of a",
+          "11": "than"
+        },
+        "answers":[[4,8,5,7,1,9,6,2,10,3],[4,8,5,10,1,9,6,2,7,3]]
+    },{
+        "question": "Compound (যৌগিক বাক্য) to Complex (জটিল বাক্য): Do your best and you will never regret it.",
+        "words": {
+          "4": "you",
+          "1": "your",
+          "3": "regret",
+          "2": "do",
+          "5": "will",
+          "6": "it",
+          "7": "you",
+          "8": "if",
+          "9": "do not",
+          "10": "best",
+          "11": "never",
+          "12": "for"
+        },
+        "answers":[[8,4,2,1,10,7,5,11,3,6],[8,7,2,1,10,4,5,11,3,6]]
+    },
+    {
+        "question": "Complex (জটিল বাক্য) to Compound (যৌগিক বাক্য): If you do not hurry, you will miss the train.",
+        "words": {
+          "4": "you will",
+          "1": "train",
+          "3": "miss",
+          "2": "or",
+          "5": "hurry",
+          "6": "the",
+          "7": "you",
+          "8": "please",
+          "9": "must"
+        },
+        "answers":[[7,9,5,2,4,3,6,1]]
+    }
+]

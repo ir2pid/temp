@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "Why are you deaf in my request ?",
+    "option2": "Why are you deaf on my request ?",
+    "option3": "Why are you deaf at my request ?",
+    "option4": "Why are you deaf to my request ?",
+    "question": "কেন তুমি আমার অনুরোধে কর্ণপাত করছ না ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Mr. Gomes does his work according of rules.",
+    "option2": "Mr. Gomes does his work according by rules.",
+    "option3": "Mr. Gomes does his work according to rules.",
+    "option4": "Mr. Gomes does his work according on rules.",
+    "question": "মি. গোমস নিয়ম অনুসারে তার কাজ করেন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Barun is junior of Asit in experience.",
+    "option2": "Barun is junior to Asit in experience.",
+    "option3": "Barun is junior from Asit in experience.",
+    "option4": "Barun is junior than Asit in experience.",
+    "question": "বরুণ অসিতের চেয়ে অভিজ্ঞতায় ছোট",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is absent due for illness.",
+    "option2": "He is absent due to illness.",
+    "option3": "He is absent due from illness.",
+    "option4": "He is absent due of illness.",
+    "question": "সে অসুস্থতার কারণে অনুপস্থিত",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I am grateful to you for your help.",
+    "option2": "I am grateful on you for your help.",
+    "option3": "I am grateful of you for your help.",
+    "option4": "I am grateful at you for your help.",
+    "question": "আমি তোমার সাহায্যের জন্য তোমার প্রতি কৃতজ্ঞ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He is addicted of wine.",
+    "option2": "He is addicted to wine.",
+    "option3": "He is addicted with wine.",
+    "option4": "He is addicted in wine.",
+    "question": "সে মদে আসক্ত",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You should not be blind in your own faults.",
+    "option2": "You should not be blind on your own faults.",
+    "option3": "You should not be blind at your own faults.",
+    "option4": "You should not be blind to your own faults.",
+    "question": "নিজের দোষের প্রতি অন্ধ হওয়া তোমার উচিৎ নয়",
+    "correct": 4,
+    "isPicture": false
+    }
+]

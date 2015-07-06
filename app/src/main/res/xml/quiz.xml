@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quizzes>
+    <quiz name="verb" description="verb lesson">
+        <text>text goes here</text><!-- the question-->
+        <option>option1</option> <!-- first is correct, will be jumbled on display-->
+        <option>option2</option>
+        <option>option3</option>
+        <option>option4</option>
+    </quiz>
+    <quiz name="noun" description="noun lesson">
+        <text>text goes here</text>
+        <option>option1</option>
+        <option>option2</option>
+        <option>option3</option>
+        <option>option4</option>
+    </quiz>
+</quizzes>

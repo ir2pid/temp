@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "What are you going to be when you grow on ?",
+    "option2": "What are you going to be when you grow in ?",
+    "option3": "What are you going to be when you grow up ?",
+    "option4": "What are you going to be when you grow to ?",
+    "question": "তুমি বড় হয়ে কি হতে চাও ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "A lot of people look up to Swami Vivekananda.",
+    "option2": "A lot of people look over at Swami Vivekananda.",
+    "option3": "A lot of people look over to Swami Vivekananda.",
+    "option4": "A lot of people look up at Swami Vivekananda.",
+    "question": "প্রচুর লোক স্বামী বিবেকানন্দের মুখাপেক্ষী",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I am hardly interested on politics.",
+    "option2": "I am hardly interested in politics.",
+    "option3": "I am hardly interested of politics.",
+    "option4": "I am hardly interested to politics.",
+    "question": "আমার রাজনীতিতে কোন কৌতূহল নেই",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "There is nothing to be happy at your team's win.",
+    "option2": "There is nothing to be happy of your team's win.",
+    "option3": "There is nothing to be happy in your team's win.",
+    "option4": "There is nothing to be happy about your team's win.",
+    "question": "তোমার দলের জয় নিয়ে আনন্দ করার কিছু নেই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "What ! She is going to be married with a king !",
+    "option2": "What ! She is going to be married to a king !",
+    "option3": "What ! She is going to be married a king !",
+    "option4": "What ! She is going to be married by a king !",
+    "question": "কি ! তার একজন রাজার সঙ্গে বিবাহ হতে যাচ্ছে !",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "She does not have any reason to be jealous to me.",
+    "option2": "She does not have any reason to be jealous on me.",
+    "option3": "She does not have any reason to be jealous of me.",
+    "option4": "She does not have any reason to be jealous with me.",
+    "question": "তার আমার ওপর ঈর্ষান্বিত হওয়ার কোন কারণ নেই",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I am looking forward towards your birthday party.",
+    "option2": "I am looking forward for your birthday party.",
+    "option3": "I am looking forward of your birthday party.",
+    "option4": "I am looking forward to your birthday party.",
+    "question": "আমি তোমার জন্মদিনের অনুষ্ঠানের প্রত্যাশায় আছি",
+    "correct": 4,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "The earth moving around the sun.",
+    "option2": "The earth moves around the sun.",
+    "option3": "The earth moved around the sun.",
+    "option4": "The earth can move around the sun.",
+    "question": "পৃথিবী সূর্যের চারদিকে ঘোরে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I pushed the car, but it did not move.",
+    "option2": "I pushed the car, but it do not move.",
+    "option3": "I push the car, but it did not move.",
+    "option4": "I pushed the car, but it is not move.",
+    "question": "আমি গাড়িটা ঠেললাম, কিন্তু সেটা নড়ল না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Bharati said that she is not moving.",
+    "option2": "Bharati say that she did not move.",
+    "option3": "Bharati said that she did not move.",
+    "option4": "Bharati said that she does not move.",
+    "question": "ভারতী বলল যে সে নড়েনি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you like to move ?",
+    "option2": "Do you like to moving ?",
+    "option3": "Does you like to move ?",
+    "option4": "Did you like to move ?",
+    "question": "তোমার ঘুরতে ভালো লাগে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Which moved my chair ?",
+    "option2": "Who has moved my chair ?",
+    "option3": "Which has moved my chair ?",
+    "option4": "Who moved my chair ?",
+    "question": "আমার চেয়ারটা কে সরিয়েছে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Shall you use your pen ?",
+    "option2": "Do you use your pen ?",
+    "option3": "Did you used your pen ?",
+    "option4": "Did you use your pen ?",
+    "question": "তোমার পেন ব্যবহার করেছিলে ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Used it or lose it.",
+    "option2": "Use it or lose it.",
+    "option3": "Use it or lost it.",
+    "option4": "Using  it or lose it.",
+    "question": "ব্যবহার করো নাহলে খারাপ হয়ে যাবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We must use our brain when work.",
+    "option2": "We can use our brain when working.",
+    "option3": "We must used our brain when working.",
+    "option4": "We must use our brain when working.",
+    "question": "কাজ করতে আমরা অবশ্যই মাথা ব্যবহার করবো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He uses his left leg when playing.",
+    "option2": "He used his left leg when playing.",
+    "option3": "He uses his left leg when played.",
+    "option4": "He using his left leg when playing.",
+    "question": "সে খেলার সময় বাঁ পা কাজে লাগায়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The bin says, \"Please use me\".",
+    "option2": "The bin is saying, \"Use me\".",
+    "option3": "The bin says, \"Use me\".",
+    "option4": "The bin is saying, \"You please use me\".",
+    "question": "পাত্রটা বলে, \"আমায় ব্যবহার করো\"",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He living in this beautiful house.",
+    "option2": "He was live in this beautiful house.",
+    "option3": "He lives in this beautiful house.",
+    "option4": "He lived in this beautiful house.",
+    "question": "সে এই সুন্দর বাড়িটায় বাস করে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Babies shall  live on milk.",
+    "option2": "Babies lived on milk.",
+    "option3": "Babies are live on milk.",
+    "option4": "Babies live on milk.",
+    "question": "বাচ্চারা দুধের ওপর বাঁচে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Eating , then only you will live.",
+    "option2": "Eat , then only you will live.",
+    "option3": "Eat , then only you will living.",
+    "option4": "Eat , then only you  live.",
+    "question": "খাবার খাও, তবেই তুমি বাঁচবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Tortoise lived for long.",
+    "option2": "Tortoise lives for long.",
+    "option3": "Tortoise shall live for long.",
+    "option4": "Tortoise can live for long.",
+    "question": "কচ্ছপ অনেকদিন বাঁচে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I should not live if I do not work.",
+    "option2": "I may not live if I do not work.",
+    "option3": "I shall not live if I do not work.",
+    "option4": "I can not live if I do not work.",
+    "question": "যদি কাজ না করি আমি বাঁচব না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Mother will love her child.",
+    "option2": "Mother loves her child.",
+    "option3": "Mother loved her child.",
+    "option4": "Mother loving her child.",
+    "question": "মা তার বাচ্চাকে ভালবাসে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "If you have loved me, please take the flowers.",
+    "option2": "If you  loved me, please take the flowers.",
+    "option3": "If you  love me, please take the flowers.",
+    "option4": "If you have love , please taking  the flowers.",
+    "question": "যদি তুমি আমায় ভালোবেসেছ, দয়া করে ফুল নাও",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The teacher said,\"Take him my love\".",
+    "option2": "The teacher said,\"Love him\".",
+    "option3": "The teacher said,\"Give him my love\".",
+    "option4": "The teacher said,\"Gave him my love\".",
+    "question": "শিক্ষক বললেন,\"তাকে আমার ভালোবাসা দিয়ো\"",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Who did not love flowers ?",
+    "option2": "Who does not loving flowers ?",
+    "option3": "Who can not love flowers ?",
+    "option4": "Who does not love flowers ?",
+    "question": "ফুল কে না ভালবাসে ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Everybody wants to be loving.",
+    "option2": "Everybody wants to love.",
+    "option3": "Everybody wants to loved.",
+    "option4": "Everybody wants to be loved.",
+    "question": "সবাই ভালোবাসা পেতে চায়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Who do not like babies !",
+    "option2": "Who does not like babies !",
+    "option3": "Who does not liked babies !",
+    "option4": "Who did not like babies !",
+    "question": "শিশুদের কে না পছন্দ করে !",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Barun was liked by all.",
+    "option2": "Barun was liking by all.",
+    "option3": "Barun is liked by all.",
+    "option4": "Barun can be liked by all.",
+    "question": "বরুণ ছিল সবার পছন্দের",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Mr. Johnson liking  good food.",
+    "option2": "Mr. Johnson likes to good food.",
+    "option3": "Mr. Johnson liked good food.",
+    "option4": "Mr. Johnson likes good food.",
+    "question": "মি. জনসন ভালো খাবার পছন্দ করেন",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you not  like him ?",
+    "option2": "Did you not  like him ?",
+    "option3": "Do you not  liking him ?",
+    "option4": "Are you not  like him ?",
+    "question": "তুমি কি তাকে পছন্দ করো না ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Santanu likes for sing.",
+    "option2": "Santanu likes to sing.",
+    "option3": "Santanu is liking to sing.",
+    "option4": "Santanu has liked to singing.",
+    "question": "শান্তনু গান করতে ভালোবাসে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "She will help the baby can stand.",
+    "option2": "She will help the baby standing.",
+    "option3": "She help the baby to stand.",
+    "option4": "She will help the baby to stand.",
+    "question": "সে বাচ্চাটিকে দাঁড়াতে সাহায্য করবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I was helped by Moinak.",
+    "option2": "I was helping by Moinak.",
+    "option3": "I was helping Moinak.",
+    "option4": "I am helped by Moinak.",
+    "question": "আমি মৈনাকের দ্বারা সাহায্যপ্রাপ্ত হয়েছিলাম",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You should helped him.",
+    "option2": "You should help him.",
+    "option3": "You should helping him.",
+    "option4": "You should be help him.",
+    "question": "ওকে তোমার সাহায্য করা উচিৎ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "May God helps you.",
+    "option2": "May God helping you.",
+    "option3": "May God help you.",
+    "option4": "God can help you.",
+    "question": "ভগবান তোমায় সাহায্য করুন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The girl was crying, \"Please help me\".",
+    "option2": "The girl had cried, \"Please help me\".",
+    "option3": "The girl cried, \"Please helping me\".",
+    "option4": "The girl has cried, \"Please helping me\".",
+    "question": "মেয়েটি কেঁদে বলল, \"দয়া করে আমায় সাহায্য করো\"",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Two friends meet after many years.",
+    "option2": "Two friends meeting after many years.",
+    "option3": "Two friends met after many years.",
+    "option4": "Two friends are met after many years.",
+    "question": "দুই বন্ধুর বহু বছর পর দেখা হলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Should I meet up with this boy ?",
+    "option2": "Can I meet up with this boy ?",
+    "option3": "Shall I meeting up with this boy ?",
+    "option4": "Could I meeting up with this boy ?",
+    "question": "আমার কি ছেলেটির সঙ্গে দেখা করা ঠিক হবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "We will meet and talked at night.",
+    "option2": "We will meet and talk at night.",
+    "option3": "We  meet and talk at night.",
+    "option4": "We meeting and talk at night.",
+    "question": "রাতে আমরা দেখা করে কথা বলব",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you meet him ?",
+    "option2": "Could you met him ?",
+    "option3": "Could you meet him ?",
+    "option4": "Could you meeting him ?",
+    "question": "তার দেখা পেলে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I think that we have met before.",
+    "option2": "I am thinking that we have meeted before.",
+    "option3": "I think that we have meeted before.",
+    "option4": "I am thinking that we meeted before.",
+    "question": "আমার মনে হয় যে আমাদের আগে দেখা হয়েছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Set the picture  the wall.",
+    "option2": "Set the picture in the wall.",
+    "option3": "Setting the picture on the wall.",
+    "option4": "Set the picture on the wall.",
+    "question": "ছবিটা দেওয়ালে টাঙাও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He sets out the journey.",
+    "option2": "He setting out the journey.",
+    "option3": "He sets in the journey.",
+    "option4": "He can set out the journey.",
+    "question": "সে যাত্রা শুরু করলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "If you want I was setting your hair.",
+    "option2": "If you wanted I am setting your hair.",
+    "option3": "If you want I am setting your hair.",
+    "option4": "If you want I set your hair.",
+    "question": "যদি তুমি চাও , আমি তোমার চুল সেট করে দিচ্ছি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you set the flower there ?",
+    "option2": "Do you set the flower there ?",
+    "option3": "Can you set the flower there ?",
+    "option4": "Are you setting the flower there ?",
+    "question": "ফুলটা কি তুমি ওখানে বসিয়েছো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "\"Set the birds for free\", cries the child.",
+    "option2": "\"Set the birds free\", cried the child.",
+    "option3": "\"Setting the birds for free\", cried the child.",
+    "option4": "\"Set the birds to be free\", cries the child.",
+    "question": "বাচ্চাটি কেঁদে বলল, \"পাখিদের ছেড়ে দাও\"",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Manasi is started reading the book.",
+    "option2": "Manasi had started reading the book.",
+    "option3": "Manasi  started reading the book.",
+    "option4": "Manasi has started reading the book.",
+    "question": "মানসী বইটা পড়া শুরু করেছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He starts a new business.",
+    "option2": "He starting a new business.",
+    "option3": "He is start a new business.",
+    "option4": "He started a new business.",
+    "question": "সে একটা নতুন ব্যবসা শুরু করলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Why did you not start to eat ?",
+    "option2": "Why are you not starting to eat ?",
+    "option3": "Why are you not start eating ?",
+    "option4": "Why do you not starting eating ?",
+    "question": "কেন  তুমি খেতে শুরু করছো না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Start to do the work.",
+    "option2": "Start doing the work.",
+    "option3": "Start doing the working.",
+    "option4": "Start do the work.",
+    "question": "কাজটা শুরু করে দাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Learn to starting the day well.",
+    "option2": "Learn how to starting the day well.",
+    "option3": "Learn to start the day well.",
+    "option4": "Learn for starting the day well.",
+    "question": "দিনটা ভালো করে শুরু করতে শেখো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Let us ended our fight.",
+    "option2": "Let us to end our fight.",
+    "option3": "Let us ending our fight.",
+    "option4": "Let us end our fight.",
+    "question": "চলো আমাদের লড়াই বন্ধ করি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "All stories come to an end sometime.",
+    "option2": "All stories will come to an end sometime.",
+    "option3": "All stories are come to an end sometime.",
+    "option4": "All stories are coming to an end sometime.",
+    "question": "সব গল্পই একসময় শেষ হবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "All is well that ends well.",
+    "option2": "All is well that end well.",
+    "option3": "All is well that ending well.",
+    "option4": "All is well that ended well.",
+    "question": "শেষ ভাল হলে সব ভাল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "In cinema police comes of the end.",
+    "option2": "In cinema police comes at the end.",
+    "option3": "In cinema police came at the end.",
+    "option4": "In cinema police coming at the end.",
+    "question": "সিনেমায় পুলিস শেষে আসে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He had ended the race as first.",
+    "option2": "He is ending the race as first.",
+    "option3": "He ends the race as first.",
+    "option4": "He has ended the race as first.",
+    "question": "সে প্রথম হয়ে দৌড় শেষ করলো",
+    "correct": 1,
+    "isPicture": false
+    }
+]

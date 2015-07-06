@@ -1,0 +1,92 @@
+[
+    {
+    "option1": "Ameena completed her graduation in the age of twenty one.",
+    "option2": "Ameena completed her graduation till the age of twenty one.",
+    "option3": "Ameena completed her graduation at the age of twenty one.",
+    "option4": "Ameena completed her graduation on the age of twenty one.",
+    "question": "আমিনা একুশ বছর বয়সে স্নাতক হয়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It is ten minutes past ten o’clock now.",
+    "option2": "It is ten minutes after ten o’clock now.",
+    "option3": "It is ten minutes back ten o’clock now.",
+    "option4": "It is ten minutes since ten o’clock now.",
+    "question": "এখন বাজে দশটা বেজে দশ মিনিট",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I must finish this work before tomorrow.",
+    "option2": "I must finish this work in tomorrow.",
+    "option3": "I must finish this work on tomorrow.",
+    "option4": "I must finish this work by tomorrow.",
+    "question": "কালকের মধ্যে আমায় এই কাজটা শেষ করতে হবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "At the moment I have no work in hand.",
+    "option2": "On the moment I have no work in hand.",
+    "option3": "For the moment I have no work in hand.",
+    "option4": "To the moment I have no work in hand.",
+    "question": "এই মুহূর্তে আমার হাতে কোন কাজ নেই",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "By this day Soham remembers his grandmother’s fairy tales.",
+    "option2": "On this day Soham remembers his grandmother’s fairy tales.",
+    "option3": "To this day Soham remembers his grandmother’s fairy tales.",
+    "option4": "At this day Soham remembers his grandmother’s fairy tales.",
+    "question": "ঠাকুমার রূপকথাগুলি সোহমের আজও (আজ অবধি) মনে আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It is fifty minutes for eleven o’clock now.",
+    "option2": "It is fifty minutes before eleven o’clock now.",
+    "option3": "It is fifty minutes to eleven o’clock now.",
+    "option4": "It is fifty minutes till eleven o’clock now.",
+    "question": "এখন ১১টা বাজতে ৫০ মিনিট বাকি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The friends have thought of meeting for the weekend.",
+    "option2": "The friends have thought of meeting to the weekend.",
+    "option3": "The friends have thought of meeting in the weekend.",
+    "option4": "The friends have thought of meeting at the weekend.",
+    "question": "বন্ধুরা সপ্তাহশেষে মিলিত হবে, ভেবেছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Come to the field at six o clock.",
+    "option2": "Come to the field by six o clock.",
+    "option3": "Come to the field before six o clock.",
+    "option4": "Come to the field on six o clock.",
+    "question": "ছটার ভেতর মাঠে এসো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The meeting should start at a time when everybody can come.",
+    "option2": "The meeting should start on a time when everybody can come.",
+    "option3": "The meeting should start in a time when everybody can come.",
+    "option4": "The meeting should start by a time when everybody can come.",
+    "question": "সভা এমন সময় শুরু হওয়া উচিৎ যখন প্রত্যেকে আসতে পারে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "At that time I was used to the hot weather.",
+    "option2": "In that time I was used to the hot weather.",
+    "option3": "During that time I was used to the hot weather.",
+    "option4": "By that time I was used to the hot weather.",
+    "question": "ততদিনে (ততদিনের মধ্যে) আমার তপ্ত আবহাওয়ায় অভ্যেস হয়ে গেছিল",
+    "correct": 4,
+    "isPicture": false
+    }
+]

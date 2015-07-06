@@ -1,0 +1,780 @@
+[
+    {
+        "question": "আমার মা ভালো রান্না করে",
+        "words": {
+          "4": "mother",
+          "1": "well",
+          "3": "cooked",
+          "2": "cooking",
+          "5": "cooks",
+          "6": "my",
+          "7": "has"
+        },
+        "answers":[[6,4,5,1]]
+    },
+    {
+        "question": "গল্পটা বানানো হয়েছিল",
+        "words": {
+          "4": "story",
+          "1": "up",
+          "3": "was",
+          "2": "the",
+          "5": "is",
+          "6": "cooked",
+          "7": "cooking",
+          "8": "cook"
+        },
+        "answers":[[2,4,3,6,1]]
+    },
+    {
+        "question": "তুমি কি রান্না করতে ভালোবাসো ?",
+        "words": {
+          "4": "did",
+          "1": "love",
+          "3": "are",
+          "2": "cook",
+          "5": "do",
+          "6": "to",
+          "7": "you",
+          "8": "cooking",
+          "9": "have"
+        },
+        "answers":[[5,7,1,6,2]]
+    },
+    {
+        "question": "সে আমায় ডাকল্, 'এস, ভাত রাঁধো'",
+        "words": {
+          "4": "he",
+          "1": "me",
+          "3": "calls",
+          "2": "cook",
+          "5": "come",
+          "6": "called",
+          "7": "cooked",
+          "8": "rice",
+          "9": "to"
+        },
+        "answers":[[4,6,1,5,2,8]]
+    },
+    {
+        "question": "সে রান্না করছিল ও আমি সাহায্য করছিলাম",
+        "words": {
+          "4": "I",
+          "1": "she",
+          "3": "cooked",
+          "2": "helped",
+          "5": "was",
+          "6": "and",
+          "7": "cooking",
+          "8": "helping",
+          "9": "was"
+        },
+        "answers":[[1,5,7,6,4,9,8],[1,9,7,6,4,5,8]]
+    },
+    {
+        "question": "শৌভিক গাড়ি চালাতে ভালবাসে",
+        "words": {
+          "4": "Souvik",
+          "1": "driving",
+          "3": "to",
+          "2": "likes",
+          "5": "has",
+          "6": "drive",
+          "7": "the",
+          "8": "like"
+        },
+        "answers":[[4,2,3,6]]
+    },
+    {
+        "question": "সে আমাকে পাগল করে দিয়েছে",
+        "words": {
+          "4": "mad",
+          "1": "was",
+          "3": "he",
+          "2": "driven",
+          "5": "had",
+          "6": "me",
+          "7": "has",
+          "8": "drives"
+        },
+        "answers":[[3,7,2,6,4]]
+    },
+    {
+        "question": "ভীড়ে গাড়ি চালানো সহজ নয়",
+        "words": {
+          "4": "it",
+          "1": "not",
+          "3": "drive",
+          "2": "has",
+          "5": "in",
+          "6": "is",
+          "7": "driving",
+          "8": "was",
+          "9": "easy",
+          "10": "crowded",
+          "11": "to",
+          "12": "driven",
+          "13": "road"
+        },
+        "answers":[[4,6,1,9,11,3,5,10,13]]
+    },
+    {
+        "question": "গাড়ি চালানোর সময় ঘুমোনো উচিৎ কি ?",
+        "words": {
+          "4": "you",
+          "1": "when",
+          "3": "do",
+          "2": "drive",
+          "5": "sleep",
+          "6": "driving",
+          "7": "should",
+          "8": "you"
+        },
+        "answers":[[7,4,5,1,8,2]]
+    },
+    {
+        "question": "আমি ক্যানিং অবধি নিরাপদে চালিয়েছিলাম ",
+        "words": {
+          "4": "Canning",
+          "1": "drove",
+          "3": "have",
+          "2": "till",
+          "5": "driven",
+          "6": "I",
+          "7": "had",
+          "8": "safely",
+          "9": "drived"
+        },
+        "answers":[[6,1,8,2,4]]
+    },
+    {
+        "question": "হুসেন চমৎকার আঁকে",
+        "words": {
+          "4": "wonderfully",
+          "1": "is",
+          "3": "paints",
+          "2": "can",
+          "5": "Hussain",
+          "6": "painting"
+        },
+        "answers":[[5,3,4]]
+    },
+    {
+        "question": "দেওয়ালটায় নীল রঙ করা হয়েছিল",
+        "words": {
+          "4": "wall",
+          "1": "blue",
+          "3": "had",
+          "2": "in",
+          "5": "painting",
+          "6": "was",
+          "7": "the",
+          "8": "paint",
+          "9": "has",
+          "10": "painted"
+        },
+        "answers":[[7,4,6,10,2,1]]
+    },
+    {
+        "question": "তিতলি তুলি দিয়ে ভালো আঁকে",
+        "words": {
+          "4": "Titli",
+          "1": "has",
+          "3": "well",
+          "2": "painted",
+          "5": "brush",
+          "6": "with",
+          "7": "paints",
+          "8": "is",
+          "9": "very",
+          "10": "painting"
+        },
+        "answers":[[4,7,6,5,9,3]]
+    },
+    {
+        "question": "আঁকা শিখতে হয়",
+        "words": {
+          "4": "painting",
+          "1": "one",
+          "3": "to",
+          "2": "has",
+          "5": "learn",
+          "6": "should",
+          "7": "paints",
+          "8": "learns"
+        },
+        "answers":[[1,2,3,5,4]]
+    },
+    {
+        "question": "যদি এঁকেছো তো রঙ করোনি কেন ?",
+        "words": {
+          "4": "if",
+          "1": "paint",
+          "3": "have draw",
+          "2": "you",
+          "5": "not",
+          "6": "have drawn",
+          "7": "painted",
+          "8": "why",
+          "9": "have",
+          "10": "have drawed",
+          "11": "you"
+        },
+        "answers":[[4,2,6,8,9,11,5,7],[4,11,6,8,9,2,5,7]]
+    },
+    {
+        "question": "নাচের আগে ঠিক করে দাঁড়াতে শেখো",
+        "words": {
+          "4": "standing",
+          "1": "dancing",
+          "3": "learning",
+          "2": "well",
+          "5": "to",
+          "6": "stand",
+          "7": "dance",
+          "8": "learn",
+          "9": "before"
+        },
+        "answers":[[8,5,6,2,9,1]]
+    },
+    {
+        "question": "খারাপ লোকের কথায় নেচো না",
+        "words": {
+          "4": "don't",
+          "1": "tuning",
+          "3": "bad",
+          "2": "danced",
+          "5": "to",
+          "6": "of",
+          "7": "tune",
+          "8": "dancing",
+          "9": "man",
+          "10": "the",
+          "11": "a",
+          "12": "dance"
+        },
+        "answers":[[4,12,5,10,7,6,11,3,9]]
+    },
+    {
+        "question": "তুমি নাচতে চাইছো না ?",
+        "words": {
+          "4": "don't",
+          "1": "dancing",
+          "3": "dance",
+          "2": "want",
+          "5": "you",
+          "6": "to",
+          "7": "wanted"
+        },
+        "answers":[[4,5,2,6,3]]
+    },
+    {
+        "question": "নাচছো, না লাথি মারছো ?",
+        "words": {
+          "4": "do",
+          "1": "dance",
+          "3": "kicking",
+          "2": "or",
+          "5": "you",
+          "6": "dancing",
+          "7": "kick",
+          "8": "are"
+        },
+        "answers":[[8,5,6,2,3]]
+    },
+    {
+        "question": "আমি নাচলাম, তারপর পড়ে গেলাম",
+        "words": {
+          "4": "I",
+          "1": "then",
+          "3": "had",
+          "2": "down",
+          "5": "dancing",
+          "6": "fallen",
+          "7": "fell",
+          "8": "falling",
+          "9": "danced",
+          "10": "was"
+
+        },
+        "answers":[[4,3,9,1,7,2]]
+    },
+    {
+        "question": "রাস্তার খাবার খেতে ভালো",
+        "words": {
+          "4": "roadside",
+          "1": "tasted",
+          "3": "is",
+          "2": "tastes",
+          "5": "well",
+          "6": "food",
+          "7": "taste"
+        },
+        "answers":[[4,6,2,5]]
+    },
+    {
+        "question": "বাঘটি মানুষের রক্তের স্বাদ পেয়েছে",
+        "words": {
+          "4": "tiger",
+          "1": "man",
+          "3": "tasted",
+          "2": "the",
+          "5": "tastes",
+          "6": "blood",
+          "7": "has",
+          "8": "of",
+          "9": "tasting",
+          "10": "was"
+        },
+        "answers":[[2,4,7,3,6,8,1]]
+    },
+    {
+        "question": "ভালো স্বাদ মানেই ভালো খাবার নয়",
+        "words": {
+          "4": "do",
+          "1": "food",
+          "3": "tasty",
+          "2": "does",
+          "5": "good",
+          "6": "not",
+          "7": "taste",
+          "8": "good",
+          "9": "is",
+          "10": "mean"
+        },
+        "answers":[[5,7,2,6,10,8,1],[8,7,2,6,10,5,1]]
+    },
+    {
+        "question": "স্বাদ নেওয়ার আগে কুকুর শুঁকে নেয়",
+        "words": {
+          "4": "dogs",
+          "1": "tasted",
+          "3": "they",
+          "2": "smell",
+          "5": "taste",
+          "6": "before",
+          "7": "have"
+        },
+        "answers":[[4,2,6,3,5]]
+    },
+    {
+        "question": "সে বলল যে সে কখনো ফুচকা খেয়ে দেখেনি ",
+        "words": {
+          "4": "fuchka",
+          "1": "says",
+          "3": "tastes",
+          "2": "he",
+          "5": "that",
+          "6": "saying",
+          "7": "tasting",
+          "8": "nevr",
+          "9": "was",
+          "10": "said",
+          "11": "tasted",
+          "12": "he",
+          "13": "had"
+        },
+        "answers":[[2,10,5,12,8,11,4],[12,10,5,2,8,11,4]]
+    },
+    {
+        "question": "তোমার গান আমায় ছুঁয়ে গিয়েছে",
+        "words": {
+          "4": "I",
+          "1": "your",
+          "3": "touching",
+          "2": "was",
+          "5": "by",
+          "6": "touched",
+          "7": "am",
+          "8": "music"
+        },
+        "answers":[[4,7,6,5,1,8]]
+    },
+    {
+        "question": "তোমার রংকরাটা একটু ঠিক করে দিতে হবে",
+        "words": {
+          "4": "am",
+          "1": "work",
+          "3": "I",
+          "2": "your",
+          "5": "touch",
+          "6": "paint",
+          "7": "have",
+          "8": "up",
+          "9": "touched",
+          "10": "work",
+          "11": "had",
+          "12": "to"
+        },
+        "answers":[[3,7,12,5,8,2,6,1]]
+    },
+    {
+        "question": "ফুলটা জোরে ছুঁয়ো না",
+        "words": {
+          "4": "don't",
+          "1": "hard",
+          "3": "touch",
+          "2": "flower",
+          "5": "touching",
+          "6": "the",
+          "7": "so",
+          "8": "touched"
+        },
+        "answers":[[4,3,6,2,7,1]]
+    },
+    {
+        "question": "ডাক্তার কি বলতে পারে, \"আমি রোগীকে ছোঁব না\" ?",
+        "words": {
+          "4": "does",
+          "1": "a doctor",
+          "3": "a patient",
+          "2": "can",
+          "5": "touch",
+          "6": "say",
+          "7": "should",
+          "8": "I",
+          "9": "not",
+          "10": "touching",
+          "11": "saying",
+          "12": "not",
+          "13": "shall"
+        },
+        "answers":[[2,1,6,8,13,9,5,3]]
+    },
+    {
+        "question": "সে গুরুর পা স্পর্শ করছিল",
+        "words": {
+          "4": "he",
+          "1": "Guru",
+          "3": "had",
+          "2": "of",
+          "5": "touching",
+          "6": "feet",
+          "7": "was",
+          "8": "the",
+          "9": "touched"
+        },
+        "answers":[[4,7,5,8,6,2,1]]
+    },
+    {
+        "question": "আমি কি তোমার হাত ধরতে পারি ?",
+        "words": {
+          "4": "do",
+          "1": "hand",
+          "3": "held",
+          "2": "I",
+          "5": "your",
+          "6": "hold",
+          "7": "may",
+          "8": "to",
+          "9": "holding"
+        },
+        "answers":[[7,2,6,5,1]]
+    },
+    {
+        "question": "ইশ, আমি যদি দেবের হাত ধরতে পারতাম !",
+        "words": {
+          "4": "oh,",
+          "1": "I",
+          "3": "hand",
+          "2": "can",
+          "5": "hold",
+          "6": "am",
+          "7": "if",
+          "8": "Deb's",
+          "9": "could",
+          "10": "holding"
+        },
+        "answers":[[4,7,1,9,5,8,3]]
+    },
+    {
+        "question": "বৃদ্ধ বললেন,\"আমার হাত ধরো\"",
+        "words": {
+          "4": "old",
+          "1": "hand",
+          "3": "says",
+          "2": "hold",
+          "5": "man",
+          "6": "my",
+          "7": "said",
+          "8": "held",
+          "9": "the",
+          "10": "saying",
+          "11": "holding"
+        },
+        "answers":[[9,4,5,7,2,6,1]]
+    },
+    {
+        "question": "আমি জল খেয়েছি, গেলাসটা এবার ধরো",
+        "words": {
+          "4": "I",
+          "1": "glass",
+          "3": "drinking",
+          "2": "holding",
+          "5": "water",
+          "6": "have",
+          "7": "drink",
+          "8": "hold",
+          "9": "am",
+          "10": "now",
+          "11": "the",
+          "12": "drunk",
+          "13": "held"
+        },
+        "answers":[[4,6,12,5,10,8,11,1]]
+    },
+    {
+        "question": "গীতা শক্ত করে এটা ধরলো",
+        "words": {
+          "4": "Geeta",
+          "1": "tightly",
+          "3": "has",
+          "2": "hold",
+          "5": "held",
+          "6": "holding",
+          "7": "holded",
+          "8": "had",
+          "9": "it",
+          "10": "tight"
+        },
+        "answers":[[4,8,5,9,1]]
+    },
+    {
+        "question": "তারা সবাই টুপি পরেছিল",
+        "words": {
+          "4": "all",
+          "1": "hat",
+          "3": "wearing",
+          "2": "them",
+          "5": "are",
+          "6": "wore",
+          "7": "of",
+          "8": "were",
+          "9": "they"
+        },
+        "answers":[[4,7,2,6,1]]
+    },
+    {
+        "question": "যদি ঘড়ি পরে থাকো তো সময়টা বলো",
+        "words": {
+          "4": "you",
+          "1": "watch",
+          "3": "time",
+          "2": "wearing",
+          "5": "me",
+          "6": "the",
+          "7": "had",
+          "8": "worn",
+          "9": "if",
+          "10": "tell",
+          "11": "have",
+          "12": "wear"
+        },
+        "answers":[[9,4,11,8,1,10,5,6,3]]
+    },
+    {
+        "question": "এটা কী জামা পরেছো ?",
+        "words": {
+          "4": "wearing",
+          "1": "type",
+          "3": "you",
+          "2": "wear",
+          "5": "shirt",
+          "6": "what",
+          "7": "worn",
+          "8": "do",
+          "9": "did",
+          "10": "of",
+          "11": "have",
+          "12": "had"
+        },
+        "answers":[[6,1,10,5,11,3,7]]
+    },
+    {
+        "question": "এই নতুন পোষাকটা পরতে আমায় সাহায্য করবে ?",
+        "words": {
+          "4": "you",
+          "1": "new",
+          "3": "helping",
+          "2": "wearing",
+          "5": "do",
+          "6": "this",
+          "7": "help",
+          "8": "wear",
+          "9": "can",
+          "10": "me",
+          "11": "dress",
+          "12": "to",
+          "13": "will"
+        },
+        "answers":[[9,4,7,10,12,8,6,1,11]]
+    },
+    {
+        "question": "ধনী লোকেরা শৌখিন পোষাক পরে",
+        "words": {
+          "4": "rich",
+          "1": "dress",
+          "3": "wear",
+          "2": "men",
+          "5": "have",
+          "6": "wearing",
+          "7": "fine",
+          "8": "are",
+          "9": "wore"
+        },
+        "answers":[[4,2,3,7,1]]
+    },
+    {
+        "question": "শ্রী তিনঘন্টা টিভি দেখে",
+        "words": {
+          "4": "Shree",
+          "1": "hours",
+          "3": "watched",
+          "2": "for",
+          "5": "is",
+          "6": "watches",
+          "7": "three",
+          "8": "TV",
+          "9": "watching"
+        },
+        "answers":[[4,6,8,2,7,1]]
+    },
+    {
+        "question": "আমি লক্ষ্য করলাম যে সে একটা ঘড়ি পরেছিল",
+        "words": {
+          "4": "I",
+          "1": "wearing",
+          "3": "watching",
+          "2": "a",
+          "5": "is",
+          "6": "watch",
+          "7": "was",
+          "8": "that",
+          "9": "watched",
+          "10": "wore",
+          "11": "am",
+          "12": "he"
+        },
+        "answers":[[4,9,8,12,10,2,6]]
+    },
+    {
+        "question": "ছেলেটাকে লক্ষ্য করো",
+        "words": {
+          "4": "boy",
+          "1": "watch",
+          "3": "watching",
+          "2": "watched",
+          "5": "the"
+        },
+        "answers":[[1,5,4]]
+    },
+    {
+        "question": "এই বাজে সিনেমাটা আমায় দেখতে হবে ?",
+        "words": {
+          "4": "cinema",
+          "1": "do",
+          "3": "have",
+          "2": "watch",
+          "5": "shall",
+          "6": "bad",
+          "7": "this",
+          "8": "I",
+          "9": "to",
+          "10": "had"
+        },
+        "answers":[[5,8,3,9,2,7,6,4]]
+    },
+    {
+        "question": "আমি সিনেমাটা দেখব আশা করি",
+        "words": {
+          "4": "cinema",
+          "1": "hope",
+          "3": "watching",
+          "2": "I",
+          "5": "to",
+          "6": "watch",
+          "7": "hoped",
+          "8": "the",
+          "9": "for"
+        },
+        "answers":[[2,1,5,6,8,4]]
+    },
+    {
+        "question": "তার ভাই আমায় অঙ্ক শিখিয়েছিল",
+        "words": {
+          "4": "Mathematics",
+          "1": "had",
+          "3": "me",
+          "2": "brother",
+          "5": "teaches",
+          "6": "been",
+          "7": "his",
+          "8": "taught"
+        },
+        "answers":[[7,2,8,3,4]]
+    },
+    {
+        "question": "নায়ক খলনায়ককে বেশ শিক্ষা দেবে",
+        "words": {
+          "4": "taught",
+          "1": "the hero",
+          "3": "the villain",
+          "2": "lesson",
+          "5": "teaches",
+          "6": "to",
+          "7": "a",
+          "8": "teach",
+          "9": "be",
+          "10": "will"
+        },
+        "answers":[[1,10,8,7,2,6,3]]
+    },
+    {
+        "question": "তুমি শেখাতে চাও ?",
+        "words": {
+          "4": "did",
+          "1": "teach",
+          "3": "want",
+          "2": "do",
+          "5": "to",
+          "6": "you",
+          "7": "teaching",
+          "8": "are"
+        },
+        "answers":[[2,6,3,5,1]]
+    },
+    {
+        "question": "শিক্ষক শেখালেন, কিন্তু ছাত্ররা শিখতে পারল না",
+        "words": {
+          "4": "the teacher",
+          "1": "can",
+          "3": "the students",
+          "2": "did",
+          "5": "but",
+          "6": "do",
+          "7": "taught",
+          "8": "has",
+          "9": "learn",
+          "10": "could",
+          "11": "teaches",
+          "12": "not"
+        },
+        "answers":[[4,7,5,3,10,12,9]]
+    },
+    {
+        "question": "বোধহয় সে আমায় ইংরিজি শেখাবে",
+        "words": {
+          "4": "Perhaps",
+          "1": "teaching",
+          "3": "he",
+          "2": "the",
+          "5": "teach",
+          "6": "is",
+          "7": "English",
+          "8": "me",
+          "9": "taught",
+          "10": "will"
+        },
+        "answers":[[4,3,10,5,8,7]]
+    }
+]

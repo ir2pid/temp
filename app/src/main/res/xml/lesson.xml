@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lessons>
+    <lesson name="verb" description="verb lesson">
+        <img>image1.png</img>
+        <text>text goes here</text>
+    </lesson>
+    <lesson name="noun" description="noun lesson">
+        <img>image2.png</img>
+        <text>text goes here</text>
+    </lesson>
+</lessons>

@@ -1,0 +1,62 @@
+[
+                      { 
+                        "image1": "calloff",             
+                        "name": "Bgv1-Lesson2 (1)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Call off</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;বাতিল করা, উঠিয়ে নেওয়া",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "The umpire <font color='#ED7745'>called off</font> (<i>cancelled</i>) the match. <br> <br>আম্পায়ার খেলাটি বাতিল করে দিয়েছিলেন । <br> <br> <br>The strike was <font color='#ED7745'>called off</font> (<i>withdrawn</i>). <br> <br>ধর্মঘট উঠিয়ে নেওয়া হয়েছিল ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "callon",             
+                        "name": "Bgv1-Lesson2 (2)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Call on</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;দেখা করা, অনুরোধ করে ডাকা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "I <font color='#ED7745'>called on</font> (<i>visited</i>) her at her office. <br> <br>আমি তার সঙ্গে তার অফিসে দেখা করেছিলাম । <br> <br> <br>We have to <font color='#ED7745'>call on</font> (<i>request to do something</i>) our friends to help us. <br> <br>আমাদের বন্ধুদের আমাদের সাহায্য করতে ডাকতে (অনুরোধ করতে) হবে ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "callup",             
+                        "name": "Bgv1-Lesson2 (3)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Call up</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;স্মরণ করা, ডাক পাওয়া",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "The old man is not able to <font color='#ED7745'>call up</font> (<i>remember</i>) past events. <br> <br>বৃদ্ধ মানুষটি পুরানো ঘটনা মনে করতে পারছেন না । <br> <br> <br>The retired General has been <font color='#ED7745'>called up</font> (<i>recalled</i>) to do military service again. <br> <br>অবসরপ্রাপ্ত জেনেরালটি আবার সামরিক কাজ করার ডাক পেয়েছেন ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "carryout",             
+                        "name": "Bgv1-Lesson2 (4)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Carry out</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;পালন করা, চালনা করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "The soldiers <font color='#ED7745'>carry out</font> (<i>execute</i>) the order of the general. <br> <br>সৈনিকেরা জেনারেলের  আদেশ পালন করে । <br> <br> <br>The 'Kanyashree' project is being <font color='#ED7745'>carried out</font> (<i>put into practice</i>) successfully. <br> <br>'কন্যাশ্রী' প্রকল্পটি সাফল্যের সঙ্গে বাস্তবায়িত হচ্ছে ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "comeacross",             
+                        "name": "Bgv1-Lesson2 (5)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Come across</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;দেখা হওয়া, দেখা পাওয়া",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "They <font color='#ED7745'>came across</font> (<i>met</i>) the lame man on the way. <br> <br>তারা যাবার পথে খোঁড়া লোকটির দেখা পেয়েছিল । <br> <br> <br>I can remember <font color='#ED7745'>coming across</font> (<i>finding</i>) this problem before. <br> <br>আমি আগে এই সমস্যাটির সম্মুখীন হওয়ার কথা মনে করতে পারছি ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "comeby",             
+                        "name": "Bgv1-Lesson2 (6)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Come by</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;পাওয়া",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "How did you <font color='#ED7745'>come by</font> (<i>get</i>) this money ? <br> <br>এই টাকা তুমি কি করে পেলে ? <br> <br> <br>Houses are hard to <font color='#ED7745'>come by</font> (<i>get</i>) in this locality. <br> <br>এ পাড়ায় বাড়ি পাওয়া শক্ত ।",
+                        "description": ""
+                      }
+]

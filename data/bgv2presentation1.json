@@ -1,0 +1,62 @@
+[
+                      { 
+                        "image1": "layby",             
+                        "name": "Bgv2-Lesson1 (1)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Lay by</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;সঞ্চয় করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "You must <font color='#ED7745'>lay by</font> (<i>save</i>) something for the future. <br> <br>ভবিষ্যতের জন্য তোমার কিছু সঞ্চয় করা উচিৎ । <br> <br> <br>My father <font color='#ED7745'>laid by</font> (<i>left</i>) nothing for me except his genes. <br> <br>আমার বাবা আমার জন্য তাঁর জিন ছাড়া আর কিছুই রেখে যান নি ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "laydown",             
+                        "name": "Bgv2-Lesson1 (2)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Lay down</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;বিসর্জন দেওয়া, সমর্পন করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Khudiram <font color='#ED7745'>laid down</font> (<i>sacrificed</i>) his life for India. <br> <br>ক্ষুদিরাম ভারতবর্ষের জন্য তাঁর জীবন বিসর্জন দিয়েছিলেন । <br> <br> <br>Some Maoists have <font color='#ED7745'>laid down</font> (<i>surrendered</i>) their arms. <br> <br>কিছু মাওবাদী তাদের অস্ত্র সমর্পন করেছে ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "lookafter",             
+                        "name": "Bgv2-Lesson1 (3)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Look after</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;তত্ত্বাবধান করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "The boy <font color='#ED7745'>looks after</font> (<i>takes care of</i>) his parents well. <br> <br>বালকটি ভালভাবে তার পিতমাতার তত্ত্বাবধান করে । <br> <br> <br>Does the gardener <font color='#ED7745'>look after</font> (<i>take care of</i>) the garden well enough ? <br> <br>মালি কি বাগানটার যথেষ্ট দেখাশোনা করে ?",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "lookdownupon",             
+                        "name": "Bgv2-Lesson1 (4)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Look down upon</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ছোটো করা, অবজ্ঞা করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Do not <font color='#ED7745'>look down upon</font> (<i>consider someone lesser</i>) the poor. <br> <br>গরীবকে ছোটো কোর না । <br> <br> <br>He always <font color='#ED7745'>looked down upon</font> (<i>had low opinion of</i>) his teammates because he thought that he was better than them. <br> <br>সে সবসময় তার দলের লোকেদের ছোট চোখে দেখত, কারণ সে ভাবত যে সে তাদের চেয়ে ভাল ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "lookfor",             
+                        "name": "Bgv2-Lesson1 (5)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Look for</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;খোঁজা, আশা করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "He is <font color='#ED7745'>looking for</font> (<i>searching for</i>) a job. <br> <br>সে একটি কাজের খোঁজ করছে । <br> <br> <br>You may <font color='#ED7745'>look for</font> (<i>expect</i>) a change of weather in May. <br> <br>মে মাসে আবহাওয়ার পরিবর্তন আশা করতে পারো ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "lookinto",             
+                        "name": "Bgv2-Lesson1 (6)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Look into</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;বিচার করা, দেখে-বুঝে নেওয়া",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "The leader said that he would <font color='#ED7745'>look into</font> (<i>take care of</i>) the matter. <br> <br>নেতা বলেছিলেন তিনি বিষয়টা দেখে-বুঝে নেবেন । <br> <br> <br>The police <font color='#ED7745'>looked into</font> (<i>enquired and took action</i>) the disturbance. <br> <br>পুলিশ গন্ডগোলটা মিটিয়ে দিয়েছিল ।",
+                        "description": ""
+                      }
+]

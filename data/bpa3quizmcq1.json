@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "I do not agree in your proposal.",
+    "option2": "I do not agree at your proposal.",
+    "option3": "I do not agree with your proposal.",
+    "option4": "I do not agree on your proposal.",
+    "question": "আমি তোমার প্রস্তাবে সম্মত নই",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You should ask him about every small thing.",
+    "option2": "You should ask him in every small thing.",
+    "option3": "You should ask him for every small thing.",
+    "option4": "You should ask him at every small thing.",
+    "question": "ছোটখাটো ব্যাপারেও তোমার তাকে জিজ্ঞাসা করা উচিত",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Smoking is bad on health.",
+    "option2": "Smoking is bad for health.",
+    "option3": "Smoking is bad to health.",
+    "option4": "Smoking is bad at health.",
+    "question": "ধূমপান স্বাস্থ্যের পক্ষে খারাপ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Why have you been angry with me ?",
+    "option2": "Why have you been angry on me ?",
+    "option3": "Why have you been angry against me ?",
+    "option4": "Why have you been angry to me ?",
+    "question": "তুমি আমার ওপর কেন রেগে আছ ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do not be afraid at ask for help.",
+    "option2": "Do not be afraid to ask to help.",
+    "option3": "Do not be afraid on ask about help.",
+    "option4": "Do not be afraid to ask for help.",
+    "question": "কখনো সাহায্য চাইতে ভয় পেও না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We apologize in our mistake.",
+    "option2": "We apologize for our mistake.",
+    "option3": "We apologize of our mistake.",
+    "option4": "We apologize at our mistake.",
+    "question": "আমরা আমাদের ভুলের জন্য ক্ষমাপ্রার্থী",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Ratan is bad in housekeeping work.",
+    "option2": "Ratan is bad with housekeeping work.",
+    "option3": "Ratan is bad at housekeeping work.",
+    "option4": "Ratan is bad for housekeeping work.",
+    "question": "রতন ঘরের কাজে অপটু",
+    "correct": 3,
+    "isPicture": false
+    }
+]

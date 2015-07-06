@@ -1,0 +1,164 @@
+[
+    {
+    "option1": "He has been gone.",
+    "option2": "He was been going.",
+    "option3": "He has been going.",
+    "option4": "He has been went.",
+    "question": "সে যেতে থাকছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He will be going.",
+    "option2": "He will been going.",
+    "option3": "He was be going.",
+    "option4": "He shall be going.",
+    "question": "সে যেতে থাকবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He had been gone.",
+    "option2": "He had been going.",
+    "option3": "He has been going.",
+    "option4": "He was been going.",
+    "question": "সে যেতে থাকল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Has he  going ?",
+    "option2": "Has he been going ?",
+    "option3": "Had he been going ?",
+    "option4": "Has he been gone ?",
+    "question": "সে কি যেতে থাকছে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Will he be going ?",
+    "option2": "Will he be gone ?",
+    "option3": "Shall he be going ?",
+    "option4": "Will he going ?",
+    "question": "সে কি যেতে থাকবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Did he been going ?",
+    "option2": "Was he been going ?",
+    "option3": "Has he been going ?",
+    "option4": "Had he been going ?",
+    "question": "সে  কি যেতে থাকছিল ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He had go.",
+    "option2": "He had gone.",
+    "option3": "He was gone.",
+    "option4": "He did gone.",
+    "question": "সে গেল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Had he going ?",
+    "option2": "Had he went ?",
+    "option3": "Did he gone ?",
+    "option4": "Had he gone ?",
+    "question": "সে কি গেল ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He could have gone.",
+    "option2": "He could had gone.",
+    "option3": "He can have gone.",
+    "option4": "He could have went.",
+    "question": "সে যেতে পারতো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Can he have gone ?",
+    "option2": "Could he had gone ?",
+    "option3": "Could he have gone ?",
+    "option4": "Could he have go ?",
+    "question": "সে কি যেতে পারতো ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He would had gone.",
+    "option2": "He would have gone.",
+    "option3": "He should have gone.",
+    "option4": "He would have went.",
+    "question": "সে  যেতো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Would he has gone ?",
+    "option2": "Could he have gone ?",
+    "option3": "Would he have gone ?",
+    "option4": "Would he have go ?",
+    "question": "সে  কি যেতো ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He should have gone.",
+    "option2": "He could have gone.",
+    "option3": "He should have go.",
+    "option4": "He should has gone.",
+    "question": "তার যেতে পারা উচিৎ ছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Should he has going ?",
+    "option2": "Could he have gone ?",
+    "option3": "Should he have gone ?",
+    "option4": "Should he has gone ?",
+    "question": "তার কি যেতে পারা উচিৎ ছিল ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He may has gone.",
+    "option2": "He may have gone.",
+    "option3": "He may have go.",
+    "option4": "He may have going.",
+    "question": "সে যেতে পারতো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "May he have going ?",
+    "option2": "May he have go ?",
+    "option3": "May he has gone ?",
+    "option4": "May he have gone ?",
+    "question": "সে কি যেতে পারতো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He cannot but go.",
+    "option2": "He cannot but going.",
+    "option3": "He cannot go.",
+    "option4": "He has not but go.",
+    "question": "সে না গিয়ে পারে না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He cannot help go.",
+    "option2": "He cannot help going.",
+    "option3": "He cannot help gone.",
+    "option4": "He cannot help went.",
+    "question": "সে না গিয়ে পারে না",
+    "correct": 2,
+    "isPicture": false
+    }
+]

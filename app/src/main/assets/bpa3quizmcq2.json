@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "This land  belongs with government.",
+    "option2": "This land  belongs in government.",
+    "option3": "This land  belongs to government.",
+    "option4": "This land  belongs of government.",
+    "question": "এই জমিটি সরকারের অধীনে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He is good at doing nothing.",
+    "option2": "He is good for nothing.",
+    "option3": "He is good for doing nothing.",
+    "option4": "He is good at nothing.",
+    "question": "সে কোন কাজেরই যোগ্য নয়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You should not be careless for your own safety.",
+    "option2": "You should not be careless to your own safety.",
+    "option3": "You should not be careless of your own safety.",
+    "option4": "You should not be careless about your own safety.",
+    "question": "নিজের নিরাপত্তার ব্যাপারে তোমার  উদাসীন হওয়া উচিৎ নয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Mrs. Sen followed him to find out where Raghu lived.",
+    "option2": "Mrs. Sen followed him to find at where Raghu lived.",
+    "option3": "Mrs. Sen followed him to find in where Raghu lived.",
+    "option4": "Mrs. Sen followed him to find about where Raghu lived.",
+    "question": "শ্রীমতি সেন রঘু কোথায় থাকে জানতে তাকে অনুসরণ করলেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The boy took good care after his parents.",
+    "option2": "The boy took good care on his parents.",
+    "option3": "The boy took good care to his parents.",
+    "option4": "The boy took good care for his parents.",
+    "question": "ছেলেটি তার বাবা-মার ভালো যত্ন নিয়েছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I am familiar in your name.",
+    "option2": "I am familiar with your name.",
+    "option3": "I am familiar at your name.",
+    "option4": "I am familiar of your name.",
+    "question": "আমি তোমার নামের সঙ্গে পরিচিত",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Our class consists of 50 students.",
+    "option2": "Our class consists with 50 students.",
+    "option3": "Our class consists by 50 students.",
+    "option4": "Our class consists in 50 students.",
+    "question": "আমাদের শ্রেণী ৫০ জন ছাত্র দ্বারা গঠিত",
+    "correct": 1,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+    "option1": "He go.",
+    "option2": "He goes.",
+    "option3": "He going.",
+    "option4": "He is goes.",
+    "question": "সে/এ যায়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He going.",
+    "option2": "He are going.",
+    "option3": "He goes.",
+    "option4": "He is going.",
+    "question": "সে/এ যাচ্ছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He is going.",
+    "option2": "He shall going.",
+    "option3": "He will go.",
+    "option4": "He will be going.",
+    "question": "সে/এ যাবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He has went.",
+    "option2": "He has going.",
+    "option3": "He has gone.",
+    "option4": "He is gone.",
+    "question": "সে/এ গিয়েছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He do not go.",
+    "option2": "He does not go.",
+    "option3": "He is not gone.",
+    "option4": "He did not go.",
+    "question": "সে/এ যায় না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is not going.",
+    "option2": "He does not going.",
+    "option3": "He is not gone.",
+    "option4": "He do not go.",
+    "question": "সে/এ যাচ্ছে না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He is not go.",
+    "option2": "He will not go.",
+    "option3": "He is not gone.",
+    "option4": "He does not go.",
+    "question": "সে/এ যাবে না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He did going.",
+    "option2": "He went.",
+    "option3": "He is gone.",
+    "option4": "He did went.",
+    "question": "সে/এ গিয়েছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is going.",
+    "option2": "He were going.",
+    "option3": "He was going.",
+    "option4": "He did going.",
+    "question": "সে/এ যাচ্ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He was not gone.",
+    "option2": "He did not went.",
+    "option3": "He did not go.",
+    "option4": "He did not going.",
+    "question": "সে/এ যায় নি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He is gone.",
+    "option2": "He can go.",
+    "option3": "He does go.",
+    "option4": "He can be going.",
+    "question": "সে/এ যেতে পারে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He can not go.",
+    "option2": "He does not go.",
+    "option3": "He did not go.",
+    "option4": "He is not gone.",
+    "question": "সে/এ যেতে পারে না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Does he is going ?",
+    "option2": "Does he go ?",
+    "option3": "Does he going ?",
+    "option4": "Does he is go ?",
+    "question": "সে/এ যায় কি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Does he is not go ?",
+    "option2": "Does he is not going ?",
+    "option3": "Does he not go ?",
+    "option4": "Does he not going ?",
+    "question": "সে/এ যায় না কি ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Has he goes ?",
+    "option2": "Has he went ?",
+    "option3": "Has he going ?",
+    "option4": "Has he gone ?",
+    "question": "সে/এ গিয়েছে কি ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Has he not went ?",
+    "option2": "Has he not gone ?",
+    "option3": "Has he not goes ?",
+    "option4": "Has he not going ?",
+    "question": "সে/এ গেছে না/ গিয়েছে না কি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Did he goes ?",
+    "option2": "Did he gone ?",
+    "option3": "Did he go ?",
+    "option4": "Did he went ?",
+    "question": "সে/এ গিয়েছিল কি ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Did he not go ?",
+    "option2": "Did he not going ?",
+    "option3": "Did he not goes ?",
+    "option4": "Did he not went ?",
+    "question": "সে/এ যায় নি কি ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Will he go ?",
+    "option2": "Shall he go ?",
+    "option3": "May he go ?",
+    "option4": "Did he go ?",
+    "question": "সে/এ যেতে পারে কি ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He can go.",
+    "option2": "He should go.",
+    "option3": "He must go.",
+    "option4": "He may go.",
+    "question": "তার/এর যাওয়া উচিত",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Was he gone ?",
+    "option2": "Has he go ?",
+    "option3": "Will he go ?",
+    "option4": "Will he goes ?",
+    "question": "সে/এ কি যাবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He can go.",
+    "option2": "He only will go.",
+    "option3": "He shall go.",
+    "option4": "He will go.",
+    "question": "সে-ই/এ-ই যাবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He should go.",
+    "option2": "He did went.",
+    "option3": "He must went.",
+    "option4": "He must go.",
+    "question": "তাকে/একে যেতেই হবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Will he not go ?",
+    "option2": "Must not he goes ?",
+    "option3": "Will he not goes ?",
+    "option4": "Should he not go ?",
+    "question": "সে/এ কি যাবে না ?",
+    "correct": 1,
+    "isPicture": false
+    }
+]

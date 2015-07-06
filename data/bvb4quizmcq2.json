@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "The thief  had sent to prison.",
+    "option2": "The thief  sent to prison.",
+    "option3": "The thief has sent to prison.",
+    "option4": "The thief was sent to prison.",
+    "question": "চোরটিকে জেলে পাঠানো হলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "People think that Barun has sent by God.",
+    "option2": "People think that Barun was sent by God.",
+    "option3": "People think, Barun was sent by God.",
+    "option4": "People think that Barun  sent by God.",
+    "question": "মানুষ মনে করে বরুণ ঈশ্বরপ্রেরিত ছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Jaya sent flowers in my birthday.",
+    "option2": "Jaya sends flowers in my birthday.",
+    "option3": "Jaya sent flowers on my birthday.",
+    "option4": "Jaya sending flowers on my birthday.",
+    "question": "জয়া জন্মদিনে ফুল পাঠিয়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Arun was sent in place of Tapas.",
+    "option2": "Arun is sent in place of Tapas.",
+    "option3": "Arun has sent in place of Tapas.",
+    "option4": "Arun was sending in place of Tapas.",
+    "question": "অরুণকে তাপসের জায়গায় পাঠানো হল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you send him there ?",
+    "option2": "Can you send him to there ?",
+    "option3": "Can you sent him there ?",
+    "option4": "Can you sent him to there ?",
+    "question": "তুমি কি তাকে ওখানে পাঠাতে পারো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Mother said,\"Show me your face\".",
+    "option2": "Mother said,\"Showing me your face\".",
+    "option3": "Mother said,\"Showed me your face\".",
+    "option4": "Mother said,\"Can you show me your face\".",
+    "question": "মা বললো ,\"আমায় তোমার মুখ দেখাও\"",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The employee had shown the door.",
+    "option2": "The employee was showing the door.",
+    "option3": "The employee has shown the door.",
+    "option4": "The employee was shown the door.",
+    "question": "কর্মচারিটিকে তাড়িয়ে দেওয়া হলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Show me what is in your hand.",
+    "option2": "Showing  me what is in your hand.",
+    "option3": "Show me what was in your hand.",
+    "option4": "Show me what is  your hand.",
+    "question": "তোমার হাতে কী দেখাও",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Finally Anil shows his anger.",
+    "option2": "Finally Anil showed his anger.",
+    "option3": "Finally Anil had showed his anger.",
+    "option4": "Finally Anil was showing  his anger.",
+    "question": "অনিল অবশেষে রাগ দেখালো ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Jhuma shew the judges her talent.",
+    "option2": "Jhuma shown the judges her talent.",
+    "option3": "Jhuma could show the judges her talent.",
+    "option4": "Jhuma showed the judges her talent.",
+    "question": "ঝুমা বিচারকদের তার গুণপনা দেখিয়েছিলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Waiting  till the end of the game.",
+    "option2": "Wait till the end of the game.",
+    "option3": "Waited till the end of the game.",
+    "option4": "Waits till the end of the game.",
+    "question": "খেলার শেষ অবধি অপেক্ষা করো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Babu was waited there till 9 p.m.",
+    "option2": "Babu waiting there till 9 p.m.",
+    "option3": "Babu waits there till 9 p.m.",
+    "option4": "Babu waited there till 9 p.m.",
+    "question": "বাবু সেখানে রাত ন'টা অবধি অপেক্ষা করেছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Wait, you will see.",
+    "option2": "Waiting , you will see.",
+    "option3": "Wait, you  see.",
+    "option4": "Wait, you seeing.",
+    "question": "অপেক্ষা করো, দেখতে পাবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "How long shall I wait ?",
+    "option2": "How long shall I waiting ?",
+    "option3": "How long can I wait ?",
+    "option4": "How long have I wait ?",
+    "question": "আর কতো অপেক্ষা করবো ? ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you not waited for me ?",
+    "option2": "Can you not waiting for me ?",
+    "option3": "Can you not wait for me ?",
+    "option4": "Can you not be waiting for me ?",
+    "question": "তুমি কি আমার জন্য অপেক্ষা করতে পারবে না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Saving trees, save environment.",
+    "option2": "Saved trees, save environment.",
+    "option3": "Save trees, saved environment.",
+    "option4": "Save trees, save environment.",
+    "question": "গাছ বাঁচাও, পরিবেশ বাঁচাও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The father said, \"Saved  for future\".",
+    "option2": "The father said, \"Save for future\".",
+    "option3": "The father said, \"Saving for future\".",
+    "option4": "The father said, \"Saving in future\".",
+    "question": "বাবা বললেন,\"ভবিষ্যতের জন্য জমাও\"",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The patient is saved.",
+    "option2": "The patient could be save.",
+    "option3": "The patient could be saved.",
+    "option4": "The patient can be saved.",
+    "question": "রোগীটিকে বাঁচানো গেলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Going by train can save time.",
+    "option2": "Going by train saving time.",
+    "option3": "Going by train saved time.",
+    "option4": "Going by train saves time.",
+    "question": "ট্রেনে গেলে সময় বাঁচে  ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The goalkeeper can save the ball.",
+    "option2": "The goalkeeper could save the ball.",
+    "option3": "The goalkeeper could saves the ball.",
+    "option4": "The goalkeeper can saves the ball.",
+    "question": "গোলরক্ষক বলটা বাঁচাতে পারলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The coach is plans for the game.",
+    "option2": "The coach planning for the game.",
+    "option3": "The coach planned for the game.",
+    "option4": "The coach plans for the game.",
+    "question": "কোচ খেলার পরিকল্পনা করে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Everything cannot be plan before.",
+    "option2": "Everything cannot be planned before.",
+    "option3": "Everything cannot  plan before.",
+    "option4": "Everything cannot be planning before.",
+    "question": "আগে থেকে সব পরিকল্পনা করা যায় না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "What is your planned ?",
+    "option2": "What is you plan ?",
+    "option3": "What is your plan ?",
+    "option4": "What is you planning ?",
+    "question": "তোমার পরিকল্পনাটা কী ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You don't like to planning.",
+    "option2": "You don't like to plan.",
+    "option3": "You don't liked  plan.",
+    "option4": "You don't liking  to plan.",
+    "question": "তুমি পরিকল্পনা করতে চাও না ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "If you fail to plan then you have planned to fail.",
+    "option2": "If you have failed to planning then you have planned to fail.",
+    "option3": "If you fail to plan then you are planning to fail.",
+    "option4": "If you have failed to planning then you are planning to fail.",
+    "question": "যদি পরিকল্পনা করতে ব্যর্থ হও, তাহলে ব্যর্থ হবার পরিকল্পনা করেছ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Please changes your shirt.",
+    "option2": "Please changed  your shirt.",
+    "option3": "Please changing  your shirt.",
+    "option4": "Please change your shirt.",
+    "question": "দয়া করে জামাটা পাল্টাও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Kabita had changed her mind.",
+    "option2": "Kabita has change her mind.",
+    "option3": "Kabita has changed her mind.",
+    "option4": "Kabita was changed her mind.",
+    "question": "কবিতা তার মত বদল করলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Nitu has changed completely.",
+    "option2": "Nitu has change  completely.",
+    "option3": "Nitu was changed completely.",
+    "option4": "Nitu is changing completely.",
+    "question": "নিতু একেবারে বদলে গেছে ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Will you not changed ?",
+    "option2": "Will you not change ?",
+    "option3": "Shall you not change ?",
+    "option4": "Are you not change ?",
+    "question": "তুমি কি পাল্টাবে না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is a change person now.",
+    "option2": "He is a changed person now.",
+    "option3": "He is a changes person now.",
+    "option4": "He is a changing person now.",
+    "question": "তিনি এখন অন্য মানুষ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The doctor  check  the patient.",
+    "option2": "The doctor is checked  the patient.",
+    "option3": "The doctor  checks  the patient.",
+    "option4": "The doctor is checking  the patient.",
+    "question": "ডাক্তার রোগীটিকে পরীক্ষা করছেন",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you check his bad habits ?",
+    "option2": "Can you checking  his bad habits ?",
+    "option3": "Are you check his bad habits ?",
+    "option4": "Can you be check his bad habits ?",
+    "question": "তুমি কি তার বাজে স্বভাব আটকাতে পারো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Checked  it, if it is ok.",
+    "option2": "Check it, if it is ok.",
+    "option3": "Checking it, if it is ok.",
+    "option4": "Check it, if it was ok.",
+    "question": "দেখে নাও, ঠিক আছে কিনা",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Finally water has checked.",
+    "option2": "Finally water can  check.",
+    "option3": "Finally water can be checked.",
+    "option4": "Finally water could be checked.",
+    "question": "অবশেষে জল আটকানো গেল ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The quality of the product is not check.",
+    "option2": "The quality of the product not checks.",
+    "option3": "The quality of the product is not checked.",
+    "option4": "The quality of the product is not checking.",
+    "question": "জিনিসটার গুণমান পরীক্ষিত নয়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Please matching  the answers.",
+    "option2": "Please match the answers.",
+    "option3": "Please to match the answers.",
+    "option4": "Please matched  the answers.",
+    "question": "দয়া করে উত্তরগুলো মিলিয়ে নাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "A horse can not be matched with a tiger.",
+    "option2": "A horse can not be match with a tiger.",
+    "option3": "A horse can not match with a tiger.",
+    "option4": "A horse can not be matching  with a tiger.",
+    "question": "বাঘের সঙ্গে ঘোড়ার তুলনা চলে না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The two glasses  not match here.",
+    "option2": "The two glasses  not matching  here.",
+    "option3": "The two glasses do not match here.",
+    "option4": "The two glasses are not match here.",
+    "question": "গেলাসদুটো এখানে মানাচ্ছে না ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do this book match there ?",
+    "option2": "Does this book match there ?",
+    "option3": "Does this book matches there ?",
+    "option4": "Is this book match there ?",
+    "question": "এই বইটা কি ওখানে মানাচ্ছে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The shoes do not match with the shirt.",
+    "option2": "The shoes not match with the shirt.",
+    "option3": "The shoes do not matching with the shirt.",
+    "option4": "The shoes not matches with the shirt.",
+    "question": "জামার সঙ্গে জুতোটা মানায় না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The shirt  turn into black.",
+    "option2": "The shirt is turned into black.",
+    "option3": "The shirt has turned from black.",
+    "option4": "The shirt has turned into black.",
+    "question": "জামাটা কালো রং হয়ে গিয়েছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He is a writer turned actor.",
+    "option2": "He is a writer turns  actor.",
+    "option3": "He is a writer turning  actor.",
+    "option4": "He is a writer is turned actor.",
+    "question": "সে একজন লেখক থেকে নায়ক",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Jatin turned to seeing  me.",
+    "option2": "Jatin turned  see me.",
+    "option3": "Jatin turned to see me.",
+    "option4": "Jatin turned out see me.",
+    "question": "যতীন ঘুরে আমায় দেখলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Turn the tv on.",
+    "option2": "Turn the tv is on.",
+    "option3": "Turning  the tv on.",
+    "option4": "Turned  the tv on.",
+    "question": "টিভিটা চালিয়ে দাও",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Irfan has tried for turn people against Arjun.",
+    "option2": "Irfan tried to turning people against Arjun.",
+    "option3": "Irfan has tried to turned people against Arjun.",
+    "option4": "Irfan tried to turn people against Arjun.",
+    "question": "ইরফান চেষ্টা করেছিলো জনগণকে অর্জুনের বিরুদ্ধে নিতে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Prices of goods are rising.",
+    "option2": "Prices of goods are rise.",
+    "option3": "Prices of goods  rising.",
+    "option4": "Prices of goods is rising.",
+    "question": "জিনিসপত্রের দাম বেড়ে চলেছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The sun finally had risen above the sea.",
+    "option2": "The sun finally is risen above the sea.",
+    "option3": "The sun finally has rose  above the sea.",
+    "option4": "The sun finally has risen above the sea.",
+    "question": "শেষ পর্যন্ত সূর্য সমুদ্রের ওপর দিয়ে উঠলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Will the price rising only ?",
+    "option2": "Will the price be risen only ?",
+    "option3": "Will the price be rising only ?",
+    "option4": "Is the price be rising ?",
+    "question": "দাম কি বেড়েই যাবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The building rises  before them.",
+    "option2": "The building rise before them.",
+    "option3": "The building rose before them.",
+    "option4": "The building had rose before them.",
+    "question": "বাড়িটা ওদের সামনে উঠলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Rose early and start your day.",
+    "option2": "Early risen and start your day.",
+    "option3": "Rise early and start your day.",
+    "option4": "Early rise and start your day.",
+    "question": "সকালে আগে ওঠো আর দিন শুরু করো",
+    "correct": 3,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,218 @@
+[
+    {
+    "option1": "They go.",
+    "option2": "They goes.",
+    "option3": "They going.",
+    "option4": "They are going.",
+    "question": "তারা/এরা যায়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "They are gone.",
+    "option2": "They are going.",
+    "option3": "They go.",
+    "option4": "They  going.",
+    "question": "তারা/এরা যাচ্ছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They will gone.",
+    "option2": "They goes.",
+    "option3": "They will go.",
+    "option4": "They shall go.",
+    "question": "তারা/এরা যাবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They had gone.",
+    "option2": "They has gone.",
+    "option3": "They have gone.",
+    "option4": "They have went.",
+    "question": "তারা/এরা গিয়েছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They do not going.",
+    "option2": "They do not go.",
+    "option3": "They did not go.",
+    "option4": "They does not go.",
+    "question": "তারা/এরা যায় না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They have not going.",
+    "option2": "They are not went.",
+    "option3": "They are not going.",
+    "option4": "They are not gone.",
+    "question": "তারা/এরা যাচ্ছে না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They will not go.",
+    "option2": "They do not go.",
+    "option3": "They will not went.",
+    "option4": "They shall not go.",
+    "question": "তারা/এরা যাবে না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "They goes.",
+    "option2": "They had went.",
+    "option3": "They went.",
+    "option4": "They were went.",
+    "question": "তারা/এরা গিয়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They are going.",
+    "option2": "They were going.",
+    "option3": "They was going.",
+    "option4": "They were went.",
+    "question": "তারা/এরা যাচ্ছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They did not go.",
+    "option2": "They did not gone.",
+    "option3": "They had not go.",
+    "option4": "They have not gone.",
+    "question": "তারা/এরা যায় নি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "They are go.",
+    "option2": "They can going.",
+    "option3": "They can go.",
+    "option4": "They could go.",
+    "question": "তারা/এরা যেতে পারে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They can not went.",
+    "option2": "They can not go.",
+    "option3": "They do not go.",
+    "option4": "They are not go.",
+    "question": "তারা/এরা যেতে পারে না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Did they go ?",
+    "option2": "Do they goes ?",
+    "option3": "Did they goes ?",
+    "option4": "Do they go ?",
+    "question": "তারা/এরা কি যায় ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Do they not went ?",
+    "option2": "Do they not goes ?",
+    "option3": "Do they not go ?",
+    "option4": "Do they not going ?",
+    "question": "তারা/এরা কি যায় না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Have they gone ?",
+    "option2": "Had they went ?",
+    "option3": "Have they went ?",
+    "option4": "Had they gone ?",
+    "question": "তারা/এরা কি গিয়েছে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Had not they were went ?",
+    "option2": "Have not they gone ?",
+    "option3": "Have not they were gone ?",
+    "option4": "Had not they gone ?",
+    "question": "তারা/এরা কি গেছিল না/গিয়েছিল না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Did they went ?",
+    "option2": "Did they were goes ?",
+    "option3": "Did they were went ?",
+    "option4": "Did they go ?",
+    "question": "তারা/এরা কি গিয়েছিল ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Did they not go ?",
+    "option2": "Had they not went ?",
+    "option3": "Did they were not went ?",
+    "option4": "Had they were not go ?",
+    "question": "তারা/এরা কি গিয়েছিল না ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "May they went ?",
+    "option2": "Shall they go ?",
+    "option3": "May they go ?",
+    "option4": "Will they go ?",
+    "question": "তারা/এরা যেতে পারে কি ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They should go.",
+    "option2": "They shall go.",
+    "option3": "They can go.",
+    "option4": "They should went.",
+    "question": "তাদের/এদের যাওয়া উচিত",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Shall they go ?",
+    "option2": "Will they going ?",
+    "option3": "Will they go ?",
+    "option4": "Can they go ?",
+    "question": "তারা/এরা কি যাবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They will go.",
+    "option2": "They only gone.",
+    "option3": "They only will go.",
+    "option4": "They only go.",
+    "question": "তারা/এরাই যাবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They must goes.",
+    "option2": "They should go.",
+    "option3": "They must gone.",
+    "option4": "They must go.",
+    "question": "তাদের/এদের যেতেই হবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Will they not go ?",
+    "option2": "Will they not going ?",
+    "option3": "Will they not goes ?",
+    "option4": "Shall they not go ?",
+    "question": "তারা/এরা কি যাবে না ?",
+    "correct": 1,
+    "isPicture": false
+    }
+]

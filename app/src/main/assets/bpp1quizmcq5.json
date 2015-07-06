@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "Their house is located before the sea.",
+    "option2": "Their house is located at the sea.",
+    "option3": "Their house is located by the sea.",
+    "option4": "Their house is located on the sea.",
+    "question": "ওদের বাড়িটি সমুদ্রতটে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Tapan is sitting next to me.",
+    "option2": "Tapan is sitting to me.",
+    "option3": "Tapan is sitting next of me.",
+    "option4": "Tapan is sitting by next to me.",
+    "question": "তপন আমার পাশে বসে আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "She came with train.",
+    "option2": "She came through train.",
+    "option3": "She came in train.",
+    "option4": "She came by train.",
+    "question": "সে ট্রেনে চড়ে এসেছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The room size is ten feet to eight feet.",
+    "option2": "The room size is ten feet with eight feet.",
+    "option3": "The room size is ten feet by eight feet.",
+    "option4": "The room size is ten feet and eight feet.",
+    "question": "ঘরটির মাপ লম্বায় দশ ফুট এবং চওড়ায় আট ফুট",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Give it at me.",
+    "option2": "Give it to me.",
+    "option3": "Give it from me.",
+    "option4": "Give it in me.",
+    "question": "এটা আমাকে দাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "To him juggling is very easy.",
+    "option2": "With him juggling is very easy.",
+    "option3": "At him juggling is very easy.",
+    "option4": "By him juggling is very easy.",
+    "question": "ওর কাছে জাগলিং খুব সহজ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "My cat loves to sit at the window.",
+    "option2": "My cat loves to sit next of the window.",
+    "option3": "My cat loves to sit by the window.",
+    "option4": "My cat loves to sit on the window.",
+    "question": "আমার বিড়ালটা জানালার পাশে বসে থাকতে ভালবাসে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Tony did it of hard work.",
+    "option2": "Tony did it from hard work.",
+    "option3": "Tony did it with hard work.",
+    "option4": "Tony did it by hard work.",
+    "question": "টনি কাজটা খেটে করেছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Dinesh was hit by a ball.",
+    "option2": "Dinesh was hit from a ball.",
+    "option3": "Dinesh was hit of a ball.",
+    "option4": "Dinesh was hit with a ball.",
+    "question": "দীনেশ একটি বল থেকে আঘাত পেয়েছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Throw the ball on me.",
+    "option2": "Throw the ball at me.",
+    "option3": "Throw the ball to me.",
+    "option4": "Throw the ball by me.",
+    "question": "বলটা আমায় ছুঁড়ে দাও",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "My height has increased at 4 feet.",
+    "option2": "My height has increased by 4 feet.",
+    "option3": "My height has increased into 4 feet.",
+    "option4": "My height has increased to 4 feet.",
+    "question": "আমার উচ্চতা বেড়ে ৪ ফুট হয়েছে",
+    "correct": 4,
+    "isPicture": false
+    }
+]

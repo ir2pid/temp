@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "I really do not want to talk in it.",
+    "option2": "I really do not want to talk about it.",
+    "option3": "I really do not want to talk with it.",
+    "option4": "I really do not want to talk for it.",
+    "question": "আমি এই ব্যপারে কোন কথাই বলতে চাই না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I can trust in your eyes.",
+    "option2": "I can trust to your eyes.",
+    "option3": "I can trust on your eyes.",
+    "option4": "I can trust for your eyes.",
+    "question": "আমি তোমার চোখকে বিশ্বাস করতে পারি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He was given enough time to think with it.",
+    "option2": "He was given enough time to think for it.",
+    "option3": "He was given enough time to think to it.",
+    "option4": "He was given enough time to think about it.",
+    "question": "এই ব্যাপারে চিন্তা করার জন্য তাকে অনেক সময় দেওয়া হয়েছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "These strong men possibly work with a political party.",
+    "option2": "These strong men possibly work for a political party.",
+    "option3": "These strong men possibly work at a political party.",
+    "option4": "These strong men possibly work in a political party.",
+    "question": "এই শক্তিশালী লোকগুলি সম্ভবত কোন রাজনৈতিক দলের হয়ে কাজ করে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Are you sure at your answer ?",
+    "option2": "Are you sure for your answer ?",
+    "option3": "Are you sure to your answer ?",
+    "option4": "Are you sure of your answer ?",
+    "question": "তুমি কি তোমার উত্তর সম্বন্ধে নিশ্চিত ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He is never tired on running.",
+    "option2": "He is never tired for running.",
+    "option3": "He is never tired of running.",
+    "option4": "He is never tired to running.",
+    "question": "সে কখনোই দৌড়ে ক্লান্ত হয় না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He is certainly worried towards something.",
+    "option2": "He is certainly worried for something.",
+    "option3": "He is certainly worried about something.",
+    "option4": "He is certainly worried on something.",
+    "question": "সে নিশ্চয় কোন ব্যাপারে চিন্তিত আছে",
+    "correct": 3,
+    "isPicture": false
+    }
+]

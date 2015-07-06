@@ -1,0 +1,3081 @@
+{  
+   "topics":[  
+      {  
+         "description":"English fundamentals",
+         "name":"English",
+         "completion":0,
+         "level":0,
+         "marks":0,
+         "coursesList":[  
+            {  
+               "courseInstruction":"এই অনুশীলনীগুলি ইংরিজি ভাষার ভিত্তিস্বরূপ । অত্যন্ত সরল বাক্যের সাহায্যে তোমাদের ভিত তৈরী করা হচ্ছে । এগুলি শেষ করতে যা সময় তোমার লাগবে, তা নাও । সাধারণ ভুল যেগুলি ছাত্ররা করে, সেগুলিকে মাথায় রেখে ব্যাখ্যাগুলি দেওয়া হয়েছে আর কুইজগুলি তৈরী করা হয়েছে । সবকটা কুইজে ১০০% পেলে তবেই অন্য/পরের অনুশীলনীর কথা ভাববে, কারণ এই অনুশীলনীগুলির বাক্যগুলি এতই মৌলিক যে এগুলো কম বা ভুল শিখলে পরের অনুশীলনীগুলি শিখতে অসুবিধে হবে ।",
+               "courseLongDescription":"English fundamental sentences and questions with am/is/are, has/have, shall/will, basic pronouns, adjectives, prepositions and  very basic conjugation patterns",
+               "courseName":"BCP",
+               "courseShortDescription":"BCP-Basic Sentences",
+               "completion":36,
+               "marks":0,
+               "modules":[  
+                  {  
+                     "name":"B C P 1 L",
+                     "desc":"Lesson on English conjugation (Primary level) - Set 1",
+                     "instruction":"am/is/are দিয়ে মৌলিক বাক্য শেখানো হয়েছে এখানে - সঙ্গে pronoun আর adjective । প্রতিটি বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । এক এক দিনে ৩০-৩৫টা বাক্য পড় ।",
+                     "daysToComplete":4,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BCP1L-Lesson1 (30 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp1lesson1.json"
+                           },
+                           {  
+                              "name":"BCP1L-Lesson2 (30 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp1lesson2.json"
+                           },
+                           {  
+                              "name":"BCP1L-Lesson3 (30 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp1lesson3.json"
+                           },
+                           {  
+                              "name":"BCP1L-Lesson4 (35 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp1lesson4.json"
+                           },
+                           {  
+                              "name":"BCP1.2  lesson Name0",
+                              "description":"BCP1.2  lesson description0",
+                              "image":"BCP1.2 lesson.jpg",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bcp1lesson2.json"
+                           },
+                           {  
+                              "description":"BCP1.3flashcard lesson description0",
+                              "image":"BCP1.3flashcardlesson.jpg",
+                              "name":"BCP1.3flashcard lesson Name0",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp1lesson3.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs":[  
+                           {  
+                              "name":"BCP1Q",
+                              "description":"Quiz on English conjugation (Primary level) - Set 1",
+                              "instruction":"পুরো BCP1L করব, তারপর BCP1Q করব, তা ভেবো না । একদিন অনুশীলনীর যতটা পড়লে,  সেইদিনই তাদেরই কুইজ কর । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp1quizmcq.json"
+                           },
+                           {  
+                              "description":"BCP1 mcqQuiz0 description0",
+                              "name":"BCP1-Quiz1 (30 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp1quizmcq1.json"
+                           },
+                           {  
+                              "description":"BCP1 mcqQuiz1 description1",
+                              "name":"BCP1-Quiz2 (30 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp1quizmcq2.json"
+                           },
+                           {  
+                              "description":"BCP1 mcqQuiz2 description0",
+                              "name":"BCP1-Quiz3 (30 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp1quizmcq3.json"
+                           },
+                           {  
+                              "description":"BCP1 mcqQuiz3 description1",
+                              "name":"BCP1-Quiz4 (35 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp1quizmcq4.json"
+                           }
+                        ],
+                        "orderGameQuizs":[  
+                           {  
+                              "description":"orderGameQuiz0 Description",
+                              "name":"orderGameQuiz0 Name",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bcp1quizordergame1.json"
+                           }
+                        ],
+                        "pictureMatchQuiz":[  
+                           {  
+                              "description":"pictureMatchQuiz0 Description",
+                              "name":"pictureMatchQuiz0 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bcp1quizpicturematchgame1.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B C P 2 L",
+                     "desc":"Lesson on English conjugation (Primary level) - Set 2",
+                     "description":"",
+                     "instruction":"প্রশ্ন, সময় আর preposition শেখানো হয়েছে এখানে । প্রতিটি বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । এক এক দিনে ২৫টা বাক্য পড় ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BCP2L-Lesson1 (25 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp2lesson1.json"
+                           },
+                           {  
+                              "name":"BCP2L-Lesson2 (25 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp2lesson2.json"
+                           },
+                           {  
+                              "name":"BCP2L-Lesson3 (25 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp2lesson3.json"
+                           },
+                           {  
+                              "name":"BCP2L-Lesson4 (25 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp2lesson4.json"
+                           },
+                           {  
+                              "name":"BCP2L-Lesson5 (25 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp2lesson5.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs":[  
+                           {  
+                              "name":"B C P 2 Q",
+                              "description":"Quiz on English conjugation (Primary level) - Set 2",
+                              "instruction":"একদিন BCP2L অনুশীলনীর যতটা পড়লে,  সেইদিনই তাদেরই কুইজ কর । শেষে ২ দিন সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp2quizmcq.json"
+                           },
+                           {  
+                              "description":"BCP2 mcqQuiz0 description0",
+                              "name":"BCP2-Quiz1 (25 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp2quizmcq1.json"
+                           },
+                           {  
+                              "description":"BCP2 mcqQuiz1 description1",
+                              "name":"BCP1-Quiz2 (25 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp2quizmcq2.json"
+                           },
+                           {  
+                              "description":"BCP2 mcqQuiz2 description0",
+                              "name":"BCP1-Quiz3 (25 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp2quizmcq3.json"
+                           },
+                           {  
+                              "description":"BCP2 mcqQuiz3 description1",
+                              "name":"BCP1-Quiz4 (25 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp2quizmcq4.json"
+                           },
+                           {  
+                              "description":"BCP2 mcqQuiz4 description1",
+                              "name":"BCP1-Quiz4 (25 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp2quizmcq5.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B C P 3 L",
+                     "desc":"Lesson on English conjugation (Primary level) - Set 3",
+                     "description":"",
+                     "instruction":"has/have,was/were, no/not/do not/does not ও present indefinite tense দিয়ে মৌলিক বাক্য আর প্রশ্ন শেখানো হয়েছে এখানে - সঙ্গে আরো কিছু preposition । প্রতিটি বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । এক এক দিনে ২০-২২টা বাক্য পড় ।",
+                     "daysToComplete":6,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BCP3L-Lesson1 (20 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp3lesson1.json"
+                           },
+                           {  
+                              "name":"BCP3L-Lesson2 (21 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp3lesson2.json"
+                           },
+                           {  
+                              "name":"BCP3L-Lesson3 (21 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp3lesson3.json"
+                           },
+                           {  
+                              "name":"BCP3L-Lesson4 (21 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp3lesson4.json"
+                           },
+                           {  
+                              "name":"BCP3L-Lesson5 (21 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp3lesson5.json"
+                           },
+                           {  
+                              "name":"BCP3L-Lesson6 (21 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp3lesson6.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs":[  
+                           {  
+                              "name":"B C P 3 Q",
+                              "description":"Quiz on English conjugation (Primary level) - Set 3",
+                              "instruction":"একদিন BCP3L অনুশীলনীর যতটা পড়লে, সেইদিনই তাদেরই কুইজ কর । শেষে ২ দিন সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে । BCP1Q, BCP2Q, BCP3Q - এই ৩টে কুইজ বারবার কর, যতক্ষণ না ১০০% ঠিক হচ্ছে । এর জন্য বাড়তি ২ দিন আরো দেওয়া হল ।",
+                              "daysToComplete":4,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp3quizmcq.json"
+                           },
+                           {  
+                              "description":"BCP3 mcqQuiz0 description0",
+                              "name":"BCP3-Quiz1 (20 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp3quizmcq1.json"
+                           },
+                           {  
+                              "description":"BCP3 mcqQuiz1 description1",
+                              "name":"BCP3-Quiz2 (21 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp3quizmcq2.json"
+                           },
+                           {  
+                              "description":"BCP3 mcqQuiz2 description0",
+                              "name":"BCP3-Quiz3 (21 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp3quizmcq3.json"
+                           },
+                           {  
+                              "description":"BCP3 mcqQuiz3 description1",
+                              "name":"BCP3-Quiz4 (21 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp3quizmcq4.json"
+                           },
+                           {  
+                              "description":"BCP3 mcqQuiz4 description1",
+                              "name":"BCP3-Quiz5 (21 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp3quizmcq5.json"
+                           },
+                           {  
+                              "description":"BCP3 mcqQuiz5 description1",
+                              "name":"BCP3-Quiz4 (21 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp3quizmcq6.json"
+                           }
+                        ],
+                        "orderGameQuizs":[  
+                           {  
+                              "description":"BCP3 orderGameQuiz0 description0",
+                              "name":"BCP3-Quiz1 (20 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp3quizordergame1.json"
+                           },
+                           {  
+                              "description":"BCP3 orderGameQuiz1 description0",
+                              "name":"BCP3-Quiz2 (34 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp3quizordergame2.json"
+                           },
+                           {  
+                              "description":"BCP3 orderGameQuiz2 description0",
+                              "name":"BCP3-Quiz3 (23 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp3quizordergame3.json"
+                           },
+                           {  
+                              "description":"BCP3 orderGameQuiz3 description0",
+                              "name":"BCP3-Quiz4 (35 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp3quizordergame4.json"
+                           },
+                           {  
+                              "description":"BCP3 orderGameQuiz4 description0",
+                              "name":"BCP3-Quiz5 (21 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp3quizordergame5.json"
+                           },
+                           {  
+                              "description":"BCP3 orderGameQuiz5 description0",
+                              "name":"BCP3-Quiz6 (27 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp3quizordergame6.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B C P 4 L",
+                     "desc":"Lesson on English conjugation (Primary level) - Set 4",
+                     "description":"",
+                     "instruction":"সহজ compound sentence, shall/will, big/bigger/biggest, present continuous and perfect tense, past tense, can/could/should/may/must/has to  দিয়ে মৌলিক বাক্য আর প্রশ্ন শেখানো হয়েছে এখানে । বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । এক দিনে ১২-১৪টা বাক্য পড়, তার বেশী নয় । ",
+                     "daysToComplete":10,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BCP4L-Lesson1 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson1.json"
+                           },
+                           {  
+                              "name":"BCP4L-Lesson2 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson2.json"
+                           },
+                           {  
+                              "name":"BCP4L-Lesson3 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson3.json"
+                           },
+                           {  
+                              "name":"BCP4L-Lesson4 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson4.json"
+                           },
+                           {  
+                              "name":"BCP4L-Lesson5 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson5.json"
+                           },
+                           {  
+                              "name":"BCP4L-Lesson6 (13 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson6.json"
+                           },
+                           {  
+                              "name":"BCP4L-Lesson7 (13 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson7.json"
+                           },
+                           {  
+                              "name":"BCP4L-Lesson8 (13 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson8.json"
+                           },
+                           {  
+                              "name":"BCP4L-Lesson9 (13 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson9.json"
+                           },
+                           {  
+                              "name":"BCP4L-Lesson10 (19 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcp4lesson10.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs":[
+                          {
+                            "name": "B C P 4 Q",
+                            "description": "Quiz on English conjugation (Primary level) - Set 4",
+                            "instruction": "একদিন BCP4L অনুশীলনীর যতটা পড়লে,  সেইদিনই তাদেরই কুইজ কর । শেষে ৩ দিন সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে । এই কুইজটা বারবার কর, যতক্ষণ না ১০০% ঠিক হচ্ছে ।",
+                            "daysToComplete": 3,
+                            "module_type":"MCQ_QUIZ",
+                            "mcqQuestions":"bcp4quizmcq.json"
+                           }, 
+                           {  
+                              "description":"BCP4 mcqQuiz0 description0",
+                              "name":"BCP4-Quiz1 (12 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq1.json"
+                           },
+                           {  
+                              "description":"BCP4 mcqQuiz1 description1",
+                              "name":"BCP4-Quiz2 (12 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq2.json"
+                           },
+                           {  
+                              "description":"BCP4 mcqQuiz2 description0",
+                              "name":"BCP4-Quiz3 (12 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq3.json"
+                           },
+                           {  
+                              "description":"BCP4 mcqQuiz3 description1",
+                              "name":"BCP4-Quiz4 (12 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq4.json"
+                           },
+                           {  
+                              "description":"BCP4 mcqQuiz4 description1",
+                              "name":"BCP4-Quiz5 (12 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq5.json"
+                           },
+                           {  
+                              "description":"BCP4 mcqQuiz5 description1",
+                              "name":"BCP4-Quiz6 (13 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq6.json"
+                           },
+                           {  
+                              "description":"BCP4 mcqQuiz6 description1",
+                              "name":"BCP4-Quiz7 (13 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq7.json"
+                           },
+                           {  
+                              "description":"BCP4 mcqQuiz7 description1",
+                              "name":"BCP4-Quiz8 (13 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq8.json"
+                           },
+                           {  
+                              "description":"BCP4 mcqQuiz8 description1",
+                              "name":"BCP4-Quiz9 (13 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq9.json"
+                           },
+                           {  
+                              "description":"BCP4 mcqQuiz9 description1",
+                              "name":"BCP4-Quiz10 (13 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcp4quizmcq10.json"
+                           }
+                        ],
+                        "orderGameQuizs": [
+                           
+                           {  
+                               "description": "BCP4 orderGameQuiz0 description0",
+                              "name": "BCP4-Quiz1 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp4quizordergame1.json"
+                           },
+                           {  
+                               "description": "BCP4 orderGameQuiz1 description0",
+                              "name": "BCP4-Quiz2 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp4quizordergame2.json"
+                           },
+                           {  
+                               "description": "BCP4 orderGameQuiz2 description0",
+                              "name": "BCP4-Quiz3 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp4quizordergame3.json"
+                           },
+                           {  
+                               "description": "BCP4 orderGameQuiz3 description0",
+                              "name": "BCP4-Quiz4 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp4quizordergame4.json"
+                           },
+                           {  
+                               "description": "BCP4 orderGameQuiz4 description0",
+                              "name": "BCP4-Quiz5 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp4quizordergame5.json"
+                           },
+                           {  
+                              "description": "BCP4 orderGameQuiz5 description0",
+                              "name": "BCP4-Quiz6 (13 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp4quizordergame6.json"
+                           },
+                           {  
+                              "description": "BCP4 orderGameQuiz6 description0",
+                              "name": "BCP4-Quiz7 (15 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp4quizordergame7.json"
+                           },
+                           {  
+                              "description": "BCP4 orderGameQuiz7 description0",
+                              "name": "BCP4-Quiz8 (14 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp4quizordergame8.json"
+                           },
+                           {  
+                              "description": "BCP4 orderGameQuiz8 description0",
+                              "name": "BCP4-Quiz9 (13 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bcp4quizordergame9.json"
+                           },
+                           {  
+                             "description": "BCP4 orderGameQuiz9 description0",
+                             "name": "BCP4-Quiz10 (19 Quizes)",
+                             "module_type": "ORDER_GAME_QUIZ",
+                             "orderGameQuestions": "bcp4quizordergame10.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B C P 1 T",
+                     "desc":"Translations on English Primary Constructs",
+                     "description":"",
+                     "instruction":"এক দিনে ১টা translation কর । passage-এর ওপর verb-গুলো ছাড়াও আরো শব্দ দেওয়া আছে সঙ্কেত হিসেবে, যাতে translation করতে সুবিধে হয় । বাকী শব্দ অভিধানে (BAPPI) দেখে নাও । 'View Answer' বোতাম টিপে তোমার লেখার সঙ্গে উত্তর মিলিয়ে নাও । প্রদত্ত উত্তরের সঙ্গে না মিললেও তোমার উত্তর ঠিক হতেই পারে । অতএব তোমার ইংরিজি শিক্ষককে তোমার উত্তর দেখিয়ে নাও । tense-এর ভুল যেন না হয়, লক্ষ্য রাখবে ।",
+                     "daysToComplete":10,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "quizzes":{  
+                      "simpleQuizs":[
+                           {
+                             "description":"simpleQuiz0 Description",
+                             "name":"simpleQuiz0 Name",
+                             "module_type":"SIMPLE_QUIZ",
+                             "simpleQuestions":"bcp1tquizsimplequiz1.json"
+                           }
+                        ]
+                     }
+                  }
+               ]
+            },
+            {  
+               "courseInstruction":"Conjugation যে কোন ভাষার বাক্যগঠনের কাঠামো । সরল ইংরিজি লিখতে যা conjugation দরকার হয়, তা এখানে দেওয়া হয়েছে শুধুমাত্র 'go' verb ব্যবহার ক'রে । এই প্যাটার্নগুলি শিখে নিলে তারপর তোমরা অন্য verb-এর ক্ষেত্রে সেগুলি প্রয়োগ করতে পারবে, যখন BVA-এর মাধ্যমে অন্য verb-এর বিভিন্ন form তোমরা জানবে । তাই এগুলো প্রায় মুখস্থের মত করে নাও । এখানেও সবকটা কুইজে ১০০% পেলে তবেই অন্য/পরের অনুশীলনীর কথা ভাববে, কারণ একই ।",
+               "courseLongDescription":"Conjugation using Verb 'Go'",
+               "courseName":"BCG",
+               "courseShortDescription":"BCG-Conjugation - 'Go'",
+               "completion":21,
+               "marks":0,
+               "modules":[  
+                  {  
+                     "name":"B C G 1 L",
+                     "desc":"Lesson on English conjugation with Verb 'GO' - Set 1",
+                     "instruction":"বাক্যগুলি খাতায় লেখো, মনে রাখো । I, WE, YOU, HE/SHE, THEY দিয়ে ১২০টা মৌলিক প্যাটার্ন । ২৪টা করে এক এক দিনে পড়া যায় ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BCG1L-Lesson1 (24 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg1lesson1.json"
+                           },
+                           {  
+                              "name":"BCG1L-Lesson2 (24 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg1lesson2.json"
+                           },
+                           {  
+                              "name":"BCG1L-Lesson3 (24 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg1lesson3.json"
+                           },
+                           {  
+                              "name":"BCG1L-Lesson4 (24 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg1lesson4.json"
+                           },
+                          {  
+                              "name":"BCG1L-Lesson5 (24 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg1lesson5.json"
+                           } 
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs":[  
+                           {  
+                              "name":"B C G 1 Q",
+                              "description":"Quiz on English conjugation with Verb 'GO' - Set 1",
+                              "instruction":"একদিন অনুশীলনীর যতটা পড়লে,  সেইদিনই তাদেরই কুইজ কর । শেষে ২ দিন সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg1quizmcq.json"
+                           },
+                           {  
+                              "description":"BCG1 mcqQuiz0 description0",
+                              "name":"BCG1-Quiz1 (24 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg1quizmcq1.json"
+                           },
+                           {  
+                              "description":"BCG1 mcqQuiz1 description1",
+                              "name":"BCG1-Quiz2 (24 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg1quizmcq2.json"
+                           },
+                           {  
+                              "description":"BCG1 mcqQuiz2 description0",
+                              "name":"BCG1-Quiz3 (24 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg1quizmcq3.json"
+                           },
+                           {  
+                              "description":"BCG1 mcqQuiz3 description1",
+                              "name":"BCG1-Quiz4 (24 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg1quizmcq4.json"
+                           },
+                           {  
+                              "description":"BCG1 mcqQuiz4 description1",
+                              "name":"BCG1-Quiz5 (24 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg1quizmcq5.json"
+                           }
+                        ],
+                        "orderGameQuizs":[  
+                           {  
+                              "description":"orderGameQuiz0 Description",
+                              "name":"orderGameQuiz0 Name",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bcp1quizordergame1.json"
+                           }
+                        ],
+                        "pictureMatchQuiz":[  
+                           {  
+                              "description":"pictureMatchQuiz0 Description",
+                              "name":"pictureMatchQuiz0 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bcp1quizpicturematchgame1.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B C G 2 L",
+                     "desc":"Lesson on English conjugation with Verb 'GO' - Set 2",
+                     "description":"",
+                     "instruction":"বাক্যগুলি খাতায় লেখো, মনে রাখো, basic বলে ব্যাখ্যা দেওয়া হয় নি । I, WE, YOU, HE/SHE, THEY দিয়ে ৯০টা বাক্য । ১৮টা করে এক এক দিনে পড়া যায় ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BCG2L-Lesson1 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg2lesson1.json"
+                           },
+                           {  
+                              "name":"BCG2L-Lesson2 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg2lesson2.json"
+                           },
+                           {  
+                              "name":"BCG2L-Lesson3 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg2lesson3.json"
+                           },
+                           {  
+                              "name":"BCG2L-Lesson4 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg2lesson4.json"
+                           },
+                           {  
+                              "name":"BCG2L-Lesson5 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg2lesson5.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs":[  
+                           {  
+                              "name":"B C G 2 Q",
+                              "description":"Quiz on English conjugation with Verb 'GO' - Set 2",
+                              "instruction":"একদিন অনুশীলনীর যতটা পড়লে,  সেইদিনই তাদেরই কুইজ কর । শেষে ২ দিন সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে । এইসব প্যাটার্নগুলো মুখস্থের মত করে নেবে, যেহেতু এগুলো খুব basic । ",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg2quizmcq.json"
+                           },
+                           {  
+                              "description":"BCG2 mcqQuiz0 description0",
+                              "name":"BCG2-Quiz1 (18 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg2quizmcq1.json"
+                           },
+                           {  
+                              "description":"BCG2 mcqQuiz1 description1",
+                              "name":"BCG2-Quiz2 (25 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg2quizmcq2.json"
+                           },
+                           {  
+                              "description":"BCG2 mcqQuiz2 description0",
+                              "name":"BCG2-Quiz3 (18 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg2quizmcq3.json"
+                           },
+                           {  
+                              "description":"BCG2 mcqQuiz3 description1",
+                              "name":"BCG2-Quiz4 (18 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg2quizmcq4.json"
+                           },
+                           {  
+                              "description":"BCG2 mcqQuiz4 description1",
+                              "name":"BCG2-Quiz5 (18 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg2quizmcq5.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B C G 3 L",
+                     "desc":"Lesson on English conjugation with Verb 'GO' - Set 3",
+                     "description":"",
+                     "instruction":"বাক্যগুলি খাতায় লেখো, মনে রাখো, basic বলে ব্যাখ্যা দেওয়া হয় নি । I, WE, YOU, HE/SHE, THEY দিয়ে ৯০টা বাক্য । ১৮টা করে এক এক দিনে পড়া যায় ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BCG3L-Lesson1 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg3lesson1.json"
+                           },
+                           {  
+                              "name":"BCG3L-Lesson2 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg3lesson2.json"
+                           },
+                           {  
+                              "name":"BCG3L-Lesson3 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg3lesson3.json"
+                           },
+                           {  
+                              "name":"BCG3L-Lesson4 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg3lesson4.json"
+                           },
+                           {  
+                              "name":"BCG3L-Lesson5 (18 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bcg3lesson5.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs":[  
+                           {  
+                              "name":"B C G 3 Q",
+                              "description":"Quiz on English conjugation with Verb 'GO' - Set 3",
+                              "instruction":"একদিন অনুশীলনীর যতটা পড়লে,  সেইদিনই তাদেরই কুইজ কর । শেষে ২ দিন সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে । এইসব প্যাটার্নগুলো মুখস্থের মত করে নেবে, যেহেতু এগুলো খুব basic ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg3quizmcq.json"
+                           },
+                           {  
+                              "description":"BCG3 mcqQuiz0 description0",
+                              "name":"BCG3-Quiz1 (18 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg3quizmcq1.json"
+                           },
+                           {  
+                              "description":"BCG3 mcqQuiz1 description1",
+                              "name":"BCG3-Quiz2 (18 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg3quizmcq2.json"
+                           },
+                           {  
+                              "description":"BCG3 mcqQuiz2 description0",
+                              "name":"BCG3-Quiz3 (18 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg3quizmcq3.json"
+                           },
+                           {  
+                              "description":"BCG3 mcqQuiz3 description1",
+                              "name":"BCG3-Quiz4 (18 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg3quizmcq4.json"
+                           },
+                           {  
+                              "description":"BCG3 mcqQuiz4 description1",
+                              "name":"BCG3-Quiz5 (18 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bcg3quizmcq5.json"
+                           }
+                        ]
+                     }
+                  }
+               ]
+            },
+            {  
+               "courseInstruction":"BCG-তে যে conjugation প্যাটার্নগুলি শেখানো হয়েছে, এখানে অন্য সব verb ব্যবহার করে সেইসব প্যাটার্নগুলির প্রয়োগ দেখানো হয়েছে ছবির মাধ্যমে । প্রতি verb-এর জন্য ৫টি কুইজ দেওয়া হল, যার ৩টি উদাহরণ থেকে নেওয়া, আর ২টি অদেখা । কিছু কিছু verb-এর অর্থ কাছাকাছি বলে মনে হয়, কিন্তু ব্যবহার আলাদা হয় (যেমন, finish আর complete) । এইরকম ৩০টি সমাহারকে (যেমন, stop-end-finish-complete, love-like-prefer ইত্যাদি)  বেছে নিয়ে তাদের ব্যবহারের তফাৎ শেখানো হয়েছে । একই সঙ্গে  verb-গুলির ব্যবহার আরো ভালো করে শেখার জন্য ২৪টি translation আর ২৪টি comprehension  করতে দেওয়া হল,  যেগুলিতে ১২০টি verb-ই প্রয়োগ হয়েছে । এর সঙ্গে রয়েছে adverb-এর একটি module । কুইজের passmark ৮৫% । Comprehension আর translation-এর শব্দের জন্য ভালো কোন বাঙলা-ইংরাজী অভিধান download করে নাও । BAPPI Bangla-English Dictionary এমনই একটি অভিধান ।  BCO module না শিখে BVA-এর পরের দিকের translation ও comprehension শুরু কোরো না ।",
+               "courseLongDescription":"Conjugation, Comprehension and Translation Involving 120 Verbs and basic adverbs",
+               "courseName":"BVA",
+               "courseShortDescription":"BVA-Verbs & Adverbs",
+               "completion":86,
+               "marks":0,
+               "modules":[  
+                  {  
+                     "name":"B V B 1 L",
+                     "desc":"Lesson on English basic verbs - Set 1",
+                     "instruction":"৩০টা verb আছে । ছবির সঙ্গে পাশের verb-এর বর্ণনা একসঙ্গে মাথায় রাখো, তাহলে ভালো মনে থাকবে । এক এক দিনে ১০টা করে verb ও তাদের প্রতিটার ৩টে করে উদাহরণ খাতায় লিখে লিখে পড় (প্রতি verb-এর সঙ্গে একটা করে translation-ও করে রাখো)  আর সেইদিনই সেগুলোর কুইজ কর । প্রতি verb-এর present indefinite, past indefinite আর participle form-গুলি মনে রাখো । সহজ compound ও complex sentences উদাহরণে দেওয়া আছে, এদের ব্যবহার খেয়াল করবে ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BVB1L-Lesson1 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb1presentation1.json"
+                           },
+                           {  
+                              "name":"BVB1L-Lesson2 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb1presentation2.json"
+                           },
+                           {  
+                              "name":"BVB1L-Lesson3 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb1presentation3.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs":[  
+                           {  
+                              "name":"B V B 1 Q",
+                              "description":"Quiz on English basic verbs - Set 1",
+                              "instruction":"যে verb-গুলি আজ শিখলে আজই তার কুইজগুলি কর । সেই সব দিনে ১০টা verb-এর ৫০টা কুইজ কর । সাধারণ ছাত্রেরা যে যে ভুলগুলি করে, কুইজের ভুল বাছাইগুলিতে (options) সেই ভুলগুলি ঢোকানো আছে । সেগুলো খেয়াল করবে, যাতে ভুলগুলো শুধরে যায় । শেষ ২ দিন ধরে ১৫০টা কুইজ আবার অভ্যাস কর ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvb1quizordergame.json"
+                           },
+                           {  
+                               "description": "BVB1 orderGameQuiz0 description0",
+                              "name": "BVB1-Quiz1 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb1quizordergame1.json"
+                           },
+                           {  
+                               "description": "BVB1 orderGameQuiz1 description0",
+                              "name": "BVB1-Quiz2 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb1quizordergame2.json"
+                           },
+                           {  
+                               "description": "BVB1 orderGameQuiz2 description0",
+                              "name": "BVB1-Quiz3 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb1quizordergame3.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B V B 2 L",
+                     "desc":"Lesson on English basic verbs - Set 2",
+                     "description":"",
+                     "instruction":"৩০টা verb আছে । ছবির সঙ্গে পাশের verb-এর বর্ণনা একসঙ্গে মাথায় রাখো, তাহলে ভালো মনে থাকবে । এক এক দিনে ১০টা করে verb ও তাদের প্রতিটার ৩টে করে উদাহরণ খাতায় লিখে লিখে পড় (প্রতি verb-এর সঙ্গে একটা করে translation-ও করে রাখো)  আর সেইদিনই সেগুলোর কুইজ কর । প্রতি verb-এর present indefinite, past indefinite আর participle form-গুলি মনে রাখো । সহজ compound ও complex sentences উদাহরণে দেওয়া আছে, এদের ব্যবহার খেয়াল করবে ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BVB2L-Lesson1 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb2presentation1.json"
+                           },
+                           {  
+                              "name":"BVB2L-Lesson2 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb2presentation2.json"
+                           },
+                           {  
+                              "name":"BVB2L-Lesson3 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb2presentation3.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs":[  
+                           {  
+                              "name":"B V B 2 Q",
+                              "description":"Quiz on English basic verbs - Set 2",
+                              "instruction":"যে verb-গুলি আজ শিখলে আজই তার কুইজগুলি কর । সেই সব দিনে ১০টা verb-এর ৫০টা কুইজ কর । সাধারণ ছাত্রেরা যে যে ভুলগুলি করে, কুইজের ভুল বাছাইগুলিতে (options) সেই ভুলগুলি ঢোকানো আছে । সেগুলো খেয়াল করবে, যাতে ভুলগুলো শুধরে যায় । শেষ ২ দিন ধরে ১৫০টা কুইজ আবার অভ্যাস কর ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvb2quizordergame.json"
+                           },
+                           {  
+                               "description": "BVB2 orderGameQuiz0 description0",
+                              "name": "BVB2-Quiz1 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb2quizordergame1.json"
+                           },
+                           {  
+                               "description": "BVB2 orderGameQuiz1 description0",
+                              "name": "BVB2-Quiz2 (51 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb2quizordergame2.json"
+                           },
+                           {  
+                               "description": "BVB2 orderGameQuiz2 description0",
+                              "name": "BVB2-Quiz3 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb2quizordergame3.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B V B 3 L",
+                     "desc":"Lesson on English conjugation (Primary level) - Set 3",
+                     "description":"",
+                     "instruction":"৩০টা verb আছে । ছবির সঙ্গে পাশের verb-এর বর্ণনা একসঙ্গে মাথায় রাখো, তাহলে ভালো মনে থাকবে । এক এক দিন ১০টা করে verb ও তাদের প্রতিটার ৩টে করে উদাহরণ খাতায় লিখে লিখে পড় (প্রতি verb-এর সঙ্গে একটা করে translation-ও করে রাখো)  আর সেইদিনই সেগুলোর কুইজ কর । প্রতি verb-এর present indefinite, past indefinite আর participle form-গুলি মনে রাখো । সহজ compound ও complex sentences উদাহরণে দেওয়া আছে, এদের ব্যবহার খেয়াল করবে ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BVB3L-Lesson1 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb3presentation1.json"
+                           },
+                           {  
+                              "name":"BVB3L-Lesson2 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb3presentation2.json"
+                           },
+                           {  
+                              "name":"BVB3L-Lesson3 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb3presentation3.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs":[  
+                           {  
+                              "name":"B V B 3 Q",
+                              "description":"Quiz on English basic verbs - Set 3",
+                              "instruction":"যে verb-গুলি আজ শিখলে আজই তার কুইজগুলি কর । সেই সব দিনে ১০টা verb-এর ৫০টা কুইজ কর । সাধারণ ছাত্রেরা যে যে ভুলগুলি করে, কুইজের ভুল বাছাইগুলিতে (options) সেই ভুলগুলি ঢোকানো আছে । সেগুলো খেয়াল করবে, যাতে ভুলগুলো শুধরে যায় । শেষ ২ দিন ধরে ১৫০টা কুইজ আবার অভ্যাস কর ।",
+                              "daysToComplete":4,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvb3quizordergame.json"
+                           },
+                           {  
+                               "description": "BVB3 orderGameQuiz0 description0",
+                              "name": "BVB3-Quiz1 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb3quizordergame1.json"
+                           },
+                           {  
+                               "description": "BVB3 orderGameQuiz1 description0",
+                              "name": "BVB3-Quiz2 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb3quizordergame2.json"
+                           },
+                           {  
+                               "description": "BVB3 orderGameQuiz2 description0",
+                              "name": "BVB3-Quiz3 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb3quizordergame3.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B V B 4 L",
+                     "desc":"Lesson on English basic verbs - Set 4",
+                     "description":"",
+                     "instruction":"৩০টা verb আছে । ছবির সঙ্গে পাশের verb-এর বর্ণনা একসঙ্গে মাথায় রাখো, তাহলে ভালো মনে থাকবে । এক এক দিনে ১০টা করে verb ও তাদের প্রতিটার ৩টে করে উদাহরণ খাতায় লিখে লিখে পড় (প্রতি verb-এর সঙ্গে একটা করে translation-ও করে রাখো) আর সেইদিন সেগুলোরই কুইজ কর । প্রতি verb-এর present indefinite, past indefinite আর participle form-গুলি মনে রাখো । সহজ compound ও complex sentences উদাহরণে দেওয়া আছে, এদের ব্যবহার খেয়াল করবে ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BVB4L-Lesson1 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb4presentation1.json"
+                           },
+                           {  
+                              "name":"BVB4L-Lesson2 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb4presentation2.json"
+                           },
+                           {  
+                              "name":"BVB4L-Lesson3 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bvb4presentation3.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B V B 4 Q",
+                              "description":"Quiz on English basic verbs - Set 4",
+                              "instruction":"যে verb-গুলি আজ শিখলে আজই তার কুইজগুলি কর । সেই সব দিনে ১০টা verb-এর ৫০টা কুইজ কর । সাধারণ ছাত্রেরা যে যে ভুলগুলি করে, কুইজের ভুল বাছাইগুলিতে (options) সেই ভুলগুলি ঢোকানো আছে । সেগুলো খেয়াল করবে, যাতে ভুলগুলো শুধরে যায় । শেষ ২ দিন ধরে ১৫০টা কুইজ আবার অভ্যাস কর ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvb4quizordergame.json"
+                           },
+                           {  
+                               "description": "BVB4 orderGameQuiz0 description0",
+                              "name": "BVB4-Quiz1 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb4quizordergame1.json"
+                           },
+                           {  
+                               "description": "BVB4 orderGameQuiz1 description0",
+                              "name": "BVB4-Quiz2 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb4quizordergame2.json"
+                           },
+                           {  
+                               "description": "BVB4 orderGameQuiz2 description0",
+                              "name": "BVB4-Quiz3 (50 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bvb4quizordergame3.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B S V 1 L",
+                     "desc":"Lesson on Similar Verbs - Set 1",
+                     "description":"",
+                     "instruction":"আপাতদৃষ্টিতে কাছাকাছি বলে মনে হয়, এমন কিছু verb-এর সমাহার নিয়ে এক একটি উদাহরণ তৈরী করা হয়েছে । এরকম ১৫টা combination (সমাহার) আছে । ছবির মাধ্যমে একটি verb-এর সঙ্গে আরেকটির ব্যবহারের তফাৎ বোঝানো হয়েছে । শেষে বিশদ ব্যাখ্যা দেওয়া আছে । এক এক দিনে ৩টে সমাহার (উদাহরণ) লিখে লিখে পড় ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BSV1L-Lesson1 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv1presentation1.json"
+                           },
+                           {  
+                              "name":"BSV1L-Lesson2 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv1presentation2.json"
+                           },
+                           {  
+                              "name":"BSV1L-Lesson3 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv1presentation3.json"
+                           },
+                           {  
+                              "name":"BSV1L-Lesson4 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv1presentation4.json"
+                           },
+                           {  
+                              "name":"BSV1L-Lesson5 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv1presentation5.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs":[  
+                           {  
+                              "name":"B S V 1 Q",
+                              "description":"Quiz on Similar Verbs - Set 1",
+                              "instruction":"যে verb-এর সমহারগুলি আজ শিখলে আজই তাদের কুইজগুলি কর । সেই সব দিনে ৩টে উদাহরণের সঙ্গে সংযুক্ত যতগুলি কুইজ আছে, সবগুলি কর । শেষ ২ দিন ধরে সবকটা কুইজ আবার অভ্যাস কর ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bSV1quizordergame.json"
+                           },
+                           {  
+                              "description": "BSV1 orderGameQuiz0 description0",
+                              "name": "BSV1-Quiz1 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv1quizordergame1.json"
+                           },
+                           {  
+                              "description": "BSV1 orderGameQuiz1 description0",
+                              "name": "BSV1-Quiz2 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv1quizordergame2.json"
+                           },
+                           {  
+                              "description": "BSV1 orderGameQuiz2 description0",
+                              "name": "BSV1-Quiz3 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv1quizordergame3.json"
+                           },
+                           {  
+                              "description": "BSV1 orderGameQuiz3 description0",
+                              "name": "BSV1-Quiz4 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv1quizordergame4.json"
+                           },
+                           { 
+                              "description": "BSV1 orderGameQuiz4 description0",
+                              "name": "BSV1-Quiz5 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv1quizordergame5.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B S V 2 L",
+                     "desc":"Lesson on Similar Verbs - Set 2",
+                     "description":"",
+                     "instruction":"আপাতদৃষ্টিতে কাছাকাছি বলে মনে হয়, এমন কিছু verb-এর সমাহার নিয়ে এক একটি উদাহরণ তৈরী করা হয়েছে । এরকম ১৫টা combination (সমাহার) আছে । ছবির মাধ্যমে একটি verb-এর সঙ্গে আরেকটির ব্যবহারের তফাৎ বোঝানো হয়েছে । শেষে বিশদ ব্যাখ্যা দেওয়া আছে । এক এক দিনে ৩টে সমাহার (উদাহরণ) লিখে লিখে পড় ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BSV2L-Lesson1 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv2presentation1.json"
+                           },
+                           {  
+                              "name":"BSV2L-Lesson2 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv2presentation2.json"
+                           },
+                           {  
+                              "name":"BSV2L-Lesson3 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv2presentation3.json"
+                           },
+                           {  
+                              "name":"BSV2L-Lesson4 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv2presentation4.json"
+                           },
+                           {  
+                              "name":"BSV2L-Lesson5 (3 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bsv2presentation5.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B S V 2 Q",
+                              "description":"Quiz on Similar Verbs - Set 2",
+                              "instruction":"যে verb-এর সমহারগুলি আজ শিখলে আজই তাদের কুইজগুলি কর । সেই সব দিনে ৩টে উদাহরণের সঙ্গে সংযুক্ত যতগুলি কুইজ আছে, সবগুলি কর । শেষ ২ দিন ধরে সবকটা কুইজ আবার অভ্যাস কর ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bSV2quizordergame.json"
+                           },
+                           {  
+                              "description": "BSV2 orderGameQuiz0 description0",
+                              "name": "BSV2-Quiz1 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv2quizordergame1.json"
+                           },
+                           {  
+                              "description": "BSV2 orderGameQuiz1 description0",
+                              "name": "BSV2-Quiz2 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv2quizordergame2.json"
+                           },
+                           {  
+                              "description": "BSV2 orderGameQuiz2 description0",
+                              "name": "BSV2-Quiz3 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv2quizordergame3.json"
+                           },
+                           {  
+                              "description": "BSV2 orderGameQuiz3 description0",
+                              "name": "BSV2-Quiz4 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv2quizordergame4.json"
+                           },
+                           { 
+                              "description": "BSV2 orderGameQuiz4 description0",
+                              "name": "BSV2-Quiz5 (12 Quizes)",
+                              "module_type": "ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bsv2quizordergame5.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B V B 1 T",
+                     "desc":"Translations involving 120 basic verbs - Set 1",
+                     "description":"",
+                     "instruction":"এক দিনে ১টা translation কর । passage-এর ওপর verb-গুলো ছাড়াও আরো শব্দ দেওয়া আছে সঙ্কেত হিসেবে, যাতে translation করতে সুবিধে হয় । বাকী শব্দ অভিধানে (BAPPI) দেখে নাও । 'View Answer' বোতাম টিপে তোমার লেখার সঙ্গে উত্তর মিলিয়ে নাও । প্রদত্ত উত্তরের সঙ্গে না মিললেও তোমার উত্তর ঠিক হতেই পারে । অতএব তোমার ইংরিজি শিক্ষককে তোমার উত্তর দেখিয়ে নাও । tense-এর ভুল যেন না হয়, লক্ষ্য রাখবে ।",
+                     "daysToComplete":12,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "quizzes":{  
+                      "simpleQuizs":[
+                           {
+                             "description":"simpleQuiz0 Description",
+                             "name":"simpleQuiz0 Name",
+                             "module_type":"SIMPLE_QUIZ",
+                             "simpleQuestions":"bvb1tquizsimplequiz1.json"
+                           }
+                        ]
+                     }
+                 },
+                 {  
+                     "name":"B V B 2 T",
+                     "desc":"Translations involving 120 basic verbs - Set 2",
+                     "description":"",
+                     "instruction":"BCO (অর্থাৎ compound and complex sentences)  শেষ  না করে এটাতে হাত দিয়ো না । এক দিনে ১টা translation কর । passage-এর ওপর verb-গুলো ছাড়াও আরো শব্দ দেওয়া আছে সঙ্কেত হিসেবে, যাতে translation করতে সুবিধে হয় । বাকী শব্দ অভিধানে (BAPPI) দেখে নাও । 'View Answer' বোতাম টিপে তোমার লেখার সঙ্গে উত্তর মিলিয়ে নাও । প্রদত্ত উত্তরের সঙ্গে না মিললেও তোমার উত্তর ঠিক হতেই পারে । অতএব তোমার ইংরিজি শিক্ষককে তোমার উত্তর দেখিয়ে নাও । tense-এর ভুল যেন না হয়, লক্ষ্য রাখবে ।",
+                     "daysToComplete":12,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "quizzes":{  
+                        "simpleQuizs":[  
+                           {
+                             "description":"simpleQuiz0 Description",
+                             "name":"simpleQuiz0 Name",
+                             "module_type":"SIMPLE_QUIZ",
+                             "simpleQuestions":"bvb2tquizsimplequiz1.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B A D 1 L",
+                     "desc":"Lesson on simple adverbs",
+                     "description":"",
+                     "instruction":"৩০টা adverb-এর উদাহরণ আছে, যেগুলি বেশী ব্যবহৃত হয় । এক এক দিনে ১০টা করে লিখে লিখে পড় (ব্যাখ্যা-সহ) । নিজে নিজে আগে প্রতি উদাহরণেই বাংলার ইংরিজি করার চেষ্টা কর, আর তোমার উত্তরটা প্রদত্ত উত্তরের সঙ্গে মিলিয়ে নাও ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BAD1L-Lesson1 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bad1lesson1.json"
+                           },
+                           {  
+                              "name":"BAD1L-Lesson2 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bad1lesson2.json"
+                           },
+                           {  
+                              "name":"BAD1L-Lesson3 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bad1lesson3.json"
+                           }
+                         ]
+                     },
+                      "quizzes":{  
+                      "orderGameQuizs": [ 
+                          {  
+                              "name":"B A D 1 Q",
+                              "description":"Quiz on simple adverbs",
+                              "instruction":"BAD1L-এর ১০টা উদাহরণ যেদিন পড়বে, সেইদিনই ১০টা কুইজ করে ফেলো । শেষে একদিন সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":1,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bad1quizordergame.json"
+                           }, 
+                           {  
+                              "description":"BAD1 orderGameQuiz0 description0",
+                              "name":"BAD1-Quiz1 (10 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bad1quizordergame1.json"
+                           },
+                           {  
+                              "description":"BAD1 orderGameQuiz1 description0",
+                              "name":"BAD1-Quiz2 (10 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bad1quizordergame2.json"
+                           },
+                           {  
+                              "description":"BAD1 orderGameQuiz2 description0",
+                              "name":"BAD1-Quiz3 (10 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bad1quizordergame3.json"
+                           }
+                        ]
+                     }
+                  }
+               ]
+            },
+            {  
+               "courseInstruction":"একটি বাক্যের (বা বাক্যাংশের) ভাব বহন ও গ্রহণ করে আরেকটি বাক্য (বা বাক্যাংশ) লিখতে গেলে যে কোন ভাষাতেই বাক্যদুটিকে (বা বাক্যাংশদুটিকে) জুড়ে একটি বাক্য করে নিতে হয় । ইংরাজীতে এদের compound আর complex sentences বলা হয় । এখানে বিভিন্ন সংযোগকারী অব্যয় (যেমন, when, if, and, but, still ইত্যাদি) ব্যবহার ক'রে ১০০টি উদাহরণের সাহায্যে compound and complex sentences (ও প্রশ্ন) শেখানো হয়েছে বিস্তৃত ব্যাখ্যা সহযোগে । ইংরিজি বাক্য অনেকভাবে ঘুরিয়ে ফিরিয়ে লেখা যায় সৌন্দর্যের বা অর্থের তারতম্যের প্রয়োজনে । সেকারণে এখানে বিভিন্ন বাক্যের রূপান্তরও (transformation of sentences) শেখানো হয়েছে ও উদাহরণগুলিতে সেই বৈচিত্র‍্যকে মর্যাদা দেওয়া হয়েছে । কুইজের passmark ৮৫% ।",
+               "courseLongDescription":"Compound and Complex Sentences and Transformation of Sentences",
+               "courseName":"BCO",
+               "courseShortDescription":"BCO-Compound and Complex Sentences and Transformation",
+               "completion":20,
+               "marks":0,
+               "modules":[
+                  { 
+                     "name":"B C O 1 L", 
+                     "desc":"Lesson on Compound and Complex sentences - Set 1",
+                     "description":"",
+                     "instruction":"৫০টা উদাহরণ আছে, যার ১২-১৪টা এক একদিনের জন্য বরাদ্দ কর । লিখে লিখে পড় (ব্যাখ্যা-সহ) । বিভিন্ন সংযোগকারীর (when, how, if ইত্যাদি) অর্থ ও ব্যবহার মনে রাখো । ১) চালক বাক্য কি বোঝো, আর ২) বাঙলা থেকে ইংরিজি করতে বাঙলা বাক্যটিকে কিভাবে ঘুরিয়ে সাজিয়ে নিতে হয়, তার একটা ধারণা তৈরী কর । পরে যা যা তোমরা শিখবে, তাতে এই দুটি ধারণা খুব কাজে লাগবে । এই module-ও ভুল কি লিখতে পারো তোমরা, আর একটি সঠিক বাক্যের পরিবর্তে আর কী সঠিক বাক্য লেখা যায়, তা দেখানো হয়েছে ।",
+                     "daysToComplete":4,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BCO1L-Lesson1 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bco1lesson1.json"
+                           },
+                           {  
+                              "name":"BCO1L-Lesson2 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bco1lesson2.json"
+                           },
+                           {  
+                              "name":"BCO1L-Lesson3 (13 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bco1lesson3.json"
+                           },
+                           {  
+                              "name":"BCO1L-Lesson4 (13 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bco1lesson4.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B C O 1 Q",
+                              "description":"Quiz on Compound and Complex sentences - Set 1",
+                              "instruction":"",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bco1quizordergame.json"
+                           },
+                           {  
+                              "description":"BCO1 orderGameQuiz0 description0",
+                              "name":"BCO1-Quiz1 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bco1quizordergame1.json"
+                           },
+                           {  
+                              "description":"BCO1 orderGameQuiz1 description0",
+                              "name":"BCO1-Quiz2 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bco1quizordergame2.json"
+                           },
+                           {  
+                              "description":"BCO1 orderGameQuiz2 description0",
+                              "name":"BCO1-Quiz3 (13 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bco1quizordergame3.json"
+                           },
+                           {  
+                              "description":"BCO1 orderGameQuiz3 description0",
+                              "name":"BCO1-Quiz3 (13 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bco1quizordergame4.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B C O 2 L", 
+                     "desc":"Lesson on Compound and Complex sentences - Set 2",
+                     "description":"",
+                     "instruction":"৫০টা উদাহরণ আছে, যার ১২-১৪টা এক একদিনের জন্য বরাদ্দ কর । লিখে লিখে পড় (ব্যাখ্যা-সহ) । বিভিন্ন সংযোগকারীর (when, how, if ইত্যাদি) অর্থ ও ব্যবহার মনে রাখো । ১) চালক বাক্য কি বোঝো, আর ২) বাঙলা থেকে ইংরিজি করতে বাঙলা বাক্যটিকে কিভাবে ঘুরিয়ে সাজিয়ে নিতে হয়, তার একটা ধারণা তৈরী কর । পরে যা যা তোমরা শিখবে, তাতে এই দুটি ধারণা খুব কাজে লাগবে । এই module-ও ভুল কি লিখতে পারো তোমরা, আর একটি সঠিক বাক্যের পরিবর্তে আর কী সঠিক বাক্য লেখা যায়, তা বোঝানো হয়েছে ।",
+                     "daysToComplete":4,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BCO2L-Lesson1 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bco2lesson1.json"
+                           },
+                           {  
+                              "name":"BCO2L-Lesson2 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bco2lesson2.json"
+                           },
+                           {  
+                              "name":"BCO2L-Lesson3 (13 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bco2lesson3.json"
+                           },
+                           {  
+                              "name":"BCO2L-Lesson4 (13 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bco2lesson4.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B C O 2 Q",
+                              "description":"Quiz on Compound and Complex sentences - Set 2",
+                              "instruction":"",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bco2quizordergame.json"
+                           },
+                           {  
+                              "description":"BCO2 orderGameQuiz0 description0",
+                              "name":"BCO2-Quiz1 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bco2quizordergame1.json"
+                           },
+                           {  
+                              "description":"BCO2 orderGameQuiz1 description0",
+                              "name":"BCO2-Quiz2 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                             "orderGameQuestions": "bco2quizordergame2.json"
+                           },
+                           {  
+                              "description":"BCO2 orderGameQuiz2 description0",
+                              "name":"BCO2-Quiz3 (13 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bco2quizordergame3.json"
+                           },
+                           {  
+                              "description":"BCO2 orderGameQuiz3 description0",
+                              "name":"BCO2-Quiz4 (13 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions": "bco2quizordergame4.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B T S 1 L", 
+                     "desc":"Lesson on transformation of sentences - Set 1",
+                     "description":"",
+                     "instruction":"৩০টা উদাহরণ আছে, যার ১৫টা এক একদিনের জন্য বরাদ্দ কর । লিখে লিখে পড় । মনে রাখবে, অর্থের কোনো পরিবর্তন করা হচ্ছে না পরিবর্তিত বাক্যে ।",
+                     "daysToComplete":2,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BTS1L-Lesson1 (15 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bts1lesson1.json"
+                           },
+                           {  
+                              "name":"BTS1L-Lesson2 (15 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bts1lesson2.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B T S 1 Q",
+                              "description":"Quiz on transformation of sentences - Set 1",
+                              "instruction":"BTS1L-এর ১৫টা উদাহরণ যেদিন পড়বে, সেই দিনই তাদের কুইজগুলো করে ফেলো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bts1quizordergame.json"
+                           },
+                           {  
+                              "description":"BTS1 orderGameQuiz0",
+                              "name":"BTS1-Quiz1 (15 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bts1quizordergame1.json"
+                           },
+                           {  
+                              "description":"BTS1 orderGameQuiz1",
+                              "name":"BTS1-Quiz2 (15 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bts1quizordergame2.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B T S 2 L", 
+                     "desc":"Lesson on transformation of sentences - Set 2",
+                     "description":"",
+                     "instruction":"৩০টা উদাহরণ আছে, যার ১৫টা এক একদিনের জন্য বরাদ্দ কর । লিখে লিখে পড় । মনে রাখবে, অর্থের কোনো পরিবর্তন করা হচ্ছে না পরিবর্তিত বাক্যে ।",
+                     "daysToComplete":2,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BTS2L-Lesson1 (15 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bts2lesson1.json"
+                           },
+                           {  
+                              "name":"BTS2L-Lesson2 (15 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bts2lesson2.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B T S 2 Q",
+                              "description":"Quiz on transformation of sentences - Set 2",
+                              "instruction":"BTS2L-এর ১৫টা উদাহরণ যেদিন পড়বে, সেই দিনই তাদের কুইজগুলো করে ফেলো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bts2quizordergame.json"
+                           },
+                           {  
+                              "description":"BTS2 orderGameQuiz0",
+                              "name":"BTS2-Quiz1 (15 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bts2quizordergame1.json"
+                           },
+                           {  
+                              "description":"BTS2 orderGameQuiz1",
+                              "name":"BTS2-Quiz2 (15 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bts2quizordergame2.json"
+                           }
+                        ]
+                     }
+                  }
+               ]
+            },
+            {  
+               "courseInstruction":"Preposition ইংরাজী ভাষার সেই বিষয় যা সম্ভবত সবচেয়ে বেশী ছবির মাধ্যমে বোঝানো যায় । তাই ৩৮০টি মত ছবিসহ উদাহরণের সাহায্যে prepositions of place, prepositions of time, appropriate prepositions ও group verbs শেখানো হয়েছে । ছবিগুলি মাথায় রাখার চেষ্টা কর । যতটা পারা গেছে, ব্যাখ্যা দিয়ে নিয়ম বলা হয়েছে - সব নিয়ম এক জায়গায় লিখে রাখো -  কিন্তু ইংরাজী ভাষায় preposition সবসময় খুব নিয়ম মেনে চলে না । যত ইংরিজি বই পড়বে আর কথোপকথন করবে, তত preposition-এর ধারণা ভালো হবে । কুইজের passmark ৮৫% । ",
+               "courseLongDescription":"Prepositions",
+               "courseName":"BPP",
+               "courseShortDescription":"BPP-Prepositions",
+               "completion":64,
+               "marks":0,
+               "modules":[
+                  { 
+                     "name":"B P P 1 L", 
+                     "desc":"Lesson on Prepositions of Place - Set 1",
+                     "description":"",
+                     "instruction":"৫৫টা উদাহরণ আছে । এক এক দিনে ১১টা উদাহরণ লিখে লিখে পড় । ব্যখ্যাগুলোও লেখো । at আর in-এর ব্যবহারের তফাৎ বোঝা খুব জরুরী, যার বিস্তৃত ব্যখ্যা দেওয়া আছে । এছাড়াও on, by, to-এর বিভিন্ন ব্যবহারগুলি অনুধাবন করে করে পড় । এই module-ও ভুল কি লিখতে পারো তোমরা, আর একটি সঠিক preposition-এর পরিবর্তে আর কী সঠিক preposition  লেখা যায়, তা বোঝানো হয়েছে । ছবিগুলো মাথায় রাখো ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BPP1L-Lesson1 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp1lesson1.json"
+                           },
+                           {  
+                              "name":"BPP1L-Lesson2 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp1lesson2.json"
+                           },
+                           {  
+                              "name":"BPP1L-Lesson3 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp1lesson3.json"
+                           },
+                           {  
+                              "name":"BPP1L-Lesson4 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp1lesson4.json"
+                           },
+                           {  
+                              "name":"BPP1L-Lesson5 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp1lesson5.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs": [
+                          {  
+                              "name":"B P P 1 Q",
+                              "description":"Quiz on Prepositions of Place - Set 1",
+                              "instruction":"BPP1L-এর ১১টা উদাহরণ যেদিন পড়বে, সেইদিনই সেই সেই কুইজ করে ফেলো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp1quizmcq.json"
+                           },
+                           {  
+                              "description":"BPP1 mcqQuiz0",
+                              "name":"BPP1-Quiz1 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp1quizmcq1.json"
+                           },
+                           {  
+                              "description":"BPP1 mcqQuiz1",
+                              "name":"BPP1-Quiz2 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp1quizmcq2.json"
+                           },
+                           {  
+                              "description":"BPP1 mcqQuiz2",
+                              "name":"BPP1-Quiz3 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp1quizmcq3.json"
+                           },
+                           {  
+                              "description":"BPP1 mcqQuiz3",
+                              "name":"BPP1-Quiz4 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp1quizmcq4.json"
+                           },
+                           {  
+                              "description":"BPP1 mcqQuiz4",
+                              "name":"BPP1-Quiz5 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp1quizmcq5.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B P P 2 L", 
+                     "desc":"Lesson on Prepositions of Place - Set 2",
+                     "description":"",
+                     "instruction":"৫৫টা উদাহরণ আছে । এক এক দিনে ১১টা উদাহরণ লিখে লিখে পড় । ব্যখ্যাগুলোও লেখো । from আর of-এর ব্যবহারের তফাৎ বোঝা জরুরী । এছাড়াও with, from/to, before/after, in front of/behind, up/down, over/under, above/below-এর বিভিন্ন ব্যবহারগুলি অনুধাবন করে করে পড় । এই module-ও ভুল কি লিখতে পারো তোমরা, আর একটি সঠিক preposition-এর পরিবর্তে আর কী সঠিক preposition  লেখা যায়, তা বোঝানো হয়েছে । ছবিগুলো মাথায় রাখো ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BPP2L-Lesson1 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp2lesson1.json"
+                           },
+                           {  
+                              "name":"BPP2L-Lesson2 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp2lesson2.json"
+                           },
+                           {  
+                              "name":"BPP2L-Lesson3 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp2lesson3.json"
+                           },
+                           {  
+                              "name":"BPP2L-Lesson4 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp2lesson4.json"
+                           },
+                           {  
+                              "name":"BPP2L-Lesson5 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp2lesson5.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs": [
+                          {  
+                              "name":"B P P 2 Q",
+                              "description":"Quiz on Prepositions of Place - Set 2",
+                              "instruction":"BPP2L-এর ১১টা উদাহরণ যেদিন পড়বে, সেইদিনই সেই সেই কুইজ করে ফেলো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp2quizmcq.json"
+                           },
+                           {  
+                              "description":"BPP2 mcqQuiz0",
+                              "name":"BPP2-Quiz1 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp2quizmcq1.json"
+                           },
+                           {  
+                              "description":"BPP2 mcqQuiz1",
+                              "name":"BPP2-Quiz2 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp2quizmcq2.json"
+                           },
+                           {  
+                              "description":"BPP2 mcqQuiz2",
+                              "name":"BPP2-Quiz3 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp2quizmcq3.json"
+                           },
+                           {  
+                              "description":"BPP2 mcqQuiz3",
+                              "name":"BPP2-Quiz4 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp2quizmcq4.json"
+                           },
+                           {  
+                              "description":"BPP2 mcqQuiz4",
+                              "name":"BPP2-Quiz5 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp2quizmcq5.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B P P 3 L", 
+                     "desc":"Lesson on Prepositions of Place - Set 3",
+                     "description":"",
+                     "instruction":"৫৫টা উদাহরণ আছে । এক এক দিনে ১১টা উদাহরণ লিখে লিখে পড় । ব্যখ্যাগুলোও লেখো । inside/outside/in/within/into/to, among/between, by/beside/next to/near, opposite/against, in/out, across/along/through -এর ব্যবহারের তফাৎ বোঝা জরুরী । এছাড়াও towards, about, around-এর বিভিন্ন ব্যবহারগুলি অনুধাবন করে করে পড় । এই module-ও ভুল কি লিখতে পারো তোমরা, আর একটি সঠিক preposition-এর পরিবর্তে আর কী সঠিক preposition  লেখা যায়, তা বোঝানো হয়েছে । ছবিগুলো মাথায় রাখো ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BPP3L-Lesson1 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp3lesson1.json"
+                           },
+                           {  
+                              "name":"BPP3L-Lesson2 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp3lesson2.json"
+                           },
+                           {  
+                              "name":"BPP3L-Lesson3 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp3lesson3.json"
+                           },
+                           {  
+                              "name":"BPP3L-Lesson4 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp3lesson4.json"
+                           },
+                           {  
+                              "name":"BPP3L-Lesson5 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpp3lesson5.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs": [
+                          {  
+                              "name":"B P P 3 Q",
+                              "description":"Quiz on Prepositions of Place - Set 3",
+                              "instruction":"BPP3L-এর ১১টা উদাহরণ যেদিন পড়বে, সেইদিনই সেই সেই কুইজ করে ফেলো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp3quizmcq.json"
+                           },
+                           {  
+                              "description":"BPP3 mcqQuiz0",
+                              "name":"BPP3-Quiz1 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp3quizmcq1.json"
+                           },
+                           {  
+                              "description":"BPP3 mcqQuiz1",
+                              "name":"BPP3-Quiz2 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp3quizmcq2.json"
+                           },
+                           {  
+                              "description":"BPP3 mcqQuiz2",
+                              "name":"BPP3-Quiz3 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp3quizmcq3.json"
+                           },
+                           {  
+                              "description":"BPP3 mcqQuiz3",
+                              "name":"BPP3-Quiz4 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp3quizmcq4.json"
+                           },
+                           {  
+                              "description":"BPP3 mcqQuiz4",
+                              "name":"BPP3-Quiz5 (11 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpp3quizmcq5.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B P T 1 L", 
+                     "desc":"Lesson on Prepositions of Time  - Set 1",
+                     "description":"",
+                     "instruction":"৩০টা উদাহরণ আছে । এক এক দিনে ১০টা উদাহরণ লিখে লিখে পড় । ব্যখ্যাগুলোও লেখো আর ছবিগুলো মাথায় রাখো । আগের মতই নিয়মগুলিকে একটা আলাদা জায়গায় লিখে রাখো, পরে আবার দেখে নেওয়ার জন্য । prepositions of time-এ at/on/in-এর ব্যবহারের তফাৎ বোঝা খুব জরুরী, তাই এইসব উদাহরণের সংলগ্ন ছবিগুলিকে মাথায় বসিয়ে নাও । এছাড়াও past, to, by,  after-এর বিভিন্ন ব্যবহারগুলি অনুধাবন করে করে পড় ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BPT1L-Lesson1 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpt1lesson1.json"
+                           },
+                           {  
+                              "name":"BPT1L-Lesson2 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpt1lesson2.json"
+                           },
+                           {  
+                              "name":"BPT1L-Lesson3 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpt1lesson3.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs": [
+                          {  
+                              "name":"B P T 1 Q",
+                              "description":"Quiz on Prepositions of Time  - Set 1",
+                              "instruction":"BPT1L-এর ১০টা উদাহরণ যেদিন পড়বে, সেইদিনই সেই সেই কুইজ করে ফেলো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpt1quizmcq.json"
+                           },
+                           {  
+                              "description":"BPT1 mcqQuiz0",
+                              "name":"BPT1-Quiz1 (10 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpt1quizmcq1.json"
+                           },
+                           {  
+                              "description":"BPT1 mcqQuiz1",
+                              "name":"BPT1-Quiz2 (10 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpt1quizmcq2.json"
+                           },
+                           {  
+                              "description":"BPT1 mcqQuiz2",
+                              "name":"BPT1-Quiz3 (10 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpt1quizmcq3.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B P T 2 L", 
+                     "desc":"Lesson on Prepositions of Time  - Set 2",
+                     "description":"",
+                     "instruction":"৩০টা উদাহরণ আছে । এক এক দিনে ১০টা উদাহরণ লিখে লিখে পড় । ব্যখ্যাগুলোও লেখো আর ছবিগুলো মাথায় রাখো । আগের মতই নিয়মগুলিকে একটা আলাদা জায়গায় লিখে রাখো, পরে আবার দেখে নেওয়ার জন্য । prepositions of time-এ before/after, since/for/during, from-to/between, over/under, within/by -এর ব্যবহারের তফাৎ বোঝা জরুরী, তাই এইসব উদাহরণের সংলগ্ন ছবিগুলিকে মাথায় বসিয়ে নাও । এছাড়াও till/until, behind, ahead of-এর বিভিন্ন ব্যবহারগুলি অনুধাবন করে করে পড় । ",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BPT2L-Lesson1 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpt2lesson1.json"
+                           },
+                           {  
+                              "name":"BPT2L-Lesson2 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpt2lesson2.json"
+                           },
+                           {  
+                              "name":"BPT2L-Lesson3 (10 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bpt2lesson3.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs": [
+                          {  
+                              "name":"B P T 2 Q",
+                              "description":"Quiz on Prepositions of Time  - Set 2",
+                              "instruction":"BPT2L-এর ১০টা উদাহরণ যেদিন পড়বে, সেইদিনই সেই সেই কুইজ করে ফেলো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpt2quizmcq.json"
+                           },
+                           {  
+                              "description":"BPT2 mcqQuiz0",
+                              "name":"BPT2-Quiz1 (10 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpt2quizmcq1.json"
+                           },
+                           {  
+                              "description":"BPT2 mcqQuiz1",
+                              "name":"BPT2-Quiz2 (10 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpt2quizmcq2.json"
+                           },
+                           {  
+                              "description":"BPT2 mcqQuiz2",
+                              "name":"BPT2-Quiz3 (10 Quizes)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpt2quizmcq3.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B P A 1 L",
+                     "desc":"Lesson on Appropriate Prepositions - Set 1",
+                     "description":"",
+                     "instruction":"৩৫টা উদাহরণ আছে । প্রথমে General Information-এ যা লেখা আছে, সেটা পড়ে নাও । এক এক দিনে ৭টা preposition-এর উদাহরণ পড় ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BPA1L-Lesson1",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bpa1presentation1.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs":[  
+                           {  
+                              "name":"B P A 1 Q",
+                              "description":"Quiz on Appropriate Prepositions - Set 1",
+                              "instruction":"BPA1L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa1quizmcq.json"
+                           },
+                           {  
+                              "description":"BPA1 mcqQuiz0",
+                              "name":"BPA1-Quiz1 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa1quizmcq1.json"
+                           },
+                           {  
+                              "description":"BPA1 mcqQuiz1",
+                              "name":"BPA1-Quiz2 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa1quizmcq2.json"
+                           },
+                           {  
+                              "description":"BPA1 mcqQuiz2",
+                              "name":"BPA1-Quiz3 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa1quizmcq3.json"
+                           },
+                           {  
+                              "description":"BPA1 mcqQuiz3",
+                              "name":"BPA1-Quiz4 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa1quizmcq4.json"
+                           },
+                           {  
+                              "description":"BPA1 mcqQuiz4",
+                              "name":"BPA1-Quiz5 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa1quizmcq5.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B P A 2 L",
+                     "desc":"Lesson on Appropriate Prepositions - Set 2",
+                     "description":"",
+                     "instruction":"৩৫টা উদাহরণ আছে । এক এক দিনে ৭টা preposition-এর উদাহরণ পড় ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BPA2L-Lesson1",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bpa2presentation1.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs": [
+                          {  
+                              "name":"B P A 2 Q",
+                              "description":"Quiz on Appropriate Prepositions - Set 2",
+                              "instruction":"BPA2L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa2quizmcq.json"
+                           },
+                           {  
+                              "description":"BPA2 mcqQuiz0",
+                              "name":"BPA2-Quiz1 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa2quizmcq1.json"
+                           },
+                           {  
+                              "description":"BPA2 mcqQuiz1",
+                              "name":"BPA2-Quiz2 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa2quizmcq2.json"
+                           },
+                           {  
+                              "description":"BPA2 mcqQuiz2",
+                              "name":"BPA2-Quiz3 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa2quizmcq3.json"
+                           },
+                           {  
+                              "description":"BPA2 mcqQuiz3",
+                              "name":"BPA2-Quiz4 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa2quizmcq4.json"
+                           },
+                           {  
+                              "description":"BPA2 mcqQuiz4",
+                              "name":"BPA2-Quiz5 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa2quizmcq5.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B P A 3 L",
+                     "desc":"Lesson on Appropriate Prepositions - Set 3",
+                     "description":"",
+                     "instruction":"সাধারণ Adjective আর verb-এর পর যে যে appropriate preposition বসে, তার থেকে ৩৫টা উদাহরণ দেওয়া আছে । এক এক দিনে ৭টা preposition-এর উদাহরণ পড় ।",
+                     "daysToComplete":5,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BPA3L-Lesson1",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bpa3presentation1.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "mcqQuizs": [
+                          {  
+                              "name":"B P A 3 Q",
+                              "description":"Quiz on Appropriate Prepositions - Set 3",
+                              "instruction":"BPA3L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa3quizmcq.json"
+                           },
+                           {  
+                              "description":"BPA3 mcqQuiz0",
+                              "name":"BPA3-Quiz1 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa3quizmcq1.json"
+                           },
+                           {  
+                              "description":"BPA3 mcqQuiz1",
+                              "name":"BPA3-Quiz2 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa3quizmcq2.json"
+                           },
+                           {  
+                              "description":"BPA3 mcqQuiz2",
+                              "name":"BPA3-Quiz3 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa3quizmcq3.json"
+                           },
+                           {  
+                              "description":"BPA3 mcqQuiz3",
+                              "name":"BPA3-Quiz4 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa3quizmcq4.json"
+                           },
+                           {  
+                              "description":"BPA3 mcqQuiz4",
+                              "name":"BPA3-Quiz5 (7)",
+                              "module_type":"MCQ_QUIZ",
+                              "mcqQuestions":"bpa3quizmcq5.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B G V 1 L",
+                     "desc":"Lesson on Group Verbs - Set 1",
+                     "description":"",
+                     "instruction":"অনেক ছাত্রই group verbs মনে রাখতে পারে না, কারণ এদের ব্যবহার পাঠ্যপুস্তক বা অন্য কোথাও খুব বেশী তারা দেখতে পায় না । এই অসুবিধে দূর করার জন্য ছবির প্রয়োগ এখানে খুব গুরুত্বপূর্ণ হয়ে উঠেছে । প্রতিটি group verb -এর ভাব ছবিতে ফুটে ঊঠেছে । ছবির সঙ্গে verb-গুলিকে একাত্ম করে ফেলো । ২৫টা উদাহরণ আছে । এক এক দিনে ৬-৭টা করে পড়ে নাও ।",
+                     "daysToComplete":4,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BGV1L-Lesson1 ()",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bgv1presentation1.json"
+                           },
+                           {  
+                              "name":"BGV1L-Lesson2 ()",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bgv1presentation2.json"
+                           },
+                           {  
+                              "name":"BGV1L-Lesson3 ()",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bgv1presentation3.json"
+                           },
+                           {  
+                              "name":"BGV1L-Lesson4 ()",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bgv1presentation4.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "pictureMatchQuizs":[
+                          {  
+                              "name":"B G V 1 Q",
+                              "description":"Quiz on Group Verbs - Set 1",
+                              "instruction":"BPA2L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv1quizpicturematchgame.json"
+                           },
+                           {  
+                              "description":"pictureMatchQuiz0 Description",
+                              "name":"pictureMatchQuiz1 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv1quizpicturematchgame1.json"
+                           },
+                           {  
+                              "description":"pictureMatchQuiz1 Description",
+                              "name":"pictureMatchQuiz2 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv1quizpicturematchgame2.json"
+                           },
+                           {  
+                              "description":"pictureMatchQuiz2 Description",
+                              "name":"pictureMatchQuiz3 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv1quizpicturematchgame3.json"
+                           },
+                           {  
+                              "description":"pictureMatchQuiz3 Description",
+                              "name":"pictureMatchQuiz4 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv1quizpicturematchgame4.json"
+                           }
+                        ]
+                     }
+                  },
+                  {  
+                     "name":"B G V 2 L",
+                     "desc":"Lesson on Group Verbs - Set 2",
+                     "description":"",
+                     "instruction":"প্রতিটি group verb -এর ভাব পাশের ছবিতে ফুটে ঊঠেছে । ছবির সঙ্গে verb-গুলিকে একাত্ম করে ফেলো, মাথায় সেইভাবে বসিয়ে নাও । ২৫টা উদাহরণ আছে । এক এক দিনে ৬-৭টা করে পড়ে নাও ।",
+                     "daysToComplete":4,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BGV2L-Lesson1 ()",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bgv2presentation1.json"
+                           },
+                           {  
+                              "name":"BGV2L-Lesson2 ()",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bgv2presentation2.json"
+                           },
+                           {  
+                              "name":"BGV2L-Lesson3 ()",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bgv2presentation3.json"
+                           },
+                           {  
+                              "name":"BGV2L-Lesson4 ()",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":false,
+                              "module_type":"LESSON",
+                              "pages":"bgv2presentation4.json"
+                           }
+                        ]
+                     },
+                     "quizzes":{  
+                        "pictureMatchQuizs":[
+                          {  
+                              "name":"B G V 2 Q",
+                              "description":"Quiz on Group Verbs - Set 2",
+                              "instruction":"BGV2L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে । কুইজের ৪টে বাছাই-ই (option) ছবি আকারে আছে । সঠিক ছবিটিকে বেছে নাও ।",
+                              "daysToComplete":2,
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv2quizpicturematchgame.json"
+                           },
+                           {  
+                              "description":"pictureMatchQuiz0 Description",
+                              "name":"pictureMatchQuiz1 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv2quizpicturematchgame1.json"
+                           },
+                           {  
+                              "description":"pictureMatchQuiz1 Description",
+                              "name":"pictureMatchQuiz2 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv2quizpicturematchgame2.json"
+                           },
+                           {  
+                              "description":"pictureMatchQuiz2 Description",
+                              "name":"pictureMatchQuiz3 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv2quizpicturematchgame3.json"
+                           },
+                           {  
+                              "description":"pictureMatchQuiz3 Description",
+                              "name":"pictureMatchQuiz4 Name",
+                              "module_type":"PICTURE_MATCH_QUIZ",
+                              "pictureMatchQuestions":"bgv2quizpicturematchgame4.json"
+                           }
+                        ]
+                     }
+                  }
+               ]
+            },
+            {  
+               "courseInstruction":"ইংরিজি বাক্যে কর্তার গুরুত্বের কম-বেশীর ওপর active ও passive voice ব্যবহার করা হয় । ৭০টি বাছাইকরা বাক্যের voice change-এর উদাহরণ এখানে দেওয়া হল । বিভিন্ন conjugation-এর প্যাটার্ন ও বিভিন্ন ধরণের বাক্য ও প্রশ্ন, যেমন simple, compound, complex, imperative ইত্যাদি এখানে ব্যবহৃত হয়েছে । তাই BCO (Compound and Complex sentences) আর BVA (Verbs and Adverbs) - এই দুটো module না শিখলে এই module-টি শেখা ঠিক হবে না । যে ধরণের বাক্যের passive voice হয় না, সেরকম কিছু বাক্যও উদাহরণে স্থান পেয়েছে । কুইজের passmark ৮৫% ।",
+               "courseLongDescription":"Active Passive Voice",
+               "courseName":"BVC",
+               "courseShortDescription":"Voice Change",
+               "completion":10,
+               "marks":0,
+               "modules":[
+                  { 
+                     "name":"B V C 1 L", 
+                     "desc":"Lesson on Active and Passive voices - set 1",
+                     "description":"",
+                     "instruction":"৩৫টা উদাহরণ আছে । প্রতিটি বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । নিয়মগুলি আলাদা লিখে রাখো দরকার মনে করলে । এক এক দিনে ১২টা বাক্য পড় । বিভিন্ন conjugation প্যাটার্ন আছে এখানে, যা তোমরা BCG-তে পেয়েছ । সেগুলো দরকার হলে একবার দেখে নাও । simple sentence ছাড়াও সহজ কিছু particple form এখানে আছে, যা BCP4L-এ পেয়েছ । আর কিছু বাক্যের voice change হয় না, সেগুলোও কিছু কিছু দেওয়া আছে কারণসহ । ",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BVC1L-Lesson1 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bvc1lesson1.json"
+                           },
+                           {  
+                              "name":"BVC1L-Lesson2 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bvc1lesson2.json"
+                           },
+                           {  
+                              "name":"BVC1L-Lesson3 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bvc1lesson3.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B V C 1 Q",
+                              "description":"Quiz on Active and Passive voices - Set 1",
+                              "instruction":"BVC1L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvc1quizordergame.json"
+                           },
+                           {  
+                              "description":"BVC1 orderGameQuiz0",
+                              "name":"BVC1-Quiz1 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvc1quizordergame1.json"
+                           },
+                           {  
+                              "description":"BVC1 orderGameQuiz1",
+                              "name":"BVC1-Quiz2 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvc1quizordergame2.json"
+                           },
+                           {  
+                              "description":"BVC1 orderGameQuiz2",
+                              "name":"BVC1-Quiz3 (11 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvc1quizordergame3.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B V C 2 L", 
+                     "desc":"Lesson on Active and Passive voices - set 2",
+                     "description":"",
+                     "instruction":"৩৫টা উদাহরণ আছে । প্রতিটি বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । নিয়মগুলি আলাদা লিখে রাখো দরকার মনে করলে । এক এক দিনে ১২টা বাক্য পড় । বিভিন্ন conjugation প্যাটার্ন আছে এখানে, যা তোমরা BCG-তে পেয়েছ । সেগুলো দরকার হলে একবার দেখে নাও । complex ও imperative sentence ও request ছাড়াও সহজ কিছু gerund-এর ব্যবহার আছে । আর কিছু বাক্যে প্রশ্ন আছে, সেগুলোর voice change ভালো করে খেয়াল করবে ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BVC2L-Lesson1 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bvc2lesson1.json"
+                           },
+                           {  
+                              "name":"BVC2L-Lesson2 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bvc2lesson2.json"
+                           },
+                           {  
+                              "name":"BVC2L-Lesson3 (11 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bvc2lesson3.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B V C 2 Q",
+                              "description":"Quiz on Active and Passive voices - Set 2",
+                              "instruction":"BVC2L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvc2quizordergame.json"
+                           },
+                           {  
+                              "description":"BVC2 orderGameQuiz0",
+                              "name":"BVC2-Quiz1 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvc2quizordergame1.json"
+                           },
+                           {  
+                              "description":"BVC2 orderGameQuiz1",
+                              "name":"BVC2-Quiz2 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvc2quizordergame2.json"
+                           },
+                           {  
+                              "description":"BVC2 orderGameQuiz2",
+                              "name":"BVC2-Quiz3 (11 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bvc2quizordergame3.json"
+                           }
+                        ]
+                     }
+                  }
+               ]
+            },
+            {  
+               "courseInstruction":"ইংরাজীতে গল্প, রচনা, চিঠি লিখতে বা এমনকি প্রশ্নের উত্তর লিখতেও direct থেকে indirect speech ও indirect থেকে direct speech করার প্রয়োজন হয় । ৮০টি বৈচিত্র্যপূর্ণ simple, complex, compund, imperative, exclamatory sentences ও questions-এর মাধ্যমে এই speech পরিবর্তন শেখানো হয়েছে । তাই BCO (Compound and Complex sentences) আর BVA (Verbs and Adverbs) - এই দুটো module না শিখলে এই module-টি শেখা ঠিক হবে না । কুইজের passmark ৮৫% ।",
+               "courseLongDescription":"Direct and Indirect Speeches",
+               "courseName":"BDI",
+               "courseShortDescription":"Direct Indirect Speeches",
+               "completion":10,
+               "marks":0,
+               "modules":[
+                  { 
+                     "name":"B D I 1 L", 
+                     "desc":"Lesson on Direct Indirect speech - set 1",
+                     "description":"",
+                     "instruction":"৪০টা উদাহরণ আছে, যার কিছুতে direct থেকে indirect speech-এ ও বাকিগুলোতে indirect থেকে direct speech-এ পরিবর্তন শেখানো হয়েছে । প্রতিটি বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । নিয়মগুলি আলাদা লিখে রাখো দরকার মনে করলে । এক এক দিনে ১২-১৪টা বাক্য পড় । বিভিন্ন conjugation প্যাটার্ন আছে এখানে, যা তোমরা BCG-তে পেয়েছ । সেগুলো দরকার হলে একবার দেখে নাও । কয়েকটি বাক্যে complex sentences আছে, যেগুলোর পরিবর্তন ভালো করে লক্ষ্য কর ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BDI1L-Lesson1 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bdi1lesson1.json"
+                           },
+                           {  
+                              "name":"BDI1L-Lesson2 (14 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bdi1lesson2.json"
+                           },
+                           {  
+                              "name":"BDI1L-Lesson3 (14 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bdi1lesson3.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B D I 1 Q",
+                              "description":"Quiz on Active and Passive voices - Set 1",
+                              "instruction":"BDI1L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2
+                           },
+                           {  
+                              "description":"BDI1 orderGameQuiz0",
+                              "name":"BDI1-Quiz1 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bdi1quizordergame1.json"
+                           },
+                           {  
+                              "description":"BDI1 orderGameQuiz1",
+                              "name":"BDI1-Quiz2 (14 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bdi1quizordergame2.json"
+                           },
+                           {  
+                              "description":"BDI1 orderGameQuiz2",
+                              "name":"BDI1-Quiz3 (14 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bdi1quizordergame3.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B D I 2 L", 
+                     "desc":"Lesson on Direct Indirect speech - set 2",
+                     "description":"",
+                     "instruction":"৪০টা উদাহরণ আছে, যার কিছুতে direct থেকে indirect speech-এ ও বাকিগুলোতে indirect থেকে direct speech-এ পরিবর্তন শেখানো হয়েছে । প্রতিটি বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । নিয়মগুলি আলাদা লিখে রাখো দরকার মনে করলে । এক এক দিনে ১২-১৪টা বাক্য পড় । বিভিন্ন conjugation প্যাটার্ন আছে এখানে, যা তোমরা BCG-তে পেয়েছ । সেগুলো দরকার হলে একবার দেখে নাও । এই উদাহরণগুলিতে প্রশ্ন, আদেশ-উপদেশ-অনুরোধমূলক (imperative sentences) আর আশ্চর্যবোধক বাক্য (exclamatory sentences)   আছে, যেগুলোর পরিবর্তন ভালো করে লক্ষ্য কর ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BDI2L-Lesson1 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bdi2lesson1.json"
+                           },
+                           {  
+                              "name":"BDI2L-Lesson2 (14 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bdi2lesson2.json"
+                           },
+                           {  
+                              "name":"BDI2L-Lesson3 (14 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bdi2lesson3.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B D I 2 Q",
+                              "description":"Quiz on Active and Passive voices - Set 2",
+                              "instruction":"BDI2L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bdi2quizordergame.json"
+                           },
+                           {  
+                              "description":"BDI2 orderGameQuiz0",
+                              "name":"BDI2-Quiz1 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bdi2quizordergame1.json"
+                           },
+                           {  
+                              "description":"BDI2 orderGameQuiz1",
+                              "name":"BDI2-Quiz2 (14 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bdi2quizordergame2.json"
+                           },
+                           {  
+                              "description":"BDI2 orderGameQuiz2",
+                              "name":"BDI2-Quiz3 (14 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bdi2quizordergame3.json"
+                           }
+                        ]
+                     }
+                  }
+               ]
+            },
+            {  
+               "courseInstruction":"একটি বাক্যের (বা বাক্যাংশের) ভাব বহন ও গ্রহণ করে আরেকটি বাক্য (বা বাক্যাংশ) লিখতে গেলে যে কোন ভাষাতেই বাক্যদুটিকে (বা বাক্যাংশদুটিকে) জুড়ে একটি বাক্য করে নিতে হয় । সেই সংযুক্তি যেমন when, if, and ইত্যাদি দিয়ে করা যায়, তেমনই Gerund, Participle বা Infinitive দিয়েও করা যায় । এছাড়াও verb-এর মত দেখতে এই noun-গুলি সাধারণভাবে 'খেলতে' , 'করতে', 'যেতে' ইত্যাদি বোঝাতে ব্যবহার হয়, যা শেখা খুবই প্রয়োজন । ৮০টি বিভিন্ন বাক্যের মাধ্যমে Gerund Participle Infinitive  শেখানো হয়েছে । বাক্য সংযোগের প্রয়োজন আছে, তাই BCO (Compound and Complex sentences) আর BVA (Verbs and Adverbs) - এই দুটো module না শিখলে এই module-টি শেখা ঠিক হবে না । কুইজের passmark ৮৫% ।",
+               "courseLongDescription":"Gerund Participle Infinitive",
+               "courseName":"BGP",
+               "courseShortDescription":"Gerund Participle Infinitive",
+               "completion":10,
+               "marks":0,
+               "modules":[
+                  { 
+                     "name":"B G P 1 L", 
+                     "desc":"Lesson on Gerund Participle and Infinitive - Set 1",
+                     "description":"",
+                     "instruction":"৪০টা উদাহরণ আছে । বিভিন্ন ধরণের বাক্যের মাধ্যমে gerund এখানে শেখানো হয়েছে । প্রতিটি বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । নিয়মগুলি আলাদা লিখে রাখো দরকার মনে করলে । এক এক দিনে ১২-১৪টা বাক্য পড় । এই module-ও ভুল কি লিখতে পারো তোমরা, আর একটি সঠিক বাক্যের পরিবর্তে আর কী সঠিক বাক্য লেখা যায়, তা বোঝানো হয়েছে । হয়ত অনেক নতুন শব্দও শিখবে এখানে ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BGP1L-Lesson1 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bgp1lesson1.json"
+                           },
+                           {  
+                              "name":"BGP1L-Lesson2 (14 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bgp1lesson2.json"
+                           },
+                           {  
+                              "name":"BGP1L-Lesson3 (14 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bgp1lesson3.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B G P 1 Q",
+                              "description":"Quiz on Gerund Participle and Infinitive - Set 1",
+                              "instruction":"BGP1L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bgp1quizordergame.json"
+                           },
+                           {  
+                              "description":"BGP1 orderGameQuiz0",
+                              "name":"BGP1-Quiz1 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bgp1quizordergame1.json"
+                           },
+                           {  
+                              "description":"BGP1 orderGameQuiz1",
+                              "name":"BGP1-Quiz2 (14 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bgp1quizordergame2.json"
+                           },
+                           {  
+                              "description":"BGP1 orderGameQuiz2",
+                              "name":"BGP1-Quiz3 (14 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bgp1quizordergame3.json"
+                           }
+                        ]
+                     }
+                  },
+                  { 
+                     "name":"B G P 2 L", 
+                     "desc":"Lesson on Gerund Participle and Infinitive - Set 1",
+                     "description":"",
+                     "instruction":"৪০টা উদাহরণ আছে । বিভিন্ন ধরণের বাক্যের মাধ্যমে participle আর infinitive এখানে শেখানো হয়েছে এবং gerund-এর সঙ্গে এদের তফাৎ বোঝানো হয়ে । প্রতিটি বাক্য ও ব্যাখ্যা খাতায় লেখো, মনে রাখো । নিয়মগুলি আলাদা লিখে রাখো দরকার মনে করলে । এক এক দিনে ১২-১৪টা বাক্য পড় । এই module-ও ভুল কি লিখতে পারো তোমরা, আর একটি সঠিক বাক্যের পরিবর্তে আর কী সঠিক বাক্য লেখা যায়, তা বোঝানো হয়েছে । হয়ত অনেক নতুন শব্দও শিখবে এখানে ।",
+                     "daysToComplete":3,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "lessons":{  
+                        "lessons":[  
+                           {  
+                              "name":"BGP2L-Lesson1 (12 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bgp2lesson1.json"
+                           },
+                           {  
+                              "name":"BGP2L-Lesson2 (14 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bgp2lesson2.json"
+                           },
+                           {  
+                              "name":"BGP2L-Lesson3 (14 sentences)",
+                              "description":"",
+                              "image":"",
+                              "isFlashCard":true,
+                              "module_type":"FLASHCARD",
+                              "pages":"bgp2lesson3.json"
+                           }
+                         ]
+                     },
+                     "quizzes":{  
+                        "orderGameQuizs": [
+                          {  
+                              "name":"B G P 2 Q",
+                              "description":"Quiz on Gerund Participle and Infinitive - Set 2",
+                              "instruction":"BGP2L-এর যে যে উদাহরণগুলি যেদিন পড়লে, সেইদিনই তাদের কুইজগুলি করে রাখো । শেষে ২ দিন ধরে সবকটা কুইজ আরেকবার কর, তাহলে পুরোটা তৈরী হয়ে যাবে ।",
+                              "daysToComplete":2,
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bgp2quizordergame.json"
+                           },
+                           {  
+                              "description":"BGP2 orderGameQuiz0",
+                              "name":"BGP2-Quiz1 (12 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bgp2quizordergame1.json"
+                           },
+                           {  
+                              "description":"BGP2 orderGameQuiz1",
+                              "name":"BGP2-Quiz2 (14 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bgp2quizordergame2.json"
+                           },
+                           {  
+                              "description":"BGP2 orderGameQuiz2",
+                              "name":"BGP2-Quiz3 (14 Quizes)",
+                              "module_type":"ORDER_GAME_QUIZ",
+                              "orderGameQuestions":"bgp2quizordergame3.json"
+                           }
+                        ]
+                     }
+                  }
+               ]
+            },
+            {  
+               "courseInstruction":"Vocabulary বা শব্দভান্ডার তৈরী করা বিশেষ প্রয়োজনীয় । সেজন্য 50 Languages (English) নামক একটি application ব্যবহার করতে পরামর্শ দেওয়া হচ্ছে, যেটির vocabulary section-এ বাঙলার মাধ্যমেই অনেক ইংরাজী শব্দ শেখানো হয়েছে ছবি সহযোগে । শব্দগুলি শেখো এবং এর সঙ্গে সংযুক্ত কৌতূহলোদ্দীপক vocabulary games-গুলি খেলো । এর মধ্যে থেকে বিশেষ ও অতি প্রয়োজনীয় শব্দগুলি বাছাই করে B5V-তে ১৬টি ইংরাজী passage তৈরী করা হয়েছে, যাতে 50 Languages-এর vocabulary-এর শব্দগুলি ও তাদের ব্যবহার মাথায় বসে যায় । passage-গুলির বাঙলা অনুবাদ কর ও সংশ্লিষ্ট প্রশ্নগুলির উত্তর দাও ।  শব্দের অর্থ জানার জন্য ভালো কোন বাঙলা-ইংরাজী অভিধান download করে নাও । BAPPI Bangla-English Dictionary এমনই একটি অভিধান ।",
+               "courseLongDescription":"Translation and comprehension on vocabulary",
+               "courseName":"B 5 V",
+               "courseShortDescription":"Passages on Vocabulary",
+               "completion":16,
+               "marks":0,
+               "modules":[
+                  {  
+                     "name":"B 5 V 1 T",
+                     "desc":"Translation and comprehension on vocabulary - Set 1",
+                     "description":"",
+                     "instruction":"এখানে ৮টি passage আছে, যার প্রতিটির বঙ্গানুবাদ করা ছাড়াও কিছু প্রশ্নের উত্তর চাওয়া হয়েছে । 'Uses to be noted' বলে একটি section আছে যেখানে বিশেষ শব্দ ও ব্যবহার কিছু কিছু দেওয়া আছে । এক দিনে ১টা passage-এর translation ও comprehension কর । কোন শব্দের অর্থ না জানা থাকলে অভিধানে (BAPPI) দেখে নাও । 'View Answer' বোতাম টিপে তোমার লেখার সঙ্গে উত্তর মিলিয়ে নাও । প্রদত্ত উত্তরের সঙ্গে না মিললেও তোমার উত্তর ঠিক হতেই পারে । অতএব তোমার ইংরিজি শিক্ষককে তোমার উত্তর দেখিয়ে নাও । আর যাবতীয় শব্দ ও তার অর্থ লিখে রাখো পরে পড়ার জন্য ।",
+                     "daysToComplete":8,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "quizzes":{  
+                      "simpleQuizs":[
+                           {
+                             "description":"simpleQuiz0 Description",
+                             "name":"simpleQuiz0 Name",
+                             "module_type":"SIMPLE_QUIZ",
+                             "simpleQuestions":"b5v1tquizsimplequiz1.json"
+                           }
+                        ]
+                     }
+                 },
+                 {  
+                     "name":"B 5 V 2 T",
+                     "desc":"Translation and comprehension on vocabulary - Set 2",
+                     "description":"",
+                     "instruction":"এখানে ৮টি passage আছে, যার প্রতিটির বঙ্গানুবাদ করা ছাড়াও কিছু প্রশ্নের উত্তর চাওয়া হয়েছে । 'Uses to be noted' বলে একটি section আছে যেখানে বিশেষ শব্দ ও ব্যবহার কিছু কিছু দেওয়া আছে । এক দিনে ১টা passage-এর translation ও comprehension কর । কোন শব্দের অর্থ না জানা থাকলে অভিধানে (BAPPI) দেখে নাও । 'View Answer' বোতাম টিপে তোমার লেখার সঙ্গে উত্তর মিলিয়ে নাও । প্রদত্ত উত্তরের সঙ্গে না মিললেও তোমার উত্তর ঠিক হতেই পারে । অতএব তোমার ইংরিজি শিক্ষককে তোমার উত্তর দেখিয়ে নাও । আর যাবতীয় শব্দ ও তার অর্থ লিখে রাখো পরে পড়ার জন্য ।",
+                     "daysToComplete":8,
+                     "level":0,
+                     "marks":0,
+                     "passMarks":100,
+                     "quizzes":{  
+                        "simpleQuizs":[  
+                           {
+                             "description":"simpleQuiz0 Description",
+                             "name":"simpleQuiz0 Name",
+                             "module_type":"SIMPLE_QUIZ",
+                             "simpleQuestions":"b5v2tquizsimplequiz1.json"
+                           }
+                        ]
+                     }
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

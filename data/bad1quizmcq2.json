@@ -1,0 +1,92 @@
+[
+    {
+    "option1": "It is raining heavy.",
+    "option2": "Its raining heavily.",
+    "option3": "Heavy raining it is.",
+    "option4": "It is raining heavily.",
+    "question": "জোরে বৃষ্টি পড়ছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Is Tarun failed badly ?",
+    "option2": "Has Tarun badly fail ?",
+    "option3": "Has Tarun failed badly ?",
+    "option4": "Is Tarun failed bad ?",
+    "question": "তরুণ কি বাজেভাবে ফেল করেছে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Mijanur and Pushpita write English goodly.",
+    "option2": "Mijanur and Pushpita write good English.",
+    "option3": "Mijanur and Pushpita write well English.",
+    "option4": "Mijanur and Pushpita write English well.",
+    "question": "মিজানুর ও পুষ্পিতা ভালোভাবে ইংরিজি লেখে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Get up quickly in the morning.",
+    "option2": "Get up early in the morning.",
+    "option3": "In the morning get up early.",
+    "option4": "Get up early on the morning.",
+    "question": "ভোরবেলা তাড়াতাড়ি উঠে পড়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We shall come daily here.",
+    "option2": "We shall come here daily.",
+    "option3": "We will dayly come here.",
+    "option4": "We will come daily here.",
+    "question": "আমরা এখানে প্রতিদিন আসব",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I have spoken him alreadily.",
+    "option2": "I spoke to him already.",
+    "option3": "I have spoken to him alreadily.",
+    "option4": "I have spoken to him already.",
+    "question": "আমি ইতিপূর্বেই ওর সঙ্গে কথা বলেছি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Pratima sang with sad.",
+    "option2": "Pratima sang sad.",
+    "option3": "Pratima sang sadly.",
+    "option4": "Pratima sadly sang.",
+    "question": "দুঃখের সঙ্গে প্রতিমা গান করেছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He held me strongly at his death time.",
+    "option2": "He held me strong at the time of death.",
+    "option3": "At the time of death strongly he held me.",
+    "option4": "He held me strongly at the time of death.",
+    "question": "মৃত্যুর সময় সে আমায় শক্ত করে ধরে ছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He hardly does not work.",
+    "option2": "He hardly works.",
+    "option3": "He does not work.",
+    "option4": "He works hard.",
+    "question": "সে কাজ প্রায় করেই না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The tortoise was walking slow but sure.",
+    "option2": "Slow but sure was the tortoise walking.",
+    "option3": "The tortoise was walking surely but slowly.",
+    "option4": "The tortoise was walking slowly but surely.",
+    "question": "কচ্ছপটা ধীরে ধীরে কিন্তু নিশ্চিতভাবে হাঁটছিল",
+    "correct": 4,
+    "isPicture": false
+    }
+]

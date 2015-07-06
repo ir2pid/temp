@@ -1,0 +1,92 @@
+[
+    {
+    "option1": "Subhash run quickly.",
+    "option2": "Subhash runs quick.",
+    "option3": "Subhash runs quickly.",
+    "option4": "Subhash quickly runs.",
+    "question": "সুভাষ তাড়াতাড়ি ছোটে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Samima can reads clear.",
+    "option2": "Samima can read clearly.",
+    "option3": "Samima can read easily.",
+    "option4": "Clearly Samima can read.",
+    "question": "সামিমা পরিষ্কারভাবে পড়তে পারে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Possibly he writes poems.",
+    "option2": "Possibly he write poems.",
+    "option3": "He writes possibly poems.",
+    "option4": "He writes the poems possibly.",
+    "question": "সম্ভবত সে কবিতা লেখে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Luckily she can swim.",
+    "option2": "Luckily she knew swim.",
+    "option3": "She could swim luckily.",
+    "option4": "Luckily she could swim.",
+    "question": "ভাগ্যবশত সে (মেয়ে) সাঁতার জানত",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Unfortunately nobody was present there.",
+    "option2": "Unfortunately anybody was not present there.",
+    "option3": "It is unfortunate nobody was present there.",
+    "option4": "Unfortunately there was not present anybody.",
+    "question": "দুর্ভাগ্যবশত কেউ সেখানে উপস্থিত ছিল না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Jaya comes late on Wednesday.",
+    "option2": "Jaya came Wednesday late.",
+    "option3": "Jaya came late on Wednesday.",
+    "option4": "Jaya came lately on Wednesday.",
+    "question": "জয়া বুধবার দেরী করে এসেছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I got a letter late.",
+    "option2": "I got a letter lately.",
+    "option3": "A letter lately I got.",
+    "option4": "I get late a letter.",
+    "question": "সম্প্রতি আমি একটা চিঠি পেলাম",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I get another letter later.",
+    "option2": "I got another later letter.",
+    "option3": "I got another letter later.",
+    "option4": "Another letter I got later.",
+    "question": "পরে আর একটা চিঠি পেলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The boat is moving slowly.",
+    "option2": "The boat is moving slow.",
+    "option3": "Moving slowly is the boat.",
+    "option4": "The boat moves slowly.",
+    "question": "নৌকোটা ধীরে চলছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Fast the ship is running.",
+    "option2": "The ship is running fastly.",
+    "option3": "The ship is fast running.",
+    "option4": "The ship is running fast.",
+    "question": "জাহাজটা জোরে ছুটছে",
+    "correct": 4,
+    "isPicture": false
+    }
+]

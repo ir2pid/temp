@@ -1,0 +1,92 @@
+[
+    {
+    "option1": "Will you kindly give to me a glass of water ?",
+    "option2": "Will you please give me a glass water ?",
+    "option3": "A glass of water will you kindly give me ?",
+    "option4": "Will you kindly give me a glass of water ?",
+    "question": "আপনি কি দয়া করে আমায় এক গ্লাস জল দেবেন ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Sikhs fought brave.",
+    "option2": "The Sikhs fought brave.",
+    "option3": "The Sikhs fought bravely.",
+    "option4": "Bravely the Sikhs fought.",
+    "question": "শিখেরা নির্ভীকভাবে লড়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Susmita has prepared her history lessons fully.",
+    "option2": "Susmita has prepared full her history lessons.",
+    "option3": "Susmita has prepared her history lessons full.",
+    "option4": "Susmita prepared fully her lessons of history.",
+    "question": "সুস্মিতা তার ইতিহাসের পড়া পুরোপুরি তৈরী করেছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do not go too far.",
+    "option2": "Do not go too farly.",
+    "option3": "Do not go to far.",
+    "option4": "Do not go farly.",
+    "question": "বেশী দূরে যেও না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I heard this early.",
+    "option2": "I have heard this before.",
+    "option3": "Before I have heard this.",
+    "option4": "I have heard this early.",
+    "question": "আমি এটা আগে শুনেছি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Robin only is enough for this work.",
+    "option2": "For this work Robin only is good enough.",
+    "option3": "Robin only is good enough for this work.",
+    "option4": "Robin is only good enough for this work.",
+    "question": "এই কাজের জন্য রবীনই যথেষ্ট",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Bring medicine as possible as soon.",
+    "option2": "Bring medicine as soon possible.",
+    "option3": "Bring medicine as soon as possible.",
+    "option4": "Bring medicine as soon as possibly.",
+    "question": "যত তাড়াতাড়ি সম্ভব, ওষুধ আনো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Asha hit to Dipak as hardly as possible.",
+    "option2": "Asha hit Dipak as hard as possible.",
+    "option3": "Asha hit Dipak as possible as hard.",
+    "option4": "Asha hit Dipak hard as possible.",
+    "question": "আশা দীপককে যত জোরে পারে মারল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "One should behave with all as nicely as possible.",
+    "option2": "One should behave with all as nice as possible.",
+    "option3": "We should behave as nice as possible with all.",
+    "option4": "As nicely possible we should behave with all.",
+    "question": "সকলের সঙ্গে যতটা সম্ভব সুন্দর ব্যবহার করা উচিৎ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "How can mix with people as simply as possible ?",
+    "option2": "How can one mix with people as simple as possible ?",
+    "option3": "How can people mix with one as simple as possible ?",
+    "option4": "How can one mix with people as simply as possible ?",
+    "question": "কিভাবে যথাসম্ভব সহজভাবে মানুষের সঙ্গে মিশতে পারা যায় ?",
+    "correct": 4,
+    "isPicture": false
+    }
+]

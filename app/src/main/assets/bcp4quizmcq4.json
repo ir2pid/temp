@@ -1,0 +1,110 @@
+[
+    {
+    "option1": "Why is milk better than meat's protein ?",
+    "option2": "Why is milk's protein better than meat ?",
+    "option3": "Why the milk is better protein than the meat ?",
+    "option4": "Why is milk better protein than meat ?",
+    "question": "দুধ কেন মাংসের চেয়ে ভালো প্রোটিন ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Every player is worse than Sachin.",
+    "option2": "All of the players are worst than Sachin.",
+    "option3": "All are worse players than Sachin.",
+    "option4": "All are more worse players than Sachin.",
+    "question": "সবাই শচীনের চেয়ে খারাপ খেলোয়াড়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Not the love is more greater than hate ?",
+    "option2": "Is not love greater than hate ?",
+    "option3": "Is not love great than hate ?",
+    "option4": "Is not love more greater than hate ?",
+    "question": "ভালবাসা কি ঘৃণার চেয়ে বড় নয় ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "How is love lesser than hate ?",
+    "option2": "How love is lesser than hate ?",
+    "option3": "How love is more lesser than hate ?",
+    "option4": "How is hate lesser than love ?",
+    "question": "ভালবাসা কিভাবে ঘৃণার চেয়ে ছোট ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Rabbit is faster animal than tortoise.",
+    "option2": "The animal rabbit is faster than tortoise.",
+    "option3": "Rabbit faster animal than tortoise.",
+    "option4": "Rabbit is more faster animal than tortoise.",
+    "question": "খরগোশ কচ্ছপের চেয়ে দ্রুততর প্রাণী",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Which animal is more slower than tortoise ?",
+    "option2": "Which animal is slower than tortoise ?",
+    "option3": "Which animal is slow than tortoise ?",
+    "option4": "Slower than tortoise which animal is ?",
+    "question": "কোন প্রাণী কচ্ছপের চেয়ে ধীরগামী ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Was Shrabanti not beautifuler than Shubhashri ?",
+    "option2": "Not Shrabanti was more beautiful than Shubhashri ?",
+    "option3": "Was not Shrabanti more beautiful than Shubhashri ?",
+    "option4": "Was not more beautiful Shrabanti than Shubhashri ?",
+    "question": "শ্রাবন্তী কি শুভশ্রীর চেয়ে সুন্দরী ছিল না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Is the new party much honest than others ?",
+    "option2": "More honest is the new party than others ?",
+    "option3": "Is the new party honester than the others ?",
+    "option4": "Is the new party more honest than others ?",
+    "question": "নতুন পার্টিটা কি অন্যদের চেয়ে সৎ ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Who is best captain - Sourav or Dhoni ?",
+    "option2": "Who is the most best captain - Sourav or Dhoni ?",
+    "option3": "Who the captain is the most best - Sourav or Dhoni ?",
+    "option4": "Who is the best captain - Sourav or Dhoni ?",
+    "question": " কে সবচেয়ে ভাল অধিনায়ক - সৌরভ না ধোনি ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Is the worst thing's price the lowest ?",
+    "option2": "Is the more lowest price of the most worst thing ?",
+    "option3": "Is the price of the worst thing the lowest ?",
+    "option4": "Is the price of the worst thing is the lowest ?",
+    "question": "সবচেয়ে খারাপ জিনিশের দাম কি সবচেয়ে কম হয় ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "But the best thing always has the highest price.",
+    "option2": "But the best thing's price always has the highest.",
+    "option3": "But best thing has always the more highest price.",
+    "option4": "But the best thing always has highest price.",
+    "question": "তবে সবসময়ই সবচেয়ে ভালো জিনিশের দাম সবচেয়ে বেশী হয়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Will the most intelligent girl be most beautiful ?",
+    "option2": "Will the most intelligent girl be the most beautiful ?",
+    "option3": "Will the most beautiful be the most intelligent girl ?",
+    "option4": "Will the most intelligent girl be the most beautiful girl ?",
+    "question": "সবচেয়ে বুদ্ধিমতী মেয়েটি কি সবচেয়ে সুন্দরী হবে ?",
+    "correct": 2,
+    "isPicture": false
+    }
+]

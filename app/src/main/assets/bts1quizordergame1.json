@@ -1,0 +1,215 @@
+[
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Negative (না-বাচক): He is a liar.",
+        "words": {
+          "4": "he",
+          "1": "truth",
+          "3": "not",
+          "2": "is",
+          "5": "says",
+          "6": "truthful",
+          "7": "never"
+        },
+        "answers":[[4,2,36]]
+    },
+    {
+        "question": "Negative (না-বাচক) to Affirmative (হ্যাঁ-বাচক): His action is not legal.",
+        "words": {
+          "4": "action",
+          "1": "inlegal",
+          "3": "his",
+          "2": "illegal",
+          "5": "is",
+          "6": "unlegal"
+        },
+        "answers":[[3,4,5,2]]
+    },
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Interrogative (প্রশ্ন-বাচক): Everyone loves his mother.",
+        "words": {
+          "4": "mother",
+          "1": "do",
+          "3": "loves",
+          "2": "who",
+          "5": "not",
+          "6": "his",
+          "7": "love",
+          "8": "does"
+        },
+        "answers":[[3,8,5,7,6,4]]
+    },
+    {
+        "question": "Interrogative (প্রশ্ন-বাচক) to Affirmative (হ্যাঁ-বাচক): Am I not your friend ?",
+        "words": {
+          "4": "I",
+          "1": "sure",
+          "3": "not",
+          "2": "am",
+          "5": "your",
+          "6": "surely",
+          "7": "friend"
+        },
+        "answers":[[4,2,6,5,7]]
+    },
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Interrogative (প্রশ্ন-বাচক): Their glory can never fade.",
+        "words": {
+          "4": "how",
+          "1": "their",
+          "3": "can",
+          "2": "fade",
+          "5": "be",
+          "6": "when",
+          "7": "glory"
+        },
+        "answers":[[6,3,1,7,2],[4,3,1,7,2]]
+    },
+    {
+        "question": "Negative (না-বাচক) to Affirmative (হ্যাঁ-বাচক): His behaviour did not please me.",
+        "words": {
+          "4": "his",
+          "1": "me",
+          "3": "disliked",
+          "2": "displeased",
+          "5": "dissatisfied",
+          "6": "disfavoured",
+          "7": "behaviour"
+        },
+        "answers":[[4,7,5,1]]
+    },
+    {
+        "question": "Interrogative (প্রশ্ন-বাচক) to Affirmative (হ্যাঁ-বাচক): When can Shakespeare's glory fade ?",
+        "words": {
+          "4": "Shakespeare's",
+          "1": "not",
+          "3": "fade",
+          "2": "will",
+          "5": "glory",
+          "6": "be",
+          "7": "never",
+          "8": "how",
+          "9": "can"
+        },
+        "answers":[[4,5,9,7,3]]
+    },
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Negative (না-বাচক): I always love my country.",
+        "words": {
+          "4": "can",
+          "1": "hate",
+          "3": "country",
+          "2": "never",
+          "5": "my",
+          "6": "love",
+          "7": "not",
+          "8": "I",
+          "9": "but"
+        },
+        "answers":[[8,2,1,5,3],[8,4,7,9,6,5,3]]
+    },
+    {
+        "question": "Negative (না-বাচক) to Affirmative (হ্যাঁ-বাচক): Nobody was absent.",
+        "words": {
+          "4": "Everybody",
+          "1": "arrived",
+          "3": "present",
+          "2": "is",
+          "5": "appeared",
+          "6": "came",
+          "7": "was"
+        },
+        "answers":[[4,7,3]]
+    },
+    {
+        "question": "Interrogative (প্রশ্ন-বাচক) to Affirmative (হ্যাঁ-বাচক): Who is so cruel as to hate him ?",
+        "words": {
+          "4": "Nobody",
+          "1": "anybody",
+          "3": "cruel",
+          "2": "not",
+          "5": "would",
+          "6": "hate",
+          "7": "as",
+          "8": "be",
+          "9": "kind",
+          "10": "to",
+          "11": "so",
+          "12": "him",
+          "13": "is"
+        },
+        "answers":[[4,5,8,11,3,7,10,6,12],[4,13,11,3,7,10,6,12]]
+    },
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Interrogative (প্রশ্ন-বাচক): He killed the snake.",
+        "words": {
+          "4": "does",
+          "1": "kill",
+          "3": "he",
+          "2": "snake",
+          "5": "did",
+          "6": "the",
+          "7": "not",
+          "8": "killed"
+        },
+        "answers":[[5,3,7,1,6,2]]
+    },
+    {
+        "question": "Interrogative (প্রশ্ন-বাচক) to Affirmative (হ্যাঁ-বাচক): Who does not fear darkness ?",
+        "words": {
+          "4": "anyone",
+          "1": "Everyone",
+          "3": "fears",
+          "2": "loves",
+          "5": "light",
+          "6": "darkness",
+          "7": "fear",
+          "8": "love"
+        },
+        "answers":[[1,3,6]]
+    },
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Interrogative (প্রশ্ন-বাচক): I am your well-wisher.", 
+        "words": {
+          "4": "I",
+          "1": "well-wisher",
+          "3": "do",
+          "2": "your",
+          "5": "am",
+          "6": "not",
+          "7": "be"
+        },
+        "answers":[[5,4,6,2,1]]
+    },
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Negative (না-বাচক): Only the truthful can be happy.",
+        "words": {
+          "4": "but",
+          "1": "happy",
+          "3": "liar",
+          "2": "be",
+          "5": "the",
+          "6": "truthful",
+          "7": "none",
+          "8": "can",
+          "9": "no",
+          "10": "untruthful"
+        },
+        "answers":[[7,4,5,6,8,2,1]]
+    },
+    {
+        "question": "Interrogative (প্রশ্ন-বাচক) to Affirmative (হ্যাঁ-বাচক): Where will you find such a beautiful country ?",
+        "words": {
+          "4": "never",
+          "1": "country",
+          "3": "find",
+          "2": "beautiful",
+          "5": "not",
+          "6": "you",
+          "7": "nowhere",
+          "8": "such",
+          "9": "will",
+          "10": "a"
+        },
+        "answers":[[7,9,6,3,8,10,2,1]]
+    }
+]

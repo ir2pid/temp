@@ -1,0 +1,50 @@
+[
+    {
+        "words": {
+          "workup.jpg": "",
+          "putout.jpg": "",
+          "runafter.jpg": "RUN AFTER",
+          "makeup.jpg": ""
+        }
+    },
+    {
+        "words": {
+          "lookinto.jpg": "",
+          "setin.jpg": "",
+          "turndown.jpg": "",
+          "runinto.jpg": "RUN INTO"
+        }
+    },
+    {
+        "words": {
+          "setabout.jpg": "SET ABOUT",
+          "turnup.jpg": "",
+          "layby.jpg": "",
+          "takeafter.jpg": ""
+        }
+    },
+    {
+        "words": {
+          "setup.jpg": "",
+          "setin.jpg": "SET IN",
+          "takeoff.jpg": "",
+          "lookover.jpg": ""
+        }
+    },
+    {
+        "words": {
+          "standfor.jpg": "",
+          "putout.jpg": "",
+          "setup.jpg": "SET UP",
+          "lookfor.jpg": ""
+        }
+    },
+    {
+        "words": {
+          "standfor.jpg": "STAND FOR",
+          "laydown.jpg": "",
+          "layby.jpg": "",
+          "runinto.jpg": ""
+        }
+    }
+]

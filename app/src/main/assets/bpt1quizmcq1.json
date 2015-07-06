@@ -1,0 +1,92 @@
+[
+    {
+    "option1": "Rohan practises singing at the morning.",
+    "option2": "Rohan practises singing on the morning.",
+    "option3": "Rohan practises singing in the morning.",
+    "option4": "Rohan practises singing during the morning.",
+    "question": "রোহন সকালে গানের অনুশীলন করে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "My secondary exam results will be published on June.",
+    "option2": "My secondary exam results will be published during June.",
+    "option3": "My secondary exam results will be published at June.",
+    "option4": "My secondary exam results will be published in June.",
+    "question": "আমার মাধ্যমিক পরীক্ষার ফলাফল জুন মাসে প্রকাশিত হবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I shall speak to you on night.",
+    "option2": "I shall speak to you by night.",
+    "option3": "I shall speak to you in night.",
+    "option4": "I shall speak to you at night.",
+    "question": "তোমার সঙ্গে রাত্রে কথা বলব",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Sudha joined music classes for 17th.",
+    "option2": "Sudha joined music classes on 17th.",
+    "option3": "Sudha joined music classes at 17th.",
+    "option4": "Sudha joined music classes in 17th.",
+    "question": "সুধা সতেরো তারিখে সঙ্গীত শিক্ষা শুরু করল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Rabindranath Tagore was born in the year 1861.",
+    "option2": "Rabindranath Tagore was born on the year 1861.",
+    "option3": "Rabindranath Tagore was born for the year 1861.",
+    "option4": "Rabindranath Tagore was born at the year 1861.",
+    "question": "১৮৬১ সনে রবীন্দ্রনাথ ঠাকুরের জন্ম হয়েছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "My office starts from 9 AM.",
+    "option2": "My office starts at 9 AM.",
+    "option3": "My office starts on 9 AM.",
+    "option4": "My office starts in 9 AM.",
+    "question": "আমার অফিস সকাল ন’টায় শুরু হয়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Netaji was born in 23 January.",
+    "option2": "Netaji was born by 23 January.",
+    "option3": "Netaji was born on 23 January.",
+    "option4": "Netaji was born at 23 January.",
+    "question": "নেতাজি ২৩শে জানুয়ারি জন্মগ্রহণ করেন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I like to pray everyday in the afternoon.",
+    "option2": "I like to pray everyday since the afternoon.",
+    "option3": "I like to pray everyday at the afternoon.",
+    "option4": "I like to pray everyday on the afternoon.",
+    "question": "আমি প্রতিদিন বিকেলে প্রার্থনা করতে ভালবাসি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "It was very hot for the noon yesterday.",
+    "option2": "It was very hot on noon yesterday.",
+    "option3": "It was very hot in the noon yesterday.",
+    "option4": "It was very hot at noon yesterday.",
+    "question": "কাল দুপুর ১২টায় খুব গরম ছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We can eat mangoes at summer.",
+    "option2": "We can eat mangoes in summer.",
+    "option3": "We can eat mangoes on summer.",
+    "option4": "We can eat mangoes of summer.",
+    "question": "আমরা গ্রীষ্মে আম খেতে পারি",
+    "correct": 2,
+    "isPicture": false
+    }
+]

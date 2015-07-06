@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:visibility="visible"
+    android:background="@color/button_transparent">
+
+    <RelativeLayout
+        android:orientation="vertical" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:visibility="visible"
+        android:layout_below="@+id/circleButton1"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/cell_background"
+        android:padding="20dp">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/question"
+
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/button_blue"
+        android:textStyle="normal"
+        android:visibility="gone"
+        android:background="@drawable/background_shape_blue_translucent"
+        android:padding="10dp"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/correctno"
+        android:layout_below="@+id/question"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textColor="@color/button_green"
+        android:visibility="gone"
+        android:padding="10dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:id="@+id/wrong"
+        android:layout_below="@+id/correctno"
+        android:layout_centerHorizontal="true"
+        android:textColor="@color/button_red"
+        android:textStyle="italic"
+        android:visibility="gone"
+        android:padding="10dp" />
+</RelativeLayout>
+
+    <at.markushi.ui.CircleButton
+        android:id="@+id/circleButton1"
+        android:layout_width="64dip"
+        android:layout_height="64dip"
+        android:src="@drawable/ic_action_tick"
+        app:cb_color="@color/button_green"
+        app:cb_pressedRingWidth="8dip"
+        android:visibility="visible"
+        android:layout_centerInParent="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal" />
+
+    <at.markushi.ui.CircleButton
+        android:id="@+id/circleButton2"
+        android:layout_width="64dip"
+        android:layout_height="64dip"
+        android:src="@drawable/ic_action_cross"
+        app:cb_color="@color/button_red"
+        app:cb_pressedRingWidth="8dip"
+        android:visibility="invisible"
+        android:layout_centerInParent="true"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="center_horizontal" />
+</FrameLayout>

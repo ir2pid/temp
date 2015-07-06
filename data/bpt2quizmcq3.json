@@ -1,0 +1,92 @@
+[
+    {
+    "option1": "Hurry up – you are after the schedule.",
+    "option2": "Hurry up – you are behind the schedule.",
+    "option3": "Hurry up – you are beyond the schedule.",
+    "option4": "Hurry up – you are before the schedule.",
+    "question": "তাড়াতাড়ি কর, তুমি নির্ধারিত সময়ের পেছনে আছ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "This man has lost 25 kilograms for a year.",
+    "option2": "This man has lost 25 kilograms under a year.",
+    "option3": "This man has lost 25 kilograms in under a year.",
+    "option4": "This man has lost 25 kilograms during a year.",
+    "question": "এই লোকটি এক বছরের কম সময়ে পঁচিশ কেজি ওজন কমিয়েছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I can not leave this place since my mother arrives.",
+    "option2": "I can not leave this place before my mother arrives.",
+    "option3": "I can not leave this place till my mother arrives.",
+    "option4": "I can leave this place only after my mother arrives.",
+    "question": "যতক্ষণ না আমার মা আসে, আমি এই জায়গা ছেড়ে যেতে পারি না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Sabir completed the work several days advance of the schedule.",
+    "option2": "Sabir completed the work several days forward of the schedule.",
+    "option3": "Sabir completed the work several days ago of the schedule.",
+    "option4": "Sabir completed the work several days ahead of the schedule.",
+    "question": "সাবির নির্ধারিত সময়ের বেশ কিছুদিন আগে কাজ শেষ করেছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We wish to paint the house for two months.",
+    "option2": "We wish to paint the house before two months.",
+    "option3": "We wish to paint the house within two months.",
+    "option4": "We wish to paint the house between two months.",
+    "question": "দু’মাসের মধ্যে বাড়ীটি রঙ করার আমাদের ইচ্ছে আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The boys were playing in the field since dark.",
+    "option2": "The boys were playing in the field until dark.",
+    "option3": "The boys were playing in the field before dark.",
+    "option4": "The boys were playing in the field up to dark.",
+    "question": "ছেলেরা অন্ধকার হওয়া অবধি মাঠে খেলছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Swamiji's ideas were way ahead of his time.",
+    "option2": "Swamiji's ideas were way before his time.",
+    "option3": "Swamiji's ideas were way in front of his time.",
+    "option4": "Swamiji's ideas were way after his time.",
+    "question": "স্বামীজির ধ্যানধারণা ছিল তাঁর সময়ের চেয়ে অনেক এগিয়ে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Prabhat became sick and fell back in his class.",
+    "option2": "Prabhat became sick and fell behind in his class.",
+    "option3": "Prabhat became sick and fell under in his class.",
+    "option4": "Prabhat became sick and fell down in his class.",
+    "question": "প্রভাত অসুস্থ হয়ে পড়ে ক্লাসে পিছিয়ে পড়ল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Gora will return with the keys for an hour.",
+    "option2": "Gora will return with the keys till an hour.",
+    "option3": "Gora will return with the keys inside an hour.",
+    "option4": "Gora will return with the keys within an hour.",
+    "question": "এক ঘন্টার মধ্যে গোরা চাবিগুলি নিয়ে ফেরৎ আসবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Usain Bolt completes 100 metre sprint in under ten seconds.",
+    "option2": "Usain Bolt completes 100 metre sprint in behind ten seconds.",
+    "option3": "Usain Bolt completes 100 metre sprint in by ten seconds.",
+    "option4": "Usain Bolt completes 100 metre sprint in within ten seconds.",
+    "question": "উসেইন বোল্ট একশো মিটার দৌড় শেষ করে দশ সেকেন্ডের কম সময়ে",
+    "correct": 1,
+    "isPicture": false
+    }
+]

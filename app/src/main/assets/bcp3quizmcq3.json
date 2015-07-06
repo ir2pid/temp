@@ -1,0 +1,191 @@
+[
+    {
+    "option1": "We had not a car before the war ?",
+    "option2": "Did we not have no car before the war ?",
+    "option3": "Did we not have a car before the war ?",
+    "option4": "Did no car we had before the war ?",
+    "question": "যুদ্ধের আগে আমাদের কি কোন গাড়ী ছিল না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Not they had lot of money after the war ?",
+    "option2": "Lot of money did not they have after the war ?",
+    "option3": "After the war do they not have lot of money ?",
+    "option4": "Did they not have lot of money after the war ?",
+    "question": "যুদ্ধের পরে তাদের কি খুব বেশী টাকা ছিল না ?",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "I was under roof.",
+    "option2": "I was under the roof.",
+    "option3": "The roof was above me.",
+    "option4": "Above the roof I was.",
+    "question": "আমি ছাদটির নীচে ছিলাম",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "We was on the right side of the river.",
+    "option2": "We were in the right side of the river.",
+    "option3": "The river was in the right side of us.",
+    "option4": "We were on the right side of the river.",
+    "question": "আমরা নদীটির ডানদিকে ছিলাম",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "You were a rich man at 2010.",
+    "option2": "You were rich man on 2010.",
+    "option3": "You were a rich man in 2010.",
+    "option4": "Rich man you were in 2010.",
+    "question": "২০১০ সালে তুমি ধনী লোক ছিলে",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "He had in his seat then.",
+    "option2": "He was on his seat then.",
+    "option3": "He was in his seat then.",
+    "option4": "He was on his sit then.",
+    "question": "সে তখন তার আসনে বসেছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Her age then was 52 years old.",
+    "option2": "Then she was 52 old years.",
+    "option3": "Then she was 52 years age.",
+    "option4": "Then she was 52 years old.",
+    "question": "তখন তার বয়স ৫২ বছর ছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "They were in their house in the morning.",
+    "option2": "They were in the morning in their house.",
+    "option3": "In the morning in there house they were.",
+    "option4": "They were in there house in the morning.",
+    "question": "তারা সকালবেলায় তাদের বাড়ীতে ছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Sumit and Dipika always were the Abhijit’s friend.",
+    "option2": "Sumit and Dipika was always Abhijit’s friend.",
+    "option3": "Sumit and Dipika were always Abhijit’s friend.",
+    "option4": "Always Abhijit’s friend was Sumit and Dipika.",
+    "question": "সুমিত এবং দীপিকা সব সময়েই অভিজিতের বন্ধু ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "The clouds were on the mountain.",
+    "option2": "The clouds were above mountain.",
+    "option3": "The clouds were above the mountain.",
+    "option4": "The mountain was under the clouds.",
+    "question": "মেঘগুলি পাহাড়ের উর্দ্ধে ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "The saints of our country were great.",
+    "option2": "Our country's saints were great.",
+    "option3": "The great were the saints of our country.",
+    "option4": "The saints of our country was great.",
+    "question": "আমাদের দেশের সাধুরা মহান ছিলেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The programme was on Sunday at 7 PM in the evening.",
+    "option2": "The programme was at Sunday on 7 in the evening.",
+    "option3": "The programme was on Sunday at 7 in the evening.",
+    "option4": "On Sunday at 7 PM in the evening the programme was.",
+    "question": "অনুষ্ঠানটি রবিবার সন্ধ্যা ৭ টায় ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "No train was before 6 AM in morning and after 11 PM in night.",
+    "option2": "No train was before 6 AM and after 11 PM.",
+    "option3": "There was not train before 6 AM and after 11 PM.",
+    "option4": "Before 6 AM and after 11 PM no train there was.",
+    "question": "সকাল ৬ টার আগে এবং রাত ১১ টার পরে কোন ট্রেন ছিল না",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Many train was there between 6 AM to 11 PM.",
+    "option2": "There were many trains between 6 AM to 11 PM.",
+    "option3": "There were many trains between 6 AM and 11 PM.",
+    "option4": "There had many trains between 6 AM and 11 PM.",
+    "question": "সকাল ৬ টা থেকে রাত ১১ টার মধ্যে অনেক ট্রেন ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "There was not water inside the pond.",
+    "option2": "Inside the pond no water was their.",
+    "option3": "Pond's inside there was no water.",
+    "option4": "There was no water inside the pond.",
+    "question": "পুকুরের মধ্যে কোন জল ছিল না",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "But there had frogs outside it.",
+    "option2": "But the frogs was outside it.",
+    "option3": "But there were frogs outside it.",
+    "option4": "But outside it there have frogs.",
+    "question": "কিন্তু তার বাইরে ব্যাঙগুলি ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "All stories were about the ghosts.",
+    "option2": "All stories were about ghosts.",
+    "option3": "About ghosts was all stories.",
+    "option4": "All stories was on ghosts.",
+    "question": "সব গল্পগুলিই ভূতের ছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "None of them was with the team.",
+    "option2": "None of them were with the team.",
+    "option3": "None of they was with the team.",
+    "option4": "With the team none of them was.",
+    "question": "তারা কেউই দলের সঙ্গে ছিল না",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Both of us were on our beds.",
+    "option2": "Both of we were on our beds.",
+    "option3": "We both of were in our beds.",
+    "option4": "On our beds were both of us.",
+    "question": "আমরা দুজনেই আমাদের বিছানায় ছিলাম",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "All of you was late in the match.",
+    "option2": "All of you were late for the match.",
+    "option3": "All of your were late for the match.",
+    "option4": "All of you were late in the match.",
+    "question": "তোমরা সবাই খেলাতে দেরীতে এসেছিলে",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Everyone of them were good.",
+    "option2": "Everyone of they were good.",
+    "option3": "They everyone was good.",
+    "option4": "Everyone of them was good.",
+    "question": "তাদের প্রত্যেকেই ভাল ছিল",
+    "correct": 4,
+    "isPicture": false
+    }
+]

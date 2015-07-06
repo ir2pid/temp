@@ -1,0 +1,164 @@
+[
+   {
+    "option1": "You can went.",
+    "option2": "You can have go.",
+    "option3": "You could go.",
+    "option4": "You could have go.",
+    "question": "তুমি/তোমরা যেতে পারতে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you go ?",
+    "option2": "Could you go ?",
+    "option3": "Can you went ?",
+    "option4": "Could you went ?",
+    "question": "তুমি/তোমরা কি যেতে পারতে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You are not gone.",
+    "option2": "You can not go.",
+    "option3": "You did not go.",
+    "option4": "You could not go.",
+    "question": "তুমি/তোমরা যেতে পারলে না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You will go.",
+    "option2": "Perhaps you will go.",
+    "option3": "Perhaps you go.",
+    "option4": "Perhaps you are gone.",
+    "question": "তুমি/তোমরা বোধহয় যাবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You were thinking of going.",
+    "option2": "You are thinking going.",
+    "option3": "You are thinking to go.",
+    "option4": "You are thinking of go.",
+    "question": "তুমি/তোমরা যাবে ভাবছিলে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You have to going.",
+    "option2": "You are going.",
+    "option3": "You are to going.",
+    "option4": "You have to go.",
+    "question": "তোমায়/তোমাদের যেতে হবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Will you have to go ?",
+    "option2": "Will you to go ?",
+    "option3": "Shall you have to go ?",
+    "option4": "Can you have to go ?",
+    "question": "তোমায়/তোমাদের কি যেতে হবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do not you have to go ?",
+    "option2": "Will you not have to go ?",
+    "option3": "Will not you going ?",
+    "option4": "Will you not go ?",
+    "question": "তোমায়/তোমাদের কি যেতে হবে না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You should went.",
+    "option2": "You shall have go.",
+    "option3": "You need to go.",
+    "option4": "You can have gone.",
+    "question": "তোমার/তোমাদের যাবার দরকার",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Why will you go ?",
+    "option2": "Why shall you going ?",
+    "option3": "Why should you go ?",
+    "option4": "Why can you go ?",
+    "question": "তুমি/তোমরা কেন যাবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Why not you going ?",
+    "option2": "Why can you go ?",
+    "option3": "Why will you not go ?",
+    "option4": "Why can you went ?",
+    "question": "কেন তুমি/তোমরা যাবে না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "When will you go ?",
+    "option2": "When can you go ?",
+    "option3": "When shall you going ?",
+    "option4": "When will be going ?",
+    "question": "তুমি/তোমরা কখন যাবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Where do you go ?",
+    "option2": "Where are you go ?",
+    "option3": "Where will you go ?",
+    "option4": "Where you go ?",
+    "question": "তুমি/তোমরা কোথায় যাবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "With whom will you go ?",
+    "option2": "Who will you go ?",
+    "option3": "Whom shall going with ?",
+    "option4": "Who are going with ?",
+    "question": "তুমি/তোমরা কার সঙ্গে যাবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You wanted going.",
+    "option2": "You want to go.",
+    "option3": "You will want to going.",
+    "option4": "You will going want.",
+    "question": "তুমি/তোমরা যেতে চাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You love to going.",
+    "option2": "You love to go.",
+    "option3": "You like go.",
+    "option4": "You can like to go.",
+    "question": "তোমার/তোমাদের যেতে ভালো লাগে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You wish to go.",
+    "option2": "You can wish go.",
+    "option3": "You can go.",
+    "option4": "You like to have gone.",
+    "question": "তোমার/তোমাদের যাবার ইচ্ছে  আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "If you go.",
+    "option2": "If you could go. ",
+    "option3": "If you can gone.",
+    "option4": "If you can go.",
+    "question": "তুমি/তোমরা যদি যেতে পারতে",
+    "correct": 2,
+    "isPicture": false
+    }
+]

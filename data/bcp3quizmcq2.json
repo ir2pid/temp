@@ -1,0 +1,191 @@
+[
+    {
+    "option1": "She does not have love for her.",
+    "option2": "She do not have love for him.",
+    "option3": "She does not have no love for him.",
+    "option4": "She does not have love for him.",
+    "question": "তার (মেয়ে) তার (ছেলে) প্রতি কোন ভালোবাসা নেই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "In 7 AM I had breakfast.",
+    "option2": "I had breakfast at 7 AM in the morning.",
+    "option3": "I had breakfast at 7 AM.",
+    "option4": "I had the breakfast at 7 AM.",
+    "question": "আমি সকাল ৭টায় প্রাতঃরাশ নিয়েছিলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "I have it at a restaurant.",
+    "option2": "I had it at a restaurant.",
+    "option3": "I took it at a restaurant.",
+    "option4": "It had me at a restaurant.",
+    "question": "আমি সেটা একটি রেস্টুরেন্টে নিয়েছিলাম",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "We had a car before the war.",
+    "option2": "We had a car the war before.",
+    "option3": "We had a car after the war.",
+    "option4": "We have a car before the war.",
+    "question": "যুদ্ধের আগে আমাদের একটা গাড়ী ছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "They had lot of money after the war.",
+    "option2": "Lot of money they had before the war.",
+    "option3": "They had lot of money the war after.",
+    "option4": "They had lot of money before the war.",
+    "question": "যুদ্ধের পরে তাদের প্রচুর টাকা ছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "There was little rain at your city you got.",
+    "option2": "Little rain had in your city.",
+    "option3": "You had little rain in your city.",
+    "option4": "You had little rain at your city.",
+    "question": "তুমি তোমার শহরে কম বৃষ্টি পেয়েছিলে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The city had little rain on the monsoon.",
+    "option2": "In the monsoon the city have little rain.",
+    "option3": "Little rain the city got at the monsoon.",
+    "option4": "The city had little rain in the monsoon.",
+    "question": "শহরটিতে বর্ষাকালে সামান্য বৃষ্টি হয়েছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "I had no breakfast at 7 AM in morning.",
+    "option2": "I had no breakfast at 7 AM.",
+    "option3": "I had not breakfast at 7 AM.",
+    "option4": "I had no breakfast on 7 AM.",
+    "question": "আমি সকাল ৭টায় কোন প্রাতঃরাশ নিই নি",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "I did not have breakfast at 7 AM.",
+    "option2": "I did not have no breakfast at 7 AM.",
+    "option3": "I did not had breakfast at 7 AM.",
+    "option4": "I did not has breakfast at 7 AM.",
+    "question": "আমি সকাল ৭টায় প্রাতঃরাশ নিই নি",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "I did not had it at a restaurant.",
+    "option2": "It at a restaurant I did not have.",
+    "option3": "I did not have it at a restaurant.",
+    "option4": "At a restaurant I do not have it.",
+    "question": "আমি এটা রেস্টুরেন্টে নিই নি",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "We did not have a car before the war.",
+    "option2": "Before the war we did not had a car.",
+    "option3": "We did not have a car after the war.",
+    "option4": "We not had a car before the war.",
+    "question": "যুদ্ধের আগে আমাদের কোন গাড়ী ছিল না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "They do not have lot of money after the war.",
+    "option2": "They did not have lot of money after the war.",
+    "option3": "Lot of money did not have them after the war.",
+    "option4": "After the war lot of money they did not have.",
+    "question": "যুদ্ধের পরে তাদের খুব বেশী টাকা ছিল না",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "You did not have not much rain in the city.",
+    "option2": "Much rain did not have you in the city.",
+    "option3": "You did not have much rain in the city.",
+    "option4": "You did not had much rain in the city.",
+    "question": "তুমি শহরে খুব বেশী বৃষ্টি পাওনি",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "The rainy season did not have much rain in the city.",
+    "option2": "In the rainy season the city did not had much rain.",
+    "option3": "It did not have much rain in the rainy season in the city.",
+    "option4": "The city did not have much rain in the rainy season.",
+    "question": "বর্ষাকালে শহরটিতে বেশী বৃষ্টি হয়নি",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Have I not a pen ?",
+    "option2": "I do not have a pen ?",
+    "option3": "Do I not have a pen ?",
+    "option4": "Not have I a pen ?",
+    "question": "আমার কি একটি কলম নেই ?",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Do we not have a red pen ?",
+    "option2": "Not we have a red pen ?",
+    "option3": "Do not a red pen we have ?",
+    "option4": "We have not a red pen ?",
+    "question": "আমাদের কি একটি লাল কলম নেই ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Does in her hand she not have a red pen ?",
+    "option2": "Not does she not have a red pen in her hand ?",
+    "option3": "She does not have a red pen in her hand ?",
+    "option4": "Does she not have a red pen in her hand ?",
+    "question": "তার হাতে কি একটা লাল কলম নেই ?",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Does they not have many windows in their room ?",
+    "option2": "Do they not have many windows in their room ?",
+    "option3": "Do not many windows they have in their room ?",
+    "option4": "Not they have many windows in their room ?",
+    "question": "তাদের ঘরে কি অনেকগুলি জানালা নেই ?",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Not Sumit have a lovely face ?",
+    "option2": "Sumit has not a lovely face ?",
+    "option3": "Does Sumit not have a lovely face ?",
+    "option4": "Does lovely face Sumit not have ?",
+    "question": "সুমিতের মুখ কি সুন্দর নয় ?",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Does poor people not have any money ?",
+    "option2": "Do poor people not have no money ?",
+    "option3": "Do poor people not have any money ?",
+    "option4": "Not poor people have no money ?",
+    "question": "গরীব লোকেদের কি কোন টাকা নেই ?",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Does not she have love for him ?",
+    "option2": "Does not she has love for him ?",
+    "option3": "She does not have love for him ?",
+    "option4": "Does he not have any love for her ?",
+    "question": "তার (মেয়ে) কি তার (ছেলে) প্রতি ভালোবাসা নেই ?",
+    "correct": 1,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+    "option1": "Suhail has been waiting for her mother for morning.",
+    "option2": "Suhail has been waiting for her mother till morning.",
+    "option3": "Suhail has been waiting for her mother since morning.",
+    "option4": "Suhail has been waiting for her mother during morning.",
+    "question": "সুহেল সকাল থেকে মায়ের অপেক্ষায় আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The moon shone brightly for the night.",
+    "option2": "The moon shone brightly through the night.",
+    "option3": "The moon shone brightly at night.",
+    "option4": "The moon shone brightly during the night.",
+    "question": "রাত ধরে চাঁদ ঝলমল করছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We have waited for over two hours.",
+    "option2": "We have waited for above two hours.",
+    "option3": "We have waited for about two hours.",
+    "option4": "We have waited for more two hours.",
+    "question": "আমরা দু ঘন্টার বেশী সময় ধরে অপেক্ষা করেছি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Australians were the world champions of One Day cricket since 1999 to 2011.",
+    "option2": "Australians were the world champions of One Day cricket from 1999 and 2011.",
+    "option3": "Australians were the world champions of One Day cricket from 1999 to 2011.",
+    "option4": "Australians were the world champions of One Day cricket since 1999 till 2011.",
+    "question": "১৯৯৯ থেকে ২০১১ অবধি অস্ট্রেলীয়রা এক দিনের ক্রিকেটে বিশ্ব চ্যাম্পিয়ন ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The restaurant serves food in a lower price within 7 and 8 AM.",
+    "option2": "The restaurant serves food in a lower price between 7 to 8 AM.",
+    "option3": "The restaurant serves food at a lower price within 7 to 8 AM.",
+    "option4": "The restaurant serves food at a lower price between 7 and 8 AM.",
+    "question": "রেস্টুরেন্টটি সকাল ৭টা থেকে ৮টার মধ্যে কম দামে খাবার দেয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "It has been raining non-stop for yesterday afternoon.",
+    "option2": "It has been raining non-stop since yesterday afternoon.",
+    "option3": "It has been raining non-stop from yesterday afternoon.",
+    "option4": "It has been raining non-stop after yesterday afternoon.",
+    "question": "গতকাল দুপুর থেকে অবিরত বৃষ্টি হয়ে চলেছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I called my family frequently in my foreign tour.",
+    "option2": "I called my family frequently at my foreign tour.",
+    "option3": "I called my family frequently during my foreign tour.",
+    "option4": "I called my family frequently for my foreign tour.",
+    "question": "বিদেশভ্রমণের সময়ে আমি আমার পরিবারকে ঘন ঘন ফোন করতাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They have been developing the plan more than a year.",
+    "option2": "They have been developing the plan since over a year.",
+    "option3": "They have been developing the plan for a year.",
+    "option4": "They have been developing the plan for over a year.",
+    "question": "তারা এক বছরের বেশী সময় ধরে  পরিকল্পনা করছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The movie will be shown on television between 7 PM to 10 PM.",
+    "option2": "The movie will be shown in television from 7 PM to 10 PM.",
+    "option3": "The movie will be shown in television between 7 PM to 10 PM.",
+    "option4": "The movie will be shown on television from 7 PM to 10 PM.",
+    "question": "ছায়াছবিটি সন্ধ্যে সাতটা থেকে রাত দশটা অবধি টেলিভিশনে দেখানো হবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Cowards die many times between birth and death.",
+    "option2": "Cowards die many times between birth to death.",
+    "option3": "Cowards die many times within birth to death.",
+    "option4": "Cowards die many times within birth and death.",
+    "question": "জন্ম-মৃত্যুর মাঝে ভীরুরা বহুবার মরে",
+    "correct": 1,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,62 @@
+[
+                      { 
+                        "image1": "comeround",             
+                        "name": "Bgv1-Lesson3 (1)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Come round</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আরোগ্য লাভ করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "The doctor is saying that the patient has <font color='#ED7745'>come round</font> (<i>recovered</i>) her illness. <br> <br>ডাক্তার বাবু বলছেন রুগীটি অসুস্থতা থেকে আরোগ্য লাভ করেছে । <br> <br> <br>I fainted but soon <font color='#ED7745'>came round</font> (<i>revived</i>). <br> <br>আমি মূর্চ্ছা গেলাম, কিন্তু তাড়াতাড়ি জেগে উঠলাম ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "dealin",             
+                        "name": "Bgv1-Lesson3 (2)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Deal in</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ব্যবসা করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "He <font color='#ED7745'>deals in</font> (<i>trades</i>) rice. <br> <br>সে চালের ব্যবসা করে । <br> <br> <br>What do you <font color='#ED7745'>deal in</font> (<i>trade</i>) ? <br> <br>তুমি কিসের ব্যবসা কর ?",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "doawaywith",             
+                        "name": "Bgv1-Lesson3 (3)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Do away with</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;লোপ করা, রদ করা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "'Satidaha' was <font color='#ED7745'>done away with</font> (<i>abolished</i>) in the last century. <br> <br>'সতীদাহ' গত শতাব্দীতে রদ করা হয়েছিল । <br> <br> <br>The doctor was afraid that Satish would <font color='#ED7745'>do away with</font> (<i>commit suicide</i>) himself. <br> <br>ডাক্তার ভয় পেয়েছিলেন যে সতীশ হয়ত আত্মহত্যা করবে ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "fallout",             
+                        "name": "Bgv1-Lesson3 (4)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Fall out</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ঝগড়া করা, ঘটা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Do not <font color='#ED7745'>fall out</font> (<i>quarrel</i>) with your friend. <br> <br>বন্ধুর সঙ্গে ঝগড়া কোরো না । <br> <br> <br>Then as things <font color='#ED7745'>fell out</font> (<i>resulted/happened</i>), we had a very bad time. <br> <br>তারপর যা যা ঘটল, আমাদের খুব খারাপ সময় গেল ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "fallthrough",             
+                        "name": "Bgv1-Lesson3 (5)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Fall through</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ব্যর্থ হওয়া, গলে পড়ে যাওয়া",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "All his plans <font color='#ED7745'>fell through</font> (<i>failed</i>) for want of fund. <br> <br>তার সমস্ত পরিকল্পনা টাকার জন্য ব্যর্থ হয়ে গেছিল । <br> <br> <br>One of the skaters had <font color='#ED7745'>fallen through</font> (<i>fallen and broken through</i>) the thin ice. <br> <br>যারা স্কেটিং করছিল, তাদের মধ্যে একজন পাতলা বরফ ভেঙে ঢুকে গিয়েছিল ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "getup",             
+                        "name": "Bgv1-Lesson3 (6)", 
+                        "ltext1": "",
+                        "rtext1": "<br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Get up</font> <br> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ওঠা",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "He <font color='#ED7745'>gets up</font> (<i>wakes up</i>) at 8 AM. <br> <br>সে সকাল ৮টায় ঘুম থেকে ওঠে । <br> <br> <br>Can you <font color='#ED7745'>get up</font> (<i>climb</i>) a tree without branches ?  <br> <br>ডালপালা ছাড়া গাছে উঠতে পারো ?",
+                        "description": ""
+                      }
+]

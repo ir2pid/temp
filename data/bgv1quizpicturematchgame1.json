@@ -1,0 +1,50 @@
+[
+    {
+        "words": {
+          "gothrough.jpg": "",
+          "backup.jpg": "BACK UP",
+          "breakdown.jpg": "",
+          "carryout.jpg": ""
+        }
+    },
+    {
+        "words": {
+          "fallout.jpg": "", 
+          "callon.jpg": "",
+          "bearwith.jpg": "BEAR WITH",
+          "gothrough.jpg": ""
+        }
+    },
+    {
+        "words": {
+          "breakout.jpg": "",
+          "comeacross.jpg": "",
+          "comeround.jpg": "",
+          "breakdown.jpg": "BREAK DOWN"
+        }
+    },
+    {
+        "words": {
+          "breakout.jpg": "BREAK OUT",
+          "comeacross.jpg": "",
+          "comeround.jpg": "",
+          "doawaywith.jpg": ""
+        }
+    },
+    {
+        "words": {
+          "fallout.jpg": "",
+          "givein.jpg": "",
+          "bringout.jpg": "BRING OUT", 
+          "carryout.jpg": ""
+        }
+    },
+    {
+        "words": {
+          "getup.jpg": "",
+          "giveup.jpg": "",
+          "backup.jpg": "",
+          "bringup.jpg": "BRING UP" 
+        }
+    }
+]

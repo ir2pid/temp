@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "The cycle is kept near the bookshop.",
+    "option2": "The cycle is kept beside the bookshop.",
+    "option3": "The cycle is kept next the bookshop.",
+    "option4": "The cycle is kept in front of the bookshop.",
+    "question": "সাইকেলটা বইয়ের দোকানের কাছে দাঁড় করানো আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The ambulance is moving to the hospital.",
+    "option2": "The ambulance is moving at the hospital.",
+    "option3": "The ambulance is moving towards the hospital.",
+    "option4": "The ambulance is moving near to the hospital.",
+    "question": "অ্যাম্বুলেন্সটি হাসপাতালের দিকে যাচ্ছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The fairy is sitting on the moon and opposite the stars.",
+    "option2": "The fairy is sitting on the moon and infront of the stars.",
+    "option3": "The fairy is sitting on the moon and beside the stars.",
+    "option4": "The fairy is sitting on the moon and near the stars.",
+    "question": "পরী চাঁদের ওপর আর তারাদের কাছাকাছি বসে আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Her house is beside the sea.",
+    "option2": "Her house is near the sea.",
+    "option3": "Her house is next to the sea.",
+    "option4": "Her house is by the sea.",
+    "question": "তার বাড়ী সমুদ্রের কাছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The football is rolling near the goal.",
+    "option2": "The football is rolling to the goal.",
+    "option3": "The football is rolling towards the goal.",
+    "option4": "The football is rolling at the goal.",
+    "question": "ফুটবলটা গোলের দিকে গড়িয়ে যাচ্ছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Mr. Johnson is running in time to complete the work.",
+    "option2": "Mr. Johnson is running with time to complete the work.",
+    "option3": "Mr. Johnson is running opposite time to complete the work.",
+    "option4": "Mr. Johnson is running against time to complete the work.",
+    "question": "মি. জনসন সময়ে কাজ শেষ করতে প্রাণপণ করছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Some pyramids of Egypt are near river Nile.",
+    "option2": "Some pyramids of Egypt are next to river Nile.",
+    "option3": "Some pyramids of Egypt are beside river Nile.",
+    "option4": "Some pyramids of Egypt are across river Nile.",
+    "question": "মিশরের কিছু পিরামিড আছে নীলনদের কাছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You are sitting against me at the table.",
+    "option2": "You are sitting my opposite at the table.",
+    "option3": "You are sitting in front to me at the table.",
+    "option4": "You are sitting opposite me at the table.",
+    "question": "তুমি টেবিলে আমার বিপরীত দিকে বসে আছো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We are against to war.",
+    "option2": "We are opposite war.",
+    "option3": "We are against war.",
+    "option4": "We are opposite of war.",
+    "question": "আমরা যুদ্ধের বিরুদ্ধে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The man is pushing the horse towards the fence.",
+    "option2": "The man is pushing the horse nearer to the fence.",
+    "option3": "The man is pushing the horse beside the fence.",
+    "option4": "The man is pushing the horse opposite the fence.",
+    "question": "লোকটি ঘোড়াটিকে ঠেলে বেড়ার আরো কাছে নিয়ে যাচ্ছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Soma is playing against a famous actor in the drama.",
+    "option2": "Soma is playing with a famous actor in the drama.",
+    "option3": "Soma is playing opposite a famous actor in the drama.",
+    "option4": "Soma is playing next to a famous actor in the drama.",
+    "question": "সোমা নাটকে এক বিখ্যাত অভিনেতার বিপরীতে অভিনয় করছে",
+    "correct": 3,
+    "isPicture": false
+    }
+]

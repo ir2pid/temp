@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "He is at a car.",
+    "option2": "He is with a car.",
+    "option3": "He is on a car.",
+    "option4": "He is in a car.",
+    "question": "সে গাড়ীতে আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Throwing water balloons in friends is fun.",
+    "option2": "Throwing water balloons at friends is fun.",
+    "option3": "Throwing water balloons on friends is fun.",
+    "option4": "Throwing water balloons to friends is fun.",
+    "question": "জলভরা বেলুন বন্ধুদের দিকে ছুঁড়তে মজা লাগে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I stay at Canning in West Bengal.",
+    "option2": "I stay in Canning at West Bengal.",
+    "option3": "I stay in Canning of West Bengal.",
+    "option4": "I stay in Canning in West Bengal.",
+    "question": "আমি পশ্চিমবঙ্গের ক্যানিঙে থাকি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Is it easier to aim on a bigger target ?",
+    "option2": "Is it easier to aim for a bigger target ?",
+    "option3": "Is it easier to aim at a bigger target ?",
+    "option4": "Is it easier to aim to a bigger target ?",
+    "question": "লক্ষ্য বড় থাকলে কি নিশানা করা সহজতর ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The pen is in the box.",
+    "option2": "The pen is with the box.",
+    "option3": "The pen is at the box.",
+    "option4": "The pen is on the box.",
+    "question": "বাক্সে পেনটি আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Sydney is a city of Australia.",
+    "option2": "Sydney is a city at Australia.",
+    "option3": "Sydney is a city in Australia.",
+    "option4": "Sydney is a city from Australia.",
+    "question": "সিডনি অস্ট্রেলিয়ার একটি শহর",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "She is in a bicycle.",
+    "option2": "She is at a bicycle.",
+    "option3": "She is with a bicycle.",
+    "option4": "She is on a bicycle.",
+    "question": "সে বাইসাইকেলে আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The plane flies to London everyday.",
+    "option2": "The plane flies for London everyday.",
+    "option3": "The plane flies at London everyday.",
+    "option4": "The plane flies in London everyday.",
+    "question": "উড়োজাহাজটি রোজ লন্ডন (উড়ে) যায়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "She lives at London.",
+    "option2": "She lives to London.",
+    "option3": "She lives in London.",
+    "option4": "She lives from london.",
+    "question": "সে লন্ডনে থাকে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "She is going in school.",
+    "option2": "She is going to school.",
+    "option3": "She is going at school.",
+    "option4": "She is going next to school.",
+    "question": "সে স্কুলে যাচ্ছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Don't jump in the bed.",
+    "option2": "Don't jump at the bed.",
+    "option3": "Don't jump on the bed.",
+    "option4": "Don't jump to the bed.",
+    "question": "বিছানায় লাফিও না",
+    "correct": 3,
+    "isPicture": false
+    }
+]

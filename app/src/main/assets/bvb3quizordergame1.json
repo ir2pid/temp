@@ -1,0 +1,771 @@
+[
+    {
+        "question": "গান করার আগে গানটা শোন",
+        "words": {
+          "4": "listened",
+          "1": "song",
+          "3": "you",
+          "2": "Listening",
+          "5": "sing",
+          "6": "to",
+          "7": "do",
+          "8": "Listen",
+          "9": "before",
+          "10": "the"
+        },
+        "answers":[[8,6,10,1,9,3,5]]
+    },
+    {
+        "question": "আমি তোমার সমস্যাগুলো শুনেছিলাম",
+        "words": {
+          "4": "I",
+          "1": "your",
+          "3": "Listened",
+          "2": "to",
+          "5": "am",
+          "6": "problems",
+          "7": "Listening",
+          "8": "was",
+          "9": "your"
+        },
+        "answers":[[4,3,2,9,6]]
+    },
+    {
+        "question": "তুমি কি আমার কথা শুনবে ?",
+        "words": {
+          "4": "can",
+          "1": "listen",
+          "3": "me",
+          "2": "you",
+          "5": "will",
+          "6": "Listening",
+          "7": "to"
+        },
+        "answers":[[5,2,1,7,3]]
+    },
+    {
+        "question": "আমার শোনার ইচ্ছে আছে",
+        "words": {
+          "4": "I",
+          "1": "listen",
+          "3": "listened",
+          "2": "Listening",
+          "5": "to",
+          "6": "wish",
+          "7": "wished"
+        },
+        "answers":[[4,6,5,1]]
+    },
+    {
+        "question": "আমি যা বলেছি তার একটা কথাও তুমি শোননি",
+        "words": {
+          "4": "you",
+          "1": "Listening",
+          "3": "word",
+          "2": "have",
+          "5": "saying",
+          "6": "listen",
+          "7": "I",
+          "8": "to",
+          "9": "have",
+          "10": "am",
+          "11": "a",
+          "12": "Listened",
+          "13": "not",
+          "14": "said",
+          "15": "that"
+        },
+        "answers":[[4,2,13,12,8,11,3,15,7,9,14]]
+    },
+    {
+        "question": "তোমরা কি নিয়ে কথা বলছো ?",
+        "words": {
+          "4": "are",
+          "1": "about",
+          "3": "What",
+          "2": "talk",
+          "5": "you",
+          "6": "do",
+          "7": "talking"
+        },
+        "answers":[[3,4,5,7,1]]
+    },
+    {
+        "question": "সুজিত বড় বড় কথা বলেছিল, কিন্তু সে কি বিষয়টা জানে ?",
+        "words": {
+          "4": "Sujit",
+          "1": "big",
+          "3": "do",
+          "2": "he",
+          "5": "talked",
+          "6": "does",
+          "7": "know",
+          "8": "the",
+          "9": "talks",
+          "10": "subject",
+          "11": "knows",
+          "12": "but"
+        },
+        "answers":[[4,5,1,12,6,2,7,8,10]]
+    },
+    {
+        "question": "কেন আমার সঙ্গে কথা বলছো না ?",
+        "words": {
+          "4": "does",
+          "1": "to",
+          "3": "you",
+          "2": "talk",
+          "5": "why",
+          "6": "not",
+          "7": "are",
+          "8": "talking",
+          "9": "me"
+        },
+        "answers":[[5,7,3,6,8,1,9]]
+    },
+    {
+        "question": "অতো কথা কেন বলো ?",
+        "words": {
+          "4": "do",
+          "1": "much",
+          "3": "you",
+          "2": "talking",
+          "5": "so",
+          "6": "why",
+          "7": "talk",
+          "8": "are"
+        },
+        "answers":[[6,4,3,7,5,1]]
+    },
+    {
+        "question": "কথা কম বল, কাজ বেশী কর",
+        "words": {
+          "4": "you",
+          "1": "more",
+          "3": "less",
+          "2": "working",
+          "5": "talking",
+          "6": "to",
+          "7": "should",
+          "8": "work",
+          "9": "talk",
+          "10": "and",
+          "11": "do"
+        },
+        "answers":[[9,3,8,1]]
+    },
+    {
+        "question": "সে সেটা বলার সময় কৌশিক মৃদু হেসেছিল",
+        "words": {
+          "4": "Koushik",
+          "1": "says",
+          "3": "smiles",
+          "2": "that",
+          "5": "said",
+          "6": "smiled",
+          "7": "when",
+          "8": "he"
+        },
+        "answers":[[4,6,7,8,5,2]]
+    },
+    {
+        "question": "তোমার রসিকতা আমায় হাসায়",
+        "words": {
+          "4": "me",
+          "1": "your",
+          "3": "smiled",
+          "2": "made",
+          "5": "joke",
+          "6": "to",
+          "7": "smile",
+          "8": "makes"
+        },
+        "answers":[[1,5,8,4,7]]
+    },
+    {
+        "question": "সে কি আমায় দেখে হাসলো ?",
+        "words": {
+          "4": "does",
+          "1": "smile",
+          "3": "look",
+          "2": "has",
+          "5": "at",
+          "6": "he",
+          "7": "smiling",
+          "8": "looking",
+          "9": "me",
+          "10": "did",
+          "11": "smiles",
+          "12": "looks"
+        },
+        "answers":[[10,6,1,8,5,9]]
+    },
+    {
+        "question": "মনীষা হেসে কথা বলে",
+        "words": {
+          "4": "Manisha",
+          "1": "when",
+          "3": "smiles",
+          "2": "talks",
+          "5": "smiling",
+          "6": "talking",
+          "7": "smiled",
+          "8": "talked"
+        },
+        "answers":[[4,3,1,6]]
+    },
+    {
+        "question": "হেসে যাও",
+        "words": {
+          "4": "keep",
+          "1": "on",
+          "3": "smile",
+          "2": "to",
+          "5": "go",
+          "6": "smiling"
+        },
+        "answers":[[4,6]]
+    },
+    {
+        "question": "তুমি কেকের গন্ধ পাওনি ?",
+        "words": {
+          "4": "are",
+          "1": "cake",
+          "3": "you",
+          "2": "smelt",
+          "5": "have",
+          "6": "the",
+          "7": "not",
+          "8": "smell"
+        },
+        "answers":[[5,3,7,2,6,1]]
+    },
+    {
+        "question": "তোমার রান্না এই জায়গায় গন্ধ ছড়িয়েছে",
+        "words": {
+          "4": "your",
+          "1": "place",
+          "3": "smelling",
+          "2": "cooking",
+          "5": "up",
+          "6": "is",
+          "7": "smelled",
+          "8": "cooked",
+          "9": "this"
+        },
+        "answers":[[4,2,7,9,1,5]]
+    },
+    {
+        "question": "ফুলের গন্ধ তোমার কেমন লাগে ?",
+        "words": {
+          "4": "are",
+          "1": "liking",
+          "3": "smelling",
+          "2": "how",
+          "5": "flowers",
+          "6": "do",
+          "7": "of",
+          "8": "like",
+          "9": "smell",
+          "10": "you",
+          "11": "the"
+        },
+        "answers":[[2,6,10,8,11,9,7,5]]
+    },
+    {
+        "question": "সে বিপদের গন্ধ পায়",
+        "words": {
+          "4": "getting",
+          "1": "danger",
+          "3": "smell",
+          "2": "he",
+          "5": "of",
+          "6": "smelling",
+          "7": "the",
+          "8": "gets"
+        },
+        "answers":[[2,8,7,3,5,1]]
+    },
+    {
+        "question": "কুকুরেরা মানুষের চেয়ে বেশী ভালো গন্ধ শোঁকে",
+        "words": {
+          "4": "men",
+          "1": "dogs",
+          "3": "than",
+          "2": "smell",
+          "5": "the",
+          "6": "better",
+          "7": "smells",
+          "8": "man"
+        },
+        "answers":[[1,2,6,3,4]]
+    },
+    {
+        "question": "আমরা বাঁচি, কারণ আমরা শ্বাস নিই",
+        "words": {
+          "4": "because",
+          "1": "we",
+          "3": "breathe",
+          "2": "live",
+          "5": "we",
+          "6": "breathed",
+          "7": "lived",
+          "8": "can"
+        },
+        "answers":[[1,2,4,5,3],[5,2,4,1,3]]
+    },
+    {
+        "question": "নেতাজি কি সত্যিই মারা গিয়েছেন ?",
+        "words": {
+          "4": "Netaji",
+          "1": "last",
+          "3": "had",
+          "2": "breathed",
+          "5": "did",
+          "6": "really",
+          "7": "has",
+          "8": "his",
+          "9": "breathe"
+        },
+        "answers":[[7,4,6,2,8,1]]
+    },
+    {
+        "question": "শ্বাসপ্রশ্বাসের অনুশীলন জেনে করবে",
+        "words": {
+          "4": "practised",
+          "1": "after",
+          "3": "knowing",
+          "2": "breathing",
+          "5": "practise",
+          "6": "know",
+          "7": "the",
+          "8": "knew",
+          "9": "exercise",
+          "10": "it",
+          "11": "you"
+        },
+        "answers":[[5,2,9,1,11,8,10]]
+    },
+    {
+        "question": "শ্বাস আমাদের নিতেই হয়",
+        "words": {
+          "4": "we",
+          "1": "breathing",
+          "3": "to",
+          "2": "breathe",
+          "5": "have",
+          "6": "can"
+        },
+        "answers":[[4,5,3,2]]
+    },
+    {
+        "question": "আমি জোরে ছুটছিলাম বলে জোরে জোরে শ্বাস নিয়েছিলাম",
+        "words": {
+          "4": "I",
+          "1": "deeply",
+          "3": "running",
+          "2": "breathing",
+          "5": "was",
+          "6": "I",
+          "7": "fast",
+          "8": "breathed",
+          "9": "run",
+          "10": "as",
+          "11": "have"
+        },
+        "answers":[[4,8,1,10,6,5,3,7]]
+    },
+    {
+        "question": "তুমি কি কখনো জল চিবিয়েছো ?",
+        "words": {
+          "4": "you",
+          "1": "water",
+          "3": "are",
+          "2": "chewed",
+          "5": "Chew",
+          "6": "Chewing",
+          "7": "have"
+        },
+        "answers":[[7,4,8,2,1]]
+    },
+    {
+        "question": "কুকুরটা সারা রাত্তির বলটা চিবোলো",
+        "words": {
+          "4": "dog",
+          "1": "ball",
+          "3": "night",
+          "2": "Chew",
+          "5": "the",
+          "6": "has",
+          "7": "a",
+          "8": "chewed",
+          "9": "all",
+          "10": "was",
+          "11": "away",
+          "12": "Chewing"
+        },
+        "answers":[[5,4,8,11,7,1,9,3]]
+    },
+    {
+        "question": "বাদাম চিবোতে পারো ?",
+        "words": {
+          "4": "do",
+          "1": "nuts",
+          "3": "are",
+          "2": "the",
+          "5": "can",
+          "6": "chew",
+          "7": "you",
+          "8": "chewed"
+        },
+        "answers":[[5,7,6,1]]
+    },
+    {
+        "question": "কুকুর হাড় চিবোতে ভালোবাসে",
+        "words": {
+          "4": "dogs",
+          "1": "to",
+          "3": "bones",
+          "2": "chew",
+          "5": "the",
+          "6": "love",
+          "7": "Chewing"
+        },
+        "answers":[[4,6,1,2,3]]
+    },
+    {
+        "question": "ভালো করে খেতে ভালো করে চিবোও",
+        "words": {
+          "4": "well",
+          "1": "you",
+          "3": "Chewing",
+          "2": "eating",
+          "5": "to",
+          "6": "well",
+          "7": "chew",
+          "8": "eat"
+        },
+        "answers":[[7,4,5,8,6],[7,6,5,8,4]]
+    },
+    {
+        "question": "খাবার আগে হাত ধোও",
+        "words": {
+          "4": "your",
+          "1": "you",
+          "3": "Washing",
+          "2": "eating",
+          "5": "before",
+          "6": "to",
+          "7": "Wash",
+          "8": "eat",
+          "9": "hands"
+        },
+        "answers":[[7,4,9,5,1,8]]
+    },
+    {
+        "question": "সে একটা পাইপ দিয়ে কুকুরটিকে পরিষ্কার করল",
+        "words": {
+          "4": "he",
+          "1": "dog",
+          "3": "has",
+          "2": "Washing",
+          "5": "pipe",
+          "6": "the",
+          "7": "Washed",
+          "8": "with",
+          "9": "off",
+          "10": "a",
+          "11": "can",
+          "12": "Wash"
+        },
+        "answers":[[4,7,9,6,1,8,10,5]]
+    },
+    {
+        "question": "নিজের জামাকাপড় নিজে কাচা  ভালো",
+        "words": {
+          "4": "it",
+          "1": "good",
+          "3": "Washing",
+          "2": "clothes",
+          "5": "is",
+          "6": "Wash",
+          "7": "own",
+          "8": "to",
+          "9": "your",
+          "10": "Washed"
+        },
+        "answers":[[4,5,1,8,6,9,7,2]]
+    },
+    {
+        "question": "আমি কাজ করার পর হাত-পা ধুই",
+        "words": {
+          "4": "worked",
+          "1": "hands",
+          "3": "I",
+          "2": "Wash",
+          "5": "after",
+          "6": "and",
+          "7": "work",
+          "8": "legs",
+          "9": "I",
+          "10": "Washed"
+        },
+        "answers":[[9,2,1,6,8,5,3,7],[3,2,1,6,8,5,9,7]]
+    },
+    {
+        "question": "বন্যা নৌকোটি ভাসিয়ে নিয়ে গিয়েছিল",
+        "words": {
+          "4": "flood",
+          "1": "boat",
+          "3": "washes",
+          "2": "away",
+          "5": "has",
+          "6": "the",
+          "7": "Washed",
+          "8": "been",
+          "9": "the",
+          "10": "had",
+          "11": "Washing"
+        },
+        "answers":[[6,4,7,9,1,2],[9,4,7,6,1,2]]
+    },
+    {
+        "question": "আমি এগারোটায় স্নান করি",
+        "words": {
+          "4": "I",
+          "1": "o'clock",
+          "3": "bathing",
+          "2": "at",
+          "5": "bathe",
+          "6": "am",
+          "7": "eleven",
+          "8": "bathed",
+          "9": "have"
+        },
+        "answers":[[4,5,2,7,1]]
+    },
+    {
+        "question": "মেয়েটির মা তাকে স্নান করালো",
+        "words": {
+          "4": "girl",
+          "1": "bathing",
+          "3": "mother",
+          "2": "was",
+          "5": "bathed",
+          "6": "the",
+          "7": "her",
+          "8": "has",
+          "9": "by"
+        },
+        "answers":[[6,4,2,5,9,7,3]]
+    },
+    {
+        "question": "তুমি কি রোজ স্নান করো ?",
+        "words": {
+          "4": "do",
+          "1": "bathe",
+          "3": "have",
+          "2": "everyday",
+          "5": "you",
+          "6": "bathing",
+          "7": "did"
+        },
+        "answers":[[4,5,1,2]]
+    },
+    {
+        "question": "সুব্রত স্নান করার সময় গান করে",
+        "words": {
+          "4": "Subrata",
+          "1": "singing",
+          "3": "bathing",
+          "2": "he",
+          "5": "sings",
+          "6": "bathes",
+          "7": "is",
+          "8": "sang",
+          "9": "bathed",
+          "10": "when",
+          "11": "has"
+        },
+        "answers":[[4,5,10,2,6]]
+    },
+    {
+        "question": "সে অনেকক্ষণ ধরে স্নান করে",
+        "words": {
+          "4": "he",
+          "1": "bathing",
+          "3": "long",
+          "2": "keep",
+          "5": "bathes",
+          "6": "been",
+          "7": "on",
+          "8": "is",
+          "9": "keeps",
+          "10": "for",
+          "11": "has",
+          "12": "bathe"
+        },
+        "answers":[[4,9,1,10,3]]
+    },
+    {
+        "question": "চলো, নদীতে সাঁতার কাটি",
+        "words": {
+          "4": "swiming",
+          "1": "river",
+          "3": "us",
+          "2": "the",
+          "5": "let",
+          "6": "to",
+          "7": "swim",
+          "8": "go",
+          "9": "in"
+        },
+        "answers":[[5,3,7,9,2,1]]
+    },
+    {
+        "question": "স্বামিজী স্রোতের বিপক্ষে গিয়েছিলেন",
+        "words": {
+          "4": "Swamiji",
+          "1": "against",
+          "3": "had",
+          "2": "swim",
+          "5": "tide",
+          "6": "did",
+          "7": "swam",
+          "8": "the"
+        },
+        "answers":[[4,7,1,8,5]]
+    },
+    {
+        "question": "মাছ কি সাঁতার জানে না ?",
+        "words": {
+          "4": "fish",
+          "1": "how",
+          "3": "swim",
+          "2": "does",
+          "5": "know",
+          "6": "to",
+          "7": "is",
+          "8": "not",
+          "9": "knowing",
+          "10": "swiming"
+        },
+        "answers":[[2,8,4,5,1,6,3]]
+    },
+    {
+        "question": "আমি এক মাসে সাঁতার শিখেছি",
+        "words": {
+          "4": "I",
+          "1": "learning",
+          "3": "swiming",
+          "2": "month",
+          "5": "in",
+          "6": "have",
+          "7": "learnt",
+          "8": "swam",
+          "9": "one",
+          "10": "am"
+        },
+        "answers":[[4,6,7,3,5,9,2]]
+    },
+    {
+        "question": "নোংরা জলে সাঁতার কেটেছো কেন ?",
+        "words": {
+          "4": "you",
+          "1": "why",
+          "3": "swim",
+          "2": "water",
+          "5": "had",
+          "6": "swiming",
+          "7": "dirty",
+          "8": "in",
+          "9": "swam",
+          "10": "have"
+        },
+        "answers":[[1,10,4,9,8,7,2]]
+    },
+    {
+        "question": "সে কাঁদলো আর তার মন পরিষ্কার হল",
+        "words": {
+          "4": "was",
+          "1": "he",
+          "3": "cleaned",
+          "2": "cried",
+          "5": "his",
+          "6": "cleans",
+          "7": "cries",
+          "8": "and",
+          "9": "is",
+          "10": "mind",
+          "11": "cleaning",
+          "12": "crying"
+        },
+        "answers":[[1,2,8,5,10,4,3]]
+    },
+    {
+        "question": "আমার আর একটাও পয়সা নেই !",
+        "words": {
+          "4": "clean",
+          "1": "cleaned",
+          "3": "cleaning",
+          "2": "I",
+          "5": "was",
+          "6": "have",
+          "7": "am",
+          "8": "out"
+        },
+        "answers":[[2,7,1,8]]
+    },
+    {
+        "question": "বাড়ির সামনেটা পরিষ্কার রাখো তো ?",
+        "words": {
+          "4": "are",
+          "1": "keep",
+          "3": "kept",
+          "2": "keeping",
+          "5": "do",
+          "6": "of",
+          "7": "side",
+          "8": "you",
+          "9": "your",
+          "10": "cleaning",
+          "11": "clean",
+          "12": "the",
+          "13": "have",
+          "14": "house",
+          "15": "front"
+        },
+        "answers":[[5,8,1,12,15,7,6,9,14,11]]
+    },
+    {
+        "question": "আমি পৃথিবীটা পরিষ্কার করতে চাই",
+        "words": {
+          "4": "shall",
+          "1": "world",
+          "3": "cleaning",
+          "2": "want",
+          "5": "the",
+          "6": "clean",
+          "7": "to",
+          "8": "I"
+        },
+        "answers":[[8,2,7,6,5,1]]
+    },
+    {
+        "question": "স্নান কর, গা ধোও আর সব পরিষ্কার কর ",
+        "words": {
+          "4": "Taking",
+          "1": "cleaning",
+          "3": "bathing",
+          "2": "washing",
+          "5": "body",
+          "6": "everything",
+          "7": "and",
+          "8": "Take",
+          "9": "clean",
+          "10": "bath",
+          "11": "wash"
+        },
+        "answers":[[8,10,11,5,7,9,6]]
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+    "option1": "Do not tell a lie.",
+    "option2": "Not tell a lie.",
+    "option3": "Do not say a lie.",
+    "option4": "Do not speak lie.",
+    "question": "মিথ্যা কথা বোলো না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "My grandmother says me stories.",
+    "option2": "My grandmother tells me stories.",
+    "option3": "My grandmother tells to me stories.",
+    "option4": "My grandmother telling me stories.",
+    "question": "আমার ঠাকুমা আমাকে গল্প বলে",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Do your grandmother tell you stories ?",
+    "option2": "Does your grandmother tells you stories ?",
+    "option3": "Does your grandmother tell you stories ?",
+    "option4": "Does your grandmother tell stories for you ?",
+    "question": "তোমার ঠাকুমা কি তোমাকে গল্প বলে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "I seldom go to my village.",
+    "option2": "I often go to my village.",
+    "option3": "I often  go my village.",
+    "option4": "I seldom go my village.",
+    "question": "আমি প্রায়ই আমার গ্রামে যাই",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "You never go to your parents’ house.",
+    "option2": "You never go to your parent's house.",
+    "option3": "You do not always go to your parents’ house.",
+    "option4": "You not go to your parents’ house.",
+    "question": "তুমি কখনই তোমার বাবা মার বাড়ি যাও না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He sometimes comes the zoo.",
+    "option2": "He seldom comes to the zoo.",
+    "option3": "He sometimes comes to the zoo.",
+    "option4": "He sometime comes to the zoo.",
+    "question": "সে মাঝে মাঝে চিড়িয়াখানায় আসে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They sometime come to Banaras.",
+    "option2": "They seldom comes to Banaras.",
+    "option3": "They sometime come to the Banaras.",
+    "option4": "They seldom come to Banaras.",
+    "question": "তারা খুবই কম বেনারসে আসে",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Does they not come to you ?",
+    "option2": "Do they not come to you ?",
+    "option3": "Not they come to you ?",
+    "option4": "Do they not come you ?",
+    "question": "তারা কি তোমার কাছে আসে না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Do the boy not play football well ?",
+    "option2": "Does the boy play football not well ?",
+    "option3": "Does the boy not play football well ?",
+    "option4": "Does the boy not plays football well ?",
+    "question": "ছেলেটি কি ভাল ফুটবল খেলে না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Does not he do work for their family ?",
+    "option2": "Do he not do work for their family ?",
+    "option3": "Not he does work for their family ?",
+    "option4": "Does he do not work for their family ?",
+    "question": "সে কি তাদের পরিবারের জন্য কাজ করে না ?",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "I love to learn the English.",
+    "option2": "I love to learn English.",
+    "option3": "I love learn in English.",
+    "option4": "I learn to love English.",
+    "question": "আমি ইংরিজি শিখতে ভালবাসি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We love play cricket.",
+    "option2": "We cricket like to play.",
+    "option3": "We like to play cricket.",
+    "option4": "We love cricket playing.",
+    "question": "আমরা ক্রিকেট খেলতে ভালোবাসি",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "You wants to get good marks.",
+    "option2": "You wishes to get good marks.",
+    "option3": "You wish to get good marks.",
+    "option4": "You want to get good marks.",
+    "question": "তোমার ভাল নম্বর পাবার ইচ্ছে হয়",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "He hope to make money.",
+    "option2": "He hopes to make money.",
+    "option3": "He hopes to make rupee.",
+    "option4": "He hope to do money.",
+    "question": "সে টাকা করার আশা করে",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "That cat jump to catch the ball.",
+    "option2": "That cat jump for catch the ball.",
+    "option3": "That cat jumps for catch the ball.",
+    "option4": "That cat jumps to catch the ball.",
+    "question": "ঐ বেড়ালটা বলটি ধরার জন্য লাফায়",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "They plan to go to the London.",
+    "option2": "They plan to go London.",
+    "option3": "They plan for go to London.",
+    "option4": "They plan to go to London.",
+    "question": "তারা লন্ডন যাবার পরিকল্পনা করে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Let me seat first.",
+    "option2": "Let me sit first.",
+    "option3": "Let I sit first.",
+    "option4": "May I sit first.",
+    "question": "আমাকে প্রথমে বসতে দাও",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Let him give thousand rupees to Barun.",
+    "option2": "Let Barun give him thousand rupees.",
+    "option3": "Let him gives thousand rupees to Barun.",
+    "option4": "Let he give thousand rupees to Barun.",
+    "question": "তাকে হাজার টাকা বরুণকে দিতে দাও",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Let her take his food.",
+    "option2": "Let she take her food.",
+    "option3": "Let her take her food.",
+    "option4": "Let her take food of her.",
+    "question": "তাকে (মেয়ে) তার খাবার খেতে দাও",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Let they walk on the road.",
+    "option2": "Give them walk on the road.",
+    "option3": "Let them walks on the road.",
+    "option4": "Let them walk on the road.",
+    "question": "তাদেরকে রাস্তায় হাঁটতে দাও",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Come, let we see cricket on TV.",
+    "option2": "Come, let us see cricket in TV.",
+    "option3": "Come, let us watch cricket on TV.",
+    "option4": "Come, let us watch cricket  in TV.",
+    "question": "এসো, আমরা টেলিভিশনে  ক্রিকেট দেখি",
+    "correct": 3,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "Mamoni has been drawing lines for playing.",
+    "option2": "Mamoni draws lines for playing.",
+    "option3": "Mamoni is playing lines for drawing.",
+    "option4": "Mamoni is drawing lines for playing.",
+    "question": "মামনি খেলার জন্য দাগ টানছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Tanmoy drawn  good salary.",
+    "option2": "Tanmoy draws good salary.",
+    "option3": "Tanmoy is drawing  good salary.",
+    "option4": "Tanmoy draw good salary.",
+    "question": "তন্ময় ভালো মাইনে পায়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He has drawn a picture but has not given me.",
+    "option2": "He  drew a picture but has not given me.",
+    "option3": "He has drawn a picture but did not given me.",
+    "option4": "He has drawn a picture but is not giving me.",
+    "question": "সে একটা ছবি এঁকেছে, কিন্তু আমায় দেয়নি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Draw a picture of my.",
+    "option2": "Drawing a picture of me.",
+    "option3": "Draw a picture to me.",
+    "option4": "Draw a picture of me.",
+    "question": "আমার একটা ছবি আঁকো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The students drew the table.",
+    "option2": "The students have drawn the table.",
+    "option3": "The students draw the table.",
+    "option4": "The students were drawing the table.",
+    "question": "ছাত্ররা টেবিলটা টেনেছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The cat  sits on the mat.",
+    "option2": "The cat is sitting in the mat.",
+    "option3": "The cat is sitting on the mat.",
+    "option4": "The cat was sitting  the mat.",
+    "question": "বিড়ালটি মাদুরে বসে আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I sitting up until morning.",
+    "option2": "I sat up when morning.",
+    "option3": "I sat up until morning.",
+    "option4": "I sat in until morning.",
+    "question": "আমি ভোর পর্যন্ত বসে রইলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Sit on and listen  me.",
+    "option2": "Sit down and listen to me.",
+    "option3": "Sat down and listen to me.",
+    "option4": "Sit up and listen to me.",
+    "question": "বোসো আর আমার কথা শোনো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He see that Amit was sitting there.",
+    "option2": "He saw that Amit was sitting there.",
+    "option3": "He saw that Amit is sitting there.",
+    "option4": "He saw that Amit sitting there.",
+    "question": "সে দেখলো যে অমিত ওখানে বসে আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Sit for do the sum.",
+    "option2": "Sit down for do sum.",
+    "option3": "Sit down and do the sum.",
+    "option4": "You sit and do the sum.",
+    "question": "বোসো আর অঙ্কটা করো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Sleeping has good for health.",
+    "option2": "Sleeping is good of health.",
+    "option3": "Sleeping was good for health.",
+    "option4": "Sleeping is good for health.",
+    "question": "ঘুমানো স্বাস্থ্যের জন্য ভালো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "If you sleep to again, you are get tired.",
+    "option2": "If you sleep in again, you will get tired.",
+    "option3": "If you will sleep in again, you  get tired.",
+    "option4": "If you sleeping again, you will get tiring.",
+    "question": "যদি আবার ঘুমিয়ে পড়ো, তুমি ক্লান্ত হয়ে যাবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Slept well at night, then learn English.",
+    "option2": "Sleeping at night, then learn English.",
+    "option3": "Sleep well at night, then learn English.",
+    "option4": "Sleep at night, then learning English.",
+    "question": "রাতে ভালো করে ঘুমোও, তারপর ইংরেজী শেখো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Sleeping in daytime is bad.",
+    "option2": "Sleeping on daytime was bad.",
+    "option3": "Sleep in daytime bad.",
+    "option4": "Sleeping to day is bad.",
+    "question": "দিনের বেলায় ঘুমোনো খারাপ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I was sleeping six hours.",
+    "option2": "I sleeped for six hours.",
+    "option3": "I slept for six hours.",
+    "option4": "I could sleep six hours.",
+    "question": "আমি ছঘন্টা ঘুমিয়েছিলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I stood at straight.",
+    "option2": "I standing  straight.",
+    "option3": "I stand straight.",
+    "option4": "I stood straight.",
+    "question": "আমি সোজা দাঁড়িয়েছিলাম",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Stand up your friends during their bad time.",
+    "option2": "Stand by your friends during their bad time.",
+    "option3": "Stood at your friends during their bad time.",
+    "option4": "Standing with your friends during their bad time.",
+    "question": "বন্ধুদের খারাপ সময়ে তাদের পাশে দাঁড়িয়ো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The teacher said, \"Why are you standing\" ?",
+    "option2": "The teacher said, \"Why is you standing\" ?",
+    "option3": "The teacher said, \"Why you stand\" ?",
+    "option4": "The teacher said, \"Why did you stand\" ?",
+    "question": "শিক্ষক বললেন, \"দাঁড়িয়ে আছো কেন\" ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Anita was standing at me.",
+    "option2": "Anita was standing for me.",
+    "option3": "Anita is standing for me.",
+    "option4": "Anita stands for me.",
+    "question": "অনিতা আমার জন্য দাঁড়িয়েছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Jakaria is stand up on the bench.",
+    "option2": "Jakaria was standing on the bench.",
+    "option3": "Jakaria stood up on the bench.",
+    "option4": "Jakaria is standing on the bench.",
+    "question": "জাকারিয়া বেঞ্চের ওপর দাঁড়িয়ে আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Rajesh says that he could walking fast.",
+    "option2": "Rajesh said that he can walk fast.",
+    "option3": "Rajesh says that he can walk fast.",
+    "option4": "Rajesh says that he walk fast.",
+    "question": "রাজেশ বলল যে সে জোরে হাঁটতে পারে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Sangita and Mitali walks in and sat down.",
+    "option2": "Sangita and Mitali walking in and sat down.",
+    "option3": "Sangita and Mitali walked in and sat down.",
+    "option4": "Sangita and Mitali walked in and sit down.",
+    "question": "সঙ্গীতা ও মিতালী ভেতরে এলো আর বসে পড়লো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "When I  walk I saw you.",
+    "option2": "When I was walking I see you.",
+    "option3": "When I am walking I saw you.",
+    "option4": "When I was walking I saw you.",
+    "question": "আমি যখন হাঁটছিলাম তোমাকে দেখলাম",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you walk everyday ?",
+    "option2": "Do you walked  everyday ?",
+    "option3": "Does  you walk everyday ?",
+    "option4": "Do you walking everyday ?",
+    "question": "তুমি কি রোজ হাঁটো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "She has gone walk out of the room.",
+    "option2": "She has walked out of the room.",
+    "option3": "She had walked out of the room.",
+    "option4": "She walks out of the room.",
+    "question": "সে ঘর থেকে বেরিয়ে গেছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I does running a long way.",
+    "option2": "I running a long way.",
+    "option3": "I ran a long way.",
+    "option4": "I run a long way.",
+    "question": "আমি অনেকদূর ছুটেছিলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Kalyan is running in money.",
+    "option2": "Kalyan is running after money.",
+    "option3": "Kalyan is running with money.",
+    "option4": "Kalyan  run after money.",
+    "question": "কল্যাণ টাকার পেছনে ছুটছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You have run enough , now taking water.",
+    "option2": "You ran enough , now took water.",
+    "option3": "You have run enough , now take water.",
+    "option4": "You ran enough , now taken  water.",
+    "question": "অনেক ছুটেছো, এবারে জল খাও",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Babies love to run.",
+    "option2": "Babies loves to running.",
+    "option3": "Babies loving to run.",
+    "option4": "Babies loved to run.",
+    "question": "বাচ্চারা দৌড়াতে ভালোবাসে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Children are running around the tree.",
+    "option2": "Childrens run around the tree.",
+    "option3": "Children are running round the tree.",
+    "option4": "Childrens ran round the tree.",
+    "question": "বাচ্চারা গাছের চারপাশে দৌড়চ্ছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Students is playing in the ground.",
+    "option2": "Students played  in the ground.",
+    "option3": "Students were playing in the ground.",
+    "option4": "Students are playing in the ground.",
+    "question": "ছাত্ররা মাঠে খেলছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Shreya Ghosal was famous play-back singer.",
+    "option2": "Shreya Ghosal is a famous play-back singer.",
+    "option3": "Shreya Ghosal is a famous player singer.",
+    "option4": "Shreya Ghosal is a famous singer player.",
+    "question": "শ্রেয়া ঘোষাল একজন বিখ্যাত নেপথ্য সঙ্গীতশিল্পী",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Basanti has played bad today.",
+    "option2": "Basanti is played bad today.",
+    "option3": "Basanti was played bad today.",
+    "option4": "Basanti  played bad today.",
+    "question": "বাসন্তী আজ খারাপ খেলেছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you not play today ?",
+    "option2": "Can you not play today ?",
+    "option3": "Will you not play today ?",
+    "option4": "Are you not play today ?",
+    "question": "তুমি কি আজ খেলবে না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do not play taking fire.",
+    "option2": "Do not be playing with fire.",
+    "option3": "Do not play with fire.",
+    "option4": "You do not play taking fire.",
+    "question": "আগুন নিয়ে খেলা কোরো না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you jump in the fence ?",
+    "option2": "Can you jump over the fence ?",
+    "option3": "Can you jump to the fence ?",
+    "option4": "Will you jump over the fence ?",
+    "question": "তুমি কি বেড়াটা ডিঙোতে পারবে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Samir will  jump into the game.",
+    "option2": "Samir jumping into the game.",
+    "option3": "Samir jumps over the game.",
+    "option4": "Samir jumped into the game.",
+    "question": "সমীর খেলাটায় ঝাঁপিয়ে পড়লো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The fat cat can jump a lot.",
+    "option2": "The fat cat jump a lot.",
+    "option3": "The fat cat is jumping a lot.",
+    "option4": "The fat cat can jumped  high.",
+    "question": "মোটা বেড়ালটা খুব লাফাতে পারে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you wanting to jumping ?",
+    "option2": "Do you want  jump ?",
+    "option3": "Do you  want to jump ?",
+    "option4": "Are you want to jump ?",
+    "question": "তুমি কি লাফাতে চাও ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The child is jumping in joy.",
+    "option2": "The child jumps for joy.",
+    "option3": "The child is jumped in joy.",
+    "option4": "The children is jumping for joy.",
+    "question": "বাচ্চাটি আনন্দে লাফাচ্ছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The boy is fallings from the tree.",
+    "option2": "The boy often fell from the tree.",
+    "option3": "The boy often fall from the tree.",
+    "option4": "The boy often falls from the tree.",
+    "question": "ছেলেটা প্রায়ই গাছ থেকে পড়ে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He fell in his knees.",
+    "option2": "He fell to his knees.",
+    "option3": "He fall to his knee.",
+    "option4": "He is falling to his knees.",
+    "question": "সে হাঁটু মুড়ে বসে পড়লো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I fell down but I did not break my legs.",
+    "option2": "I fall down but I did not break my legs.",
+    "option3": "I fell down but I do not break my legs.",
+    "option4": "I fell down but I can not break my legs.",
+    "question": "আমি পড়লাম, কিন্তু আমার পা ভাঙলো না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Why have you fall ?",
+    "option2": "Why did you fell ?",
+    "option3": "Why did you fall ?",
+    "option4": "Why do you fall ?",
+    "question": "তুমি কেন পড়ে গেলে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you falled down from chair ?",
+    "option2": "Have you fallen down from chair ?",
+    "option3": "Have you fell down from chair ?",
+    "option4": "Did you fall down from chair ?",
+    "question": "তুমি কি চেয়ার থেকে পড়ে গেছো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Sanju  threw a balloon.",
+    "option2": "Sanju has thrown a balloon.",
+    "option3": "Sanju  throwing a balloon.",
+    "option4": "Sanju is throwing a balloon.",
+    "question": "সঞ্জু একটা বেলুন ছুঁড়ছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The horse is threw his rider.",
+    "option2": "The horse threw its rider.",
+    "option3": "The horse throwing  its rider.",
+    "option4": "The horse can throw its rider.",
+    "question": "ঘোড়াটি তার সওয়ারীকে ফেলে দিলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "After finishing the food throw the paper plate.",
+    "option2": "After finishing the food throwing  the paper plate.",
+    "option3": "After finish the food throw the paper plate.",
+    "option4": "After finishing the food throws the paper plate.",
+    "question": "খাবার খেয়ে কাগজের প্লেটটা ফেলে দাও",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you throw the ball ?",
+    "option2": "Are you throw the ball ?",
+    "option3": "Can you thrown  the ball ?",
+    "option4": "Can you throw the ball ?",
+    "question": "বলটা ছুঁড়ে দিতে পারো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Bad things should be throw out.",
+    "option2": "Bad things should thrown out.",
+    "option3": "Bad things should be thrown out.",
+    "option4": "Bad things should throw out.",
+    "question": "খারাপ জিনিস ছুঁড়ে ফেলা উচিৎ",
+    "correct": 3,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "He is accused of theft.",
+    "option2": "He is accused for theft.",
+    "option3": "He is accused in theft.",
+    "option4": "He is accused to theft.",
+    "question": "সে চুরির দায়ে অভিযুক্ত",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Are you aware on AIDS ?",
+    "option2": "Are you aware of AIDS ?",
+    "option3": "Are you aware for AIDS ?",
+    "option4": "Are you aware in AIDS ?",
+    "question": "তুমি কি এইডস-এর বিষয়ে অবগত (সচেতন) ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He comes in a noble family.",
+    "option2": "He comes to a noble family.",
+    "option3": "He comes from a noble family.",
+    "option4": "He comes of a noble family.",
+    "question": "তিনি অভিজাত বংশ থেকে এসেছেন",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Manisha is capable on doing this work.",
+    "option2": "Manisha is capable for doing this work.",
+    "option3": "Manisha is capable to doing this work.",
+    "option4": "Manisha is capable of doing this work.",
+    "question": "মনীষা এ কাজটা করতে সমর্থ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "She is not afraid for ghosts.",
+    "option2": "She is not afraid on ghosts.",
+    "option3": "She is not afraid of ghosts.",
+    "option4": "She is not afraid in ghosts.",
+    "question": "সে ভূতে ভীত নয়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Babu is fond on music.",
+    "option2": "Babu is fond for music.",
+    "option3": "Babu is fond in music.",
+    "option4": "Babu is fond of music.",
+    "question": "বাবু সঙ্গীতের অনুরাগী",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I am confident at success.",
+    "option2": "I am confident of success.",
+    "option3": "I am confident on success.",
+    "option4": "I am confident in success.",
+    "question": "আমি সাফল্য সম্বন্ধে আত্মবিশ্বাসী",
+    "correct": 2,
+    "isPicture": false
+    }
+]

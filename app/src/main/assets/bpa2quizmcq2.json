@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "We all are astonished on Barun's courage.",
+    "option2": "We all are astonished of Barun's courage.",
+    "option3": "We all are astonished in Barun's courage.",
+    "option4": "We all are astonished at Barun's courage.",
+    "question": "আমরা সবাই বরুণের সাহসিকতায় বিস্মিত",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Your idea is opposite of mine.",
+    "option2": "Your idea is opposite with mine.",
+    "option3": "Your idea is opposite to mine.",
+    "option4": "Your idea is opposite on mine.",
+    "question": "তোমার ধারণাটা আমার (ধারণার) উল্টো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Mahatma Gandhi is not related of Indira Gandhi.",
+    "option2": "Mahatma Gandhi is not related to Indira Gandhi.",
+    "option3": "Mahatma Gandhi is not related by Indira Gandhi.",
+    "option4": "Mahatma Gandhi is not related for Indira Gandhi.",
+    "question": "মহাত্মা গান্ধী ইন্দিরা গান্ধীর সঙ্গে সম্পর্কিত নন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The girl is good at studies.",
+    "option2": "The girl is good for studies.",
+    "option3": "The girl is good in studies.",
+    "option4": "The girl is good of studies.",
+    "question": "বালিকাটি পড়াশোনায় ভাল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "With respect of height, the two boys are similar.",
+    "option2": "In respect in height, the two boys are similar.",
+    "option3": "With respect to height, the two boys are similar.",
+    "option4": "In respect with height, the two boys are similar.",
+    "question": "উচ্চতার নিরিখে বালকদুটি অনুরূপ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I prefer tea of coffee.",
+    "option2": "I prefer tea to coffee.",
+    "option3": "I prefer tea from coffee.",
+    "option4": "I prefer tea than coffee.",
+    "question": "আমি কফির চেয়ে চা বেশী পছন্দ করি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He worked hard in order of have success.",
+    "option2": "He worked hard in order of having success.",
+    "option3": "He worked hard in order for having success.",
+    "option4": "He worked hard in order to have success.",
+    "question": "সাফল্য পাওয়ার উদ্দেশ্যে সে কঠিন পরিশ্রম করেছিল",
+    "correct": 4,
+    "isPicture": false
+    }
+]

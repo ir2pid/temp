@@ -1,0 +1,227 @@
+[
+    {
+    "option1": "I a tall man.",
+    "option2": "I am a tall man.",
+    "option3": "I am one tall man.",
+    "option4": "I am a tall the man.",
+    "question": "আমি একজন লম্বা লোক",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I am 52 old years.",
+    "option2": "I am 52 years of old.",
+    "option3": "My age is 52 years old.",
+    "option4": "I am 52 years old.",
+    "question": "আমার বয়স ৫২ বছর",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I am in front of my house.",
+    "option2": "I am in my house's front.",
+    "option3": "I am my house in front.",
+    "option4": "I am in front of the house of my.",
+    "question": "আমি আমার বাড়ীর সামনে আছি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "My house is my behind.",
+    "option2": "I am behind my house.",
+    "option3": "My house is behind I.",
+    "option4": "My house is behind me.",
+    "question": "আমার বাড়ী আমার পিছনে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You who ?",
+    "option2": "You are who ?",
+    "option3": "Who are you ?",
+    "option4": "Who the you are ?",
+    "question": "তুমি কে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Who are we ?",
+    "option2": "We are who ?",
+    "option3": "What are we ?",
+    "option4": "Who we ?",
+    "question": "আমরা কে/কারা ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He is who ?",
+    "option2": "Who is he ?",
+    "option3": "What is he ?",
+    "option4": "Who was he ?",
+    "question": "সে কে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They who ?",
+    "option2": "They who are ?",
+    "option3": "Who are they ?",
+    "option4": "They are who ?",
+    "question": "তারা কারা ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They Sita and Gita.",
+    "option2": "Sita and Gita are they.",
+    "option3": "Their name is Sita and Gita.",
+    "option4": "They are Sita and Gita.",
+    "question": "তারা সীতা এবং গীতা",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Sita and Gita are in one line.",
+    "option2": "Sita and Gita are in a line.",
+    "option3": "Sita and Gita are inside a line.",
+    "option4": "Sita and Gita are on a line.",
+    "question": "সীতা এবং গীতা এক লাইনে আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Sita has after Gita.",
+    "option2": "Sita is after Gita.",
+    "option3": "Sita is before Gita.",
+    "option4": "Gita is after Sita.",
+    "question": "সীতা গীতার পিছনে আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Gita is in front of Sita.",
+    "option2": "Gita is in front of the Sita.",
+    "option3": "Gita is Sita's before.",
+    "option4": "Gita has in front of Sita.",
+    "question": "গীতা সীতার আগে আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "It is who ?",
+    "option2": "Its who ?",
+    "option3": "What is it ?",
+    "option4": "Who is it ?",
+    "question": "এটা কে ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "It is what ?",
+    "option2": "What is it ?",
+    "option3": "What it is ?",
+    "option4": "What is that ?",
+    "question": "এটা কি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "A school is this.",
+    "option2": "This is one school.",
+    "option3": "This is a school.",
+    "option4": "Its the school.",
+    "question": "এটি একটি বিদ্যালয়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The school is at the end of the road.",
+    "option2": "The school is in the end of the road.",
+    "option3": "The school is after the end of the road.",
+    "option4": "The school is on the end of the road.",
+    "question": "বিদ্যালয়টি রাস্তার শেষে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "School's left side a shop has.",
+    "option2": "A shop is on the left side of the school.",
+    "option3": "A shop is at the left side of the school.",
+    "option4": "A shop is in the left side of the school.",
+    "question": "বিদ্যালয়ের বাঁদিকে একটি দোকান আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "A garden has in the right side of the school.",
+    "option2": "A garden is at the right side of the school.",
+    "option3": "A garden is on the right side of the school.",
+    "option4": "A garden is in the right side of the school.",
+    "question": "বিদ্যালয়ের ডানদিকে একটা বাগান আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "A narrow lane has between the school and the garden.",
+    "option2": "There is a narrow lane the school and the garden between.",
+    "option3": "The school and the garden between there is a narrow lane.",
+    "option4": "A narrow lane is between the school and the garden.",
+    "question": "বিদ্যালয় এবং বাগানটির মধ্যিখানে একটি সরু গলি আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The school from Monday to Friday.",
+    "option2": "The school is from Monday to Friday.",
+    "option3": "The school is from the Monday to the Friday.",
+    "option4": "The school is from Monday to friday.",
+    "question": " বিদ্যালয়ের কাল সোমবার থেকে শুক্রবার",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The students are in the garden.",
+    "option2": "The students are on the garden.",
+    "option3": "The student is in the garden.",
+    "option4": "The students have in the garden.",
+    "question": "ছাত্ররা বাগানে আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Now is morning 10 o'clock.",
+    "option2": "Its 10 in the morning.",
+    "option3": "It is 10 in the morning.",
+    "option4": "It is 10 AM in the morning.",
+    "question": "এখন সকাল ১০ টা",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "When is it ?",
+    "option2": "It is when ?",
+    "option3": "Its When ?",
+    "option4": "It when ?",
+    "question": "এটা কখন ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The programme is Monday.",
+    "option2": "The programme is on Monday.",
+    "option3": "The programme is in Monday.",
+    "option4": "The programme is at Monday.",
+    "question": "অনুষ্ঠানটি সোমবার",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "It is the evening.",
+    "option2": "It is at the evening.",
+    "option3": "It is in the evening.",
+    "option4": "Its evening.",
+    "question": "এটা সন্ধ্যাবেলায়",
+    "correct": 3,
+    "isPicture": false
+    }
+]

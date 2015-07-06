@@ -1,0 +1,182 @@
+[
+    {
+    "option1": "My have a pen.",
+    "option2": "I has a pen.",
+    "option3": "I have a pen.",
+    "option4": "A pen I have.",
+    "question": "আমার একটি কলম আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Our have a red pen.",
+    "option2": "We have a red pen.",
+    "option3": "A red pen we have.",
+    "option4": "A red pen we has.",
+    "question": "আমাদের একটি লাল কলম আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Your have an old pen.",
+    "option2": "You have a old pen.",
+    "option3": "You have an old pen.",
+    "option4": "An old pen has you.",
+    "question": "তোমার একটি পুরানো কলম আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "He have two pens.",
+    "option2": "He has to pens.",
+    "option3": "His has two pens.",
+    "option4": "He has two pens.",
+    "question": "তার দুটো কলম আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "In her hand a pen has.",
+    "option2": "She has a pen in her hand.",
+    "option3": "Her hand has a pen.",
+    "option4": "She has a pen in his hand.",
+    "question": "তার (মেয়ে) হাতে একটি কলম আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The dog has four legs.",
+    "option2": "Dog's four legs has.",
+    "option3": "Four legs has the dog.",
+    "option4": "The dog have four legs.",
+    "question": "কুকুরটির ৪টি পা আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Two ears have it.",
+    "option2": "Its has two ears.",
+    "option3": "It has two ears.",
+    "option4": "It has the two ears.",
+    "question": "এটির ২টি কান আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "In their room many windows have.",
+    "option2": "They have many windows in their room.",
+    "option3": "They have the windows many in their room.",
+    "option4": "Their have many windows in there room.",
+    "question": "তাদের ঘরে আনেকগুলি জানালা আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "A lovely face has Sumit.",
+    "option2": "Sumit has a face lovely.",
+    "option3": "Sumit has a lovely face.",
+    "option4": "Sumit's a lovely face has.",
+    "question": "সুমিতের মুখটি সুন্দর",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "It has in my room.",
+    "option2": "I have it at my room.",
+    "option3": "My have it in my room.",
+    "option4": "I have it in my room.",
+    "question": "আমার ঘরে এটা আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": " I have not it in my room.",
+    "option2": " I do not has it in my room.",
+    "option3": "I do not have it at my room.",
+    "option4": "I do not have it in my room.",
+    "question": "আমার ঘরে এটা নেই",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Our school's team has Alok.",
+    "option2": "Alok has in our school team.",
+    "option3": "Our school has Alok in the team.",
+    "option4": "Our school has the Alok in the team.",
+    "question": "আমাদের বিদ্যালয়ের দলে অলোক আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Our school does not have Alok in the team.",
+    "option2": "Our school does not has Alok in the team.",
+    "option3": "Alok does not have in our school team.",
+    "option4": "In our school's team does not have Alok.",
+    "question": "আমাদের বিদ্যালয়ের দলে আলোক নেই",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "In hand some time he has.",
+    "option2": "He has some time in hand.",
+    "option3": "His hand has some time.",
+    "option4": "His has some time in hand.",
+    "question": "তার হাতে কিছু সময় আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "He has no time in hand.",
+    "option2": "His hand has no time.",
+    "option3": "He has not time in hand.",
+    "option4": "No time has in his hand.",
+    "question": "তার হাতে সময় নেই",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He does not have no time in hand.",
+    "option2": "He does not have time in hand.",
+    "option3": "He does not has time in hand.",
+    "option4": "His hand does not have any time.",
+    "question": "তার হাতে কোন সময় নেই",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Poor people have not money.",
+    "option2": "No money poor people have.",
+    "option3": "No money has the poor people.",
+    "option4": "Poor people have no money.",
+    "question": "গরীব লোকের কোন টাকা নেই",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Poor people do not have any money.",
+    "option2": "Poor people does not have any money.",
+    "option3": "Poor people do not have no money.",
+    "option4": "The money do not have the poor people.",
+    "question": "গরীব লোকেদের কোন টাকা নেই",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Her have love for him.",
+    "option2": "He has love for her.",
+    "option3": "She has love for him.",
+    "option4": "She have love for him.",
+    "question": "তার (মেয়ে) তার (ছেলে) প্রতি ভালোবাসা আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "He has no love for him.",
+    "option2": "He has no love for her.",
+    "option3": "No love for her he has.",
+    "option4": "He has not love for her.",
+    "question": "তার (ছেলে) তার (মেয়ে) প্রতি কোন ভালোবাসা নেই",
+    "correct": 2,
+    "isPicture": false
+    }
+]

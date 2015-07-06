@@ -1,0 +1,110 @@
+[
+    {
+    "option1": "Become good.",
+    "option2": "You be good.",
+    "option3": "Be good.",
+    "option4": "You are good.",
+    "question": "ভালো হও",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Be nice to all.",
+    "option2": "Become nice for all.",
+    "option3": "Be nice at all.",
+    "option4": "You become nice to all.",
+    "question": "সবার কাছে সুন্দর থাকো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Be the simple.",
+    "option2": "Become simple.",
+    "option3": "Be the easy.",
+    "option4": "Be simple.",
+    "question": "সহজ হও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Be the strong.",
+    "option2": "To be strong.",
+    "option3": "You be strong.",
+    "option4": "Be strong.",
+    "question": "শক্তিশালী হও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Be a well footballer and play good.",
+    "option2": "Be a good footballer and play well.",
+    "option3": "Be a good footballer and play good.",
+    "option4": "Be a good footballer and well play.",
+    "question": "ভালো ফুটবলার হও ও ভালো খেলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "To be doctor and serve everyone.",
+    "option2": "Be a doctor and serve all.",
+    "option3": "Be a doctor and serve everyone.",
+    "option4": "Serve everyone and be a doctor.",
+    "question": "ডাক্তার হও ও প্রত্যেকের সেবা কর",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I shall be happy.",
+    "option2": "I shall happy.",
+    "option3": "I be happy.",
+    "option4": "I will be happy.",
+    "question": "আমি খুশী হব",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You will sad.",
+    "option2": "You will be sad.",
+    "option3": "You shall be sad.",
+    "option4": "You be sad.",
+    "question": "তুমি দুঃখিত হবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We shall be not late.",
+    "option2": "We shall not late.",
+    "option3": "We will not late.",
+    "option4": "We shall not be late.",
+    "question": " আমাদের দেরী হবে না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Will he/she be late ?",
+    "option2": "Shall he/she be late ?",
+    "option3": "Will be he/she late ?",
+    "option4": "Will him/her be late ?",
+    "question": "তার কি দেরী হবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Shall they not be late ?",
+    "option2": "Will they not be late ?",
+    "option3": "Will be they not late ?",
+    "option4": "Not be late shall they ?",
+    "question": "তাদের কি দেরী হবে না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Why shall you be late ?",
+    "option2": "You will be why late ?",
+    "option3": "Why will you be late ?",
+    "option4": "Why late shall you be ?",
+    "question": "তোমাদের কেন দেরী হবে ?",
+    "correct": 3,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,165 @@
+[
+    {
+        "question": "Get me a glass of water",
+        "words": {
+          "4": "being",
+          "1": "you",
+          "3": "glass",
+          "2": "asked",
+          "5": "of",
+          "6": "a",
+          "7": "get",
+          "8": "for",
+          "9": "to",
+          "10": "water",
+          "11": "are",
+          "12": "me"
+        },
+        "answers":[[1,11,2,9,7,12,6,3,5,10]]
+    },
+    {
+        "question": "May God bless you",
+        "words": {
+          "4": "God",
+          "1": "be",
+          "3": "you",
+          "2": "blessed",
+          "5": "by",
+          "6": "may"
+        },
+        "answers":[[6,3,1,2,5,4]]
+    },
+    {
+        "question": "Does tiger eat grass ?",
+        "words": {
+          "4": "grass",
+          "1": "tiger",
+          "3": "is",
+          "2": "by",
+          "5": "does",
+          "6": "eaten",
+          "7": "been"
+        },
+        "answers":[[3,4,6,2,1]]
+    },
+    {
+        "question": "Is a doctor going to examine you ?",
+        "words": {
+          "4": "examined",
+          "1": "gone",
+          "3": "be",
+          "2": "are",
+          "5": "to",
+          "6": "by",
+          "7": "being",
+          "8": "going",
+          "9": "a",
+          "10": "doctor",
+          "11": "you"
+        },
+        "answers":[[2,11,8,5,3,4,6,9,10]]
+    },
+    {
+        "question": "Have the police found the body ?",
+        "words": {
+          "4": "the body",
+          "1": "the police",
+          "3": "founded",
+          "2": "by",
+          "5": "has",
+          "6": "found",
+          "7": "the",
+          "8": "is"
+        },
+        "answers":[[5,4,6,2,1]]
+    },
+    {
+        "question": "Shall I ever forget those happy days ?",
+        "words": {
+          "4": "me",
+          "1": "happy",
+          "3": "be",
+          "2": "will",
+          "5": "ever",
+          "6": "by",
+          "7": "days",
+          "8": "been",
+          "9": "forgotten",
+          "10": "those"
+        },
+        "answers":[[2,10,1,7,3,5,9,6,4]]
+    },
+    {
+        "question": "Did they catch the thief ?",
+        "words": {
+          "4": "was",
+          "1": "did",
+          "3": "be",
+          "2": "thief",
+          "5": "to",
+          "6": "caught",
+          "7": "the"
+        },
+        "answers":[[4,7,2,6]]
+    },
+    {
+        "question": "Who did this ?",
+        "words": {
+          "4": "was",
+          "1": "had",
+          "3": "by",
+          "2": "been",
+          "5": "this",
+          "6": "whom",
+          "7": "done"
+        },
+        "answers":[[3,6,4,5,7]]
+    },
+    {
+        "question": "Why did your sister write such a letter ?",
+        "words": {
+          "4": "letter",
+          "1": "was",
+          "3": "by",
+          "2": "a",
+          "5": "why",
+          "6": "your",
+          "7": "such",
+          "8": "written",
+          "9": "did",
+          "10": "sister",
+          "11": "be"
+        },
+        "answers":[[5,1,7,2,4,8,3,6,10]]
+    },
+    {
+        "question": "Had you not seen the sky today ?",
+        "words": {
+          "4": "today",
+          "1": "by",
+          "3": "had",
+          "2": "been",
+          "5": "the",
+          "6": "you",
+          "7": "seen",
+          "8": "not",
+          "9": "sky"
+        },
+        "answers":[[3,8,5,9,2,7,1,6,4]]
+    },
+    {
+        "question": "Where is your mother going today ?",
+        "words": {
+          "4": "where",
+          "1": "mother",
+          "3": "is",
+          "2": "to",
+          "5": "being",
+          "6": "your",
+          "7": "gone",
+          "8": "today",
+          "9": "by"
+        },
+        "answers":[[]]
+    }
+]

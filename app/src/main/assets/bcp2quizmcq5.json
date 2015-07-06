@@ -1,0 +1,227 @@
+[
+    {
+    "option1": "I am Tapan ?",
+    "option2": "Tapan am I ?",
+    "option3": "Am I the Tapan ?",
+    "option4": "Am I Tapan ?",
+    "question": "আমি কি তপন ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Are you Swati ?",
+    "option2": "You are Swati ?",
+    "option3": "Is it you Swati ?",
+    "option4": "Are you the Swati ?",
+    "question": "তুমি কি স্বাতী ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He is Nazrul ?",
+    "option2": "Is he Nazrul ?",
+    "option3": "Is he the Nazrul ?",
+    "option4": "Is Nazrul he ?",
+    "question": "সে কি নজরুল ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Are them friends ?",
+    "option2": "Friends they are ?",
+    "option3": "Are they friends ?",
+    "option4": "Friends are they ?",
+    "question": "তারা কি বন্ধু ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "A child is it ?",
+    "option2": "Is it child ?",
+    "option3": "It is a child ?",
+    "option4": "Is it a child ?",
+    "question": "এটি কি একটি শিশু ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Is 100 after 99 ?",
+    "option2": "Is 99 after 100 ?",
+    "option3": "Is 99 before 100 ?",
+    "option4": "Are 100 after 99 ?",
+    "question": "১০০ কি ৯৯-এর পরে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Are 99 before 100 ?",
+    "option2": "Is 100 after 99 ?",
+    "option3": "Is 99 before 100 ?",
+    "option4": "Are 100 after 99 ?",
+    "question": " ৯৯ কি ১০০-র আগে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Are 50 less than 100 ?",
+    "option2": "Are 100 more than 50 ?",
+    "option3": "Is 50 less than 100 ?",
+    "option4": "Is 100 more than 50 ?",
+    "question": "১০০ কি ৫০-এর চেয়ে বেশী ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Are 100 less than 200 ?",
+    "option2": "Is 100 less than 200 ?",
+    "option3": "100 is less than 200 ?",
+    "option4": "Is 200 less than 100 ?",
+    "question": "১০০ কি ২০০-র চেয়ে কম ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Is this flower is for you ?",
+    "option2": "Is for you this flower ?",
+    "option3": "Is this flower for you ?",
+    "option4": "This flower is for you ?",
+    "question": "এই ফুলটা কি তোমার জন্যে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Here is a gift for Sumita ?",
+    "option2": "Is here a gift for Sumita ?",
+    "option3": "Is it a gift for the Sumita ?",
+    "option4": "Is it a gift for Sumita ?",
+    "question": "এটা কি সুমিতার জন্যে উপহার ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Is an outside pond there ?",
+    "option2": "There is a pond outside ?",
+    "option3": "Is there a pond outside ?",
+    "option4": "Is a pond outside there ?",
+    "question": "বাইরে কি একটা পুকুর আছে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Is it 11 PM at night ?",
+    "option2": "Is it eleven at night ?",
+    "option3": "Is it the eleven at night ?",
+    "option4": "It is eleven at night ?",
+    "question": "এখন কি রাত এগারোটা ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Is Wednesday tomorrow ?",
+    "option2": "Is tomorrow the Wednesday ?",
+    "option3": "Is tomorrow Wednesday ?",
+    "option4": "Is it tomorrow Wednesday ?",
+    "question": "আগামীকাল কি বুধবার ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Not is he my brother ?",
+    "option2": "Is not he is my brother ?",
+    "option3": "He is not my brother ?",
+    "option4": "Is not he my brother ?",
+    "question": "সে কি আমার ভাই নয় ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Is it not their dog ?",
+    "option2": "Not is it their dog ?",
+    "option3": "It is not their dog ?",
+    "option4": "Is it not there dog ?",
+    "question": "এটি কি তাদের কুকুর নয় ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You are not Alok’s friend ?",
+    "option2": "Are you not Alok’s friend ?",
+    "option3": "Are you no Alok’s friend ?",
+    "option4": "Are you not the Alok’s friend ?",
+    "question": "তুমি কি অলোকের বন্ধু নও ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Is this not for they ?",
+    "option2": "Is not this for them ?",
+    "option3": "Is this not for them ?",
+    "option4": "Not is this for them ?",
+    "question": "এটা কি তাদের জন্য নয় ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It is not a water bottle ?",
+    "option2": "Water bottle is not it ?",
+    "option3": "is it not a water's bottle ?",
+    "option4": "is it not a water bottle ?",
+    "question": "এটা কি একটা জলের বোতল নয় ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "On the table is not the blue pen ?",
+    "option2": "Is not the blue pen on the table ?",
+    "option3": "Not the blue pen on the table ?",
+    "option4": "Is the blue pen not above the table ?",
+    "question": "নীল পেনটা টেবিলের ওপর নেই কি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Yesterday was not Sunday ?",
+    "option2": "Is not yesterday Sunday ?",
+    "option3": "Was yesterday not Sunday ?",
+    "option4": "Was not Sunday the yesterday ?",
+    "question": "গতকাল কি রবিবার ছিল না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Is now nine forty five ?",
+    "option2": "Is it 15 minutes to 10 o'clock ?",
+    "option3": "Is it 15 minutes before 10 o'clock ?",
+    "option4": "It is 15 minutes to 10 o'clock ?",
+    "question": "এখন কি ১০টা বাজতে ১৫ মিনিট বাকি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Is it not 15 minutes to 10 o'clock ?",
+    "option2": "It is not 15 minutes to 10 o'clock ?",
+    "option3": "Is it not 15 minutes before 10 o'clock ?",
+    "option4": "Is the clock not 15 minutes to 10 o'clock ?",
+    "question": "এখন কি ১০টা বাজতে ১৫ মিনিট বাকি নয় ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Is it the 20 minutes past 10 o'clock ?",
+    "option2": "Is the clock 20 minutes past 10 ?",
+    "option3": "Is it 20 minutes after 10 o'clock ?",
+    "option4": "Is it 20 minutes past 10 o'clock ?",
+    "question": "এখন কি ১০টা বেজে ২০ মিনিট ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Is it not past 20 minutes after 10 o'clock ?",
+    "option2": "Not is it 20 minutes past 10 o'clock ?",
+    "option3": "Is it not 20 minutes past 10 o'clock ?",
+    "option4": "Is it not 20 minutes to 10 o'clock ?",
+    "question": "এখন কি ১০টা বেজে ২০ মিনিট নয় ?",
+    "correct": 3,
+    "isPicture": false
+    }
+]

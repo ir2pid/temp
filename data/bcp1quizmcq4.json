@@ -1,0 +1,317 @@
+[
+    {
+    "option1": "I happy.",
+    "option2": "Am I happy.",
+    "option3": "I am happy.",
+    "option4": "I am the happy.",
+    "question": "আমি সুখী/আনন্দিত",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He/She sad.",
+    "option2": "He/She is sad.",
+    "option3": "He/She is the sad.",
+    "option4": "He/She are sad.",
+    "question": "সে দুঃখী",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They are lazy.",
+    "option2": "They are lazies.",
+    "option3": "They lazies.",
+    "option4": "They lazy.",
+    "question": "তারা কুঁড়ে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "She is the nice.",
+    "option2": "She nice.",
+    "option3": "Is she nice.",
+    "option4": "She is nice.",
+    "question": "সে (মেয়েটি) সুন্দর",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Deb beautiful.",
+    "option2": "Deb is the beautiful.",
+    "option3": "Deb is beautiful.",
+    "option4": "Deb beautiful is.",
+    "question": "দেব সুন্দর",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "That Tajmahal is great.",
+    "option2": "The Tajmahal is great.",
+    "option3": "Tajmahal is great.",
+    "option4": "The Tajmahal is the great.",
+    "question": "তাজমহল অসাধারণ ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The tree is the big.",
+    "option2": "The tree is big.",
+    "option3": "The tree is large.",
+    "option4": "The big tree is there.",
+    "question": "গাছটি বড়ো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Ant is small.",
+    "option2": "The ant is small.",
+    "option3": "The ants are small.",
+    "option4": "Ant is a small.",
+    "question": "পিঁপড়ে ছোটো ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Is the sun bright.",
+    "option2": "Bright is Sun.",
+    "option3": "Sun is bright.",
+    "option4": "The sun is bright.",
+    "question": "সূর্য উজ্জ্বল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The dark night.",
+    "option2": "The night is dark.",
+    "option3": "Dark is the night.",
+    "option4": "The dark night is here.",
+    "question": "রাত্রিটা অন্ধকার",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Moon is white.",
+    "option2": "The moon is a white.",
+    "option3": "The moon is white.",
+    "option4": "White is the moon.",
+    "question": "চাঁদ  শুভ্র",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The crow black.",
+    "option2": "Crow is black.",
+    "option3": "The black is crow.",
+    "option4": "Crow is the black.",
+    "question": "কাক কালো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The tea is hot.",
+    "option2": "Tea is hot.",
+    "option3": "The hot is the tea.",
+    "option4": "The tea is heat.",
+    "question": "চা-টা গরম",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Ice-cream cold.",
+    "option2": "Ice-cream is cold.",
+    "option3": "Ice-cream are cold.",
+    "option4": "The cold the ice-cream is.",
+    "question": "আইসক্রিম ঠান্ডা",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "She a good girl is.",
+    "option2": "She is good girl.",
+    "option3": "She is a good girl.",
+    "option4": "Her is a good girl.",
+    "question": "সে একটি ভাল মেয়ে ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I am an small boy.",
+    "option2": "I am one small boy.",
+    "option3": "Me is a small boy.",
+    "option4": "I am a small boy.",
+    "question": "আমি একটি ছোটো ছেলে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He a old man is.",
+    "option2": "He is a old man.",
+    "option3": "He is an old man.",
+    "option4": "She is an old man.",
+    "question": "তিনি একজন বয়স্ক মানুষ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The flower is beautiful.",
+    "option2": "The flowers are beautiful.",
+    "option3": "The beautiful the flower is.",
+    "option4": "The flower is the beautiful.",
+    "question": "ফুলটি সুন্দর",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "This the flower is beautiful.",
+    "option2": "This flower is beautiful.",
+    "option3": "Beautiful is this flower.",
+    "option4": "The flower is beautiful.",
+    "question": "এই ফুলটি সুন্দর",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "This a beautiful flower.",
+    "option2": "This is the beautiful flower.",
+    "option3": "These is a beautiful flower.",
+    "option4": "This is a beautiful flower.",
+    "question": "এটি একটি সুন্দর ফুল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The pen is blue.",
+    "option2": "It pen is blue.",
+    "option3": "This pen is blue.",
+    "option4": "The pen is the blue.",
+    "question": "এই পেনটি নীল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It is a blue pen.",
+    "option2": "It a blue pen.",
+    "option3": "A blue pen is it.",
+    "option4": "This is blue pen.",
+    "question": "এটি একটি নীল পেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "This playground is the big.",
+    "option2": "This playground is big.",
+    "option3": "This the playground is big.",
+    "option4": "The big playground.",
+    "question": "এই খেলার মাঠটা বড়ো ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "This playground is big.",
+    "option2": "It a big playground.",
+    "option3": "It is a big playground.",
+    "option4": "It is the big playground.",
+    "question": "এটি একটি বড়ো খেলার মাঠ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They are the tall people.",
+    "option2": "They are tall people.",
+    "option3": "They are tall person.",
+    "option4": "They are tall the people.",
+    "question": "তারা লম্বা লোক",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Here is some short men.",
+    "option2": "Here are some short mans.",
+    "option3": "Here are some short men.",
+    "option4": "Here are some the short men.",
+    "question": "এখানে কিছু বেঁটে লোকেরা",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "This is a funny film.",
+    "option2": "This film is funny.",
+    "option3": "These is a funny film.",
+    "option4": "Here has a funny film.",
+    "question": "এই একটি হাসির/মজার ছবি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "My age is six years old.",
+    "option2": "I am six old years.",
+    "option3": "Six years old is my age.",
+    "option4": "My age is six years.",
+    "question": "আমার বয়স ছ'বছর",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He is twenty years old.",
+    "option2": "He is twenty old years.",
+    "option3": "He has twenty years age.",
+    "option4": "His age is twenty years old.",
+    "question": "তার কুড়ি বছর বয়স",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Today is Monday.",
+    "option2": "Today is monday.",
+    "option3": "Monday is today.",
+    "option4": "Today Monday.",
+    "question": "আজ সোমবার",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Yesterday is Sunday.",
+    "option2": "Yesterday was Sunday.",
+    "option3": "Sunday was yesterday.",
+    "option4": "Sunday yesterday.",
+    "question": "গতকাল রোববার ছিলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Tomorrow is tuesday.",
+    "option2": "Tomorrow Tuesday.",
+    "option3": "Tomorrow will Tuesday.",
+    "option4": "Tomorrow is Tuesday.",
+    "question": "আগামীকাল মঙ্গলবার",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Now is ten o'clock.",
+    "option2": "Now it is ten o'clock.",
+    "option3": "Now it is 10 AM.",
+    "option4": "Ten o'clock is it now.",
+    "question": "এখন দশটা বাজে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "It is twelve noon now.",
+    "option2": "Now is twelve noon.",
+    "option3": "Twelve noon is now.",
+    "option4": "Now it is twelve o'clock noon.",
+    "question": "এখন দুপুর বারোটা বাজে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Now is midnight.",
+    "option2": "Its midnight now.",
+    "option3": "It is midnight now.",
+    "option4": "It is the midnight now.",
+    "question": "এখন মধ্যরাত",
+    "correct": 3,
+    "isPicture": false
+    }
+]

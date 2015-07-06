@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "My pen is different to yours.",
+    "option2": "My pen is different from yours.",
+    "option3": "My pen is different of yours.",
+    "option4": "My pen is different with yours.",
+    "question": "আমার পেনটি তোমার পেনের থেকে আলাদা",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is suffering with fever.",
+    "option2": "He is suffering of fever.",
+    "option3": "He is suffering from fever.",
+    "option4": "He is suffering for fever.",
+    "question": "সে জ্বরে ভুগছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "At your permission I want to go.",
+    "option2": "By your permission I want to go.",
+    "option3": "In your permission I want to go.",
+    "option4": "With your permission I want to go.",
+    "question": "আপনার অনুমতি নিয়ে আমি যেতে চাই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You should differentiate right with wrong now.",
+    "option2": "You should differentiate right to wrong now.",
+    "option3": "You should differentiate right by wrong now.",
+    "option4": "You should differentiate right from wrong now.",
+    "question": "তোমার এবারে ঠিক-ভুলের তফাৎ বুঝতে পারা উচিৎ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I prevented the students from cheating.",
+    "option2": "I prevented the students of cheating.",
+    "option3": "I prevented the students for cheating.",
+    "option4": "I prevented the students to cheating.",
+    "question": "আমি ছাত্রদের টোকাটুকি থেকে বিরত করেছিলাম",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do not worry, you will forget everything by time.",
+    "option2": "Do not worry, you will forget everything with time.",
+    "option3": "Do not worry, you will forget everything on time.",
+    "option4": "Do not worry, you will forget everything in time.",
+    "question": "চিন্তা কোরো না, তুমি সময়ের সঙ্গে সঙ্গে সব ভুলে যাবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The answer to your question is \"no\".",
+    "option2": "The answer of your question is \"no\".",
+    "option3": "The answer at your question is \"no\".",
+    "option4": "The answer in your question is \"no\".",
+    "question": "তোমার প্রশ্নের উত্তর হল, “না”",
+    "correct": 1,
+    "isPicture": false
+    }
+]

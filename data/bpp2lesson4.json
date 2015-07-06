@@ -1,0 +1,82 @@
+[
+                      {
+                        "description": "",
+                        "image1": "clock",
+                        "name": "BPP2-Lesson4 (1)",
+                        "text1": "সে ঘড়িটি দেওয়ালে লাগায় <br> <br>He puts the clock ___ on the wall.",
+                        "text2": "He puts the clock <u>up</u> on the wall. <br> <br>এখানে যদি শুধু He puts the clock on the wall লেখা হত, তাহলে 'দেওয়ালের ওপর' মানে করা হত । দেওয়ালে ঘড়ি কেউ নীচে লাগায় না, উঁচুতেই লাগায় সাধারণত, তাই up on the wall হল । put-এর ব্যবহার লক্ষ্য কর ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "uptokolkata",
+                        "name": "BPP2-Lesson4 (2)",
+                        "text1": "আমি আজ কোলকাতা পর্যন্ত যাব <br> <br>I shall go ___ to Kolkata today.",
+                        "text2": "I shall go <u>up</u> to Kolkata today. <br> <br>I shall go to Kolkata যদি লেখা হত, তবে বোঝাত যে আমি কোলকাতাতে যাব । up to Kolkata বলতে কোলকাতা অবধি (পর্যন্ত্য) যাওয়া বোঝায় । up to-এর জায়গায় till-ও লেখা যেত ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "gas",
+                        "name": "BPP2-Lesson4 (3)",
+                        "text1": "বাজারে গ্যাসের দাম বাড়ছে <br> <br>The gas prices are rising ___ in the market.",
+                        "text2": "The gas prices are rising <u>up</u> in the market. <br> <br>এখানে rise up অর্থ 'বাড়া' ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "downroof",
+                        "name": "BPP2-Lesson4 (4)",
+                        "text1": "ছাদ থেকে নীচে নামো <br> <br>Get _____ off that roof.",
+                        "text2": "Get <u>down</u> off that roof. <br> <br>নীচে নামা - get down (come down-ও লেখা যায়) । get down from the roof-এর পরিবর্তে get down off the roof লেখা বেশী ভাল ইংরিজি ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "downstreet",
+                        "name": "BPP2-Lesson4 (5)",
+                        "text1": "আমি রাস্তা ধরে হাঁটছিলাম <br> <br>I was walking _____ the street.",
+                        "text2": "I was walking <u>down</u> the street. <br> <br>'বেয়ে' অর্থে যেমন up হয়েছিল, তেমনই 'রাস্তা ধরে' হাঁটা অর্থে down হল, যদিও 'নীচের দিকে হাঁটা' এখানে বোঝানো হচ্ছে না ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "downtree",
+                        "name": "BPP2-Lesson4 (6)",
+                        "text1": "সুরেশ গাছ থেকে নীচে নামছে <br> <br>Suresh is climbing _____ the tree.",
+                        "text2": "Suresh is climbing <u>down</u> the tree. <br> <br>আগের একটি উদাহরণে বলা হয়েছে look up, look down, climb up, climb down, go up, go down ইত্যাদি হয় । চড়া - climb up, নামা - climb down ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "downstair",
+                        "name": "BPP2-Lesson4 (7)",
+                        "text1": "মনীষা সিঁড়ি দিয়ে নীচে নামছে <br> <br>Manisha is coming _____ the stairs.",
+                        "text2": "Manisha is coming <u>down</u> the stairs. <br> <br>নীচে নামা - come down । লক্ষ্য কর, 'ছাদ থেকে নামা'-তে get down off the roof হয়েছিল, কিন্তু এখানে যেহেতু 'সিঁড়ি দিয়ে নামা' আছে ('সিঁড়ি থেকে' নয়) তাই off ব্যবহার হল না । সিঁড়ি - stairs ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "foxover",
+                        "name": "BPP2-Lesson4 (8)",
+                        "text1": "শেয়ালটি গেটের উপর দিয়ে লাফিয়েছিল <br> <br>The fox jumped _____ the gate.",
+                        "imagefooter2": "",
+                        "text2": "The fox jumped <u>over</u> the gate. <br> <br>ওপর দিয়ে বোঝাতে over বা above দুটোই হয় । অল্প ওপর দিয়ে বোঝাতে over এবং বেশ খানিকটা ওপর দিয়ে বোঝাতে above ব্যবহার হয় । নীচের ছবিটা লক্ষ্য কর ।",
+                        "imagefooter2": "overfooter2"
+                      },
+                      {
+                        "description": "",
+                        "image1": "overmountain",
+                        "name": "BPP2-Lesson4 (9)",
+                        "text1": "আমরা পাহাড়ের ওপর দিয়ে উড়ছি <br> <br>We are flying _____ the mountains.",
+                        "text2": "We are flying <u>over</u> the mountains. <br> <br>পাহাড়ের খুব ওপর দিয়ে উড়ছে না বলে over হল । অবশ্য above লিখলেও খুব ভুল হত না । নীচের ছবিটা লক্ষ্য কর ।",
+                        "imagefooter2": "overfooter2"
+                      },
+                      {
+                        "description": "",
+                        "image1": "blanketover",
+                        "name": "BPP2-Lesson4 (10)",
+                        "text1": "কম্বলটা খাটের ওপরে ছড়িয়ে দাও <br> <br>Spread the blanket _____ the bed.",
+                        "text2": "Spread the blanket <u>over</u> the bed. <br> <br>এক্ষেত্রে on-ও লেখা যায় কিন্তু এখানে 'খাট জুড়ে ছড়িয়ে দেওয়া' বোঝাচ্ছে, তাই on না লিখে over লিখলে বেশী সুপ্রযুক্ত হবে । এখানে 'ওপর' অর্থে over ব্যবহার হল না, ব্যাপ্তি অর্থে ব্যবহার হল । এরকমই ব্যবহার হয় all over the ground (মাঠ জুড়ে) । spread - বিছানো, blanket - কম্বল ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "overtree",
+                        "name": "BPP2-Lesson4 (11)",
+                        "text1": "বড় গাছটি মাটির ওপর পড়ে গেছে <br> <br>The big tree has fallen _____ the ground.",
+                        "text2": "The big tree has fallen <u>over</u> the ground. <br> <br>এখানেও 'ব্যাপ্তি' অর্থে over ব্যবহার হল । মাটি ব্যাপ্ত করে - over the ground । এখানে on the ground লিখলে ভুল কিছু হত না ।"
+                      }
+]

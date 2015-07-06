@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "I must understanding you.",
+    "option2": "I will understand you.",
+    "option3": "I must understood you.",
+    "option4": "I must understand you.",
+    "question": "আমায় তোমাকে বুঝতেই হবে",
+    "correct":  4,
+    "isPicture": false
+    },
+    {
+    "option1": "I can not understand you, now I can.",
+    "option2": "I could not understand you, now I could.",
+    "option3": "I could not understand you, now I can.",
+    "option4": "I can not understand you, now I could.",
+    "question": "আমি তোমায় বুঝতে পারতাম না, এখন পারি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "If you could understand the subject is easy.",
+    "option2": "If you can understand the subject is easy.",
+    "option3": "If you can understand the subject was easy.",
+    "option4": "If you are understand the subject is easy.",
+    "question": "যদি বুঝতে পারো বিষয়টা খুব সোজা",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you learn if you do not understand ?",
+    "option2": "Can you learn when you do not understand ?",
+    "option3": "Understand and learn.",
+    "option4": "You can learn if you do not understand ?",
+    "question": "না বুঝলে কি শিখতে পারবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I understood that he loves me.",
+    "option2": "I have understanded that he loved me.",
+    "option3": "I understanded that he loved me.",
+    "option4": "I understand that he loves me.",
+    "question": "আমি বুঝেছিলাম, সে আমায় ভালবাসে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Dipak feeling for his friends.",
+    "option2": "Dipak can feel for his friends.",
+    "option3": "Dipak feels for his friends.",
+    "option4": "Dipak felt for his friends.",
+    "question": "দীপক তার বন্ধুদের জন্য ভাবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I felt that God was with me.",
+    "option2": "I felt that God is with me.",
+    "option3": "I feel that God was with me.",
+    "option4": "I felt that God has with me.",
+    "question": "অনুভব করলাম, ঈশ্বর আমার সঙ্গে আছেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Could you felt the pain of the poor ?",
+    "option2": "Can you feel the pain of the poor ?",
+    "option3": "Could you feeling the pain of the poor ?",
+    "option4": "Do you feel the pain of the poor ?",
+    "question": "গরীবদের কষ্ট তুমি বুঝতে পারো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "His hand got cut, but he did not felt.",
+    "option2": "His hand got cut, but he not felt.",
+    "option3": "His hand got cut, but he does not feel.",
+    "option4": "His hand got cut, but he did not feel.",
+    "question": "তার হাত কেটে গেল, কিন্তু সে অনুভব করল না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Tell me your feel.",
+    "option2": "Tell me what you are feeling.",
+    "option3": "Tell me what you felt.",
+    "option4": "Tell me what do you feel.",
+    "question": "তোমার অনুভব আমায় বল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I wished to become a doctor.",
+    "option2": "I wish to becoming a doctor.",
+    "option3": "I wish I become a doctor.",
+    "option4": "I wish to become a doctor.",
+    "question": "আমি ডাক্তার হতে ইচ্ছে করি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I heard that he became a teacher.",
+    "option2": "I hear  that he became a teacher.",
+    "option3": "I heard that he become a teacher.",
+    "option4": "I hear that he become a teacher.",
+    "question": "আমি শুনেছিলাম, সে শিক্ষক হয়েছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Jayanta is become a big leader now.",
+    "option2": "Jayanta  becomes a big leader now.",
+    "option3": "Jayanta has become a big leader now.",
+    "option4": "Jayanta had become a big leader now.",
+    "question": "জয়ন্ত এখন বড় নেতা হয়ে গেছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Then they talked and became friends.",
+    "option2": "Then they told and became friends.",
+    "option3": "Then they said and became friends.",
+    "option4": "Then they talked and become friends.",
+    "question": "তারা তখন কথা বলল, বন্ধু হল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "They have became friends.",
+    "option2": "They are become friends.",
+    "option3": "They have become friends.",
+    "option4": "They are became friends.",
+    "question": "তারা বন্ধু হয়েছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Why can I not try ?",
+    "option2": "Why should I not try ?",
+    "option3": "Why will I not try ?",
+    "option4": "Why shall I not try ?",
+    "question": "কেন আমি চেষ্টা করব না ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He told me, 'Try, try, try again'.",
+    "option2": "He told me, 'Tried, try, try again'.",
+    "option3": "He told me, 'Try, tried, tried again'.",
+    "option4": "He told me, 'Try, tried, try again'.",
+    "question": "সে আমায় বলল, 'চেষ্টা কর, চেষ্টা কর, আবার চেষ্টা কর'",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Did you not like to try ?",
+    "option2": "Do you not like to try ?",
+    "option3": "Do you not liked to try ?",
+    "option4": "Are you not like to try ?",
+    "question": "তুমি কি চেষ্টা করতে চাও না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I try to love everything.",
+    "option2": "I try and love everything.",
+    "option3": "I love and try everything.",
+    "option4": "I love to try eveything.",
+    "question": "আমি সবকিছু চেষ্টা করতে ভালবাসি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The child was trying to speak.",
+    "option2": "The child had tried for speak.",
+    "option3": "The child tried to speak.",
+    "option4": "The child was trying for speak.",
+    "question": "বাচ্চাটি কথা বলতে চেষ্টা করেছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The police was searched houses.",
+    "option2": "The police searching houses.",
+    "option3": "The police searched houses.",
+    "option4": "The police searches houses.",
+    "question": "পুলিশ বাড়ি তল্লাশ করে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Rahim looks, but does he search ?",
+    "option2": "Rahim looked, but does he search ?",
+    "option3": "Rahim looks, but do he search ?",
+    "option4": "Rahim looks, but did he search ?",
+    "question": "রহিম তাকায়, কিন্তু খোঁজে কি ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "A teacher is only searching goodness.",
+    "option2": "A teacher only searching goodness.",
+    "option3": "A teacher only searches good.",
+    "option4": "A teacher only searches goodness.",
+    "question": "শিক্ষক শুধুই ভালো খোঁজেন",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I am thinking of searching your bag.",
+    "option2": "I thought of searching your bag.",
+    "option3": "I was thinking of searching your bag.",
+    "option4": "I think of searching your bag.",
+    "question": "আমি তোমার ব্যাগ তল্লাশ করব ভাব ছিলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Sankar searched for gold in Africa.",
+    "option2": "Sankar had searched for gold in Africa.",
+    "option3": "Sankar was searching for gold in Africa.",
+    "option4": "Sankar have been searching for gold in Africa.",
+    "question": "শঙ্কর আফ্রিকায় সোনা খুঁজছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I was  found the key.",
+    "option2": "I have  found the key.",
+    "option3": "I find the key.",
+    "option4": "I found the key.",
+    "question": "আমি চাবিটা খুঁজে পেলাম",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I searched, but  not find.",
+    "option2": "I searched, but did not find.",
+    "option3": "I searched, but do not find.",
+    "option4": "I search, but did not find.",
+    "question": "আমি খুঁজলাম, কিন্তু পেলাম না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "If you want to find you have to search.",
+    "option2": "If you want to finding  you have to search.",
+    "option3": "If you wanted to find you have to search.",
+    "option4": "If you want to kind you had to search.",
+    "question": "যদি পেতে চাও তোমায় খুঁজতে হবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I have cried, have  called Him, but did not find Him.",
+    "option2": "I cried, called Him, but do not find Him.",
+    "option3": "I cried, called Him, but not found Him.",
+    "option4": "I cried, called Him, but did not find Him.",
+    "question": "আমি কাঁদলাম, তাকে ডাকলাম, কিন্তু পেলাম না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I must try to find God.",
+    "option2": "I have to try to finding God.",
+    "option3": "I have to trying to find God.",
+    "option4": "I must try for find God.",
+    "question": "আমায় ঈশ্বরকে পেতে চেষ্টা করতেই হবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I has brought to the king.",
+    "option2": "I is brought to the king.",
+    "option3": "I was brought to the king.",
+    "option4": "I was bringing  to the king.",
+    "question": "আমায় রাজার কাছে আনা হল ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "My mother was  brought me up.",
+    "option2": "My mother brought me up.",
+    "option3": "My mother bring me up.",
+    "option4": "My mother can brought me up.",
+    "question": "আমার মা আমায় বড় করে তুলেছিলেন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You should bring the umbrella.",
+    "option2": "You should bringing the umbrella.",
+    "option3": "You can bring the umbrella.",
+    "option4": "You will bring the umbrella.",
+    "question": "তোমার ছাতাটা এনে দেওয়া উচিৎ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You need to bring the book near the window.",
+    "option2": "You have to bring the book near the window.",
+    "option3": "You may bring the book near the window.",
+    "option4": "You should bring the book near the window.",
+    "question": "তোমার বইটা জানলার কাছে আনা দরকার",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you please bring to me the book ?",
+    "option2": "Can you please brought to me the book ?",
+    "option3": "Can you please bring me the book ?",
+    "option4": "Can you please bringing to me the book ?",
+    "question": "অনুগ্রহ করে বইটা আমায় এনে দেবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you pick morning flowers ?",
+    "option2": "Have you pick morning flowers ?",
+    "option3": "Had you picked morning flowers ?",
+    "option4": "Have you picked morning flowers ?",
+    "question": "তুমি সকালের ফুল তুলেছো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "If you wanted, I could pick you up in car.",
+    "option2": "If you want, I could pick you up in car.",
+    "option3": "If you wanted, I can pick you up in car.",
+    "option4": "If you want, I can pick you up in car.",
+    "question": "তুমি চাইলে তোমায় গাড়িতে তুলে নিতাম ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The mother has picking up her child.",
+    "option2": "The mother had picked up her child.",
+    "option3": "The mother has picked up her child.",
+    "option4": "The mother was  picked up her child.",
+    "question": "বাচ্চাটাকে তার মা তুলে নিয়ে গেলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He said smiling, 'Flower picking is not good'.",
+    "option2": "He said smiling, 'Flowers should not be picked'.",
+    "option3": "He said smiling, 'Do not pick flowers'.",
+    "option4": "He said smiling, 'Picking flowers is not good'.",
+    "question": "সে হেসে বলল, 'ফুল তোলা ভাল কাজ নয়' ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I have gone fallen, you please pick me up.",
+    "option2": "I went to fall, please pick me up.",
+    "option3": "I fell, you pick me up please.",
+    "option4": "I have fallen, please pick me up.",
+    "question": "আমি পড়ে গেছি, আমায় দয়া করে তোল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The catch has dropped.",
+    "option2": "The catch is dropped.",
+    "option3": "The catch was dropped.",
+    "option4": "The catch was dropping.",
+    "question": "ক্যাচটা পড়ে গেল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I shall drop you off at Canning.",
+    "option2": "I drop you off at Canning.",
+    "option3": "I can drop you off at Canning.",
+    "option4": "I am dropping you off at Canning.",
+    "question": "আমি তোমায় ক্যানিং-এ নামিয়ে দেব",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Sisir dropped from the team.",
+    "option2": "Sisir had been dropped from the team.",
+    "option3": "Sisir has been dropped from the team.",
+    "option4": "Sisir has dropped from the team.",
+    "question": "শিশিরকে দল থেকে বাদ দেওয়া হয়েছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You have to pick up what you have dropped.",
+    "option2": "Pick up what you dropped.",
+    "option3": "Pick up what you drop.",
+    "option4": "Pick up what you have dropped.",
+    "question": "যা ফেলেছ, তা তুলে নাও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You should not dropping the glass.",
+    "option2": "You should not drop the glass.",
+    "option3": "You should not dropped the glass.",
+    "option4": "You should not have dropped the glass.",
+    "question": "তোমার গেলাসটা ফেলা উচিৎ নয়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Come to me, we will share the egg.",
+    "option2": "Come, let us share the egg.",
+    "option3": "Come to share the egg.",
+    "option4": "Come, share the egg.",
+    "question": "এসো, ডিমটা ভাগ করে নিই",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Sharing makes happy to you.",
+    "option2": "If you share, you will be happy.",
+    "option3": "Share, and you will be happy.",
+    "option4": "Sharing makes you happy.",
+    "question": "ভাগ করে নেওয়া তোমায় খুশী করে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Share sleeping ?",
+    "option2": "Should you share sleeping ?",
+    "option3": "Can sleeping be shared ?",
+    "option4": "You can not share sleeping.",
+    "question": "ঘুমোনো কি ভাগ করে নেওয়া যায় ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "If nobody will help you later, you do not share now.",
+    "option2": "If  you do not share now, nobody will help you later.",
+    "option3": "Shared now or nobody helps you later.",
+    "option4": "Sharing now will help later.",
+    "question": "এখন ভাগ করে না নিলে পরে তোমায় কেউ সাহায্য করবে না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Why will you not share equally ?",
+    "option2": "Why you will not share equally ?",
+    "option3": "Why will you not be sharing equally ?",
+    "option4": "Why you will not be sharing equally ?",
+    "question": "কেন সমান ভাগে ভাগ করবে না ?",
+    "correct": 1,
+    "isPicture": false
+    }
+]

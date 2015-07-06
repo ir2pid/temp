@@ -1,0 +1,191 @@
+[
+    {
+    "option1": "We sees all of you.",
+    "option2": "We see all you.",
+    "option3": "We see all of you.",
+    "option4": "We are seeing all of you.",
+    "question": "আমরা তোমাদের সকলকে দেখি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You seeing me.",
+    "option2": "You see to me.",
+    "option3": "You see at me.",
+    "option4": "You see me.",
+    "question": "তুমি আমাকে দেখ",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "He sees she.",
+    "option2": "He is seeing her.",
+    "option3": "He sees her.",
+    "option4": "He see at her.",
+    "question": "সে (ছেলে) তাকে (মেয়ে) দেখে",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "She sees he.",
+    "option2": "She sees him.",
+    "option3": "She sees to him.",
+    "option4": "She see him.",
+    "question": "সে (মেয়ে) তাকে (ছেলে) দেখে",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "They sees their dog.",
+    "option2": "They see their dog.",
+    "option3": "They their dog see.",
+    "option4": "They see there dog.",
+    "question": "তারা তাদের কুকুরকে দেখে",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "The monkey see them.",
+    "option2": "The monkey sees they.",
+    "option3": "The monkey sees them.",
+    "option4": "The monkey saw them.",
+    "question": "বাঁদরটি তাদের দেখে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I do not see you.",
+    "option2": "I does not see you.",
+    "option3": "I not seeing you.",
+    "option4": "I not see you.",
+    "question": "আমি তোমাকে দেখি না",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "We do not see all of you.",
+    "option2": "We does not see all of you.",
+    "option3": "We do not look all of you.",
+    "option4": "We do not see any of you.",
+    "question": "আমরা তোমাদের সবাইকে দেখি না",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "You never see me.",
+    "option2": "You does not see me.",
+    "option3": "You do not see me.",
+    "option4": "You are not seeing me.",
+    "question": "তুমি আমাকে দেখ না",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "He do not see her.",
+    "option2": "He does not see her.",
+    "option3": "He not sees her.",
+    "option4": "He does not see she.",
+    "question": "সে (ছেলে) তাকে (মেয়ে) দেখে না",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "She does not see he.",
+    "option2": "She do not see him.",
+    "option3": "She does not see him.",
+    "option4": " She is not seeing he.",
+    "question": "সে (মেয়ে) তাকে (ছেলে) দেখে না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They not see their dog.",
+    "option2": "They are not seeing their dog.",
+    "option3": "They does not see their dog.",
+    "option4": "They do not see their dog.",
+    "question": "তারা তাদের কুকুরকে দেখে না",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "The monkey does not see them.",
+    "option2": "The monkey do not see them.",
+    "option3": "The monkey not sees them.",
+    "option4": "The monkey do not see they.",
+    "question": "বাঁদরটি তাদের দেখে না",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Look me.",
+    "option2": "See me.",
+    "option3": "Look at I.",
+    "option4": "Look at me.",
+    "question": "আমার দিকে তাকাও",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Please not look at me.",
+    "option2": "Please do not look me.",
+    "option3": "Please do not look at me.",
+    "option4": "Not look at me please.",
+    "question": "দয়া করে আমার দিকে তাকিও না",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Does you look at me at all ?",
+    "option2": "Do you look at me at all ?",
+    "option3": "Do look at me you at all ?",
+    "option4": "Do you see at me at all ?",
+    "question": "তুমি কি আদৌ আমার দিকে তাকাও ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I do look like a monkey ?",
+    "option2": "Does I look like a monkey ?",
+    "option3": "Do I look like a monkey ?",
+    "option4": "Does monkey look like me ?",
+    "question": "আমাকে কি বাঁদরের মত দেখতে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Say hello to him.",
+    "option2": "Say him hello.",
+    "option3": "Tell hello to him.",
+    "option4": "To him Say hello.",
+    "question": "তাকে হ্যালো বল",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "They says hello to all.",
+    "option2": "They say hello to all.",
+    "option3": "They say hello all.",
+    "option4": "They says hello all.",
+    "question": "তারা সকলকে হ্যালো বলে",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Arun say hello to me.",
+    "option2": "Arun hellos me.",
+    "option3": "Arun says hello to me.",
+    "option4": "Arun tells hello to me.",
+    "question": "অরুণ আমাকে হ্যালো বলে",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Do Arun say hello to us ?",
+    "option2": "Does Arun said hello to us ?",
+    "option3": "Does Arun says hello to us ?",
+    "option4": "Does Arun say hello to us ?",
+    "question": "অরুণ কি আমাদের হ্যালো বলে ?",
+    "correct": 4,
+    "isPicture": false
+    }
+]

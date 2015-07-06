@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "The arrrows hit under the red target.",
+    "option2": "The arrrows hit down the red target.",
+    "option3": "The arrrows hit below the red target.",
+    "option4": "The arrrows hit lower the red target.",
+    "question": "তীরগুলি লাল নিশানার নীচে লাগলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "We took the boat below the bridge.",
+    "option2": "We took the boat down the bridge.",
+    "option3": "We took the boat under the bridge.",
+    "option4": "We took the boat behind the bridge.",
+    "question": "আমরা পুলের তলা দিয়ে নৌকা নিয়ে গিয়েছিলাম",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "We live in a room up the shop.",
+    "option2": "We live in a room above the shop.",
+    "option3": "We live in a room over the shop.",
+    "option4": "We live in a room top of the shop.",
+    "question": "আমরা দোকানের উপর একটা ঘরে থাকি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They are waiting for bus under the shade of a bus stand.",
+    "option2": "They are waiting for bus inside the shade of a bus stand.",
+    "option3": "They are waiting for bus behind the shade of a bus stand.",
+    "option4": "They are waiting for bus within the shade of a bus stand.",
+    "question": "তারা বাস স্ট্যান্ডের ছাউনির নীচে দাঁড়িয়ে বাসের জন্য অপেক্ষা করছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The sun is on our head.",
+    "option2": "The sun is over our head.",
+    "option3": "The sun is up on our head.",
+    "option4": "The sun is above our head.",
+    "question": "সূর্য আমাদের মাথার উপরে আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The helicopter is flying over us.",
+    "option2": "The helicopter is flying up over us.",
+    "option3": "The helicopter is flying on us.",
+    "option4": "The helicopter is flying above us.",
+    "question": "হেলিকপ্টার আমাদের উপর দিয়ে উড়ছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "What are you kids doing under the table ?",
+    "option2": "What are you kids doing below the table ?",
+    "option3": "What are you kids doing down the table ?",
+    "option4": "What are you kids doing down of the table ?",
+    "question": "তোমরা বাচ্চারা টেবিলের নীচে কি করছ ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He fixed a second nail down the first one.",
+    "option2": "He fixed a second nail below the first one.",
+    "option3": "He fixed a second nail under the first one.",
+    "option4": "He fixed a second nail down of the first one.",
+    "question": "সে প্রথম পেরেকটির তলায় দ্বিতীয় পেরেক গাঁথল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We took shelter below a tree.",
+    "option2": "We took shelter down of a tree.",
+    "option3": "We took shelter below of a tree.",
+    "option4": "We took shelter under a tree.",
+    "question": "আমরা গাছের নীচে আশ্রয় নিয়েছিলাম",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He hit the cricket ball to the stands over.",
+    "option2": "He hit the cricket ball on the stands over.",
+    "option3": "He hit the cricket ball to the stands above.",
+    "option4": "He hit the cricket ball on the stands above.",
+    "question": "সে ক্রিকেট বলটিকে মেরে উপরের দিকের বসবার স্থানে পাঠালো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I was below cover when the rain came.",
+    "option2": "I was down cover when the rain came.",
+    "option3": "I was under cover when the rain came.",
+    "option4": "I was in cover when the rain came.",
+    "question": "যখন বৃষ্টি এসেছিল, আমি ছাউনির নীচে ছিলাম",
+    "correct": 3,
+    "isPicture": false
+    }
+]

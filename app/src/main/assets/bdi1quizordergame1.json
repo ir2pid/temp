@@ -1,0 +1,205 @@
+[
+    {
+        "question": "He says, \"An ass has four ears.\"",
+        "words": {
+          "4": "ass",
+          "1": "four",
+          "3": "has",
+          "2": "he",
+          "5": "his",
+          "6": "had",
+          "7": "that",
+          "8": "an",
+          "9": "ears",
+          "10": "says"
+        },
+        "answers":[[2,10,7,8,4,3,1,9]]
+    },
+    {
+        "question": "He says, \"My ass had eight legs.\"",
+        "words": {
+          "4": "ass",
+          "1": "eight",
+          "3": "has",
+          "2": "his",
+          "5": "he",
+          "6": "had",
+          "7": "that",
+          "8": "an",
+          "9": "legs",
+          "10": "says"
+        },
+        "answers":[[5,10,7,8,4,3,1,9]]
+    },
+    {
+        "question": "Aneeta told me, \"I love chocolate.\"",
+        "words": {
+          "4": "chocolate",
+          "1": "me",
+          "3": "Aneeta",
+          "2": "loves",
+          "5": "that",
+          "6": "told",
+          "7": "she",
+          "8": "I",
+          "9": "loved"
+        },
+        "answers":[[3,6,1,5,7,9,4]]
+    },
+    {
+        "question": "Aneeta told me, \"I love chocolate now.\"",
+        "words": {
+          "4": "chocolate",
+          "1": "me",
+          "3": "Aneeta",
+          "2": "loves",
+          "5": "then",
+          "6": "told",
+          "7": "she",
+          "8": "I",
+          "9": "loved",
+          "10": "that",
+          "11": "now"
+        },
+        "answers":[[3,6,1,10,7,9,4,5]]
+    },
+    {
+        "question": "The teacher said to Akash, \"Your friend is here.\"",
+        "words": {
+          "4": "teacher",
+          "1": "Akash",
+          "3": "friend",
+          "2": "to",
+          "5": "that",
+          "6": "the",
+          "7": "was",
+          "8": "here",
+          "9": "said",
+          "10": "your",
+          "11": "his",
+          "12": "there"
+        },
+        "answers":[[6,4,9,2,1,5,11,3,7,12]]
+    },
+    {
+        "question": "He has said, \"I am writing a letter.\"",
+        "words": {
+          "4": "letter",
+          "1": "said",
+          "3": "he",
+          "2": "a",
+          "5": "he",
+          "6": "I",
+          "7": "that",
+          "8": "has",
+          "9": "writing",
+          "10": "is",
+          "11": "wrote"
+        },
+        "answers":[[5,8,1,7,3,10,9,2,4]]
+    },
+    {
+        "question": "They have said to all, \"You can go now.\"",
+        "words": {
+          "4": "now",
+          "1": "have",
+          "3": "all",
+          "2": "they",
+          "5": "now",
+          "6": "that",
+          "7": "can",
+          "8": "all",
+          "9": "you",
+          "10": "could",
+          "11": "go",
+          "12": "said",
+          "13": "that",
+          "14": "to"
+        },
+        "answers":[[2,1,11,13,8,12,3,7,11,5],[2,1,11,13,3,12,8,7,11,5]]
+    },
+    {
+        "question": "Lalit said, \"I have passed the examination.\"",
+        "words": {
+          "4": "examination",
+          "1": "he",
+          "3": "I",
+          "2": "had",
+          "5": "Lalit",
+          "6": "the",
+          "7": "has",
+          "8": "said",
+          "9": "passed",
+          "10": "that"
+        },
+        "answers":[[5,8,10,1,2,9,6,4]]
+    },
+    {
+        "question": "Prakash said, \"You have never loved me, Tanima.\"",
+        "words": {
+          "4": "Tanima",
+          "1": "had",
+          "3": "Prakash",
+          "2": "loved",
+          "5": "that",
+          "6": "to",
+          "7": "never",
+          "8": "said",
+          "9": "she",
+          "10": "him"
+        },
+        "answers":[[3,8,6,4,5,9,1,7,2,10]]
+    },
+    {
+        "question": "Prakash told me, \"You are a cheat.\"",
+        "words": {
+          "4": "Prakash",
+          "1": "I",
+          "3": "me",
+          "2": "a",
+          "5": "told",
+          "6": "you",
+          "7": "was",
+          "8": "is",
+          "9": "he",
+          "10": "cheat",
+          "11": "that",
+          "12": "are"
+        },
+        "answers":[[4,5,3,11,1,7,2,10]]
+    },
+    {
+        "question": "Prakash told Dilip, \"You are a cheat.\"",
+        "words": {
+          "4": "Dilip",
+          "1": "you",
+          "3": "is",
+          "2": "that",
+          "5": "Prakash",
+          "6": "was",
+          "7": "a",
+          "8": "told",
+          "9": "Dilip",
+          "10": "are",
+          "11": "cheat"
+        },
+        "answers":[[5,8,4,2,9,6,7,11]]
+    },
+    {
+        "question": "He said, \"My father died in the morning.\"",
+        "words": {
+          "4": "he",
+          "1": "his",
+          "3": "morning",
+          "2": "said",
+          "5": "died",
+          "6": "my",
+          "7": "in",
+          "8": "had",
+          "9": "the",
+          "10": "father",
+          "11": "that"
+        },
+        "answers":[[4,2,11,1,10,8,5,7,9,3]]
+    }
+]

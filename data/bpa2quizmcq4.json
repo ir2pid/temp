@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "The murderer escaped of jail.",
+    "option2": "The murderer escaped to jail.",
+    "option3": "The murderer escaped on jail.",
+    "option4": "The murderer escaped from jail.",
+    "question": "খুনীটি জেল থেকে পালিয়েছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "No man is free on faults.",
+    "option2": "No man is free from faults.",
+    "option3": "No man is free for faults.",
+    "option4": "No man is free in faults.",
+    "question": "কোনো মানুষ দোষ থেকে মুক্ত নয়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He burst into tears at the news of his father's death.",
+    "option2": "He burst with tears at the news of his father's death.",
+    "option3": "He burst for tears at the news of his father's death.",
+    "option4": "He burst at tears at the news of his father's death.",
+    "question": "সে তার বাবার মৃত্যুর সংবাদে কান্নায় ভেঙে পড়ল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He is weak on Mathematics.",
+    "option2": "He is weak of Mathematics.",
+    "option3": "He is weak at Mathematics.",
+    "option4": "He is weak in Mathematics.",
+    "question": "সে অঙ্কে কাঁচা  (দুর্বল)",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "A company must rely for its employees.",
+    "option2": "A company must rely on its employees.",
+    "option3": "A company must rely in its employees.",
+    "option4": "A company must rely at its employees.",
+    "question": "একটি কোম্পানিকে তার কর্মচারীদের ওপর নির্ভর (বিশ্বাস) করতেই হয়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is absorbed on studies, only when he finds interest in it. ",
+    "option2": "He is absorbed at studies, only when he finds interest in it.",
+    "option3": "He is absorbed in studies, only when he finds interest in it.",
+    "option4": "He is absorbed to studies, only when he finds interest in it.",
+    "question": "সে পড়াশোনায় নিমগ্ন হয়, কেবলমাত্র যখন তাতে ওর কৌতূহল হয়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He lost my book, so on return gave me some money.",
+    "option2": "He lost my book, so in return gave me some money.",
+    "option3": "He lost my book, so for return gave me some money.",
+    "option4": "He lost my book, so by return gave me some money.",
+    "question": "সে আমার বই হারিয়েছিল, তাই প্রতিদানে কিছু টাকা দিয়েছিল",
+    "correct": 2,
+    "isPicture": false
+    }
+]

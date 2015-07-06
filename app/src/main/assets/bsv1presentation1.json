@@ -1,0 +1,212 @@
+[
+                      { 
+                        "image1": "saynaresh",             
+                        "name": "Bsv1-Lesson1 (1/1)", 
+                        "ltext1": "",
+                        "rtext1": "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Say</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;নরেশ বলে যে সে ফোন পছন্দ করে না <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naresh <font color='#ED7745'><i>says</i></font>, he does not like phones.",
+                        "utext1": "<font color='#ED7745'>Say, Tell, Talk, Speak</font>",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "saysen",             
+                        "name": "Bsv1-Lesson1 (1/2)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Say</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;মিস সেন আমায় বললেন, \"চেষ্টা কর, তুমি পারবে\" । <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ms Sen <font color='#ED7745'><i>said</i></font> to me, \"Try, you can do it\".",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "tellsen",             
+                        "name": "Bsv1-Lesson1 (1/3)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Tell</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;মিস সেন আমায় বললেন, \"চেষ্টা কর, তুমি পারবে\" । <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ms Sen <font color='#ED7745'><i>told</i></font> me, \"Try, you can do it\".",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "tellson",             
+                        "name": "Bsv1-Lesson1 (1/4)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Tell</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;মা ছেলেকে ঘুমিয়ে পড়তে বললেন <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The mother <font color='#ED7745'><i>told</i></font> her son to sleep.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "talkeachother",             
+                        "name": "Bsv1-Lesson1 (1/5)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Talk</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;তারা ক্রিকেট নিয়ে পরস্পর কথা বলছিল <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They <font color='#ED7745'><i>talked</i></font> to each other on cricket.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "talkover",             
+                        "name": "Bsv1-Lesson1 (1/6)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Talk</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;মি. গড়াই সবসময়ই ফোনে কথা বলছেন <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mr. Garai is always <font color='#ED7745'><i>talking</i></font> over phone.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "speakhim",             
+                        "name": "Bsv1-Lesson1 (1/7)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Speak</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;নতুন প্রকল্পনাটা নিয়ে তার সঙ্গে আমি কথা বলব <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I shall <font color='#ED7745'><i>speak</i></font> to him about the new project.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "speakenglish",             
+                        "name": "Bsv1-Lesson1 (1/8)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Speak</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আমি ইংরিজিতে কথা বলতে পারি, তুমি পারো ? <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I can <font color='#ED7745'><i>speak</i></font> in English, can you ?",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "",             
+                        "name": "Bsv1-Lesson1 (1/9)", 
+                        "ltext1": "",
+                        "rtext1": "",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Say আর Tell এ দুটো কাছাকাছি, অর্থ হল 'বলা' এবং Talk আর Speak এ দুটো কাছাকাছি, অর্থ হল 'কথা বলা' (কথোপকথন) । Say-র পর to বসে (say to him) আর tell-এর পর বসে না (told him) । খেয়াল রাখবে, tell-এর পর সবসময় যাকে 'বলা' হচ্ছে সে থাকবেই (I told you, He told Raghav), কিন্তু say-র সেরকম বাধ্যবাধকতা নেই (I said that I would be late) । এছাড়াও tell কারোকে কিছু করতে বলা অর্থেও ব্যবহার হয় - The mother told her son to sleep । একাধিক লোকের 'কথা বলা' বোঝালে (কথোপকথন) talk আর speak ব্যবহার হয়, দুটোর খুব কিছু তফাৎ নেই । যেমন, Everybody stopped talking বা After she read the letter, nobody spoke । আর ভাষার ক্ষেত্রে speak ব্যবহার করবে - He speaks two languages । speak একটু আনুষ্ঠানিক, যেটা Talk নয় - I shall speak to him on the project । জানবে, talk আর speak-এর পর to বা with যাহোক বসাতে পারো, যদি কারোর সঙ্গে 'কথা বলা' হয় ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "eat1",             
+                        "name": "Bsv1-Lesson1 (2/1)", 
+                        "ltext1": "",
+                        "rtext1": "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Eat</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;সকালে কিছু ফল আর সব্জী খেয়েছি <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have <font color='#ED7745'><i>eaten</i></font> some fruits and vegetables in the morning.",
+                        "utext1": "<font color='#ED7745'>Eat, Drink, Have, Take</font>",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "drink1",             
+                        "name": "Bsv1-Lesson1 (2/2)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Drink</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;প্রতিদিন অন্তত ৩ লিটার জল খাওয়া উচিৎ <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You should <font color='#ED7745'><i>drink</i></font> at least 3 litres of water everyday.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "have",             
+                        "name": "Bsv1-Lesson1 (2/3)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Have</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আজ প্রাতঃরাশ খেয়েছিলে ? কি কি খেলে ? <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Did you <font color='#ED7745'><i>have</i></font> your breakfast today ? What did you <font color='#ED7745'><i>have</i></font> ?",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "take2",             
+                        "name": "Bsv1-Lesson1 (2/4)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Take</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আমি নটায় ডিনার খাব, তখন সুপ আর মাংস খাব <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I shall <font color='#ED7745'><i>take</i></font> dinner at nine, shall take soup and meat then.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "",             
+                        "name": "Bsv1-Lesson1 (2/5)", 
+                        "ltext1": "",
+                        "rtext1": "",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Eat (খাওয়া) আর Drink (পান করা) বোঝায় ভৌতিকভাবে খাওয়া (eat fruits, drink water), আর have আর take ভৌতিক খাওয়া তো বোঝায়ই (take soup, take water, have meat), তার সঙ্গে breakfast, lunch, dinner ইত্যাদি খাওয়ার ক্ষেত্রেও ব্যবহার হয় । Eat breakfast লিখবে না, take বা have breakfast লিখবে । তবে have পানীয়ের সঙ্গে ব্যবহার করবে না, (শক্ত) খাদ্যের সঙ্গে ব্যবহার করবে । তাই take (বা drink) water হয়, have water লিখো না । আবার অনুরোধ অর্থে have some rice please এরকমও লেখা হয় ।",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "do1",             
+                        "name": "Bsv1-Lesson1 (3/1)", 
+                        "ltext1": "",
+                        "rtext1": "<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Do</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আজ তোমার বাড়ির কাজ করেছিলে ? <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Did you <font color='#ED7745'><i>do</i></font> your homework today ?",
+                        "utext1": "<font color='#ED7745'>Do, Make, Build, Create</font>",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "do2",             
+                        "name": "Bsv1-Lesson1 (3/2)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Do</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আপনি কেমন আছেন, দাদা ? <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How do you <font color='#ED7745'><i>do</i></font>, brother ?",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "make1",             
+                        "name": "Bsv1-Lesson1 (3/3)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Make</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আমি আমার রাতের খাবার নিজেই তৈরী করতে পারি <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I can <font color='#ED7745'><i>make</i></font> my own dinner.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "make2",             
+                        "name": "Bsv1-Lesson1 (3/4)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Make</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;পাতে মাছ আমায় খুশি করে দেয় ! <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fish on my plate <font color='#ED7745'><i>makes</i></font> me happy !",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "build",             
+                        "name": "Bsv1-Lesson1 (3/5)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Build</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আমরা যত্ন করে বাড়িটা নির্মাণ করছি <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We are <font color='#ED7745'><i>building</i></font> the house with care.",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "create",             
+                        "name": "Bsv1-Lesson1 (3/6)", 
+                        "ltext1": "",
+                        "rtext1": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color='#ED7745'>Create</font> <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;আমাদের কে সৃষ্টি করল ? <br> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Who <font color='#ED7745'><i>created</i></font> us ?",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "",
+                        "description": ""
+                      },
+                      { 
+                        "image1": "",             
+                        "name": "Bsv1-Lesson1 (3/7)", 
+                        "ltext1": "",
+                        "rtext1": "",
+                        "utext1": "",
+                        "dtext1": "",
+                        "text1": "Do - কোন কাজ করা, Make - তৈরী করা । সাধারণভাবে যেমন, আংটিটি সোনা দিয়ে তৈরী - The ring is made of gold । এই make আবার অন্য অনেকভাবে ব্যবহার হয়, সেটা 'তৈরী করা' অর্থে নয়, 'ঘটানো' অর্থে ।  He made me do so - সে আমায় কাজটা করিয়েছিল (আমায় দিয়ে কাজটা ঘটিয়েছিল) । This machine makes too much noise - এই যন্ত্রটি বড্ড শব্দ করে (বা ঘটায়) - এখানে do বসবে না । Make right choices in your life - জীবনে ঠিক ঠিক জিনিশ বেছে নাও (মানে, বাছাই ঘটাও) । আর build ব্যবহার হয় ভৌতিক কিছু জিনিশ নির্মাণ অর্থে, যেমন বাড়ি । সৃষ্টি করা অর্থে create ব্যবহার করা হয় । যেমন - Nature has created this beautiful flower (প্রকৃ্তি এই সুন্দর ফুলটা সৃষ্টি করেছে) । Build - Built - Built ।",
+                        "description": ""
+                      }
+]

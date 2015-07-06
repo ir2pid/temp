@@ -1,0 +1,110 @@
+[
+    {
+    "option1": "Will anyone of them take to come the book from me ?",
+    "option2": "Will anyone of them come to take the book from me ?",
+    "option3": "Will one of them comes to take the book from me ?",
+    "option4": "Will every one of them take to come the book from me ?",
+    "question": "তাদের কেউ কি আমার কাছে বইটা নিতে আসবে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "None of us will like to eat fish.",
+    "option2": "All of us will not like to eat fish.",
+    "option3": "None of we will like to take fish.",
+    "option4": "None of us will not like to eat fish.",
+    "question": "আমাদের কারোরই মাছ খেতে ভালো লাগবে না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The new song will nice to hear.",
+    "option2": "The new song will be nice to hear.",
+    "option3": "To hear the new song will nice.",
+    "option4": "It will be nice hear the new song.",
+    "question": "নতুন গানটা শুনতে ভালো লাগবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Dipak will sad to know the news.",
+    "option2": "Dipak will know to be sad the news.",
+    "option3": "Dipak will be sad to know the news.",
+    "option4": "Dipak will be know to sad news.",
+    "question": "দীপক খবরটা জানলে দুঃখিত হবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I shall be happy to speak the story.",
+    "option2": "I shall happy to tell the story.",
+    "option3": "I shall happy to say the story.",
+    "option4": "I shall be happy to tell the story.",
+    "question": "আমি গল্পটা বলতে আনন্দ পাব",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Then they will be quick to jump into the sea.",
+    "option2": "Then they will quick to jump into the sea.",
+    "option3": "Then they will be jump quick into the sea.",
+    "option4": "Then they shall be quick to jump into the sea.",
+    "question": "ওরা তখন সমুদ্রে ঝাঁপাতে তাড়াতাড়ি করবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "20 are more than 19.",
+    "option2": "20 is more of 19.",
+    "option3": "20 is more than 19.",
+    "option4": "19 is less than 20.",
+    "question": "২০ ১৯-এর চেয়ে বেশী",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "25 are less than 36.",
+    "option2": "25 is less than 36.",
+    "option3": "Less than 36 is 25.",
+    "option4": "25 is more than 36.",
+    "question": "২৫ ৩৬-এর চেয়ে কম",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The water melon is bigger than mango.",
+    "option2": "The water melon is larger than the mango.",
+    "option3": "Water melon is more bigger than mango.",
+    "option4": "Water melon is bigger than mango.",
+    "question": "তরমুজ আমের চেয়ে বড়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Apple is smaller than water melon.",
+    "option2": "Apple is shorter than water melon.",
+    "option3": "Apple is small than water melon.",
+    "option4": "Water melon is smaller than apple.",
+    "question": "আপেল তরমুজের চেয়ে ছোট",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The Qutab Minar is taller than a 10-storey building.",
+    "option2": "The Qutab Minar is tall than a 10-storey building.",
+    "option3": "The Qutab Minar is much high than a 10-storey building.",
+    "option4": "The Qutab Minar is more higher than a 10-storey building.",
+    "question": "কুতুব মিনার একটি ১০ তলা বাড়ির চেয়ে লম্বা",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Is Jit is shorter than Deb ?",
+    "option2": "Is Jit shorter than Deb ?",
+    "option3": "Is Jit more shorter than Deb ?",
+    "option4": "Is Deb shorter than Jit ?",
+    "question": "জিৎ কি দেবের চেয়ে বেঁটে ?",
+    "correct": 2,
+    "isPicture": false
+    }
+]

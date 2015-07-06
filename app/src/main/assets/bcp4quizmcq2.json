@@ -1,0 +1,110 @@
+[
+    {
+    "option1": "Nasima was not be late on that day.",
+    "option2": "Nasima was not late in that day.",
+    "option3": "Nasima was not late on that day.",
+    "option4": "On that day Nasima's was not late.",
+    "question": " সেদিন নাসীমার দেরী হয় নি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Nasima is not be late today.",
+    "option2": "Nasima is not late on today.",
+    "option3": "Not today Nasima is late.",
+    "option4": "Nasima is not late today.",
+    "question": "নাসীমার আজ দেরী হয় নি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Why is Sudip be late today ?",
+    "option2": "Why is Sudip late on today ?",
+    "option3": "Why is Sudip late today ?",
+    "option4": "Why Sudip is late today ?",
+    "question": "সুদীপের আজ দেরী হল কেন ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I shall buy this phone.",
+    "option2": "I will buy this phone.",
+    "option3": "I this phone shall sell.",
+    "option4": "I shall sell this phone.",
+    "question": "আমি এই ফোনটা কিনব",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Buy the phone will you ?",
+    "option2": "The phone will you sell ?",
+    "option3": "Will you sell the phone ?",
+    "option4": "Will you buy the phone ?",
+    "question": "তুমি কি ফোনটা বেচবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Not Partha will sell his phone.",
+    "option2": "Partha not will sell his phone.",
+    "option3": "Partha will not sell to his phone.",
+    "option4": "Partha will not sell his phone.",
+    "question": "পার্থ তার ফোনটা বেচবে না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Which of his phones will Partha sell ?",
+    "option2": "Which his phones will Partha sell ?",
+    "option3": "His which phones will Partha sell ?",
+    "option4": "Will Partha sell which phone of his ?",
+    "question": "পার্থ তার কোন ফোনটা বেচবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Will Sudip not buy a good phone ?",
+    "option2": "Will a good phone Sudip never buy ?",
+    "option3": "Will Sudip never buy a good phone ?",
+    "option4": "",
+    "question": "সুদীপ কি কখনো একটা ভালো ফোন কিনবে না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "In what time will you change house tomorrow ?",
+    "option2": "What time will you change house on tomorrow ?",
+    "option3": "Will you change house what time tomorrow ?",
+    "option4": "At what time will you change house tomorrow ?",
+    "question": "তুমি কাল কটার সময় বাড়ি পরিবর্তন করবে ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "After that when will you come to my house ?",
+    "option2": "When you will come to my house after that ?",
+    "option3": "To my house after that when will you come ?",
+    "option4": "After that when shall you come to my house ?",
+    "question": " তারপর তুমি কখন আমার বাড়ি আসবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "How will they know the English ?",
+    "option2": "How will learn they the English ?",
+    "option3": "How will they learn English ?",
+    "option4": "How they will know English ?",
+    "question": "তারা কেমন করে ইংরিজি শিখবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Shall we go to take dinner now ?",
+    "option2": "Shall we take to go dinner now ?",
+    "option3": "Shall we go for take dinner ?",
+    "option4": "Shall we take dinner go to now ?",
+    "question": "আমরা কি এখন ডিনার খেতে যাব ?",
+    "correct": 1,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "I was called on 5 p.m. last evening.",
+    "option2": "I was called at 5 p.m. last evening.",
+    "option3": "I called at 5 p.m. last evening.",
+    "option4": "I call at 5 p.m. last evening.",
+    "question": "আমাকে কাল সন্ধ্যে ৫টায় ডাকা হয়েছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He/She was got a phone-call.",
+    "option2": "He/She get a phone-call.",
+    "option3": "He/She got a phone-call.",
+    "option4": "He/She gets a call in her phone.",
+    "question": "সে একটা ফোন পেয়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Call at him.",
+    "option2": "Call him.",
+    "option3": "Called him.",
+    "option4": "Call to him.",
+    "question": "তাকে ডেকে দাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He could call to his friend.",
+    "option2": "He can call his friend.",
+    "option3": "He could called his friend.",
+    "option4": "He could call his friend.",
+    "question": "সে তার বন্ধুকে ডাকতে পারতো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Rabin's has called Shyamal loudly.",
+    "option2": "Rabin calls Shyamal loudly.",
+    "option3": "Rabin is calling Shyamal loudly.",
+    "option4": "Rabin's call Shyamal loudly.",
+    "question": "রবিন শ্যামলকে চেঁচিয়ে ডাকে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Anu asked Shyamali for help.",
+    "option2": "Anu asked Shyamali for helped.",
+    "option3": "Anu ask Shyamali for help.",
+    "option4": "Anu asking Shyamali for helping.",
+    "question": "অনু শ্যামলীর কাছে সাহায্য চেয়েছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Can we ask them for a meeting ?",
+    "option2": "Shall we ask them for a meeting ?",
+    "option3": "Should we ask them in a meeting ?",
+    "option4": "Should we ask them for a meeting ?",
+    "question": "আমাদের কি তাদের একটা মিটিঙে ডাকা উচিৎ ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Debu asked, \"How are your health ?\"",
+    "option2": "Debu said, \"Who are you ?\"",
+    "option3": "Debu asked, \"How is you ?\"",
+    "option4": "Debu asked, \"How are you ?\"",
+    "question": "দেবু জিজ্ঞেস করলো ,\"তুমি কেমন আছো ?\"",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "If you ask me I said, no.",
+    "option2": "Ask to me I say, no.",
+    "option3": "If you ask me I shall say, no.",
+    "option4": "If you ask me I say, no.",
+    "question": "যদি আমায় জিজ্ঞেস করো, আমি বলবো, না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Hema has asking many questions.",
+    "option2": "Hema asking to many questions.",
+    "option3": "Hema asks to many questions.",
+    "option4": "Hema asks many questions.",
+    "question": "হেমা অনেক প্রশ্ন জিজ্ঞেস করে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Sita has read story books everyday.",
+    "option2": "Sita is reading story books everyday.",
+    "option3": "Sita reads story books everyday.",
+    "option4": "Sita read story books in  everyday.",
+    "question": "সীতা প্রতিদিন গল্পের বই পড়ে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He said, \"I was read in class five.\"",
+    "option2": "He said, \"I am reading in class five.\"",
+    "option3": "He said, \"He read in class five.\"",
+    "option4": "He said, \"I read in class five.\"",
+    "question": "সে বললো \"আমি ক্লাস ফাইভে পড়ি\"",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Reading books is good for habit.",
+    "option2": "Books reading is good habit.",
+    "option3": "Reading books is a good habit.",
+    "option4": "Reading of  books is good a habit.",
+    "question": "বইপড়া ভালো অভ্যেস",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "What class are you read in ?",
+    "option2": "What class do you reading ?",
+    "option3": "What class do you read ?",
+    "option4": "What class do you read in ?",
+    "question": "তুমি কোন ক্লাসে পড়ো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He read the newspaper loudly.",
+    "option2": "He was reading the newspaper loudly.",
+    "option3": "He had readed the newspaper loudly.",
+    "option4": "He readed the newspaper loudly.",
+    "question": "সে চেঁচিয়ে খবরের কাগজ পড়েছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Jamuna often writing letter to her father.",
+    "option2": "Jamuna wrote letter to her father.",
+    "option3": "Jamuna often writes letter to her father.",
+    "option4": "Jamuna often write letter to father.",
+    "question": "যমুনা তার বাবাকে প্রায়ই চিঠি লেখে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Order written on the paper.",
+    "option2": "Order is written on the paper.",
+    "option3": "Order is writing the paper.",
+    "option4": "Order is write on the paper.",
+    "question": "অর্ডারটা কাগজে লেখা আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Saratchandra had written many stories.",
+    "option2": "Saratchandra has written many stories.",
+    "option3": "Saratchandra was written many stories.",
+    "option4": "Saratchandra writes many stories.",
+    "question": "শরৎচন্দ্র অনেক গল্প লিখেছিলেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He can be writing with both hands.",
+    "option2": "He write with both hands.",
+    "option3": "He can write with hands.",
+    "option4": "He can write with both hands.",
+    "question": "সে দুহাতে লিখতে পারে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Please writes this to down.",
+    "option2": "You please write this down.",
+    "option3": "Please write this down.",
+    "option4": "Please write this to down.",
+    "question": "অনুগ্রহ করে এটা লিখে ফেলো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Think and you have given reply also.",
+    "option2": "Thinking can give reply also.",
+    "option3": "Think and you  give reply also.",
+    "option4": "Think and you can give reply also.",
+    "question": "ভাবো, তুমিও উত্তর দিতে পারবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Think before tell anything.",
+    "option2": "Think twice to telling anything.",
+    "option3": "Think twice before telling anything.",
+    "option4": "Think twice before tell anything.",
+    "question": "কিছু বলার আগে দুবার ভাববে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you think it before ?",
+    "option2": "Do you think it before ?",
+    "option3": "Did you think it before ?",
+    "option4": "Did you thought it before ?",
+    "question": "এটা কি আগে ভেবেছিলে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They had thinking of going.",
+    "option2": "They are thinking of going.",
+    "option3": "They were thinking of going.",
+    "option4": "They thought of going.",
+    "question": "তারা যাবে ভাবছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I never think of such a story.",
+    "option2": "I never thought of such a story.",
+    "option3": "I could not think such a story.",
+    "option4": "I can not thought such a story.",
+    "question": "আমি কখনো এরকম গল্পের কথা ভাবিনি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Knowing  yourself.",
+    "option2": "Know at  yourself.",
+    "option3": "Knowledge yourself.",
+    "option4": "Know yourself.",
+    "question": "নিজেকে জানো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I had known this person.",
+    "option2": "I knew this person.",
+    "option3": "I know this person.",
+    "option4": "I was know this person.",
+    "question": "আমি এই লোকটিকে চিনতাম",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is known to me.",
+    "option2": "He is known  me.",
+    "option3": "He  knew to me.",
+    "option4": "He has known  me.",
+    "question": "সে আমার চেনা",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Did you know me ?",
+    "option2": "Does you know me ?",
+    "option3": "Do you know of  me ?",
+    "option4": "Do you know me ?",
+    "question": "তুমি কি আমায় চেনো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Basanti knows cook.",
+    "option2": "Basanti know cooking.",
+    "option3": "Basanti knows cooking.",
+    "option4": "Basanti is knowing cook.",
+    "question": "বাসন্তী রান্না করতে জানে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Rupali learnt ten English words everyday.",
+    "option2": "Rupali learns ten English words everyday.",
+    "option3": "Rupali learning ten English words everyday.",
+    "option4": "Rupali has learnt ten English words everyday.",
+    "question": "রূপালী রোজ দশটা ইংরাজী শব্দ শেখে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "\"I have learnt Hindi\", she said.",
+    "option2": "\"I am learnt Hindi\", she said.",
+    "option3": "\"I am learning Hindi\", she said.",
+    "option4": "\"I will learn Hindi\", she said.",
+    "question": "সে বললো, \"আমি হিন্দি শিখেছি\"",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "She said that she was learnt music for 10 years.",
+    "option2": "She said that she had learning music for 10 years.",
+    "option3": "She said that she has learnt music for 10 years.",
+    "option4": "She said that she had learnt music for 10 years.",
+    "question": "সে বললো যে সে ১০ বছর গান শিখেছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Are you learn anything ?",
+    "option2": "Do you learn anything ?",
+    "option3": "Have you learnt anything ?",
+    "option4": "Did you learn anything ?",
+    "question": "তুমি কিছু শেখো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Little learn is bad.",
+    "option2": "Little learning is bad.",
+    "option3": "Learn little is bad.",
+    "option4": "Learning in little is bad.",
+    "question": "অল্প বিদ্যা খারাপ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Have not laugh in your class.",
+    "option2": "Does not laugh in your class.",
+    "option3": "Do not laughing in your class.",
+    "option4": "Do not laugh in your class.",
+    "question": "ক্লাসের ভেতর হেসো না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Shanti giving a wrong answer and Kobita laughed at it.",
+    "option2": "Shanti gave a wrong answer and Kobita laughed at it.",
+    "option3": "Shanti gave a wrong answer and Kobita laughs at it.",
+    "option4": "Shanti give a wrong answer and Kobita laughed at it.",
+    "question": "শান্তি একটা ভুল উত্তর দিলো আর কবিতা তাতে হেসে দিলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Why can you not laugh ?",
+    "option2": "Why will you not laughing ?",
+    "option3": "Why will you not laugh ?",
+    "option4": "Why are you not laugh ?",
+    "question": "কেন তুমি হাসবে না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You can not laugh this way.",
+    "option2": "You should not laughed  this way.",
+    "option3": "You should not laughing this way.",
+    "option4": "You should not laugh this way.",
+    "question": "এভাবে হাসতে নেই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Laughing makes you happy.",
+    "option2": "Laugh makes you happy.",
+    "option3": "Laugh will make you happy.",
+    "option4": "Laughing will make you happy.",
+    "question": "হাসি তোমায় সুখী করে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Crying baby is get the milk.",
+    "option2": "Crying baby gets the milk.",
+    "option3": "Crying baby getting the milk.",
+    "option4": "Crying baby has got the milk.",
+    "question": "যে বাচ্চা কাঁদে সে-ই দুধ পায়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Surojit did not give money to him, so he cries.",
+    "option2": "Surojit does not give money to him, so he cried.",
+    "option3": "Surojit did not gave money to him, so he cried.",
+    "option4": "Surojit did not give money to him, so he cried.",
+    "question": "সুরজিৎ তাকে টাকা দেয় নি, তাই সে কেঁদেছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He heard the news and cried.",
+    "option2": "He hears the news and cried.",
+    "option3": "He heard the news and crying.",
+    "option4": "He heard the news and was cried.",
+    "question": "সে খবরটা শুনলো ও কাঁদলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The baby is crying when it eats.",
+    "option2": "The baby cried when it eats.",
+    "option3": "The baby cries when it eating.",
+    "option4": "The baby cries when it eats.",
+    "question": "বাচ্চাটি খেলেই কাঁদে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The baby was crying for food.",
+    "option2": "The baby cries for food.",
+    "option3": "The baby is crying for food.",
+    "option4": "The baby has cried for food.",
+    "question": "বাচ্চাটা খাবারের জন্য কাঁদছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you know to sing ?",
+    "option2": "Do you know how to sing ?",
+    "option3": "Do you know how to singing ?",
+    "option4": "Did you know how to sing ?",
+    "question": "তুমি গান জানো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I tell all that you sang well yesterday.",
+    "option2": "I told all that you have sang well yesterday.",
+    "option3": "I told all that you sang well yesterday.",
+    "option4": "I told all that you sing well yesterday.",
+    "question": "আমি সবাইকে বলেছিলাম যে তুমি কাল ভালো গেয়েছো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You had sung well today.",
+    "option2": "You have sung well today.",
+    "option3": "You are sung well today.",
+    "option4": "You have singing well today.",
+    "question": "তুমি আজ ভালো গেয়েছো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Does everybody loves to sing ?",
+    "option2": "Does everybody love singing ?",
+    "option3": "Does everybody loves singing ?",
+    "option4": "Does everybody loves sing ?",
+    "question": "সবাই কি গান গাইতে ভালোবাসে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Pramila sing very well.",
+    "option2": "Pramila sang very well.",
+    "option3": "Pramila is singing very well.",
+    "option4": "Pramila sings very well.",
+    "question": "প্রমীলা বেশ ভালো গান করে",
+    "correct": 4,
+    "isPicture": false
+    }
+]

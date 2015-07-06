@@ -1,0 +1,204 @@
+[
+    {
+        "question": "Lata said to me, \"Where do you live ?\"",
+        "words": {
+          "4": "I",
+          "1": "me",
+          "3": "Lata",
+          "2": "where",
+          "5": "did",
+          "6": "to",
+          "7": "asked",
+          "8": "lived",
+          "9": "that"
+        },
+        "answers":[[3,7,1,2,4,8]]
+    },
+    {
+        "question": "She said, \"What are you doing ?\"",
+        "words": {
+          "4": "she",
+          "1": "I",
+          "3": "me",
+          "2": "was",
+          "5": "to",
+          "6": "what",
+          "7": "that",
+          "8": "doing",
+          "9": "asked",
+          "10": "am"
+        },
+        "answers":[[4,9,3,6,1,2,8]]
+    },
+    {
+        "question": "The thief says to me, \"How have I come here ?\"",
+        "words": {
+          "4": "thief",
+          "1": "come",
+          "3": "he",
+          "2": "the",
+          "5": "me",
+          "6": "had",
+          "7": "how",
+          "8": "that",
+          "9": "asks",
+          "10": "has",
+          "11": "here",
+          "12": "to"
+        },
+        "answers":[[2,4,9,5,7,3,10,1,11]]
+    },
+    {
+        "question": "The thief said to me, \"How have I come here ?\"",
+        "words": {
+          "4": "thief",
+          "1": "come",
+          "3": "he",
+          "2": "the",
+          "5": "me",
+          "6": "had",
+          "7": "how",
+          "8": "that",
+          "9": "asks",
+          "10": "has",
+          "11": "here",
+          "12": "to"
+        },
+        "answers":[[2,4,9,5,7,3,6,1,11]]
+    },
+    {
+        "question": "The student told the teacher, \"When can I come to you ?\"",
+        "words": {
+          "4": "the teacher",
+          "1": "asked",
+          "3": "come",
+          "2": "he",
+          "5": "The student",
+          "6": "to",
+          "7": "when",
+          "8": "could",
+          "9": "him",
+          "10": "the student",
+          "11": "that"
+        },
+        "answers":[[5,1,4,7,10,8,3,6,9],[10,1,4,7,5,8,3,6,9]]
+    },
+    {
+        "question": "The teacher said, \"Who was this great man ?\"",
+        "words": {
+          "4": "this",
+          "1": "the",
+          "3": "had",
+          "2": "that",
+          "5": "teacher",
+          "6": "who",
+          "7": "great",
+          "8": "asked",
+          "9": "been",
+          "10": "man"
+        },
+        "answers":[[1,5,8,6,2,7,10,3,9]]
+    },
+    {
+        "question": "The judge told the killer, \"Why did you kill your wife ?\"",
+        "words": {
+          "4": "the killer",
+          "1": "been",
+          "3": "why",
+          "2": "the judge",
+          "5": "he",
+          "6": "his",
+          "7": "had",
+          "8": "asked",
+          "9": "wife",
+          "10": "why",
+          "11": "killed"
+        },
+        "answers":[[2,8,4,3,5,7,11,6,9]]
+    },
+    {
+        "question": "The judge said to the killer, \"How was your wife killed ?\"",
+        "words": {
+          "4": "the killer",
+          "1": "been",
+          "3": "how",
+          "2": "the judge",
+          "5": "he",
+          "6": "his",
+          "7": "had",
+          "8": "asked",
+          "9": "wife",
+          "10": "why",
+          "11": "killed"
+        },
+        "answers":[[2,8,4,3,6,9,7,1,11]]
+    },
+    {
+        "question": "Sangeeta cried, \"How shall I pass the examination then ?\"",
+        "words": {
+          "4": "cried",
+          "1": "examination",
+          "3": "how",
+          "2": "that",
+          "5": "the",
+          "6": "she",
+          "7": "Sangeeta",
+          "8": "case",
+          "9": "now",
+          "10": "in",
+          "11": "asked",
+          "12": "pass",
+          "13": "case",
+          "14": "and",
+          "15": "would"
+        },
+        "answers":[[7,4,14,11,3,6,15,12,5,1,10,2,13]]
+    },
+    {
+        "question": "Alok told Nomita, \"Do you love me ?\"",
+        "words": {
+          "4": "Nomita",
+          "1": "loved",
+          "3": "Alok",
+          "2": "that",
+          "5": "she",
+          "6": "him",
+          "7": "if",
+          "8": "asked"
+        },
+        "answers":[[3,8,4,7,5,1,6]]
+    },
+    {
+        "question": "Nabin said, \"Are you living here ?\"",
+        "words": {
+          "4": "Nabin",
+          "1": "whether",
+          "3": "I",
+          "2": "there",
+          "5": "me",
+          "6": "been",
+          "7": "was",
+          "8": "asked",
+          "9": "living"
+        },
+        "answers":[[4,8,5,1,3,7,9,2]]
+    },
+    {
+        "question": "She asked me, \"Have you ever been to England ?\"",
+        "words": {
+          "4": "England",
+          "1": "had",
+          "3": "me",
+          "2": "I",
+          "5": "she",
+          "6": "to",
+          "7": "if",
+          "8": "ever",
+          "9": "was",
+          "10": "been",
+          "11": "asked",
+          "12": "that"
+        },
+        "answers":[[5,11,3,7,2,1,8,10,6,4]]
+    }
+]

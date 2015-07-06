@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "Howrah station is very big within all stations of Kolkata.",
+    "option2": "Howrah station is very big among all stations of Kolkata.",
+    "option3": "Howrah station is very big between all stations of Kolkata.",
+    "option4": "Howrah station is very big of all stations of Kolkata.",
+    "question": "হাওড়া স্টেশন কোলকাতার সব স্টেশনের মধ্যে বড়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is running in two houses.",
+    "option2": "He is running among two houses.",
+    "option3": "He is running into two houses.",
+    "option4": "He is running between two houses.",
+    "question": "সে দুটি বাড়ীর মধ্যে দৌড়চ্ছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The man is standing in front of the signboard.",
+    "option2": "The man is standing opposite of the signboard.",
+    "option3": "The man is standing opposite the signboard.",
+    "option4": "The man is standing front of the signboard.",
+    "question": "মানুষটি সাইনবোর্ডের বিপরীত দিকে দাঁড়িয়ে আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The cycle is kept next to the book shop.",
+    "option2": "The cycle is kept side to the book shop.",
+    "option3": "The cycle is kept beside of the book shop.",
+    "option4": "The cycle is kept side of the book shop.",
+    "question": "সাইকেলটি বইয়ের দোকানের পাশে দাঁড় করানো আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The goalkeeper is between two posts.",
+    "option2": "The goalkeeper is among two posts.",
+    "option3": "The goalkeeper is inside two posts.",
+    "option4": "The goalkeeper is in two posts.",
+    "question": "গোলকিপারটি দুটি পোস্টের মাঝখানে আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Ram is the best between all students in the school.",
+    "option2": "Ram is the best within all students in the school.",
+    "option3": "Ram is the best among all students in the school.",
+    "option4": "Ram is the best of all students in the school.",
+    "question": "রাম স্কুলের সব ছাত্রদের মধ্যে শ্রেষ্ঠ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The chair is beside to the table.",
+    "option2": "The chair is next to the table.",
+    "option3": "The chair is in front of the table.",
+    "option4": "The chair is opposite the table.",
+    "question": "চেয়ারটা টেবিলের পাশে আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Kalighat temple is the oldest in all Kolkata temples.",
+    "option2": "Kalighat temple is the oldest between all Kolkata temples.",
+    "option3": "Kalighat temple is the oldest within all Kolkata temples.",
+    "option4": "Kalighat temple is the oldest among all Kolkata temples.",
+    "question": "কালীঘাট মন্দির কলকাতার সব মন্দিরের থেকে পুরানো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Some cars are parked opposite their bedroom.",
+    "option2": "Some cars are parked in front of their bedroom.",
+    "option3": "Some cars are parked next to their bedroom.",
+    "option4": "Some cars are parked before their bedroom.",
+    "question": "কিছু গাড়ি দাঁড় করানো আছে তাদের শোওয়ার ঘরের মুখোমুখি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "There is a zoo beside the garden.",
+    "option2": "There is a zoo opposite the garden.",
+    "option3": "There is a zoo next to the garden.",
+    "option4": "There is a zoo behind the garden.",
+    "question": "বাগানের পরে একটা চিড়িয়াখানা আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Sana is walking side by side her friend.",
+    "option2": "Sana is walking with her friend.",
+    "option3": "Sana is walking next to her friend.",
+    "option4": "Sana is walking next of her friend.",
+    "question": "সানা তার বন্ধুর পাশে হাঁটছে",
+    "correct": 3,
+    "isPicture": false
+    }
+]

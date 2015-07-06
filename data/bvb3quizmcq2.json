@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "My mother cooks well.",
+    "option2": "My mother cooked well.",
+    "option3": "My mother has cooked well.",
+    "option4": "My mother cooking  well.",
+    "question": "আমার মা ভালো রান্না করে",
+    "correct": 1 ,
+    "isPicture": false
+    },
+    {
+    "option1": "The story has cooked up.",
+    "option2": "The story was cook up.",
+    "option3": "The story was cooked up.",
+    "option4": "The story is cooking up.",
+    "question": "গল্পটা বানানো হয়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Are you love to cook ?",
+    "option2": "Did you love to cook ?",
+    "option3": "Have you love to cook ?",
+    "option4": "Do you love to cook ?",
+    "question": "তুমি কি রান্না করতে ভালোবাসো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He called me, 'Come, cook rice'.",
+    "option2": "He calls me, 'Go, cook rice'.",
+    "option3": "He told me, 'Come, cook rice'.",
+    "option4": "He tells me, 'Come, cook rice'.",
+    "question": "সে আমায় ডাকল্, 'এস, ভাত রাঁধো' ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "She cooked and I was helping.",
+    "option2": "She was cooking and I helped.",
+    "option3": "She was cooking and I was helping.",
+    "option4": "She cooked and I helped.",
+    "question": "সে রান্না করছিল ও আমি সাহায্য করছিলাম",
+    "correct": 3,
+    "isPicture": false  
+    },
+    {
+    "option1": "Souvik likes to driving.",
+    "option2": "Souvik likes to drive.",
+    "option3": "Souvik liked to drive.",
+    "option4": "Souvik has likes to drive.",
+    "question": "শৌভিক গাড়ি চালাতে ভালবাসে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He drives me mad.",
+    "option2": "He was driven me mad.",
+    "option3": "He had driven me mad.",
+    "option4": "He has driven me mad.",
+    "question": "সে আমাকে পাগল করে দিয়েছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "It has  not easy to drive in crowded road.",
+    "option2": "It is not easy to driving in crowded road.",
+    "option3": "It is not easy to drive in crowded road.",
+    "option4": "It was not easy to drive in crowded road.",
+    "question": "ভীড়ে গাড়ি চালানো সহজ নয়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Should you sleep when you should drive ?",
+    "option2": "Should you sleep when you drive ?",
+    "option3": "You should sleep when you drive ?",
+    "option4": "Do you sleep when you drive ?",
+    "question": "গাড়ি চালানোর সময় ঘুমোনো উচিৎ কি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I have drived safely till Canning.",
+    "option2": "I drived safely till Canning.",
+    "option3": "I had driven safely till Canning.",
+    "option4": "I drove safely till Canning.",
+    "question": "আমি ক্যানিং অবধি নিরাপদে চালিয়েছিলাম",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Hussain paints wonderfully.",
+    "option2": "Hussain painted wonderfully.",
+    "option3": "Hussain can  paint wonderfully.",
+    "option4": "Hussain painting wonderfully.",
+    "question": "হুসেন চমৎকার আঁকে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The wall has painted in blue.",
+    "option2": "The wall was painting  in blue.",
+    "option3": "The wall was painted in blue.",
+    "option4": "The wall had  painted in blue.",
+    "question": "দেওয়ালটায় নীল রঙ করা হয়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Titli has painted with brush very well.",
+    "option2": "Titli painting with brush very well.",
+    "option3": "Titli painted with brush very well.",
+    "option4": "Titli paints with brush very well.",
+    "question": "তিতলি তুলি দিয়ে ভালো আঁকে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Learn painting.",
+    "option2": "One learns painting.",
+    "option3": "One should learn painting.",
+    "option4": "One has to learn painting.",
+    "question": "আঁকা শিখতে হয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "If you have drawn, why you have not painted ?",
+    "option2": "If you have drawn, why have you not painted ?",
+    "option3": "If you have drawed, why have you not painted ?",
+    "option4": "If you have drawd, why you have not painted ?",
+    "question": "যদি এঁকেছো তো রঙ করনি কেন ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Learn to stand well before dance.",
+    "option2": "Learning to stand well before dancing.",
+    "option3": "Learn to stand well before dancing.",
+    "option4": "Learn to standing well before dancing.",
+    "question": "নাচের আগে ঠিক করে দাঁড়াতে শেখো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Don't dance to the tune of a bad man.",
+    "option2": "Don't danced to the tune of a bad man.",
+    "option3": "Don't dance to the tuning of a bad man.",
+    "option4": "Don't dancing to the tune of a bad man.",
+    "question": "খারাপ লোকের কথায় নেচো না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Don't you wanted to dance ?",
+    "option2": "Don't you want to dance ?",
+    "option3": "Didn't you want to dance ?",
+    "option4": "Don't you want to dancing ?",
+    "question": "তুমি নাচতে চাইছো না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you dance or kicking ?",
+    "option2": "Are you dancing or you are kicking ?",
+    "option3": "You dancing or kicking ?",
+    "option4": "Are you dancing or kicking ?",
+    "question": "নাচছো, না লাথি মারছো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I had danced, then fell down.",
+    "option2": "I danced, then have fallen down.",
+    "option3": "I was dancing, then was falling down.",
+    "option4": "I danced, then fallen down.",
+    "question": "আমি নাচলাম, তারপর পড়ে গেলাম",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Roadside food is taste well.",
+    "option2": "Roadside food tasted well.",
+    "option3": "Roadside food taste well.",
+    "option4": "Roadside food tastes well.",
+    "question": "রাস্তার খাবার খেতে ভালো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The tiger has tasted blood of man.",
+    "option2": "The tiger has taste blood of man.",
+    "option3": "The tiger was tasted blood of man.",
+    "option4": "The tiger has tasting blood of man.",
+    "question": "বাঘটি মানুষের রক্তের স্বাদ পেয়েছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Good taste is not mean good food.",
+    "option2": "Good tasty does not mean good food.",
+    "option3": "Good taste do not mean good food.",
+    "option4": "Good taste does not mean good food.",
+    "question": "ভালো স্বাদ মানেই ভালো খাবার নয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Dogs smell before they tasted.",
+    "option2": "Dogs taste before they smell.",
+    "option3": "Dogs smell after they taste.",
+    "option4": "Dogs smell before they taste.",
+    "question": "স্বাদ নেওয়ার আগে কুকুর শুঁকে নেয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He said that he never tastes fuchka.",
+    "option2": "He said that he never tasted fuchka.",
+    "option3": "He was saying that he was never tasting fuchka.",
+    "option4": "He was saying that he had never tasted fuchka.",
+    "question": "সে বলল যে সে কখনো ফুচকা খেয়ে দেখেনি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I touched by your music.",
+    "option2": "I was touched by your music.",
+    "option3": "I am touching by your music.",
+    "option4": "I am touched by your music.",
+    "question": "তোমার গান আমায় ছুঁয়ে গিয়েছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I have to touch up your paintwork.",
+    "option2": "I had to touch up your paintwork.",
+    "option3": "I have to touch up your paint.",
+    "option4": "I am to touched up your paintwork.",
+    "question": "তোমার রংকরাটা একটু ঠিক করে দিতে হবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Can't touch the flower so hard.",
+    "option2": "Don't touched  the flower so hard.",
+    "option3": "Don't touching the flower so hard.",
+    "option4": "Don't touch the flower so hard.",
+    "question": "ফূলটা জোরে ছূঁয়ো না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Can a doctor say,'I shall not touch a patient' ?",
+    "option2": "A doctor can not say,'I shall not touch a patient' ?",
+    "option3": "Can a doctor say, 'I will not touch a patient' ?",
+    "option4": "Should a doctor say, 'I shall not touch a patient' ?",
+    "question": "ডাক্তার কি বলতে পারে,'আমি রোগীকে ছোঁব না'?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I touch by your music.",
+    "option2": "Your music goes to touch me.",
+    "option3": "I am touched by your music.",
+    "option4": "Your music has gone to touch me.",
+    "question": "তোমার গান আমায় ছুঁয়ে গিয়েছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do I hold your hand ?",
+    "option2": "May I holding  your hand ?",
+    "option3": "May I hold your hand ?",
+    "option4": "May I held your hand ?",
+    "question": "আমি কি তোমার হাত ধরতে পারি ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Oh, if I can hold Deb's hand.",
+    "option2": "Oh, if I could hold Deb's hand.",
+    "option3": "Oh, if I could holding Deb's hand.",
+    "option4": "Oh, if I am hold Deb's hand.",
+    "question": "ইশ, আমি যদি দেবের হাত ধরতে পারতাম",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The old man said, 'Hold is my hand.' ",
+    "option2": "The old man said, 'Holding my hand.' ",
+    "option3": "The old man said, 'Held my hand.' ",
+    "option4": "The old man said, 'Hold my hand.' ",
+    "question": "বৃদ্ধ বললেন,'আমার হাত ধরো, ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I drank water, now hold the glass.",
+    "option2": "I have drunk water, now you will hold the glass.",
+    "option3": "I have drunk water, now hold the glass.",
+    "option4": "I drink water, now hold the glass.",
+    "question": "আমি জল খেয়েছি, গেলাসটা এবার ধরো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Geeta holded it tightly.",
+    "option2": "Geeta had holded it tightly.",
+    "option3": "Geeta has hold it tightly.",
+    "option4": "Geeta had held it tightly.",
+    "question": "গীতা শক্ত করে এটা ধরলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "All of them wearing hat.",
+    "option2": "All of them wore hat.",
+    "option3": "All of them are wearing hat.",
+    "option4": "All of them wear hat.",
+    "question": "তারা সবাই টুপি পরেছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "If you have worn watch, tell me the time.",
+    "option2": "If you  worn watch, tell me the time.",
+    "option3": "If you have worn watch, told me the time.",
+    "option4": "If you are worn watch, tell me the time.",
+    "question": "যদি ঘড়ি পরে থাকো তো সময়টা বলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "What type of shirt do you worn ?",
+    "option2": "What type of shirt did you worn ?",
+    "option3": "What type of shirt had you worn ?",
+    "option4": "What type of shirt have you worn ?",
+    "question": "এটা কী জামা পরেছো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you help me to wear this new dress ?",
+    "option2": "Please help me to wear this new dress.",
+    "option3": "Must you help me to wear this new dress ?",
+    "option4": "Can you wear me this new dress ?",
+    "question": "এই নতুন পোষাকটা পরতে আমায় সাহায্য করবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Rich men are wearing fine dress.",
+    "option2": "Rich men wear fine dress.",
+    "option3": "Rich men have worn fine dress.",
+    "option4": "Rich men wore fine dress.",
+    "question": "ধনী লোকেরা শৌখিন পোশাক পড়ে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Shree watched TV for three hours.",
+    "option2": "Shree watches TV for three hours.",
+    "option3": "Shree is watching TV for three hours.",
+    "option4": "Shree can watch TV for three hours.",
+    "question": "শ্রী তিনঘন্টা টিভি দেখে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I watched that he wore a watch.",
+    "option2": "I watched that he wear a watch.",
+    "option3": "I watch that he wore a watch.",
+    "option4": "I watched that he has wore a watch.",
+    "question": "আমি লক্ষ্য করলাম যে সে একটা ঘড়ি পরেছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Can watch the boy.",
+    "option2": "Watching the boy.",
+    "option3": "Watch the boy.",
+    "option4": "Watched the boy.",
+    "question": "ছেলেটাকে লক্ষ্য করো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Will I have to watch this bad cinema ?",
+    "option2": "Do I have to watch this bad cinema ?",
+    "option3": "I can not watch this bad cinema.",
+    "option4": "Shall I have to watch this bad cinema ?",
+    "question": "এই বাজে সিনেমাটা আমায় দেখতে হবে ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I hope to watching the cinema.",
+    "option2": "I hope for watching the cinema.",
+    "option3": "I hope to watch the cinema.",
+    "option4": "I hoped for watch the cinema.",
+    "question": "আমি সিনেমাটা দেখব আশা করি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "His brother had been taught me Mathematics.",
+    "option2": "His brother taught my Mathematics.",
+    "option3": "His brother teaches me Mathematics.",
+    "option4": "His brother taught me Mathematics.",
+    "question": "তার ভাই আমায় অঙ্ক শিখিয়েছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The hero teaches  a lesson to the villain.",
+    "option2": "The hero will teaching a lesson to the villain.",
+    "option3": "The hero will teach a lesson to the villain.",
+    "option4": "The hero will  be  taught a lesson to the villain.",
+    "question": "নায়ক খলনায়ককে বেশ শিক্ষা দেবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Are you want to teach ?",
+    "option2": "Did you want to teach ?",
+    "option3": "Do you want to teaching ?",
+    "option4": "Do you want to teach ?",
+    "question": "তুমি শেখাতে চাও ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The teacher teaches, but the students do not learn.",
+    "option2": "The teacher has taught, but the students could not learn.",
+    "option3": "The teacher taught, but the students did not learn.",
+    "option4": "The teacher taught, but the students could not learn.",
+    "question": "শিক্ষক শেখালেন, কিন্তু ছাত্ররা শিখতে পারল না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Perhaps he will teach me English.",
+    "option2": "Perhaps he will teaches me the English.",
+    "option3": "Perhaps he will teaching to me English.",
+    "option4": "Perhaps he will teach to me English.",
+    "question": "বোধহয় সে আমায় ইংরিজি শেখাবে",
+    "correct": 1,
+    "isPicture": false
+    }
+]

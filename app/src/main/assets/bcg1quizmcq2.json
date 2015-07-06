@@ -1,0 +1,218 @@
+[
+    {
+    "option1": "We going.",
+    "option2": "We are going.",
+    "option3": "We go.",
+    "option4": "We are go.",
+    "question": "আমরা যাই",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "We are going.",
+    "option2": "We going.",
+    "option3": "We are gone.",
+    "option4": "We shall go.",
+    "question": "আমরা যাচ্ছি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "We go.",
+    "option2": "We shall going.",
+    "option3": "We have gone.",
+    "option4": "We shall go.",
+    "question": "আমরা যাবো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We gone.",
+    "option2": "We are gone.",
+    "option3": "We have gone.",
+    "option4": "We are going.",
+    "question": "আমরা গিয়েছি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "We are not go.",
+    "option2": "We do not go.",
+    "option3": "We have not go.",
+    "option4": "We have no go.",
+    "question": "আমরা যাই না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We do not going.",
+    "option2": "We have not gone.",
+    "option3": "We are not gone.",
+    "option4": "We are not going.",
+    "question": "আমরা যাচ্ছি না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We shall not go.",
+    "option2": "We are not going.",
+    "option3": "We have not gone.",
+    "option4": "We do not go.",
+    "question": "আমরা যাবো না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "We are gone.",
+    "option2": "We went.",
+    "option3": "We did go.",
+    "option4": "We had gone.",
+    "question": "আমরা গিয়েছিলাম",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We were going.",
+    "option2": "We have going.",
+    "option3": "We are gone.",
+    "option4": "We had going.",
+    "question": "আমরা যাচ্ছিলাম",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "We not go.",
+    "option2": "We did not went.",
+    "option3": "We did not go.",
+    "option4": "We have not went.",
+    "question": "আমরা যাই নি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "We may gone.",
+    "option2": "We should go.",
+    "option3": "We have gone.",
+    "option4": "We can go.",
+    "question": "আমরা যেতে পারি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We had not go.",
+    "option2": "We shall not go.",
+    "option3": "We can not go.",
+    "option4": "We do not go.",
+    "question": "আমরা যেতে পারি না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do we go ?",
+    "option2": "Do we are going ?",
+    "option3": "Do we going ?",
+    "option4": "Do we are go ?",
+    "question": "আমরা কি যাই ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do we not go ?",
+    "option2": "Do we are not going ?",
+    "option3": "Do we have not go ?",
+    "option4": "Do we have not going ?",
+    "question": "আমরা কি যাই না ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Have we going ?",
+    "option2": "Have we are gone ?",
+    "option3": "Have we are going ?",
+    "option4": "Have we gone ?",
+    "question": "আমরা কি গিয়েছি ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Have we not gone ?",
+    "option2": "Have we are not gone ?",
+    "option3": "Have we are not went ?",
+    "option4": "Have we not went ?",
+    "question": "আমরা কি গেছি না/ গিয়েছি না ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Did we went ?",
+    "option2": "Did we go ?",
+    "option3": "Had we gone ?",
+    "option4": "Had we went ?",
+    "question": "আমরা কি গিয়েছিলাম ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Did we not went ?",
+    "option2": "Did we have not gone ?",
+    "option3": "Did we not go ?",
+    "option4": "Did we have not went ?",
+    "question": "আমরা কি যাই নি ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Can we gone ?",
+    "option2": "May we go ?",
+    "option3": "Shall we go ?",
+    "option4": "Do we go ?",
+    "question": "আমরা যেতে পারি কি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We can go.",
+    "option2": "We shall go.",
+    "option3": "We will go.",
+    "option4": "We should go.",
+    "question": "আমাদের যাওয়া উচিত",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Can we go ?",
+    "option2": "Shall we go ?",
+    "option3": "May we go ?",
+    "option4": "Did we go ?",
+    "question": "আমরা কি যাবো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We can go.",
+    "option2": "We only shall go.",
+    "option3": "We shall go.",
+    "option4": "We have gone.",
+    "question": "আমরাই যাবো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We must go.",
+    "option2": "We may go.",
+    "option3": "We shall go.",
+    "option4": "We did go.",
+    "question": "আমাদের যেতেই হবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Can not we go ?",
+    "option2": "Did not we go ?",
+    "option3": "Will we go ?",
+    "option4": "Shall we not go ?",
+    "question": "আমরা কি যাবো না ?",
+    "correct": 4,
+    "isPicture": false
+    }
+]

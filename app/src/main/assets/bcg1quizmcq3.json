@@ -1,0 +1,218 @@
+[
+    {
+    "option1": "You went.",
+    "option2": "You go.",
+    "option3": "You can go.",
+    "option4": "You are going.",
+    "question": "তুমি/তোমরা যাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You are gone.",
+    "option2": "You are went.",
+    "option3": "You are going.",
+    "option4": "You can go.",
+    "question": "তুমি/তোমরা যাচ্ছ",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You shall go.",
+    "option2": "You can go.",
+    "option3": "You going.",
+    "option4": "You will go.",
+    "question": "তুমি/তোমরা যাবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You are going.",
+    "option2": "You are went.",
+    "option3": "You went.",
+    "option4": "You have gone.",
+    "question": "তুমি/তোমরা গিয়েছ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You do not go.",
+    "option2": "You are not gone.",
+    "option3": "You do not gone.",
+    "option4": "You did not gone.",
+    "question": "তুমি/তোমরা যাও না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You can not go.",
+    "option2": "You do not go.",
+    "option3": "You are not go.",
+    "option4": "You are not going.",
+    "question": "তুমি/তোমরা যাচ্ছ না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You are not go.",
+    "option2": "You are not gone.",
+    "option3": "You can not go.",
+    "option4": "You will not go.",
+    "question": "তুমি/তোমরা যাবে না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You go.",
+    "option2": "You went.",
+    "option3": "You did gone.",
+    "option4": "You were go.",
+    "question": "তুমি/তোমরা গিয়েছিলে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You are going.",
+    "option2": "You had going.",
+    "option3": "You were going.",
+    "option4": "You going.",
+    "question": "তুমি/তোমরা যাচ্ছিলে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You did not go.",
+    "option2": "You are not went.",
+    "option3": "You had not going.",
+    "option4": "You did not going.",
+    "question": "তুমি/তোমরা যাও নি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You shall go.",
+    "option2": "You are going.",
+    "option3": "You have gone.",
+    "option4": "You can go.",
+    "question": "তুমি/তোমরা যেতে পার",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You are not go.",
+    "option2": "You can not went.",
+    "option3": "You can not go.",
+    "option4": "You will not going.",
+    "question": "তুমি/তোমরা যেতে পার না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you go ?",
+    "option2": "Do you are go ?",
+    "option3": "Do you are going ?",
+    "option4": "Do you going ?",
+    "question": "তুমি/তোমরা কি যাও ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you are not go ?",
+    "option2": "Do you not going ?",
+    "option3": "Do you not go ?",
+    "option4": "Do you are not going ?",
+    "question": "তুমি/তোমরা কি যাও না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you gone ?",
+    "option2": "Are you gone ?",
+    "option3": "Are you went ?",
+    "option4": "Have you went ?",
+    "question": "তুমি/তোমরা কি গিয়েছো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Will you not went ?",
+    "option2": "Have you not gone ?",
+    "option3": "Will you not gone ?",
+    "option4": "Have you not went ?",
+    "question": "তুমি/তোমরা  গেছিলে না /গিয়েছিলে না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Did you have went ?",
+    "option2": "Did you have gone ?",
+    "option3": "Did you went ?",
+    "option4": "Did you go ?",
+    "question": "তুমি/তোমরা কি গিয়েছিলে ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Did you not go ?",
+    "option2": "Did you have not go ?",
+    "option3": "Did you not gone ?",
+    "option4": "Did you have not gone ?",
+    "question": "তুমি/তোমরা যাও নি ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you going ?",
+    "option2": "May you go ?",
+    "option3": "Shall you go ?",
+    "option4": "Did you go ?",
+    "question": "তুমি/তোমরা যেতে পার কি ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You should went.",
+    "option2": "You should go.",
+    "option3": "You will go.",
+    "option4": "You are gone.",
+    "question": "তোমার/তোমাদের যাওয়া উচিত",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Did you go ?",
+    "option2": "Are you gone ?",
+    "option3": "Will you go ?",
+    "option4": "Can you go ?",
+    "question": "তুমি/তোমরা কি যাবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You only will go.",
+    "option2": "You will can go.",
+    "option3": "You shall to go.",
+    "option4": "You are going.",
+    "question": "তুমিই/তোমরাই যাবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You should go.",
+    "option2": "You will must go.",
+    "option3": "You can must go.",
+    "option4": "You must go.",
+    "question": "তোমায়/তোমাদের যেতেই হবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Should you go ?",
+    "option2": "Can you not go ?",
+    "option3": "Shall you go ?",
+    "option4": "Will you not go ?",
+    "question": "তুমি/তোমরা কি যাবে না ?",
+    "correct": 4,
+    "isPicture": false
+    }
+]

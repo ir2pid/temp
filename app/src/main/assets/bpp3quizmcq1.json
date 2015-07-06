@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "Break the chocolate in six pieces.",
+    "option2": "Break the chocolate by six pieces.",
+    "option3": "Break the chocolate into six pieces.",
+    "option4": "Break the chocolate to six pieces.",
+    "question": "চকলেটটিকে ভেঙ্গে ছয় টুকরো করো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The dog has joy for it.",
+    "option2": "The dog has joy behind it.",
+    "option3": "The dog has joy with it.",
+    "option4": "The dog has joy within it.",
+    "question": "কুকুরটির ভিতরে আনন্দ রয়েছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Add a little sugar to the tea.",
+    "option2": "Add a little sugar on the tea.",
+    "option3": "Add a little sugar within the tea.",
+    "option4": "Add a little sugar in the tea.",
+    "question": "চায়ে অল্প একটু চিনি দাও",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "God is in you.",
+    "option2": "God is inside you.",
+    "option3": "God is at you.",
+    "option4": "God is to you.",
+    "question": "ঈশ্বর তোমার ভিতরে আছেন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Change with some warm clothes.",
+    "option2": "Change over some warm clothes.",
+    "option3": "Change into some warm clothes.",
+    "option4": "Change of some warm clothes.",
+    "question": "পোষাক বদলে কিছু শীতের পোষাক পরো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Keep the toys under reach.",
+    "option2": "Keep the toys in reach.",
+    "option3": "Keep the toys within reach.",
+    "option4": "Keep the toys inside reach.",
+    "question": "খেলনাগুলিকে নাগালের মধ্যে রাখো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "There are five letters on the letterbox.",
+    "option2": "There are five letters inside the letterbox.",
+    "option3": "There are five letters within the letterbox.",
+    "option4": "There are five letters at the letterbox.",
+    "question": "চিঠির বাক্সে পাঁচটা চিঠি আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Divisions of the company are growing.",
+    "option2": "Divisions for the company are growing.",
+    "option3": "Divisions under the company are growing.",
+    "option4": "Divisions within the company are growing.",
+    "question": "কোম্পানী-র মধ্যে বিভেদ বেড়ে চলেছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Most plants grow better at out of house.",
+    "option2": "Most plants grow better outside house.",
+    "option3": "Most plants grow better at outside house.",
+    "option4": "Most plants grow better out of house.",
+    "question": "বেশীরভাগ উদ্ভিদ বাড়ির বাইরে বেশী ভালো বাড়ে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "One should try to live inside means.",
+    "option2": "One should try to live in means.",
+    "option3": "One should try to live with means.",
+    "option4": "One should try to live within means.",
+    "question": "সামর্থের মধ্যে থাকার চেষ্টা করা উচিৎ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "How could you throw all the paper balls outside the basket ?",
+    "option2": "How could you throw all the paper balls out of the basket ?",
+    "option3": "How could you throw all the paper balls out the basket ?",
+    "option4": "How could you throw all the paper balls in outside the basket ?",
+    "question": "কেমন করে সবকটা কাগজের বল ঝুড়ির বাইরে ছুঁড়তে পারলে ?",
+    "correct": 1,
+    "isPicture": false
+    }
+]

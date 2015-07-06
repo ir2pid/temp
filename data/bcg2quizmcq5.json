@@ -1,0 +1,164 @@
+[
+   {
+    "option1": "They could gone.",
+    "option2": "They could go.",
+    "option3": "They could be gone.",
+    "option4": "They can go.",
+    "question": "তারা/এরা যেতে পারত",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Could they  be went ?",
+    "option2": "Could they went ?",
+    "option3": "Could they go ?",
+    "option4": "Can they be going ?",
+    "question": "তারা/এরা কি যেতে পারত ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They could not go.",
+    "option2": "They could not went.",
+    "option3": "They can not go.",
+    "option4": "They could not going.",
+    "question": "তারা/এরা যেতে পারল না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Perhaps they shall go.",
+    "option2": "Perhaps they will be go.",
+    "option3": "Perhaps they will gone.",
+    "option4": "Perhaps they will go.",
+    "question": "তারা/এরা বোধহয় যাবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "They were thinking of going.",
+    "option2": "They was thinking of going.",
+    "option3": "They were thinking of go.",
+    "option4": "They thought of going.",
+    "question": "তারা/এরা যাবে ভাবছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "They had to go.",
+    "option2": "They have to go.",
+    "option3": "They have to goes.",
+    "option4": "They have went.",
+    "question": "তাদেরকে/এদেরকে যেতে হবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Will they have to going ?",
+    "option2": "Will they have  go ?",
+    "option3": "Will they have to go ?",
+    "option4": "Shall they have to go ?",
+    "question": "তাদেরকে/এদেরকে কি যেতে হবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Will they not have to gone ?",
+    "option2": "Will they not has to go ?",
+    "option3": "Will they not to go ?",
+    "option4": "Will they not have to go ?",
+    "question": "তাদেরকে/এদেরকে কি যেতে হবে না ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "They need to go.",
+    "option2": "They need go.",
+    "option3": "They can go.",
+    "option4": "They need be gone.",
+    "question": "তাদের/এদের যাবার দরকার",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Why will be they go ?",
+    "option2": "Why will they go ?",
+    "option3": "Why shall they go ?",
+    "option4": "Why will they going ?",
+    "question": "তারা/এরা কেন যাবে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Why will they not gone ?",
+    "option2": "Why will they not go ?",
+    "option3": "Why shall they not go ?",
+    "option4": "Why will they be went ?",
+    "question": "কেন তারা/এরা যাবে না ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "When shall they go ?",
+    "option2": "When will they going ?",
+    "option3": "When shall they going ?",
+    "option4": "When will they go ?",
+    "question": "তারা/এরা কখন যাবে ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Where will they going ?",
+    "option2": "Where will they go ?",
+    "option3": "Where shall they go ?",
+    "option4": "Where will they gone ?",
+    "question": "তারা/এরা কোথায় যাবে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "With whom will they go ?",
+    "option2": "With whom will they gone ?",
+    "option3": "With who will they go ?",
+    "option4": "With whom will they be  go ?",
+    "question": "তারা/এরা কার সঙ্গে যাবে ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "They wants to go.",
+    "option2": "They want to gone.",
+    "option3": "They want to goes.",
+    "option4": "They want to go.",
+    "question": "তারা/এরা যেতে চায়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "They love to gone.",
+    "option2": "They love to go.",
+    "option3": "They loves to go.",
+    "option4": "They love  go.",
+    "question": "তাদের/এদের যেতে ভালো লাগে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They wish to going.",
+    "option2": "They wish to goes.",
+    "option3": "They wish to go.",
+    "option4": "They wish went.",
+    "question": "তাদের/এদের যাবার ইচ্ছে আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "If they could go !",
+    "option2": "If they can go !",
+    "option3": "If they could went !",
+    "option4": "If they can going !",
+    "question": "তারা/এরা যদি যেতে পারত !",
+    "correct": 1,
+    "isPicture": false
+    }
+]

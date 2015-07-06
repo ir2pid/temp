@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Rubaiya said, \"I had never been there before.\"",
+        "words": {
+          "4": "Rubaiya",
+          "1": "she",
+          "3": "before",
+          "2": "never",
+          "5": "that",
+          "6": "was",
+          "7": "been",
+          "8": "I",
+          "9": "there",
+          "10": "said",
+          "11": "had"
+        },
+        "answers":[[4,10,5,1,11,2,7,9,3]]
+    },
+    {
+        "question": "Aditi told Rakesh, \"He is a nice man now.\"",
+        "words": {
+          "4": "Rakesh",
+          "1": "Aditi",
+          "3": "he",
+          "2": "man",
+          "5": "is",
+          "6": "nice",
+          "7": "now",
+          "8": "was",
+          "9": "told",
+          "10": "that",
+          "11": "then",
+          "12": "a"
+        },
+        "answers":[[1,9,4,10,3,8,12,6,2,11]]
+    },
+    {
+        "question": "Jewel said to Chandrani, \"I can help you tomorrow.\"",
+        "words": {
+          "4": "Chandrani",
+          "1": "day",
+          "3": "he",
+          "2": "the",
+          "5": "Jewel",
+          "6": "help",
+          "7": "can",
+          "8": "Chandrani",
+          "9": "said",
+          "10": "tomorrow",
+          "11": "that",
+          "12": "next",
+          "13": "could",
+          "14": "to"
+        },
+        "answers":[[5,9,14,8,11,3,13,6,4,2,12,1],[5,9,14,4,11,3,13,6,8,2,12,1]]
+    },
+    {
+        "question": "Asha said, \"If I lose my job now, I shall die.\"",
+        "words": {
+          "4": "she",
+          "1": "die",
+          "3": "her",
+          "2": "Asha",
+          "5": "job",
+          "6": "if",
+          "7": "then",
+          "8": "said",
+          "9": "would",
+          "10": "lost",
+          "11": "that",
+          "12": "she",
+          "13": "had"
+        },
+        "answers":[[2,8,11,6,12,10,3,5,7,4,9,1],[2,8,11,6,4,10,3,5,7,12,9,1]]
+    },
+    {
+        "question": "Asha said, \"If I lost my job then, I would die.\"",
+        "words": {
+          "4": "she",
+          "1": "die",
+          "3": "have",
+          "2": "Asha",
+          "5": "job",
+          "6": "if",
+          "7": "then",
+          "8": "said",
+          "9": "would",
+          "10": "lost",
+          "11": "that",
+          "12": "she",
+          "13": "had",
+          "14": "died",
+          "15": "her"
+        },
+        "answers":[[2,8,11,6,12,13,10,15,5,7,4,9,3,14],[2,8,11,6,4,13,10,15,5,7,12,9,3,14]]
+    },
+    {
+        "question": "\"I know that God is great\", cried Bibhas.",
+        "words": {
+          "4": "God",
+          "1": "saying",
+          "3": "knows",
+          "2": "he",
+          "5": "Bibhas",
+          "6": "that",
+          "7": "was",
+          "8": "knew",
+          "9": "is",
+          "10": "cried",
+          "11": "great",
+          "12": "that"
+        },
+        "answers":[[5,10,1,6,2,8,12,4,9,11],[5,10,1,12,2,8,6,4,9,11]]
+    },
+    {
+        "question": "Bibhas said, \"I know that a great thing happened in my life then.\"",
+        "words": {
+          "4": "great",
+          "1": "said",
+          "3": "knew",
+          "2": "happened",
+          "5": "a",
+          "6": "his",
+          "7": "Bibhas",
+          "8": "he",
+          "9": "then",
+          "10": "in",
+          "11": "that",
+          "12": "had",
+          "13": "life",
+          "14": "thing",
+          "15": "known",
+          "16": "that"
+        },
+        "answers":[[7,1,16,8,3,11,5,4,14,12,2,10,6,13,9],[7,1,11,8,3,16,5,4,14,12,2,10,6,13,9]]
+    },
+    {
+        "question": "Bibhas said, \"I knew that a great thing happened in my life then.\"",
+        "words": {
+          "4": "great",
+          "1": "said",
+          "3": "knew",
+          "2": "had happened",
+          "5": "a",
+          "6": "his",
+          "7": "Bibhas",
+          "8": "he",
+          "9": "then",
+          "10": "in",
+          "11": "that",
+          "12": "was",
+          "13": "life",
+          "14": "thing",
+          "15": "had known",
+          "16": "that",
+          "17": "happened"
+        },
+        "answers":[[7,1,16,8,15,11,5,4,14,2,10,6,13,9],[7,1,11,8,15,16,5,4,14,2,10,6,13,9]]
+    },
+    {
+        "question": "She said that she didn’t want to come with me.",
+        "words": {
+          "4": "to",
+          "1": "with",
+          "3": "I",
+          "2": "she",
+          "5": "want",
+          "6": "said",
+          "7": "you",
+          "8": "come",
+          "9": "go",
+          "10": "don't"
+        },
+        "answers":[[2,6,3,10,5,4,9,1,7]]
+    },
+    {
+        "question": "Deb said to Shubhashree that he was thinking of her.",
+        "words": {
+          "4": "Shubhashree",
+          "1": "had",
+          "3": "Deb",
+          "2": "I",
+          "5": "of",
+          "6": "have",
+          "7": "said",
+          "8": "you",
+          "9": "thinking",
+          "10": "to",
+          "11": "thought",
+          "12": "been",
+          "13": "am"
+        },
+        "answers":[[3,7,10,4,2,13,9,5,8]]
+    },
+    {
+        "question": "She cried to say that I had not visited her for many years.",
+        "words": {
+          "4": "me",
+          "1": "not",
+          "3": "for",
+          "2": "years",
+          "5": "she",
+          "6": "did",
+          "7": "you",
+          "8": "visit",
+          "9": "cried",
+          "10": "many",
+          "11": "had",
+          "12": "visited"
+        },
+        "answers":[[5,9,7,6,1,8,4,3,10,2]]
+    },
+    {
+        "question": "Sabita said that I had been playing cricket when she had seen me.",
+        "words": {
+          "4": "you",
+          "1": "cricket",
+          "3": "had",
+          "2": "Sabita",
+          "5": "you",
+          "6": "I",
+          "7": "were",
+          "8": "when",
+          "9": "playing",
+          "10": "said",
+          "11": "seen",
+          "12": "saw"
+        },
+        "answers":[[2,10,5,7,9,1,8,6,12,4],[2,10,4,7,9,1,8,6,12,5]]
+    },
+    {
+        "question": "Dilip said to his mother that he would be late that night.",
+        "words": {
+          "4": "mother",
+          "1": "I",
+          "3": "Dilip",
+          "2": "shall",
+          "5": "his",
+          "6": "late",
+          "7": "to",
+          "8": "be",
+          "9": "said",
+          "10": "tonight",
+          "11": "should",
+          "12": "that night"
+        },
+        "answers":[[3,9,7,5,4,1,2,8,6,10]]
+    },
+    {
+        "question": "I said that I knew that if I had said something wrong there, the teacher would have punished me.",
+        "words": {
+          "4": "punished",
+          "1": "had",
+          "3": "something",
+          "2": "teacher",
+          "5": "have",
+          "6": "that",
+          "7": "the",
+          "8": "I said",
+          "9": "there",
+          "10": "I",
+          "11": "I knew",
+          "12": "wrong",
+          "13": "me",
+          "14": "would",
+          "15": "if",
+          "16": "said",
+          "17": "that"
+        },
+        "answers":[[8,17,11,6,15,10,1,16,3,12,9,7,2,14,5,4,13],[8,6,11,17,15,10,1,16,3,12,9,7,2,14,5,4,13]]
+    }
+]

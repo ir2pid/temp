@@ -1,0 +1,272 @@
+[
+    {
+    "option1": "Name of you is Geeta.",
+    "option2": "Is your name Geeta.",
+    "option3": "Your name is Geeta.",
+    "option4": "Your name is the Geeta.",
+    "question": "তোমার নাম গীতা",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Our names Sita and Gita.",
+    "option2": "Our names are Sita and Gita.",
+    "option3": "We have names Sita and Gita.",
+    "option4": "Our name is Sita and Gita.",
+    "question": "আমাদের নাম সীতা ও গীতা",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "We sister.",
+    "option2": "We are the sisters.",
+    "option3": "We sisters.",
+    "option4": "We are sisters.",
+    "question": "আমরা বোন হই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Their names are Asit, Arun and Barun.",
+    "option2": "Their name is Asit, Arun and Barun.",
+    "option3": "Their name are Asit, Arun and Barun.",
+    "option4": "There names are Asit, Arun and Barun.",
+    "question": "তাদের নাম অসিত, অরুণ ও বরুণ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "They are the brothers.",
+    "option2": "They are brother.",
+    "option3": "They brothers are.",
+    "option4": "They are brothers.",
+    "question": "তারা ভাই হয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "His name Alok.",
+    "option2": "Alok his name.",
+    "option3": "His name is Alok.",
+    "option4": "He's name is Alok.",
+    "question": "তার নাম অলোক",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Her name Nasima.",
+    "option2": "His name is Nasima.",
+    "option3": "Her name is Nasima.",
+    "option4": "Nasima his name.",
+    "question": "তার নাম নাসীমা",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They are the friends.",
+    "option2": "They are friends.",
+    "option3": "Them are friends.",
+    "option4": "They are friend.",
+    "question": "তারা বন্ধু",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Its name is Lucy.",
+    "option2": "It's name is Lucy.",
+    "option3": "Its name Lucy.",
+    "option4": "Lucy is it's name.",
+    "question": "এর/এটির নাম লুসি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "It a dog.",
+    "option2": "This is the dog.",
+    "option3": "This is a dog.",
+    "option4": "It is the dog.",
+    "question": "এটি একটি কুকুর",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "There is a boy.",
+    "option2": "A boy has here.",
+    "option3": "Here has a boy.",
+    "option4": "Here is a boy.",
+    "question": "এখানে একটি ছেলে আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The boy is here.",
+    "option2": "The boy has here.",
+    "option3": "The boy is in here.",
+    "option4": "The boy has at here.",
+    "question": "ছেলেটি এখানে আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Here a pen has.",
+    "option2": "A pen has here.",
+    "option3": "Here is the pen.",
+    "option4": "Here is a pen.",
+    "question": "এখানে একটি পেন আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "A pen here has.",
+    "option2": "The pen has here.",
+    "option3": "A pen is there.",
+    "option4": "The pen is here.",
+    "question": "পেনটি এখানে আছে ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "There has a boy.",
+    "option2": "There is a boy.",
+    "option3": "There is the boy.",
+    "option4": "A boy has there.",
+    "question": "সেখানে একটি ছেলে আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "There is a pen.",
+    "option2": "There has a pen.",
+    "option3": "Their is a pen.",
+    "option4": "There a pen is.",
+    "question": "সেখানে একটি পেন আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The pen has there.",
+    "option2": "The pen is there.",
+    "option3": "A pen has there.",
+    "option4": "There a pen has.",
+    "question": "পেনটি সেখানে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "This Alok.",
+    "option2": "It is Alok.",
+    "option3": "Here Alok is.",
+    "option4": "Here is Alok.",
+    "question": "এই অলোক",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Here is Alok’s pen.",
+    "option2": "Alok has a pen here.",
+    "option3": "Here has Alok a pen.",
+    "option4": "This Alok’s pen.",
+    "question": "এটি অলোকের পেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Here is I.",
+    "option2": "Here am I.",
+    "option3": "Am I here.",
+    "option4": "This is I.",
+    "question": "এই আমি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Here is I.",
+    "option2": "Am I here.",
+    "option3": "I am here.",
+    "option4": "Me am here.",
+    "question": "আমি এখানে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You there.",
+    "option2": "You are there.",
+    "option3": "There is you.",
+    "option4": "There you are.",
+    "question": "তুমি ওখানে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Here he.",
+    "option2": "He is here.",
+    "option3": "There is he.",
+    "option4": "He is there.",
+    "question": "এই সে/তিনি ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He here.",
+    "option2": "Here he.",
+    "option3": "There is he.",
+    "option4": "He is here.",
+    "question": "তিনি এখানে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Here my toy.",
+    "option2": "Here is my toy.",
+    "option3": "Here my toy is.",
+    "option4": "Here is toy of me.",
+    "question": "আমার খেলনা এখানে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Your toy is here.",
+    "option2": "Your toy here.",
+    "option3": "Your toy is there.",
+    "option4": "There is your toy.",
+    "question": "তোমার খেলনা এখানে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "His toy is here.",
+    "option2": "His toy there is.",
+    "option3": "His toy is there.",
+    "option4": "There his toy.",
+    "question": "তার খেলনা সেখানে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Our toys here.",
+    "option2": "Our toys are here.",
+    "option3": "Ours toys are here.",
+    "option4": "Our toys are there.",
+    "question": "আমাদের খেলনাগুলো এখানে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "There toys are their.",
+    "option2": "Their toys are here.",
+    "option3": "Their toys are there.",
+    "option4": "Here are their toys.",
+    "question": "তাদের  খেলনাগুলো সেখানে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Its toy is here.",
+    "option2": "It's toy is here.",
+    "option3": "Its toys are here.",
+    "option4": "Here is it's toy.",
+    "question": "এর/এটির খেলনা এখানে",
+    "correct": 1,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "As prayers go on, blessings come down.",
+    "option2": "As prayers go up, blessings come under.",
+    "option3": "As prayers go on, blessings come under.",
+    "option4": "As prayers go up, blessings come down.",
+    "question": "প্রার্থনা ওপরে গেলে আশীর্বাদ নীচে নামে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The balloon is above in the sky.",
+    "option2": "The balloon is up in the sky.",
+    "option3": "The balloon is on the sky.",
+    "option4": "The balloon rises on the sky.",
+    "question": "বেলুনটি আকাশে উঠছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The car is beside a bike.",
+    "option2": "The bike is behind a car.",
+    "option3": "The bike is after a car.",
+    "option4": "The car is in front of a bike.",
+    "question": "গাড়িটি বাইকের সামনে আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "One goes up, so another one goes below.",
+    "option2": "One goes above, so another one goes down.",
+    "option3": "One goes up, so another one goes down.",
+    "option4": "One goes above, so another one goes below.",
+    "question": "একজন ওঠে, তাই আরেকজন নামে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The sun is smiling at back of clouds.",
+    "option2": "The sun is smiling behind clouds.",
+    "option3": "The sun is smiling after clouds.",
+    "option4": "The sun is smiling under clouds.",
+    "question": "সূর্য মেঘের পিছনে হাসছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Jack and Jill went up the hill.",
+    "option2": "Jack and Jill went above the hill.",
+    "option3": "Jack and Jill went up above the hill.",
+    "option4": "Jack and Jill went over the hill.",
+    "question": "জ্যাক এবং জিল পাহাড় বেয়ে উঠেছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The criminal is in the bars now.",
+    "option2": "The criminal is behind the bars now.",
+    "option3": "The criminal is inside the bars now.",
+    "option4": "The criminal is at the bars now.",
+    "question": "অপরাধী এখন জেলে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They are singing to the audience.",
+    "option2": "They are singing front of the audience.",
+    "option3": "They are singing in front of the audience.",
+    "option4": "They are singing before to the audience.",
+    "question": "তারা দর্শকদের সামনে গান করছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The old man is crawling after the start line.",
+    "option2": "The old man is crawling behind of the start line.",
+    "option3": "The old man is crawling behind the start line.",
+    "option4": "The old man is crawling next to the start line.",
+    "question": "বৃদ্ধ লোকটি আরম্ভরেখার পিছনে হামাগুড়ি দিচ্ছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They two are quarreling in front of the house.",
+    "option2": "They two are quarreling next to the house.",
+    "option3": "They two are quarreling front of the house.",
+    "option4": "They two are quarreling before of the house.",
+    "question": "তারা দুজনে বাড়ির সামনে ঝগড়া করছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The boy is hiding after the tree.",
+    "option2": "The boy is hiding behind of the tree.",
+    "option3": "The boy is hiding back of the tree.",
+    "option4": "The boy is hiding behind the tree.",
+    "question": "ছেলেটি গাছের পিছনে লুকিয়ে আছে",
+    "correct": 4,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "He sang with me.",
+    "option2": "He sang by me.",
+    "option3": "He sang to me.",
+    "option4": "He sang next to me.",
+    "question": "সে আমার সঙ্গে গেয়েছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The price on the book is Rs. 75",
+    "option2": "The price of the book is Rs. 75",
+    "option3": "The price with the book is Rs. 75",
+    "option4": "The price in the book is Rs. 75",
+    "question": "এই বইটির দাম পঁচাত্তর টাকা",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Can I have a cup with tea ?",
+    "option2": "Can I have a cup by tea ?",
+    "option3": "Can I have a cup of tea ?",
+    "option4": "Can I have a cup in tea ?",
+    "question": "আমি কি এক কাপ চা পেতে পারি ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Where do you come from ?",
+    "option2": "Where do you come by ?",
+    "option3": "Where do you come in ?",
+    "option4": "Where do you come to ?",
+    "question": "আপনি কোথা থেকে আসছেন ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Mother ate the food in a spoon.",
+    "option2": "Mother ate the food from a spoon.",
+    "option3": "Mother ate the food with a spoon.",
+    "option4": "Mother ate the food to a spoon.",
+    "question": "মা খাবারটি চামচ দিয়ে খেয়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "We drove down from Kolkata to Delhi.",
+    "option2": "We drove down from Delhi and Kolkata.",
+    "option3": "We drove down between Delhi and Kolkata.",
+    "option4": "We drove down from Delhi to Kolkata.",
+    "question": "আমরা দিল্লী থেকে কোলকাতা গাড়ি চালিয়ে এসেছিলাম",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "This is a picture with my family.",
+    "option2": "This is a picture of my family.",
+    "option3": "This is a picture from my family.",
+    "option4": "This is a picture by my family.",
+    "question": "এটি আমার পরিবারের ছবি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "She is the girl with long hair.",
+    "option2": "She is the girl of long hair.",
+    "option3": "She is the girl in long hair.",
+    "option4": "She is the girl for long hair.",
+    "question": "এই মেয়েটির লম্বা চুল আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "This table is made with wood.",
+    "option2": "This table is made from wood.",
+    "option3": "This table is made by wood.",
+    "option4": "This table is made of wood.",
+    "question": "এই টেবিলগুলি কাঠের তৈরি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you mix this fluid to the drink ?",
+    "option2": "Can you mix this fluid in the drink ?",
+    "option3": "Can you mix this fluid with the drink ?",
+    "option4": "Can you mix this fluid on the drink ?",
+    "question": "তুমি কি পানীয়টির সঙ্গে এই তরল পদার্থটি মেশাতে পারবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They got married in the summer in year 2000.",
+    "option2": "They got married in the summer of year 2000.",
+    "option3": "They got married in the summer on year 2000.",
+    "option4": "They got married in the summer by year 2000.",
+    "question": "ওরা দু'হাজার সালের গ্রীষ্মে বিবাহ করেছিল",
+    "correct": 2,
+    "isPicture": false
+    }
+]

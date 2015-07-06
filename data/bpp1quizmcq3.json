@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "There is a shop at the left side.",
+    "option2": "There is a shop by the left side.",
+    "option3": "There is a shop on the left side.",
+    "option4": "There is a shop in the left side.",
+    "question": "বাঁদিকে একটা দোকান আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The baby is walking in the grass.",
+    "option2": "The baby is walking at the grass.",
+    "option3": "The baby is walking down the grass.",
+    "option4": "The baby is walking on the grass.",
+    "question": "শিশুটি ঘাসের উপর হাঁটছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The baby is playing on the garden.",
+    "option2": "The baby is playing in the garden.",
+    "option3": "The baby is playing at the garden.",
+    "option4": "The baby is playing of the garden.",
+    "question": "শিশুটি বাগানে খেলছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He who is in the middle only is in danger.",
+    "option2": "He who is at the middle only is in danger.",
+    "option3": "He who is on the middle only is on danger.",
+    "option4": "He who is in the middle only is at danger.",
+    "question": "যে জন আছে মাঝখানে, তারই বিপদ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "What is there to the end of our path ?",
+    "option2": "What is there in the end of our path ?",
+    "option3": "What is there at the end of our path ?",
+    "option4": "What is there on the end of our path ?",
+    "question": "আমাদের পথের শেষে কি আছে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The story has no drama in the start.",
+    "option2": "The story has no drama on the beginning.",
+    "option3": "The story has no drama on the start.",
+    "option4": "The story has no drama in the beginning.",
+    "question": "গল্পের শুরুতে কোন নাটকীয়তা নেই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "News of that thief is on today’s newspapers.",
+    "option2": "News of that thief is at today’s newspapers.",
+    "option3": "News of that thief is in today’s newspapers.",
+    "option4": "News of that thief is with today’s newspapers.",
+    "question": "আজকের খবরের কাগজে সেই চোরের খবর রয়েছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Some say, everything is alright in the end.",
+    "option2": "Some say, everything is alright at the end.",
+    "option3": "Some say, everything is alright to the end.",
+    "option4": "Some say, everything is alright after the end.",
+    "question": "কেউ কেউ বলে, শেষে সব ঠিক হয়ে যায়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Deepak's friends play football in the playground.",
+    "option2": "Deepak's friends play football at the playground.",
+    "option3": "Deepak's friends play football to the playground.",
+    "option4": "Deepak's friends play football on the playground.",
+    "question": "দীপকের বন্ধুরা খেলার মাঠে ফুটবল খেলে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Put your hand to the newspaper.",
+    "option2": "Put your hand at the newspaper.",
+    "option3": "Put your hand on the newspaper.",
+    "option4": "Put your hand in the newspaper.",
+    "question": "তোমার হাত খবরের কাগজের ওপর রাখো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "All runners are same in the start line of a race.",
+    "option2": "All runners are same on the start line of a race.",
+    "option3": "All runners are same to the start line of a race.",
+    "option4": "All runners are same behind the start line of a race.",
+    "question": "দৌড়ের শুরুর লাইনে সব দৌড়বাজই সমান",
+    "correct": 2,
+    "isPicture": false
+    }
+]

@@ -1,0 +1,166 @@
+[
+    {
+        "question": "আমি ফুটবল খেলা ভালবাসি",
+        "words": {
+          "4": "I",
+          "1": "play",
+          "3": "like",
+          "2": "game",
+          "5": "playing",
+          "6": "to",
+          "7": "football"
+        },
+        "answers":[[4,3,5,7]]
+    },
+    {
+        "question": "ফুটবল খেলা স্বাস্থ্যের পক্ষে ভালো",
+        "words": {
+          "4": "football",
+          "1": "good",
+          "3": "game",
+          "2": "playing",
+          "5": "for",
+          "6": "of",
+          "7": "is",
+          "8": "health"
+        },
+        "answers":[[2,4,7,1,5,8]]
+    },
+    {
+        "question": "আমি কবিতা পড়া ভালবাসি",
+        "words": {
+          "4": "poetry",
+          "1": "I",
+          "3": "reading",
+          "2": "liking",
+          "5": "to",
+          "6": "read",
+          "7": "like"
+        },
+        "answers":[[1,7,3,4]]
+    },
+    {
+        "question": "কবিতা পড়া আমায় আনন্দ দেয়",
+        "words": {
+          "4": "happiness",
+          "1": "gives",
+          "3": "reading",
+          "2": "the",
+          "5": "me",
+          "6": "poetry"
+        },
+        "answers":[[3,6,1,5,4]]
+    },
+    {
+        "question": "সে উপন্যাস লেখা ভালবাসে",
+        "words": {
+          "4": "writing",
+          "1": "he",
+          "3": "loving",
+          "2": "writes",
+          "5": "novels",
+          "6": "to",
+          "7": "the",
+          "8": "loves"
+        },
+        "answers":[[1,8,4,5]]
+    },
+    {
+        "question": "কিন্তু উপন্যাস লেখা কি সোজা কাজ ?",
+        "words": {
+          "4": "writing",
+          "1": "easy",
+          "3": "working",
+          "2": "but",
+          "5": "an",
+          "6": "it",
+          "7": "novel",
+          "8": "work",
+          "9": "write",
+          "10": "the"
+        },
+        "answers":[[2,11,4,7,5,1,8]]
+    },
+    {
+        "question": "শিশুরা কোলাহল করা ভালোবাসে",
+        "words": {
+          "4": "children",
+          "1": "making",
+          "3": "loves",
+          "2": "noise",
+          "5": "doing",
+          "6": "love",
+          "7": "Childrens"
+        },
+        "answers":[[4,6,1,2]]
+    },
+    {
+        "question": "কিন্তু আমাদের দ্বারা কোলাহল করা এক লজ্জার কথা",
+        "words": {
+          "4": "shameful",
+          "1": "noise",
+          "3": "but",
+          "2": "by",
+          "5": "is",
+          "6": "to",
+          "7": "us",
+          "8": "making"
+        },
+        "answers":[[3,8,1,2,7,5,4]]
+    },
+    {
+        "question": "কিচ্ছু না করে আমি আর চালাতে পারছি না",
+        "words": {
+          "4": "nothing",
+          "1": "not",
+          "3": "on",
+          "2": "I",
+          "5": "go",
+          "6": "doing",
+          "7": "can",
+          "8": "going",
+          "9": "do"
+        },
+        "answers":[[2,7,1,5,3,6,4]]
+    },
+    {
+        "question": "কিচ্ছু না করা আমায় অসুস্থ করে দেয়",
+        "words": {
+          "4": "doing",
+          "1": "me",
+          "3": "making",
+          "2": "nothing",
+          "5": "sick",
+          "6": "makes"
+        },
+        "answers":[[4,2,6,1,5]]
+    },
+    {
+        "question": "এখনকার মত খেলা বন্ধ কর",
+        "words": {
+          "4": "stop",
+          "1": "for",
+          "3": "play",
+          "2": "now",
+          "5": "stopping",
+          "6": "playing"
+        },
+        "answers":[[4,6,1,2]]
+    },
+    {
+        "question": "একই কথা বলে যেও না",
+        "words": {
+          "4": "keeping",
+          "1": "to",
+          "3": "saying",
+          "2": "thing",
+          "5": "do",
+          "6": "keep",
+          "7": "same",
+          "8": "say",
+          "9": "not",
+          "10": "the"
+        },
+        "answers":[[5,9,6,3,10,7,2]]
+    }
+]

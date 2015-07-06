@@ -1,0 +1,92 @@
+[
+    {
+    "option1": "Take this pill after dinner.",
+    "option2": "Take the dinner before this pill.",
+    "option3": "Take this pill before the dinner.",
+    "option4": "Take the dinner after the pill.",
+    "question": "এই বড়িটি নৈশভোজের পর খেয়ে নিও",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The exhibition was held in a week.",
+    "option2": "The exhibition was held since a week.",
+    "option3": "The exhibition was held for a week.",
+    "option4": "The exhibition was held till a week.",
+    "question": "প্রদর্শনীটি এক সপ্তাহ ধরে চলেছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Close the windows before the storm starts.",
+    "option2": "Close the windows by the storm starts.",
+    "option3": "Close the windows ahead of the storm starts.",
+    "option4": "Close the windows until the storm starts.",
+    "question": "ঝড় ওঠার আগে জানালা বন্ধ করো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Bimal arrived after Suman.",
+    "option2": "Bimal arrived before Suman.",
+    "option3": "Bimal arrived in front of Suman.",
+    "option4": "Bimal arrived past Suman.",
+    "question": "বিমল সুমনের আগে এসেছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He will leave his job till he returns from America.",
+    "option2": "He will leave his job since he returns from America.",
+    "option3": "He will leave his job before he returns from America.",
+    "option4": "He will leave his job after he returns from America.",
+    "question": "আমেরিকা থেকে ফিরে সে চাকরি ছেড়ে দেবে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "It has been raining continuously till the last five days.",
+    "option2": "It has been raining continuously since the last five days.",
+    "option3": "It has been raining continuously for the last five days.",
+    "option4": "It has been raining continuously during the last five days.",
+    "question": "গত পাঁচ দিন ধরে টানা বৃষ্টি হচ্ছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you seen that man ahead ?",
+    "option2": "Have you seen that man ago ?",
+    "option3": "Have you seen that man past ?",
+    "option4": "Have you seen that man before ?",
+    "question": "ওই লোকটিকে আগে দেখেছো কি ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Police rescued the child after breaking the door.",
+    "option2": "Police rescued the child past breaking the door.",
+    "option3": "Police rescued the child before breaking the door.",
+    "option4": "Police rescued the child over breaking the door.",
+    "question": "দরজা ভেঙে পুলিশ শিশুটিকে উদ্ধার করেছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The breakfast was ready on 8 AM.",
+    "option2": "The breakfast was ready after 8 AM.",
+    "option3": "The breakfast was ready before 8 AM.",
+    "option4": "The breakfast was ready since 8 AM.",
+    "question": "সকাল আটটার আগে প্রাত:রাশ তৈরী ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Do not use that road next to 6 PM.",
+    "option2": "Do not use that road after 6 PM.",
+    "option3": "Do not use that road past 6 PM.",
+    "option4": "Do not use that road over 6 PM.",
+    "question": "সন্ধ্যে ছ’টার পর ওই পথ ব্যবহার কোরো না",
+    "correct": 2,
+    "isPicture": false
+    }
+]

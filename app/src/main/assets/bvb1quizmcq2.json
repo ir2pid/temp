@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "The child had broken the toy.",
+    "option2": "The child brokes the toy.",
+    "option3": "Children breaks toy.",
+    "option4": "Children break toys.",
+    "question": "বাচ্চারা খেলনা ভাঙে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Their friendship is broken up.",
+    "option2": "Their friendship has broken up.",
+    "option3": "Their friendship brakes up.",
+    "option4": "Their friendship broke.",
+    "question": "তাদের বন্ধুত্ব ভেঙে গিয়েছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He has broken the TV.",
+    "option2": "He has broke the TV.",
+    "option3": "He is broken the TV.",
+    "option4": "He brakes the TV.",
+    "question": "সে টিভিটা ভেঙেছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He did not wanted to break it.",
+    "option2": "He did not want to break it.",
+    "option3": "He do not want to break it.",
+    "option4": "He not want to break it.",
+    "question": "সে এটা ভাঙতে চায় নি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The thief breaks the back door.",
+    "option2": "The thief has broken the back door.",
+    "option3": "The thief is breaking the back door.",
+    "option4": "The thief broke the back door.",
+    "question": "চোরটি পেছনের দরজাটি ভেঙেছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "This television does not worked anymore.",
+    "option2": "This television not working anymore.",
+    "option3": "This television do not work anymore.",
+    "option4": "This television does not work anymore.",
+    "question": "এই টিভিটা আর কাজ করে না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Let us go out the sum.",
+    "option2": "Let us work out the sum.",
+    "option3": "Let us worked out the sum.",
+    "option4": "Go us work the sum.",
+    "question": "চল, অঙ্কটা শেষ করি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Where do you work ?",
+    "option2": "Where are you work ?",
+    "option3": "Where is your work ?",
+    "option4": "Where have you worked ?",
+    "question": "তুমি কোথায় কাজ করো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Chabi could not finished the work.",
+    "option2": "Chabi could not finish the work.",
+    "option3": "Chabi can not finish the work.",
+    "option4": "Chabi did not finish the work.",
+    "question": "ছবি কাজটা শেষ করতে পারেনি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "His father work in a factory and making cars.",
+    "option2": "His father works in a factory and makes cars.",
+    "option3": "His father works in a factory and has made cars.",
+    "option4": "His father work in a factory and make cars.",
+    "question": "তার বাবা একটি কারখানায় কাজ করে ও গাড়ি তৈরী করে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Madhabi never ate meat.",
+    "option2": "Madhabi did not ate meat.",
+    "option3": "Madhabi never eats meat.",
+    "option4": "Madhabi had not ate meat.",
+    "question": "মাধবী কখনো মাংস খায় নি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you ever eating chowmin before ?",
+    "option2": "Did you ever eaten chowmin before ?",
+    "option3": "Have you ever eaten chowmin before ?",
+    "option4": "Have you ever eat chowmin ?",
+    "question": "তুমি কি আগে কখনো চাউমিন খেয়েছো ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You eating quickly.",
+    "option2": "Eat quickly.",
+    "option3": "Have eaten quickly.",
+    "option4": "You are eating quickly.",
+    "question": "তুমি তাড়াতাড়ি খেয়ে নাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Drank water before you eat.",
+    "option2": "Drink water before you eating.",
+    "option3": "Drink water before you eat.",
+    "option4": "Drink water after you eat.",
+    "question": "খাবার আগে জল খেও",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I eat to fruits.",
+    "option2": "I ate to fruits.",
+    "option3": "I eat fruits.",
+    "option4": "I have eaten to fruits.",
+    "question": "আমি ফল খাই",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "They drink water, but did not eat food.",
+    "option2": "They drank water, but did not eat food.",
+    "option3": "They drank water, but not eat food.",
+    "option4": "They have drank water, but did not eaten food.",
+    "question": "তারা জল খেলো, কিন্তু খাবার খেল না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": " Did you drunk Pepsi before ?",
+    "option2": "Do you drunk Pepsi before ?",
+    "option3": "Have you drink Pepsi before ?",
+    "option4": "Have you drunk Pepsi before ?",
+    "question": "তুমি কি আগে পেপসি খেয়েছো ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you drunk water ?",
+    "option2": "Had you drunk water ?",
+    "option3": "Do you drunk water ?",
+    "option4": "Have you drink water ?",
+    "question": "তুমি জল খেয়েছো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Now you shall drank water.",
+    "option2": "Now you should drink water.",
+    "option3": "Now you have drink water.",
+    "option4": "Now you are drink water.",
+    "question": "এখন তোমার জল খাওয়া উচিৎ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I drink water.",
+    "option2": "I drunk to water.",
+    "option3": "I drinks water.",
+    "option4": "I drank to water.",
+    "question": "আমি জল পান করি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Samiran is see the ball.",
+    "option2": "Samiran see the ball.",
+    "option3": "Samiran can see the ball.",
+    "option4": "Samiran can be seen the ball.",
+    "question": "সমীরণ বলটা দেখতে পাচ্ছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "See it works.",
+    "option2": "See if it worked.",
+    "option3": "See if it working.",
+    "option4": "See if it works.",
+    "question": " দেখে নাও এটা কাজ করে কিনা",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you see the moon today ?",
+    "option2": "Have you seen the moon today ?",
+    "option3": "Are you seen the moon today ?",
+    "option4": "Have you saw the moon today ?",
+    "question": "তুমি আজ চাঁদ দেখেছো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They are thinking of seeing the patient.",
+    "option2": "They were thinking of seeing the patient.",
+    "option3": "They thought of seeing the patient.",
+    "option4": "They were thinking of see the patient.",
+    "question": "তারা রোগীটিকে দেখবে ভাবছিলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I have seen Deb in a shooting.",
+    "option2": "I had seen to Deb in a shooting.",
+    "option3": "I saw Deb in a shooting.",
+    "option4": "I seed Deb in a shooting.",
+    "question": "আমি দেবকে একটা শুটিঙে দেখেছিলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Sabitri is looking at the sun.",
+    "option2": "Sabitri  looking  the sun.",
+    "option3": "Sabitri is look at the sun.",
+    "option4": "Sabitri looks at the sun.",
+    "question": "সাবিত্রী সূর্যের দিকে তাকিয়ে আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Tapan has looked after his dog.",
+    "option2": "Tapan has to look after his dog.",
+    "option3": "Tapan has to look his dog.",
+    "option4": "Tapan have to look at his dog.",
+    "question": "তপনকে তার কুকুরের দেখভাল করতে হয়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Look  on me.",
+    "option2": "Look to me.",
+    "option3": "Looking  at me.",
+    "option4": "Look  at me.",
+    "question": "আমার দিকে তাকাও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The baby has looking at the flower.",
+    "option2": "The baby looked at the flower.",
+    "option3": "The baby is looking at the flower.",
+    "option4": "The baby has looked at the flower.",
+    "question": "বাচ্চাটি ফুলের দিকে তাকালো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Do not look to me.",
+    "option2": "Do not looking at me.",
+    "option3": "You do not look to me.",
+    "option4": "Do not look at me.",
+    "question": "আমার দিকে তাকিও না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Will you hear me ?",
+    "option2": "Can you heard me ?",
+    "option3": "Can you hear me ?",
+    "option4": "Are you hear me ?",
+    "question": "তুমি কি আমায় শুনতে পাচ্ছো ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He is hard of hearing.",
+    "option2": "He is hard of hear.",
+    "option3": "He is little of hearing.",
+    "option4": "He can hear small.",
+    "question": " সে কানে কম শোনে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Yes, I have hear the news.",
+    "option2": "Yes, I have heard the news.",
+    "option3": "Yes, I heard the news.",
+    "option4": "Yes, I had heard the news.",
+    "question": "হ্যাঁ খবরটা আমি শুনেছি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He can not hear them.",
+    "option2": "He did not hear them.",
+    "option3": "He could not hear them.",
+    "option4": "He  heard no word them.",
+    "question": "সে তাদের কথা শুনতে পেলো না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Chandana had heard the call.",
+    "option2": "Chandana heared the call.",
+    "option3": "Chandana was hearing the call.",
+    "option4": "Chandana has heared the call.",
+    "question": "চন্দনা ডাকটা শুনতে পেলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He said that \"I am Shombhu.\"",
+    "option2": "He said, \"But I was Shombhu.\"",
+    "option3": "He said, \"But I am Shombhu.\"",
+    "option4": "He said, \"But he is Shombhu.\"",
+    "question": "সে বলল, \"কিন্তু আমি যে শম্ভু\"",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The clock said that was noon.",
+    "option2": "The clock says noon.",
+    "option3": "The clock says it was noon.",
+    "option4": "The clock says noon has come.",
+    "question": "ঘড়ি বলছে দুপুর হয়েছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "What did he say ?",
+    "option2": "What did he said ?",
+    "option3": "What was he say ?",
+    "option4": "What had he say ?",
+    "question": "সে কী বললো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Thought  before you say.",
+    "option2": "Think before you said.",
+    "option3": "Think before you say.",
+    "option4": "Thinking  before your say.",
+    "question": "বলার আগে ভাবো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Bharati and Anjana says 'hello' to me everyday.",
+    "option2": "Bharati and Anjana are saying 'hello' me everyday.",
+    "option3": "Bharati and Anjana have said 'hello' me everyday.",
+    "option4": "Bharati and Anjana say 'hello' to me everyday.",
+    "question": "ভারতী ও অঞ্জনা রোজ আমায় হ্যালো বলে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Lakshmi told Sanoka, \"I shall going tomorrow.\"",
+    "option2": "Lakshmi told Sanoka, \"I went tomorrow.\"",
+    "option3": "Lakshmi told Sanoka, \"I go tomorrow.\"",
+    "option4": "Lakshmi told Sanoka, \"I shall go tomorrow.\"",
+    "question": "লক্ষ্মী সনকাকে বললো, \"আমি কাল যাবো\"",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Never told a lie.",
+    "option2": "Never tells a lie.",
+    "option3": "Never tell a lie.",
+    "option4": "Never is tell a lie.",
+    "question": "কখনো মিথ্যা বোলো না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Your name tell.",
+    "option2": "Shall tell your name.",
+    "option3": "Told your name.",
+    "option4": "Tell your name.",
+    "question": "তোমার নাম বলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Barun told to me his name.",
+    "option2": "Barun told his name me.",
+    "option3": "Barun told me his name.",
+    "option4": "Barun told me his name was.",
+    "question": "বরুণ আমাকে তার নাম বললো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Manjul tells Shiuli for do work.",
+    "option2": "Manjul tells Shiuli to do work.",
+    "option3": "Manjul tells to Shiuli to do work.",
+    "option4": "Manjul tells to Shiuli to doing work.",
+    "question": "মঞ্জুল শিউলিকে কাজ করতে বলে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He tells the truth.",
+    "option2": "He speak the truth.",
+    "option3": "He speaks the honest.",
+    "option4": "He speaks the truth.",
+    "question": "সে সত্যি কথা বলে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Shanu spoke in his class.",
+    "option2": "Shanu spoke with his class.",
+    "option3": "Shanu spoke on his class.",
+    "option4": "Shanu spoke for his class.",
+    "question": "শানু তার ক্লাসের হয়ে কথা বললো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He does spoken English.",
+    "option2": "He can speak on English.",
+    "option3": "He can speak English.",
+    "option4": "He speak English.",
+    "question": "সে ইংরেজী বলতে পারে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Kajol wants to say with you.",
+    "option2": "Kajol wants to speak with you.",
+    "option3": "Kajol wants to tell with you.",
+    "option4": "Kajol wants to speak you.",
+    "question": "কাজল তোমার সঙ্গে কথা বলতে চায়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The teacher said, \"Speak out loudly.\"",
+    "option2": "The teacher said, \"You have to speak out loudly.\"",
+    "option3": "The teacher said, \"You speak loudly.\"",
+    "option4": "The teacher said, \"Please speak out loudly.\"",
+    "question": "শিক্ষক বললেন, \"জোরে বলো\"",
+    "correct": 1,
+    "isPicture": false
+    }
+]

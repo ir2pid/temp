@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "Lata has caught fish.",
+    "option2": "Lata has catched  fish.",
+    "option3": "Lata catches fish.",
+    "option4": "Lata is catching fish.",
+    "question": "লতা মাছ ধরছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The baby has caught cold.",
+    "option2": "The baby is caught cold.",
+    "option3": "The baby was caught cold.",
+    "option4": "The baby caught cold.",
+    "question": "বাচ্চাটির ঠান্ডা লেগেছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Sachin wanted to catch well.",
+    "option2": "Sachin wants to catch well.",
+    "option3": "Sachin want  catching  well.",
+    "option4": "Sachin wants to have catch well.",
+    "question": "শচীন ভালো ক্যাচ ধরতে চায়",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Could you not catching  the ball ?",
+    "option2": "Did you not catch the ball ?",
+    "option3": "Could you not catch the ball ?",
+    "option4": "Are you not catch the ball ?",
+    "question": "তুমি বলটা ধরতে পারলে না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The girl catches the ball which her brother thrown in.",
+    "option2": "The girl has caught the ball which her brother threw in.",
+    "option3": "The girl catched the ball which her brother thrown in.",
+    "option4": "The girl caught the ball which her brother threw in.",
+    "question": "মেয়েটি বলটি ধরে নিল যেটা তার ভাই ছুঁড়লো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Bapi kicked to a ball.",
+    "option2": "Bapi does kick a ball.",
+    "option3": "Bapi kicks a ball.",
+    "option4": "Bapi kicked a ball.",
+    "question": "বাপি একটা বলে লাথি মারলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The referee kicked off the game.",
+    "option2": "The referee kicked out the game.",
+    "option3": "The referee kicked in the game.",
+    "option4": "The referee kick with the game.",
+    "question": "রেফারি খেলা শুরু করলেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Will you kick a man ?",
+    "option2": "Do you kick a man ?",
+    "option3": "Should you kick a man ?",
+    "option4": "Should you kicked a man ?",
+    "question": "মানুষকে লাথি মারা কি উচিৎ ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Never kick anybody.",
+    "option2": "Never kicked  anybody.",
+    "option3": "Do kick anybody.",
+    "option4": "Never kick nobody.",
+    "question": "কাউকে লাথি মারবে না",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Shaibal jumps for kick the football.",
+    "option2": "Shaibal jumps to kicking the football.",
+    "option3": "Shaibal has jumped to kick the football.",
+    "option4": "Shaibal has jumped to kicking the football.",
+    "question": "শৈবাল লাফিয়ে ফুটবলে শট মেরেছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Dhoni hitted the ball hard.",
+    "option2": "Dhoni hits the ball hard.",
+    "option3": "Dhoni  will hit the ball hard.",
+    "option4": "Dhoni can hit the ball hard.",
+    "question": "ধোনি সজোরে বল মারে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I am hit by the storm.",
+    "option2": "I will hit by the storm.",
+    "option3": "I was hit by the storm.",
+    "option4": "I can hit by the storm.",
+    "question": "আমি ঝড়ে আহত হলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "A great hit was Sachin !",
+    "option2": "What a great hit at Sachin !",
+    "option3": "What a great hit was by Sachin !",
+    "option4": "What a great hit by Sachin !",
+    "question": "শচীনের কি চমৎকার মার !",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The ball hit the glass and the glass breaks.",
+    "option2": "The ball hit the glass and the glass is broken.",
+    "option3": "The ball hit the glass, and the glass braked.",
+    "option4": "The ball hit the glass and the glass broke.",
+    "question": "বলটা গেলাসে লাগল ও গেলাসটা ভাঙল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Two cars hitted each other.",
+    "option2": "Two cars hit each other.",
+    "option3": "Two cars hits each other.",
+    "option4": "Two cars have hit each other.",
+    "question": "দুটো গাড়ি ধাক্কা মারলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Shanti is cutting the paper with knife.",
+    "option2": "Shanti was cutting the paper with knife.",
+    "option3": "Shanti is cutting the paper on knife.",
+    "option4": "Shanti will cutt the paper with knife.",
+    "question": "শান্তি ছুরি দিয়ে কাগজ কাটছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Cut in bad friends.",
+    "option2": "Cut off bad friends.",
+    "option3": "Cut the bad friends.",
+    "option4": "Cutting  off bad friends.",
+    "question": "খারাপ বন্ধুদের সঙ্গ ছাড়ো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Hema asked,\"Why you cut paper ?\"",
+    "option2": "Hema asked,\"Why shall you cutting paper ?\"",
+    "option3": "Hema asked,\"Why are you cutting paper ?\"",
+    "option4": "Hema asked,\"Why is you cutting paper ?\"",
+    "question": "হেমা জিজ্ঞেস করল, \"কাগজ কাটছো কেন ?\"",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Cutting trees is not good.",
+    "option2": "Cutting is trees not good.",
+    "option3": "Cut trees is not good.",
+    "option4": "Cutting tree are not good.",
+    "question": "গাছ কাটা ভালো নয়",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "This scissors cut well.",
+    "option2": "This scissors can cut well.",
+    "option3": "This scissors do cutting well.",
+    "option4": "This scissors can cuts well.",
+    "question": "এই কাঁচিতে কাটে ভালো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Two men were fighting with each other.",
+    "option2": "Two men have fighting with each other.",
+    "option3": "Two men are fought with each other.",
+    "option4": "Two men are fighting with each other.",
+    "question": "দুটো লোক লড়াই করছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Stand straight and fought back.",
+    "option2": "Standing straight and fight back.",
+    "option3": "Stand straight and fighting back.",
+    "option4": "Stand straight and fight back.",
+    "question": "সোজা হয়ে দাঁড়াও আর পাল্টা লড়ো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You have fought, but why ?",
+    "option2": "You fought, but why ?",
+    "option3": "You have fight, but why ?",
+    "option4": "You are fighting, but why ?",
+    "question": "তোমরা লড়াই করেছো, কিন্তু কেন ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you love fight ?",
+    "option2": "Do you love fighting ?",
+    "option3": "Are you love fighting ?",
+    "option4": "Do you loving fighting ?",
+    "question": "তোমার লড়াই ভালো লাগে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Soldiers are fighting for our country.",
+    "option2": "Soldiers fought for our country.",
+    "option3": "Soldiers fight for our country.",
+    "option4": "Soldiers have fought for our country.",
+    "question": "সৈন্যরা দেশের জন্য লড়ে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The students fly to Delhi.",
+    "option2": "The students are flying to Delhi.",
+    "option3": "The students flew on Delhi.",
+    "option4": "The students flew to Delhi.",
+    "question": "ছাত্ররা দিল্লী উড়ে গেলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The birds have flown  the hall.",
+    "option2": "The birds have flown down the hall.",
+    "option3": "The birds has flown down the hall.",
+    "option4": "The birds are flown down the hall.",
+    "question": "পাখিগুলো হলে উড়ে এসেছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "If I could flying !",
+    "option2": "If I am fly !",
+    "option3": "If I could fly !",
+    "option4": "If I can fly !",
+    "question": "আমি যদি উড়তে পারতাম !",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Birds know how to fly.",
+    "option2": "Birds know to fly.",
+    "option3": "Birds know how they fly.",
+    "option4": "Birds know how to flying.",
+    "question": "পাখিরা উড়তে জানে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Jewel flied kites.",
+    "option2": "Jewel is flying kites.",
+    "option3": "Jewel flies kites.",
+    "option4": "Jewel has flown kites.",
+    "question": "জুয়েল ঘুড়ি ওড়ায়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Can you please opening the door ?",
+    "option2": "Can you please open the door ?",
+    "option3": "Can you pleased  to open the door ?",
+    "option4": "Are you please open the door ?",
+    "question": "দয়া করে দরজাটা খুলে দিতে পারো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The job still open.",
+    "option2": "The job is still opening.",
+    "option3": "The job is still opens.",
+    "option4": "The job is still open.",
+    "question": "চাকরিটি এখনো খোলা আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Run and open the door.",
+    "option2": "Run and opening  the door.",
+    "option3": "Running and open the door.",
+    "option4": "Runs and open the door.",
+    "question": "ছুটে গিয়ে দরজাটা খোলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I can open all roads for you.",
+    "option2": "I have opening all roads for you.",
+    "option3": "I  opened all roads for you.",
+    "option4": "I have opened all roads for you.",
+    "question": "তোমার জন্য সব রাস্তা খুলে দিয়েছি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "A good teacher is opening up to your mind.",
+    "option2": "A good teacher opens up your mind.",
+    "option3": "A good teacher can open up to your mind.",
+    "option4": "A good teacher opens up to your mind.",
+    "question": "একজন ভালো শিক্ষক তোমার মন উন্মুক্ত করেন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He does closing the door.",
+    "option2": "He was closing the door.",
+    "option3": "He is closed the door.",
+    "option4": "He is closing the door.",
+    "question": "সে দরজা বন্ধ করছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The company closed down the shop.",
+    "option2": "The company close down the shop.",
+    "option3": "The company closing down the shop.",
+    "option4": "The company had closed down the shop.",
+    "question": "কোম্পানী দোকানটা বন্ধ করে দিলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Do you close your ears ?",
+    "option2": "Can you closed your ears ?",
+    "option3": "Can you close your ears ?",
+    "option4": "Can you closing your ears ?",
+    "question": "তুমি  কান বন্ধ করতে পারো কি ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You are not closing the door of your mind.",
+    "option2": "You can not close the door of your mind.",
+    "option3": "You should not closed  the door of your mind.",
+    "option4": "You should not close the door of your mind.",
+    "question": "মনের দরজা বন্ধ করা উচিৎ নয়",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The door closes.",
+    "option2": "The door is close.",
+    "option3": "The door is closed.",
+    "option4": "The door has closed.",
+    "question": "দরজাটা বন্ধ আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Mijanur was pulling the rope.",
+    "option2": "Mijanur is pulling the rope.",
+    "option3": "Mijanur has pulled the rope.",
+    "option4": "Mijanur  pulling the rope.",
+    "question": "মিজানুর দড়িটা টানছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I can only pulling  you out from this position.",
+    "option2": "I can only pull you out from this position.",
+    "option3": "I can only pulled you out from this position.",
+    "option4": "I can only pull you in  this position.",
+    "question": "আমিই একমাত্র তোমায় এই অবস্থা থেকে বার করতে পারি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Do not pull me , I shall fall.",
+    "option2": "Do not pull me , I  fall.",
+    "option3": "Do not pull me , I am falling.",
+    "option4": "Do not pull me , I can falling.",
+    "question": "টেনো না ,পড়ে যাবো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I jump, but he pulls me.",
+    "option2": "He pulled me, but I jumped.",
+    "option3": "I have jumped, but he has pulled.",
+    "option4": "I jumped, but he pulled me.",
+    "question": "আমি লাফালাম, কিন্তু সে আমায় টানল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The dentist pulls the tooth.",
+    "option2": "The dentist had pulled the tooth.",
+    "option3": "The dentist has pulled the tooth.",
+    "option4": "The dentist is pulling the tooth.",
+    "question": "দাঁতের ডাক্তার দাঁতটি তুললেন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Tapanbabu can push the car.",
+    "option2": "Tapanbabu is pushed the car.",
+    "option3": "Tapanbabu is pushing the car.",
+    "option4": "Tapanbabu was pushing the car.",
+    "question": "তপনবাবু গাড়িটা ঠেলছেন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It is dark, but we pushed on.",
+    "option2": "It was dark, but we pushed on.",
+    "option3": "It was dark, but we push on.",
+    "option4": "It was dark, but we are pushed on.",
+    "question": "অন্ধকার ছিল, কিন্তু আমরা এগিয়ে গেলাম",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He has hit me , he has pushed me.",
+    "option2": "He has hit me , he had pushed me.",
+    "option3": "He had hit me , he has pushed me.",
+    "option4": "He has hit me , and pushing  me.",
+    "question": "সে আমায় মেরেছে , আমায় ঠেলেছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Did you want to push the car ?",
+    "option2": "Do you want to pushed the car ?",
+    "option3": "Do you want to push the car ?",
+    "option4": "Will you want to push the car ?",
+    "question": "তুমি কি গাড়িটা ঠেলতে চাও ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The team had pushed forward.",
+    "option2": "The team pushes forward.",
+    "option3": "The team has pushed forward.",
+    "option4": "The team is pushing forward.",
+    "question": "দলটি এগিয়ে গেলো",
+    "correct": 1,
+    "isPicture": false
+    }
+]

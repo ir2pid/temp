@@ -1,0 +1,101 @@
+[
+    {
+    "option1": "How much do you know about the game of dice in Mahabharata ?",
+    "option2": "How much do you know in the game of dice in Mahabharata ?",
+    "option3": "How much do you know towards the game of dice in Mahabharata ?",
+    "option4": "How much do you know for the game of dice in Mahabharata ?",
+    "question": "মহাভারতের পাশাখেলা সম্বন্ধে কতটা জানো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The camels had walked in the desert.",
+    "option2": "The camels had walked across the desert.",
+    "option3": "The camels had walked within the desert.",
+    "option4": "The camels had walked along the desert.",
+    "question": "উটেরা মরুভূমি দিয়ে হেঁটে গিয়েছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Kids are thinking of swimming opposite the river.",
+    "option2": "Kids are thinking of swimming through the river.",
+    "option3": "Kids are thinking of swimming across the river.",
+    "option4": "Kids are thinking of swimming along the river.",
+    "question": "বাচ্চারা সাঁতরে নদী পেরোনোর কথা ভাবছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Internet helps talks along continents today.",
+    "option2": "Internet helps talks through continents today.",
+    "option3": "Internet helps talks among continents today.",
+    "option4": "Internet helps talks across continents today.",
+    "question": "ইন্টারনেট আজ মহাদেশ পেরিয়ে কথা বলতে সাহায্য করে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "What on Dhoni if looking like this ?",
+    "option2": "How about Dhoni looking like this ?",
+    "option3": "How on Dhoni looking like this ?",
+    "option4": "What about Dhoni looking like this ?",
+    "question": "ধোনিকে এরকম দেখতে হলে কেমন হয় ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I have come across a beautiful pond in the jungle.",
+    "option2": "I have come to a beautiful pond in the jungle.",
+    "option3": "I have come along a beautiful pond in the jungle.",
+    "option4": "I have come through to a beautiful pond in the jungle.",
+    "question": "আমি জঙ্গলের ভেতর একটি চমৎকার পুকুরের দেখা পেয়েছি",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "We were around of a campfire on the Christmas night.",
+    "option2": "We were within a campfire on the Christmas night.",
+    "option3": "We were around a campfire on the Christmas night.",
+    "option4": "We were next to a campfire on the Christmas night.",
+    "question": "খ্রীষ্টমাসের রাতে আমরা ছিলাম আগুনের চারপাশে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The tailor measured his trouser length towards his legs.",
+    "option2": "The tailor measured his trouser length along his legs.",
+    "option3": "The tailor measured his trouser length up to his legs.",
+    "option4": "The tailor measured his trouser length through his legs.",
+    "question": "দর্জি ওর প্যান্টের মাপ পা বরাবর নিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Bring your child with.",
+    "option2": "Bring your child through.",
+    "option3": "Bring your child along.",
+    "option4": "Bring your child together.",
+    "question": "তোমার শিশুকে সঙ্গে নিয়ে এসো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Kanika is singing around the instrumental music.",
+    "option2": "Kanika is singing on along with the instrumental music.",
+    "option3": "Kanika is singing with instrumental music.",
+    "option4": "Kanika is singing along with instrumental music.",
+    "question": "কণিকা যন্ত্রসঙ্গীতের সঙ্গে গাইছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He put his hand around Martha’s shoulder.",
+    "option2": "He put his hand in Martha’s shoulder.",
+    "option3": "He put his hand above Martha’s shoulder.",
+    "option4": "He put his hand to Martha’s shoulder.",
+    "question": "তিনি তাঁর হাত মার্থার কাঁধে রাখলেন",
+    "correct": 1,
+    "isPicture": false
+    }
+]

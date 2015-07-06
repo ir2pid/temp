@@ -1,0 +1,92 @@
+[
+    {
+    "option1": "It did not get so cold at the winter this year.",
+    "option2": "It did not get so cold to the winter this year.",
+    "option3": "It did not get so cold in the winter this year.",
+    "option4": "It did not get so cold on the winter this year.",
+    "question": "এ বছর শীতকালে তেমন একটা ঠান্ডা পড়েনি",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "On the day of Janmashtami, Lord Shrikrishna came to this world.",
+    "option2": "To the day of Janmashtami, Lord Shrikrishna came to this world.",
+    "option3": "At the day of Janmashtami, Lord Shrikrishna came to this world.",
+    "option4": "In the day of Janmashtami, Lord Shrikrishna came to this world.",
+    "question": "জন্মাষ্টমীর দিনে ভগবান শ্রীকৃষ্ণ এ জগতে আসেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "We play table tennis at Fridays.",
+    "option2": "We play table tennis for Fridays.",
+    "option3": "We play table tennis in Fridays.",
+    "option4": "We play table tennis on Fridays.",
+    "question": "শুক্রবার করে আমরা টেবিল টেনিস খেলি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We shall visit grandfather in a Sunday.",
+    "option2": "We shall visit grandfather at a Sunday.",
+    "option3": "We shall visit grandfather on a Sunday.",
+    "option4": "We shall visit grandfather during a Sunday.",
+    "question": "আমরা একটি রবিবারে দাদুর কাছে যাব",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The train is going to arrive for a few minutes.",
+    "option2": "The train is going to arrive by a few minutes.",
+    "option3": "The train is going to arrive till a few minutes.",
+    "option4": "The train is going to arrive in a few minutes.",
+    "question": "ট্রেনটি আগামী কয়েক মিনিটে এসে পড়বে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "It is enjoyable to play cricket in a sunny day.",
+    "option2": "It is enjoyable to play cricket on a sunny day.",
+    "option3": "It is enjoyable to play cricket at a sunny day.",
+    "option4": "It is enjoyable to play cricket during a sunny day.",
+    "question": "রোদ ঝলমলে দিনে ক্রিকেট খেলতে ভালো লাগে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Abheda has plans to run 50 projects in the next two years.",
+    "option2": "Abheda has plans to run 50 projects during the next two years.",
+    "option3": "Abheda has plans to run 50 projects on the next two years.",
+    "option4": "Abheda has plans to run 50 projects to the next two years.",
+    "question": "আগামী দু’বছরে অভেদের ৫০টি প্রকল্প চালাবার পরিকল্পনা আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Manish hopes to be rich during a few months.",
+    "option2": "Manish hopes to be rich in a few months.",
+    "option3": "Manish hopes to be rich till a few months.",
+    "option4": "Manish hopes to be rich for a few months.",
+    "question": "মনীশ কয়েক মাসের মধ্যেই বড়লোক হওয়ার আশা করে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "I wished Mr. Saha for his birthday.",
+    "option2": "I wished Mr. Saha at his birthday.",
+    "option3": "I wished Mr. Saha on his birthday.",
+    "option4": "I wished Mr. Saha in his birthday.",
+    "question": "আমি শ্রী সাহাকে ওনার জন্মদিনে শুভেচ্ছা জানিয়েছিলাম",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Technology has advanced a lot in the twentieth century.",
+    "option2": "Technology has advanced a lot for the twentieth century.",
+    "option3": "Technology has advanced a lot on the twentieth century.",
+    "option4": "Technology has advanced a lot at the twentieth century.",
+    "question": "বিংশ শতাব্দীতে প্রযুক্তি অনেক এগিয়ে গেছে",
+    "correct": 1,
+    "isPicture": false
+    }
+]

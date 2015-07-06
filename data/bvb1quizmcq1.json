@@ -1,0 +1,452 @@
+[
+    {
+    "option1": "He do his lessons.",
+    "option2": "He does  his lessons.",
+    "option3": "He did his lessons.",
+    "option4": "He makes  his lessons.",
+    "question": "সে তার পড়া করে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Golapi does the work carefully.",
+    "option2": "Golapi  do the work carefully.",
+    "option3": "Golapi will do the work carefully.",
+    "option4": "Golapi do the work care.",
+    "question": "গোলাপী তার কাজটা যত্ন করে করবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He does it.",
+    "option2": "He did it.",
+    "option3": "He has worked it.",
+    "option4": "He has done it.",
+    "question": "সে এটা করেছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "How did he do this work ?",
+    "option2": "How he do this work ?",
+    "option3": "How do he do this work ?",
+    "option4": "How he does this ?",
+    "question": "সে কি করে একাজটা করলো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "I am doing it.",
+    "option2": "I did it.",
+    "option3": "I done it.",
+    "option4": "I do it.",
+    "question": "আমি এটা করি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You goes there.",
+    "option2": "You go there.",
+    "option3": "You went there.",
+    "option4": "You going there.",
+    "question": "তুমি সেখানে যাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Swapan goes through bad time.",
+    "option2": "Swapan is going through bad time.",
+    "option3": "Swapan is go through bad time.",
+    "option4": "Swapan  going through bad time.",
+    "question": "স্বপন বাজে সময়ের মধ্যে দিয়ে যাচ্ছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Are you go there ?",
+    "option2": "Will you goes there ?",
+    "option3": "Will you go there ?",
+    "option4": "Shall you go there ?",
+    "question": "তুমি কি সেখানে যাবে ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I is thinking of going to his house.",
+    "option2": "I thinking of go to his house.",
+    "option3": "I was thinking of going  his house.",
+    "option4": "I am thinking of going to his house.",
+    "question": "আমি তার বাড়ি যাবো কিনা ভাবছি",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Malati go to the market.",
+    "option2": "Malati going to the market.",
+    "option3": "Malati went to the market.",
+    "option4": "Malati gone to the market.",
+    "question": "মালতী বাজারে গিয়েছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Gouri come from Kolkata.",
+    "option2": "Gouri will come from Kolkata.",
+    "option3": "Gouri comes from Kolkata.",
+    "option4": "Gouri shall come from Kolkata.",
+    "question": "গৌরী কলকাতা থেকে আসবে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Come on, you can do it.",
+    "option2": "Come on, you do it.",
+    "option3": "Come in, you can do it.",
+    "option4": "Come on, you can it.",
+    "question": "এগিয়ে এসো, তুমি পারবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Will you came today ?",
+    "option2": "Will you come today ?",
+    "option3": "Shall you come today ?",
+    "option4": "Are you come today ?",
+    "question": "তুমি কি আজ আসবে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Why will they come ?",
+    "option2": "Why they not come ?",
+    "option3": "Why will they not come ?",
+    "option4": "Why was they not come ?",
+    "question": "কেন তারা আসবে না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Shefali had come here for meet her mother.",
+    "option2": "Shefali came here to meet her mother.",
+    "option3": "Shefali came here for meet her mother.",
+    "option4": "Shefali had come here to meeting her mother.",
+    "question": "শেফালি এখানে তার মায়ের সঙ্গে দেখা করতে এসেছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Shall I get a book for you ?",
+    "option2": "Shall I got a book for you ?",
+    "option3": "Shall I take a book you ?",
+    "option4": "Will I get a book for you ?",
+    "question": "আমি কি তোমার জন্য একটা বই আনবো ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Got ready for your class.",
+    "option2": "Get ready for your class.",
+    "option3": "Get ready your class.",
+    "option4": "Get ready for you class.",
+    "question": " ক্লাসের জন্য তৈরী হও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Have you get the book ?",
+    "option2": "Have you got the book ?",
+    "option3": "Are you got the book ?",
+    "option4": "Can you get the book ?",
+    "question": "তুমি কি বইটা পেয়েছো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Perhaps you will get the answer.",
+    "option2": "Perhaps you get the answer.",
+    "option3": "Perhaps you are get the answer.",
+    "option4": " You will get the answer.",
+    "question": "তোমরা বোধহয় উত্তর পাবে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Munai got a new pen.",
+    "option2": "Munai gotten a new pen.",
+    "option3": "Munai is getting a new pen.",
+    "option4": "Munai had got a new pen.",
+    "question": "মুনাই একটা নতুন পেন পেল",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "She put it with care.",
+    "option2": "She puts it with care.",
+    "option3": "She has put it with care.",
+    "option4": "She  is put it with care.",
+    "question": "সে যত্ন করে এটি রাখলো",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Had he put off the lamp ?",
+    "option2": "Has he put off the lamp ?",
+    "option3": "Is he put off the lamp ?",
+    "option4": "Does he put off the lamp ?",
+    "question": "সে কি আলো নিভিয়েছে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Putting it there.",
+    "option2": "Put there it to.",
+    "option3": "Puts it there.",
+    "option4": "Put it there.",
+    "question": "এটা ওখানে রাখো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Tanima wants to keep the glass on the table.",
+    "option2": "Tanima wanted to put the glass on the table.",
+    "option3": "Tanima wants to put the glass on the table.",
+    "option4": "Tanima is want to put the glass on the table.",
+    "question": "তনিমা গ্লাসটা টেবিলে রাখতে চায়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "You put the book on the table.",
+    "option2": "Please put the book on the table.",
+    "option3": "Put the book on the table.",
+    "option4": "Putting the book on the table.",
+    "question": "বইটা টেবিলে রাখো",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Keeps your word.",
+    "option2": "Keep your word.",
+    "option3": "Will keep your word.",
+    "option4": "Keep at  your word.",
+    "question": "তোমার কথা রেখো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Kept on doing the good things.",
+    "option2": "Keep on do the good things.",
+    "option3": "Keep doing on the good things.",
+    "option4": "Keep on doing the good things.",
+    "question": "ভালো কাজ করাটা চালিয়ে যাও",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Had you kept it there ?",
+    "option2": "Have you kept it there ?",
+    "option3": "Have you keep it there ?",
+    "option4": "Are you kept it there ?",
+    "question": "এটা ওখানে রেখেছো ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "The book should be kept there.",
+    "option2": "The book should  kept there.",
+    "option3": "The book shall be kept there.",
+    "option4": "The book should be keep there.",
+    "question": "বইটা ওখানে রাখা উচিৎ",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "You may keeps the chalk near blackboard.",
+    "option2": "You can keeping the chalk near blackboard.",
+    "option3": "You can keep the chalk near blackboard.",
+    "option4": "You may keep the chalk near blackboard.",
+    "question": "তুমি ব্ল্যাকবোর্ডের কাছে চকটি রাখতে পারো",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Sumit gives it a try.",
+    "option2": "Sumit gave it a try.",
+    "option3": "Sumit  was given it a try.",
+    "option4": "Sumit will try.",
+    "question": "সুমিত চেষ্টা করে দেখলো",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Does not give up.",
+    "option2": "Do not leave a try.",
+    "option3": "Do not give.",
+    "option4": "Do not give up.",
+    "question": "হাল ছেড়ো না",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Giving me the book.",
+    "option2": "I get the book.",
+    "option3": "Give me the book.",
+    "option4": "Gives me the book.",
+    "question": "আমাকে বইটা দাও",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Rani can not give the book.",
+    "option2": "Rani could not give the book.",
+    "option3": "Rani does not give the book.",
+    "option4": "Rani will not give the book.",
+    "question": "রানী বইটা দিতে পারলো না",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Give to me a pen.",
+    "option2": "Give me a pen.",
+    "option3": "Given me a pen.",
+    "option4": "You give me a pen.",
+    "question": "আমাকে একটা পেন দাও",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Takes a pencil with you.",
+    "option2": "Took a pencil with you.",
+    "option3": "Take a pencil with you.",
+    "option4": "Get a pencil with you.",
+    "question": "তোমার সঙ্গে একটি পেনসিল নাও",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Students take part in the function.",
+    "option2": "Students have take part in the function.",
+    "option3": "Students has taken part in the function.",
+    "option4": "Students have taken part in the function.",
+    "question": "ছাত্রছাত্রীরা অনুষ্ঠানে অংশ নিয়েছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Had you took the pen ?",
+    "option2": "Have you given the pen ?",
+    "option3": "Have you taken the pen ?",
+    "option4": "Did you taken the pen ?",
+    "question": "তুমি কি কলমটা নিয়েছো ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Shyamal has taken it.",
+    "option2": "Shyamal should take it.",
+    "option3": "Shyamal must take it.",
+    "option4": "Shyamal must took it.",
+    "question": "শ্যামলকে এটা নিতেই হবে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "The doctor took care of the patient.",
+    "option2": "The doctor took care the patient.",
+    "option3": "The doctor taken care of the patient.",
+    "option4": "The doctor taken care the patient.",
+    "question": "ডাক্তার রোগীটির যত্ন নিয়েছিলেন",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Do you want a room ?",
+    "option2": "Do you wanted a room ?",
+    "option3": "Do you like a room ?",
+    "option4": "Did you want a room ?",
+    "question": "তোমার কি ঘর চাই ?",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The beggars wanted food, but he did not get.",
+    "option2": "The beggars wanted food, but did not get.",
+    "option3": "The beggars want food, but did not get.",
+    "option4": "The beggars wanted food, but does not get.",
+    "question": "ভিখারীরা খাবার চেয়েছিল, কিন্তু পায় নি",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "What do you wanted ?",
+    "option2": "What did you want ?",
+    "option3": "What do you want ?",
+    "option4": "How do you want ?",
+    "question": "তুমি কী চাও ?",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Lakshmi will go.",
+    "option2": "Lakshmi does wanted to go.",
+    "option3": "Lakshmi wants to go.",
+    "option4": "Lakshmi wanted to go.",
+    "question": "লক্ষ্মী যেতে চেয়েছিলো",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I want to help you.",
+    "option2": "I want for your help.",
+    "option3": "I want you help me.",
+    "option4": "I want your help.",
+    "question": "আমি তোমার সাহায্য চাই",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "The car is made in India.",
+    "option2": "The car makes in India.",
+    "option3": "The car makes India.",
+    "option4": "The car is made of India.",
+    "question": "গাড়িটি ভারতে তৈরী",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He made up his mind to do it.",
+    "option2": "He has made up his mind to do it.",
+    "option3": "He make up his mind also to do it.",
+    "option4": "He made his mind to do it.",
+    "question": "সে এটা করবেই ঠিক করে ফেলেছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He makes the house.",
+    "option2": "He is making the house.",
+    "option3": "He made the house.",
+    "option4": "He does make the house.",
+    "question": "সে বাড়িটা তৈরী করছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "If they could make that !",
+    "option2": "If they can make that !",
+    "option3": "They could make that !",
+    "option4": "If they could made that !",
+    "question": "তারা যদি ওটা তৈরী করতে পারতো !",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "She has made dolls.",
+    "option2": "She does make dolls.",
+    "option3": "She makes dolls.",
+    "option4": "She making dolls.",
+    "question": "সে পুতুল তৈরী করে",
+    "correct": 3,
+    "isPicture": false
+    }
+]

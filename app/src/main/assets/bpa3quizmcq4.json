@@ -1,0 +1,65 @@
+[
+    {
+    "option1": "I am proud of being Indian.",
+    "option2": "I am proud to being Indian.",
+    "option3": "I am proud at being Indian.",
+    "option4": "I am proud for being Indian.",
+    "question": "ভারতীয় হিসেবে আমার গর্ব আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "The thief looks sorry in his theft.",
+    "option2": "The thief looks sorry on his theft.",
+    "option3": "The thief looks sorry for his theft.",
+    "option4": "The thief looks sorry to his theft.",
+    "question": "চোরটিকে তার চুরির জন্য দুঃখিত বলে মনে হয়",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I would like to pay towards today's lunch.",
+    "option2": "I would like to pay for today's lunch.",
+    "option3": "I would like to pay up today's lunch.",
+    "option4": "I would like to pay to today's lunch.",
+    "question": "আজকের দুপুরের খাওয়ার খরচটা আমি দিতে চাই",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "My father is never satisfied in my result.",
+    "option2": "My father is never satisfied by my result.",
+    "option3": "My father is never satisfied with my result.",
+    "option4": "My father is never satisfied at my result.",
+    "question": "আমার বাবা কখনোই আমার পরীক্ষার ফলে সন্তুষ্ট হন না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "My elder sister had been studying for Madhyamik examination at that time.",
+    "option2": "My elder sister had been studying to Madhyamik examination at that time.",
+    "option3": "My elder sister had been studying in Madhyamik examination at that time.",
+    "option4": "My elder sister had been studying of Madhyamik examination at that time.",
+    "question": "আমার বড়দিদি তখন মাধ্যমিক পরীক্ষার জন্য পড়াশুনো করছিল",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Both teams were well prepared to the match.",
+    "option2": "Both teams were well prepared in the match.",
+    "option3": "Both teams were well prepared with the match.",
+    "option4": "Both teams were well prepared for the match.",
+    "question": "দুটো দলই ম্যাচের জন্য ভালোভাবে তৈরী হয়েছিল",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Your problem is similar as mine.",
+    "option2": "Your problem is similar to mine.",
+    "option3": "Your problem is similar like mine.",
+    "option4": "Your problem is similar of mine.",
+    "question": "তোমার সমস্যা আমার মতোই",
+    "correct": 2,
+    "isPicture": false
+    }
+]

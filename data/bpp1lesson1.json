@@ -1,0 +1,79 @@
+[
+                      {
+                        "description": "",
+                        "image1": "incar",
+                        "name": "BPP1-Lesson1 (1)",
+                        "text1": "সে গাড়ীতে আছে <br> <br>He is ____ a car.",
+                        "text2": "He is <u>in</u> a car. <br> <br>Preposition হল সেই শব্দ, যা noun বা pronoun-এর আগে বসে (pre - আগে, position - স্থান) । এই উদাহরণে 'গাড়ীতে আছে' বোঝাতে in a car হল, কারণ 'গাড়ীর ভেতরে আছে' এটা নিজেকে সাজিয়ে নিতে হবে । গাড়ীতে - এই 'তে'-র মধ্যেই preposition লুকিয়ে আছে, যেটা এক্ষেত্রে হল in ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "inbox",
+                        "name": "BPP1-Lesson1 (2)",
+                        "text1": "বাক্সে পেনটি আছে <br> <br>The pen is ___ the box.",
+                        "text2": "The pen is <u>in</u> the box. <br> <br>একই নিয়ম । 'বাক্সের ভেতরে আছে' - এরকম সাজিয়ে নিতে হবে । বদ্ধ জায়গার ভেতরে আছে, অতএব box-এর আগে in বসবে ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "onbicycle",
+                        "name": "BPP1-Lesson1 (3)",
+                        "text1": "সে বাইসাইকেলে আছে <br> <br>She is ___ a bicycle.",
+                        "text2": "She is <u>on</u> a bicycle. <br> <br>বাংলা কথাটা না দেখে তার ছবিটা ভাববার চেষ্টা করবে । খুব পরিষ্কার - 'বাইসাইকেলে' বোঝাতে 'বাইসাইকেলের ওপর' মানে করা হচ্ছে । অতএব in হবে না, on হবে ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "onbed",
+                        "name": "BPP1-Lesson1 (4)",
+                        "text1": "বিছানায় লাফিও না <br> <br>Don't jump ___ the bed.",
+                        "text2": "Don't jump <u>on</u> the bed. <br> <br>'বিছানায়'-কে সাজিয়ে নিতে হবে 'বিছানার ওপর' । 'ওপর' অর্থে on হয়, তাই jump on the bed হল ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "atfriend",
+                        "name": "BPP1-Lesson1 (5)",
+                        "text1": "জলভরা বেলুন বন্ধুদের দিকে ছুঁড়তে মজা লাগে <br> <br>Throwing water balloons ___ friends is fun.",
+                        "text2": "Throwing water balloons <u>at</u> friends is fun. <br> <br>'দিকে' বা 'প্রতি' - এই অর্থে at ব্যবহার হয় । যেমন, throw at, look at বা aim at (নিশানা করা) । অবশ্য এই নিয়মে see at him লিখবে না, যদিও তার 'দিকে' তাকানো হচ্ছে । I see him ঠিক, I see at him ভুল ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "target",
+                        "name": "BPP1-Lesson1 (6)",
+                        "text1": "লক্ষ্য বড় থাকলে কি নিশানা করা সহজতর ? <br> <br>Is it easier to aim ____ a bigger target ?",
+                        "text2": "Is it easier to aim <u>at</u> a bigger target ? <br> <br>'লক্ষ্যে নিশানা করা' মানে 'লক্ষ্যের দিকে (বা প্রতি) নিশানা করা' । তাই আগের উদাহরণের নিয়ম মেনে at বসল ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "toschool",
+                        "name": "BPP1-Lesson1 (7)",
+                        "text1": "সে স্কুলে যাচ্ছে <br> <br>She is going ___ school.",
+                        "text2": "She is going <u>to</u> school. <br> <br>স্কুলে - স্কুলের দিকে । প্রশ্ন - \"এটাও তো স্যার 'দিকে' বা 'প্রতি', তাহলে স্যার at না হয়ে to হল কেন ?\" তফাৎ আছে । to-এর ব্যবহার তখনই হয়, যখন কোন কিছু বা কারোর এক জায়গা থেকে আরেক জায়গায় movement (চলন) হয় । aim at, throw at, look at-এ কর্তার চলন হচ্ছে না  - কর্তা আর গন্তব্য যেমন আলাদা ছিল, তেমনি আলাদাই রয়েছে । go, move, fly, swim ইত্যাদি হল movement-এর verb । তাই হয় go to school, fly to London, swim to the other side of the river । লেখবার দরকার নেই - towards school ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "tolondon",
+                        "name": "BPP1-Lesson1 (8)",
+                        "text1": "উড়োজাহাজটি রোজ লন্ডন (উড়ে) যায় <br> <br>The plane flies ___ London everyday.",
+                        "text2": "The plane flies <u>to</u> London everyday. <br> <br>আগের উদাহরণের নিয়ম মেনে to বসল, at হল না । plane হল কর্তা, আর তার movement (চলন) হল London অবধি । তাই fly to, কখনোই fly at নয় ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "inlondon",
+                        "name": "BPP1-Lesson1 (9)",
+                        "text1": "সে লন্ডনে থাকে <br> <br>She lives ____ London.",
+                        "text2": "She lives <u>in</u> London. <br> <br>জেনে রাখবে, বড় জায়গা (বড় শহর, দেশ বা মহাদেশ) থাকলে তার আগে in ব্যবহার হয়, আর কোন ১) অপেক্ষাকৃত ছোট বা ২) স্বল্প পরিচিত স্থান বা ৩) নামকরা স্থান বা ৪) জনগণের জায়গা (public place) থাকলে তার আগে at ব্যবহার হয় । in the world, in Africa, in India, in Kolkata - এরকম হয় । আর at Basirhat (স্বল্প পরিচিত), at the Victoria Memorial (নামকরা বাড়ি), at Howrah station (জনগণের জায়গা), at a village (অপেক্ষাকৃত ছোট জায়গা) - এরকম হয় । লন্ডন বড় জায়গা বলে in বসল তার আগে ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "inaustralia",
+                        "name": "BPP1-Lesson1 (10)",
+                        "text1": "সিডনি অস্ট্রেলিয়ার একটি শহর <br> <br>Sydney is a city ___ Australia.",
+                        "text2": "Sydney is a city <u>in</u> Australia. <br> <br>আগের উদাহরণে বলা হয়েছে, বড় স্থান হলে in বসবে । Australia বড় স্থান বলে তার আগে in বসল । এই in বসাটা কিন্তু Sydney-র জন্য নয়, Australia-র জন্য - যদিও Sydney-ও বড় জায়গা ।  Australia বড় কি বড় নয়, সেটাই বিচার্য, কারণ তার আগেই তো preposition বসার প্রশ্ন আসছে ।"
+                      },
+                      {
+                        "description": "",
+                        "image1": "atcanning",
+                        "name": "BPP1-Lesson1 (11)",
+                        "text1": "আমি পশ্চিমবঙ্গের ক্যানিঙে থাকি <br> <br>I stay ___ Canning ___ West Bengal.",
+                        "text2": "I stay <u>at</u> Canning <u>in</u> West Bengal. <br> <br>আগের নিয়ম মেনেই এখানে West Bengal-এর (পরিচিত বড় জায়গা) আগে in আর Canning-এর (স্বল্প পরিচিত স্থান) আগে at বসল । তোমার কাছে Canning বড় জায়গা হতে পারে, বিশ্বের মানুষের কাছে সেটা খুব পরিচিত নয় । 'থাকা' অর্থে live আর stay দুই-ই ব্যবহার হয় ।"
+                      }
+]

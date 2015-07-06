@@ -1,0 +1,272 @@
+[
+    {
+    "option1": "You have.",
+    "option2": "You has.",
+    "option3": "Your have.",
+    "option4": "Your has.",
+    "question": "তোমাদের আছে",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "He have.",
+    "option2": "He has.",
+    "option3": "His have.",
+    "option4": "His has.",
+    "question": "তার (ছেলে) আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "She have.",
+    "option2": "She has.",
+    "option3": "Her has.",
+    "option4": "He has.",
+    "question": "তার (মেয়ে) আছে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Them has.",
+    "option2": "They has.",
+    "option3": "Them have.",
+    "option4": "They have.",
+    "question": "তাদের আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Its have.",
+    "option2": "Its has.",
+    "option3": "It have.",
+    "option4": "It has.",
+    "question": "এটির আছে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Those have.",
+    "option2": "This has.",
+    "option3": "These have.",
+    "option4": "These has.",
+    "question": "এগুলির আছে",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I one girl.",
+    "option2": "I a girl.",
+    "option3": "I am one girl.",
+    "option4": "I am a girl.",
+    "question": "আমি একটি মেয়ে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "I Sita.",
+    "option2": "My name Sita.",
+    "option3": "I am Sita.",
+    "option4": "I am the Sita.",
+    "question": "আমি সীতা",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "I one boy.",
+    "option2": "I am a boy.",
+    "option3": "I a boy.",
+    "option4": "I is a boy.",
+    "question": "আমি একটি ছেলে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "My name is Alok.",
+    "option2": "I Alok.",
+    "option3": "I am the Alok.",
+    "option4": "I am Alok.",
+    "question": "আমি অলোক",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "We girls.",
+    "option2": "We is girls.",
+    "option3": "We are girls.",
+    "option4": "We the girls.",
+    "question": "আমরা মেয়েরা",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "Nasima and Shamima is girl.",
+    "option2": "Nasima and Shamima are girl.",
+    "option3": "Nasima and Shamima is girls.",
+    "option4": "Nasima and Shamima are girls.",
+    "question": "নাসিমা আর শামিমা মেয়ে",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "You a boy.",
+    "option2": "You are a boy.",
+    "option3": "You is a boy.",
+    "option4": "You one boy.",
+    "question": "তুমি একটি ছেলে",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "You are the Jayanta.",
+    "option2": "Your name is Jayanta.",
+    "option3": "You are Jayanta.",
+    "option4": "You Jayanta.",
+    "question": "তুমি জয়ন্ত",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He a man.",
+    "option2": "She is a man.",
+    "option3": "He a man is.",
+    "option4": "He is a man.",
+    "question": "সে একটি পুরুষ",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "He Sumit.",
+    "option2": "He is Sumit.",
+    "option3": "He Sumit is.",
+    "option4": "His name Sumit.",
+    "question": "সে সুমিত",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Sumit a man is.",
+    "option2": "Sumit is a man.",
+    "option3": "Sumit one man.",
+    "option4": "A man is Sumit.",
+    "question": "সুমিত একজন পুরুষ",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "He is a woman.",
+    "option2": "He one woman is.",
+    "option3": "She is a woman.",
+    "option4": "She is the woman.",
+    "question": "সে একজন স্ত্রীলোক/নারী",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "She is Salma.",
+    "option2": "She Salma is.",
+    "option3": "She Salma.",
+    "option4": "Her name Salma.",
+    "question": "সে সালমা",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "Salma is the woman.",
+    "option2": "Salma is a woman.",
+    "option3": "Salma a woman.",
+    "option4": "A woman is Salma.",
+    "question": "সালমা একজন নারী/স্ত্রীলোক",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "They student.",
+    "option2": "They students.",
+    "option3": "They are the students.",
+    "option4": "They are students.",
+    "question": "তারা ছাত্র",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "They Partha and Shamim.",
+    "option2": "They are Partha and Shamim.",
+    "option3": "They Partha and Shamim are.",
+    "option4": "Those are Partha and Shamim.",
+    "question": "তারা হলো পার্থ আর সামিম",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Partha and Shamim student.",
+    "option2": "Partha and Shamim is students.",
+    "option3": "Partha and Shamim are students.",
+    "option4": "Students are Partha and Shamim.",
+    "question": "পার্থ আর শামিম ছাত্র",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It a pen.",
+    "option2": "A pen is here.",
+    "option3": "This a pen is.",
+    "option4": "It is a pen.",
+    "question": "এটি একটি পেন",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "This my pen.",
+    "option2": "I have a pen.",
+    "option3": "This is my pen.",
+    "option4": "This pen is my.",
+    "question": "এটি আমার পেন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "It is your pen.",
+    "option2": "It is yours pen.",
+    "option3": "This pen is your.",
+    "option4": "your pen it is.",
+    "question": "এটি তোমার পেন",
+    "correct": 1,
+    "isPicture": false
+    },
+    {
+    "option1": "These our pen.",
+    "option2": "These is our pens.",
+    "option3": "These are our pens.",
+    "option4": "These pens are our.",
+    "question": "এগুলো আমাদের পেন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "That his pen.",
+    "option2": "That is his pen.",
+    "option3": "This his pen.",
+    "option4": "This is his pen.",
+    "question": "ওটি তার পেন",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Those are there pens.",
+    "option2": "Those pens are them.",
+    "option3": "Those are their pens.",
+    "option4": "These are their pens.",
+    "question": "ওগুলো তাদের পেন",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "My name Sita.",
+    "option2": "My name is Sita.",
+    "option3": "Sita my name.",
+    "option4": "Sita my name is.",
+    "question": "আমার নাম সীতা",
+    "correct": 2,
+    "isPicture": false
+    }
+]

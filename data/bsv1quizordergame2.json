@@ -1,0 +1,233 @@
+[
+    {
+        "question": "ঈশান ভালোই ছবি আঁকে",
+        "words": {
+          "4": "Ishan",
+          "1": "very",
+          "3": "picture",
+          "2": "paints",
+          "5": "well",
+          "6": "sketches",
+          "7": "fairly",
+          "8": "colours",
+          "9": "draws"
+        },
+        "answers":[[4,9,3,7,5]]
+    },
+    {
+        "question": "দাদু আমাদের সবাইকে ভালোবাসেন",
+        "words": {
+          "4": "all",
+          "1": "us",
+          "3": "prefers",
+          "2": "of",
+          "5": "loves",
+          "6": "likes",
+          "7": "grandpa",
+          "8": "to",
+          "9": "cares"
+        },
+        "answers":[[7,5,4,2,1]]
+    },
+    {
+        "question": "পৃথা কম্পুটারে নানা বিষয় অধ্যয়ন করেছে",
+        "words": {
+          "4": "Pritha",
+          "1": "read",
+          "3": "on",
+          "2": "in",
+          "5": "has",
+          "6": "learnt",
+          "7": "researched",
+          "8": "many",
+          "9": "subjects",
+          "10": "studied",
+          "11": "computer",
+          "12": "had"
+        },
+        "answers":[[4,5,10,8,9,3,11]]
+    },
+    {
+        "question": "আমি কফির চেয়ে চা বেশী পছন্দ করি",
+        "words": {
+          "4": "to",
+          "1": "like",
+          "3": "tea",
+          "2": "the",
+          "5": "I",
+          "6": "than",
+          "7": "coffee",
+          "8": "prefer"
+        },
+        "answers":[[5,8,3,4,7]]
+    },
+    {
+        "question": "আমাদের দীপিকা ম্যাডাম খুব ভালো ইতিহাস পড়ান",
+        "words": {
+          "4": "Madam",
+          "1": "Dipika",
+          "3": "learns",
+          "2": "well",
+          "5": "our",
+          "6": "the",
+          "7": "teaches",
+          "8": "studies",
+          "9": "History",
+          "10": "knows",
+          "11": "very",
+          "12": "coaches"
+        },
+        "answers":[[5,1,4,7,9,11,2]]
+    },
+    {
+        "question": "দেখ, রবীন কেমন একটা পায়রার রেখাচিত্র এঁকেছে",
+        "words": {
+          "4": "how",
+          "1": "pigeon",
+          "3": "Robin",
+          "2": "traced",
+          "5": "has",
+          "6": "painted",
+          "7": "see",
+          "8": "a",
+          "9": "the",
+          "10": "sketched",
+          "11": "drawn"
+        },
+        "answers":[[7,4,3,5,10,8,1]]
+    },
+    {
+        "question": "আমাদের উজান একটা বই পড়ছে",
+        "words": {
+          "4": "is",
+          "1": "a",
+          "3": "studying",
+          "2": "book",
+          "5": "the",
+          "6": "our",
+          "7": "learning",
+          "8": "Ujaan",
+          "9": "reading",
+          "10": "teaching"
+        },
+        "answers":[[6,8,4,9,1,2]]
+    },
+    {
+        "question": "কি বাজে ছবি ! এতে আবার চিত্রকর রং করছে !",
+        "words": {
+          "4": "what",
+          "1": "colouring",
+          "3": "bad",
+          "2": "drawing",
+          "5": "and",
+          "6": "sketching",
+          "7": "the",
+          "8": "picture",
+          "9": "is",
+          "10": "painting",
+          "11": "painter",
+          "12": "this",
+          "13": "painting",
+          "14": "giving",
+          "15": "a"
+        },
+        "answers":[[4,15,3,10,5,7,11,9,13,12,8],[4,15,3,13,5,7,11,9,10,12,8]]
+    },
+    {
+        "question": "আমি দাবা খেলতে পছন্দ করি",
+        "words": {
+          "4": "I",
+          "1": "love",
+          "3": "chess",
+          "2": "prefer",
+          "5": "to",
+          "6": "like",
+          "7": "the",
+          "8": "playing"
+        },
+        "answers":[[4,6,8,3]]
+    },
+    {
+        "question": "জুয়েল আমার কাছে গিটার শিখত",
+        "words": {
+          "4": "guitar",
+          "1": "study",
+          "3": "teach",
+          "2": "used",
+          "5": "from",
+          "6": "to",
+          "7": "practice",
+          "8": "learn",
+          "9": "me",
+          "10": "Jewel",
+          "11": "the"
+        },
+        "answers":[[10,2,6,8,4,5,9]]
+    },
+    {
+        "question": "আমি ফুটবলের থেকে ক্রিকেট বেশী পছন্দ করি",
+        "words": {
+          "4": "I",
+          "1": "the",
+          "3": "prefer",
+          "2": "the",
+          "5": "cricket",
+          "6": "love",
+          "7": "to",
+          "8": "like",
+          "9": "than",
+          "10": "football"
+        },
+        "answers":[[4,3,5,7,10]]
+    },
+    {
+        "question": "রাহুল একহাতে হাঁটতে জানে",
+        "words": {
+          "4": "knows",
+          "1": "to",
+          "3": "by",
+          "2": "with",
+          "5": "in",
+          "6": "walk",
+          "7": "understand",
+          "8": "how",
+          "9": "hand",
+          "10": "learns",
+          "11": "one",
+          "12": "Rahul"
+        },
+        "answers":[[12,4,8,1,6,2,11,9]]
+    },
+    {
+        "question": "সে ইংরিজি জানে",
+        "words": {
+          "4": "he  ",
+          "1": "learns",
+          "3": "the",
+          "2": "English",
+          "5": "understand",
+          "6": "studies",
+          "7": "knows"
+        },
+        "answers":[[4,7,2]]
+    },
+    {
+        "question": "সবিতা আয়নাকে প্রশ্ন করে, \"আয়না, এই মহিলাকে কি আমি চিনি\" ?",
+        "words": {
+          "4": "asks",
+          "1": "I",
+          "3": "the",
+          "2": "woman",
+          "5": "tells",
+          "6": "mirror",
+          "7": "mirror",
+          "8": "realize",
+          "9": "this",
+          "10": "know",
+          "11": "Sabita",
+          "12": "read",
+          "13": "do"
+        },
+        "answers":[[11,4,3,6,7,13,1,10,9,2],[11,4,3,7,6,13,1,10,9,2]]
+    }
+]

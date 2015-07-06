@@ -1,0 +1,239 @@
+[
+    {
+        "question": "Simple (সরল বাক্য) to Complex (জটিল বাক্য): He is an intelligent boy.",
+        "words": {
+          "4": "intelligent",
+          "1": "which",
+          "3": "the",
+          "2": "is",
+          "5": "who",
+          "6": "a",
+          "7": "is",
+          "8": "boy",
+          "9": "he"
+        },
+        "answers":[[9,7,6,8,5,2,4],[9,2,6,8,5,7,4]]
+    },
+    {
+        "question": "Exclamatory (বিস্ময়-বোধক) to Affirmative (হ্যাঁ-বাচক): Hurrah! We have won !",
+        "words": {
+          "4": "I",
+          "1": "happiness",
+          "3": "win",
+          "2": "it",
+          "5": "that",
+          "6": "show",
+          "7": "won",
+          "8": "we",
+          "9": "pleasure",
+          "10": "a",
+          "11": "is",
+          "12": "our",
+          "13": "have"
+        },
+        "answers":[[2,11,10,9,5,8,13,7]]
+    },
+    {
+        "question": "Simple (সরল বাক্য) to Complex (জটিল বাক্য): You saw a happy man.",
+        "words": {
+          "4": "you",
+          "1": "whom",
+          "3": "man",
+          "2": "see",
+          "5": "happy",
+          "6": "have",
+          "7": "saw",
+          "8": "was",
+          "9": "a",
+          "10": "who"
+        },
+        "answers":[[4,7,9,3,10,8,5]]
+    },
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Exclamatory (বিস্ময়-বোধক): The flower is very beautiful.",
+        "words": {
+          "4": "what",
+          "1": "flower",
+          "3": "beautiful",
+          "2": "is",
+          "5": "very",
+          "6": "the",
+          "7": "how",
+          "8": "was"
+        },
+        "answers":[[7,3,6,1,2]]
+    },
+    {
+        "question": "Simple (সরল বাক্য) to Complex (জটিল বাক্য): The Taj Mahal, the most beautiful building in India, was built by Shahjahan.",
+        "words": {
+          "4": "Taj Mahal",
+          "1": "Shahjahan",
+          "3": "India",
+          "2": "beautiful",
+          "5": "built",
+          "6": "the",
+          "7": "was",
+          "8": "which",
+          "9": "the",
+          "10": "by",
+          "11": "most",
+          "12": "building",
+          "13": "in",
+          "14": "is"
+        },
+        "answers":[[9,4,8,14,6,11,2,12,13,3,7,5,10,1],[6,4,8,14,9,11,2,12,13,3,7,5,10,1]]
+    },
+    {
+        "question": "Exclamatory (বিস্ময়-বোধক) to Affirmative (হ্যাঁ-বাচক): Alas, the man is dead !",
+        "words": {
+          "4": "we",
+          "1": "sad",
+          "3": "died",
+          "2": "that",
+          "5": "are",
+          "6": "man",
+          "7": "sorry",
+          "8": "the",
+          "9": "to",
+          "10": "feel",
+          "11": "dead",
+          "12": "find",
+          "13": "is"
+        },
+        "answers":[[4,5,7,2,8,6,13,11]]
+    },
+    {
+        "question": "Simple (সরল বাক্য) to Complex (জটিল বাক্য): Jewel saw a wounded bird.",
+        "words": {
+          "4": "Jewel",
+          "1": "bird",
+          "3": "wounded",
+          "2": "that",
+          "5": "when",
+          "6": "saw",
+          "7": "was",
+          "8": "a",
+          "9": "which"
+        },
+        "answers":[[4,6,8,1,2,7,3],[4,6,8,1,9,7,3]]
+    },
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Exclamatory (বিস্ময়-বোধক): The scene is horrible.",
+        "words": {
+          "4": "what",
+          "1": "scene",
+          "3": "horrible",
+          "2": "is",
+          "5": "how",
+          "6": "the"
+        },
+        "answers":[[5,3,6,1,2]]
+    },
+    {
+        "question": "Simple (সরল বাক্য) to Complex (জটিল বাক্য): Mijanur bought his uncle's palace.",
+        "words": {
+          "4": "Mijanur",
+          "1": "that",
+          "3": "his",
+          "2": "bought",
+          "5": "belonged",
+          "6": "the",
+          "7": "which",
+          "8": "uncle",
+          "9": "to",
+          "10": "was",
+          "11": "palace"
+        },
+        "answers":[[4,2,6,11,7,5,9,3,8]]
+    },
+    {
+        "question": "Affirmative (হ্যাঁ-বাচক) to Exclamatory (বিস্ময়-বোধক): The fish is very big.",
+        "words": {
+          "4": "what",
+          "1": "fish",
+          "3": "very",
+          "2": "the",
+          "5": "is",
+          "6": "how",
+          "7": "a",
+          "8": "big"
+        },
+        "answers":[[6,8,2,1,5]]
+    },
+    {
+        "question": "Simple (সরল বাক্য) to Complex (জটিল বাক্য): Tell the truth.",
+        "words": {
+          "4": "how",
+          "1": "tell",
+          "3": "is",
+          "2": "what",
+          "5": "me",
+          "6": "the",
+          "7": "which",
+          "8": "truth"
+        },
+        "answers":[[1,5,2,6,8,3]]
+    },
+    {
+        "question": "Exclamatory (বিস্ময়-বোধক) to Affirmative (হ্যাঁ-বাচক): Shame ! Shame !",
+        "words": {
+          "4": "shame",
+          "1": "you",
+          "3": "is",
+          "2": "for",
+          "5": "on",
+          "6": "to",
+          "7": "it",
+          "8": "a"
+        },
+        "answers":[[7,3,8,4,5,1]]
+    },
+    
+    {
+        "question": "Simple (সরল বাক্য) to Complex (জটিল বাক্য): Tell me your age.",
+        "words": {
+          "4": "I",
+          "1": "are",
+          "3": "tell",
+          "2": "what",
+          "5": "you",
+          "6": "old",
+          "7": "which",
+          "8": "ask",
+          "9": "how",
+          "10": "to",
+          "11": "you"
+        },
+        "answers":[[4,8,11,10,3,9,6,5,1],[4,8,5,10,3,9,6,11,1]]
+    },
+    {
+        "question": "Simple (সরল বাক্য) to Complex (জটিল বাক্য): Itlufa's silence proves her guilt.",
+        "words": {
+          "4": "Itlufa",
+          "1": "proves",
+          "3": "guilt",
+          "2": "she",
+          "5": "her",
+          "6": "that",
+          "7": "silent",
+          "8": "proved",
+          "9": "is"
+        },
+        "answers":[[6,4,9,7,1,5,3]]
+    },
+    {
+        "question": "Simple (সরল বাক্য) to Complex (জটিল বাক্য): The management is thoroughly bad.",
+        "words": {
+          "4": "management",
+          "1": "be",
+          "3": "bad as",
+          "2": "the",
+          "5": "it",
+          "6": "as",
+          "7": "so",
+          "8": "is",
+          "9": "can"
+        },
+        "answers":[[2,4,8,6,3,5,9,1]]
+    }
+]

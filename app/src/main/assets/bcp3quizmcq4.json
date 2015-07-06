@@ -1,0 +1,191 @@
+[
+    {
+    "option1": "One of the answers were correct.",
+    "option2": "One of the answers was correct.",
+    "option3": "One of answers was correct.",
+    "option4": "One of the answers was the correct.",
+    "question": "উত্তরগুলির মধ্যে একটি ঠিক ছিল",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Either of you two was a fool.",
+    "option2": "Either of you two were a fool.",
+    "option3": "Both of you two was a fool.",
+    "option4": "Either of you two was the fool.",
+    "question": "তোমরা দুজনের প্রত্যেকেই বোকা ছিলে",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Julia was always beside I.",
+    "option2": "I was always beside Julia.",
+    "option3": "Julia was always beside me.",
+    "option4": "Beside me always Julia was.",
+    "question": "জুলিয়া সব সময়েই আমার পাশে ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Dipak and Subir was there at the end of the road.",
+    "option2": "Dipak and Subir were there on the end of the road.",
+    "option3": "Dipak and Subir were at the end of the road.",
+    "option4": "Dipak and Subir were their at the end of the road.",
+    "question": "দীপক এবং সুবীর রাস্তার শেষে ছিল",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "I was no your enemy then.",
+    "option2": "I was not your the enemy then.",
+    "option3": "I was not then your enemy.",
+    "option4": "I was not your enemy then.",
+    "question": "আমি তখন তোমার শত্রু ছিলাম না",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "You was not there at eleven past half.",
+    "option2": "You were no there on half past eleven.",
+    "option3": "You were not there at half past eleven.",
+    "option4": "You were not there at past eleven half.",
+    "question": "তুমি সাড়ে এগারোটার সময় সেখানে ছিলে না",
+    "correct": 3,
+    "isPicture": false
+    },
+    {
+    "option1": "He was not coward.",
+    "option2": "He was never a coward.",
+    "option3": "He was not coward never.",
+    "option4": "He was always not a coward.",
+    "question": "সে কখনই ভীতু ছিল না",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "She was never a rich woman.",
+    "option2": "She was never rich woman.",
+    "option3": "He was never rich woman.",
+    "option4": "A rich woman she was never.",
+    "question": "সে কখনই ধনী স্ত্রীলোক ছিল না",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "They are not in front of their house.",
+    "option2": "They was not in front of their house.",
+    "option3": "They were not their house's infront.",
+    "option4": "They were not in front of their house.",
+    "question": " তারা তাদের বাড়ীর সামনে ছিল না",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Not a happy day for Sutapa it was.",
+    "option2": "Sutapa had not it a happy day.",
+    "option3": "It was not a happy day for Sutapa.",
+    "option4": "Its not a happy day for Sutapa.",
+    "question": "এটা সুতপার জন্য খুশীর দিন ছিল না",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "The moon was behind the clouds ?",
+    "option2": "Was the moon cloud's behind ?",
+    "option3": "Was the clouds behind the moon ?",
+    "option4": "Was the moon behind the clouds ?",
+    "question": "চাঁদ কি মেঘের আড়ালে ছিল ?",
+    "correct": 4,
+    "isPicture": false
+    },
+    {
+    "option1": "Was the dogs beside their master ?",
+    "option2": "Was the master beside the dogs ?",
+    "option3": "The dogs were beside their master ?",
+    "option4": "Were the dogs beside their master ?",
+    "question": "কুকুরগুলি কি তাদের প্রভুর পাশে ছিল ?",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "You were at work from Monday to Friday ?",
+    "option2": "Were you at work from Monday to Friday ?",
+    "option3": "Are you from Monday to Friday were at work ?",
+    "option4": "Monday to Friday were you in work ?",
+    "question": "তুমি কি সোমবার থেকে শুক্রবার পর্য্যন্ত কাজে ছিলে ?",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Was one of the songs for love ?",
+    "option2": "Were one of the songs about love ?",
+    "option3": "Was one of the songs were on love ?",
+    "option4": "Was one of the songs about love ?",
+    "question": "গানগুলির মধ্যে কি একটি ভালোবাসা সম্বন্ধীয় ?",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "Was every one of them good ?",
+    "option2": "Was every one of they good ?",
+    "option3": "Was good every one of them ?",
+    "option4": "Was they every one good ?",
+    "question": "তারা কি প্রত্যেকেই ভাল ছিল ?",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Were any one of the two men tall ?",
+    "option2": "Was any one of the two tall ?",
+    "option3": "Was none of the two men tall ?",
+    "option4": "None of the two was tall ?",
+    "question": "দুজনের মধ্যে কেউ কি লম্বা ছিল ?",
+    "correct": 2,
+    "isPicture": false
+    },
+    {
+    "option1": "Were both of us not at the bus-stop ?",
+    "option2": "Were both of we not at the bus-stop ?",
+    "option3": "Were we both not in the bus-stop ?",
+    "option4": "Was both of us not in the bus-stop ?",
+    "question": "আমরা দুজনেই কি বাস স্টপে ছিলাম না ?",
+    "correct": 1,
+    "isPicture": false
+    },
+     {
+    "option1": "Every student was not after the dog ?",
+    "option2": "Was every student not after the dog ?",
+    "option3": "Were all the students not after the dog ?",
+    "option4": "Was not all the students after the dog ?",
+    "question": "সব ছাত্ররাই কি কুকুরটির পিছনে ছিল না ?",
+    "correct": 3,
+    "isPicture": false
+    },
+     {
+    "option1": "Was there not four windows on the wall ?",
+    "option2": "Were there not four windows on the wall ?",
+    "option3": "Was the wall not have four windows ?",
+    "option4": "Not four windows were there on the wall ?",
+    "question": "দেওয়ালটায় কি ৪ টি জানালা নেই ?",
+    "correct": 2,
+    "isPicture": false
+    },
+     {
+    "option1": "Was there not a small lane the school and the garden between ?",
+    "option2": "Was not a small lane there from the school to the garden ?",
+    "option3": "Between the school to the garden was there not a small lane ?",
+    "option4": "Was there not a small lane between the school and the garden ?",
+    "question": "বিদ্যালয় এবং বাগানের মধ্যে কি একটি সরু গলি ছিল না ?",
+    "correct": 4,
+    "isPicture": false
+    },
+     {
+    "option1": "I see to you.",
+    "option2": "I see you.",
+    "option3": "I look to you.",
+    "option4": "I am seeing you.",
+    "question": "আমি তোমাকে দেখি",
+    "correct": 2,
+    "isPicture": false
+    }
+]

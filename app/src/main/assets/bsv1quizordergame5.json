@@ -1,0 +1,353 @@
+[
+    {
+        "question": "আমি রাস্তা খুঁজে পাচ্ছি না",
+        "words": {
+          "4": "I",
+          "1": "my",
+          "3": "not",
+          "2": "search",
+          "5": "way",
+          "6": "discover",
+          "7": "find",
+          "8": "see",
+          "9": "can"
+        },
+        "answers":[[4,9,3,7,1,5]]
+    },
+    {
+        "question": "বিজ্ঞানীরা প্রতিদিন নতুন ঔষধ উদ্ভাবন করার চেষ্টা করছেন",
+        "words": {
+          "4": "medicine",
+          "1": "scientists",
+          "3": "discover",
+          "2": "to",
+          "5": "find",
+          "6": "are",
+          "7": "invent",
+          "8": "the",
+          "9": "everyday",
+          "10": "make",
+          "11": "new",
+          "12": "trying"
+        },
+        "answers":[[1,6,12,2,7,11,4,9]]
+    },
+    {
+        "question": "আইনজীবী এই বইটিতে কিছু আইন খুঁজছেন",
+        "words": {
+          "4": "the",
+          "1": "this",
+          "3": "some",
+          "2": "finding",
+          "5": "lawyer",
+          "6": "in",
+          "7": "researching",
+          "8": "is",
+          "9": "inventing",
+          "10": "laws",
+          "11": "book",
+          "12": "searching"
+        },
+        "answers":[[4,5,8,12,3,10,6,1,11]]
+    },
+    {
+        "question": "মি. বিগহেড শুরুর লাইনে আরম্ভ করছেন",
+        "words": {
+          "4": "Mr",
+          "1": "Bighead",
+          "3": "commencing",
+          "2": "beginning",
+          "5": "at",
+          "6": "is",
+          "7": "moving",
+          "8": "the",
+          "9": "start-line",
+          "10": "starting"
+        },
+        "answers":[[4,1,6,10,5,8,9]]
+    },
+    {
+        "question": "রেফারি লড়াই থামিয়ে দিলেন",
+        "words": {
+          "4": "referee",
+          "1": "fight",
+          "3": "the",
+          "2": "the",
+          "5": "had",
+          "6": "ended",
+          "7": "completed",
+          "8": "stopped",
+          "9": "finished"
+        },
+        "answers":[[3,4,5,8,2,1],[2,4,5,8,3,1]]
+    },
+    {
+        "question": "কলম্বাস ১৪৯২ সালে আমেরিকা আবিষ্কার করেছিলেন",
+        "words": {
+          "4": "discovered",
+          "1": "1492",
+          "3": "found",
+          "2": "on",
+          "5": "Columbus",
+          "6": "in",
+          "7": "searched",
+          "8": "at",
+          "9": "the",
+          "10": "invented",
+          "11": "year",
+          "12": "America"
+        },
+        "answers":[[5,4,12,6,9,11,1]]
+    },
+    {
+        "question": "কেকটাকে কখনোই খেয়ে শেষ করতে পারবে না - এটা খুবই বড়",
+        "words": {
+          "4": "finish",
+          "1": "you",
+          "3": "cake",
+          "2": "complete",
+          "5": "it",
+          "6": "big",
+          "7": "can",
+          "8": "end",
+          "9": "this",
+          "10": "too",
+          "11": "never",
+          "12": "to",
+          "13": "not",
+          "14": "is",
+          "15": "eat",
+          "16": "eating"
+        },
+        "answers":[[1,7,11,4,16,9,3,5,14,10,6]]
+    },
+    {
+        "question": "এই শুরু সাফল্যের উদ্দেশ্যে আমাদের যাত্রা",
+        "words": {
+          "4": "begins",
+          "1": "of",
+          "3": "to",
+          "2": "our",
+          "5": "starts",
+          "6": "here     ",
+          "7": "makes",
+          "8": "success",
+          "9": "commences",
+          "10": "journey",
+          "11": "the"
+        },
+        "answers":[[6,4,2,10,3,8]]
+    },
+    {
+        "question": "দ্বিতীয় বিশ্বযুদ্ধ ১৯৪৫ সালে শেষ হয়েছিল",
+        "words": {
+          "4": "ended",
+          "1": "the",
+          "3": "finished",
+          "2": "second",
+          "5": "1945",
+          "6": "completed",
+          "7": "world",
+          "8": "in",
+          "9": "on",
+          "10": "stopped",
+          "11": "war"
+        },
+        "answers":[[1,2,7,11,4,8,5]]
+    },
+    {
+        "question": "সভা শুরু হতে যাচ্ছে",
+        "words": {
+          "4": "the     ",
+          "1": "about",
+          "3": "start",
+          "2": "meeting",
+          "5": "conduct",
+          "6": "to",
+          "7": "is",
+          "8": "inaugurate",
+          "9": "commence"
+        },
+        "answers":[[4,2,7,1,6,9]]
+    },
+    {
+        "question": "নকশার ধাঁধাটা সম্পূর্ণ হয়েছে",
+        "words": {
+          "4": "completed",
+          "1": "puzzle",
+          "3": "stopped",
+          "2": "ended",
+          "5": "is",
+          "6": "finished",
+          "7": "the"
+        },
+        "answers":[[7,1,5,4]]
+    },
+    {
+        "question": "নতুন বছরের ক্লাস আজ শুরু হবে",
+        "words": {
+          "4": "begin",
+          "1": "in",
+          "3": "year",
+          "2": "commence",
+          "5": "classes",
+          "6": "open",
+          "7": "today",
+          "8": "the",
+          "9": "will",
+          "10": "start",
+          "11": "new"
+        },
+        "answers":[[5,1,8,11,3,9,4,7]]
+    },
+    {
+        "question": "আমরা আমাদের সম্পর্ক শেষ করার সিদ্ধান্ত নিয়েছি",
+        "words": {
+          "4": "we",
+          "1": "to",
+          "3": "end",
+          "2": "have",
+          "5": "relation",
+          "6": "finish",
+          "7": "decided",
+          "8": "stop",
+          "9": "our",
+          "10": "complete",
+          "11": "relationship"
+        },
+        "answers":[[4,2,7,1,3,9,11]]
+    },
+    {
+        "question": "যাক বাবা, আমার পরীক্ষা শেষ হয়েছে",
+        "words": {
+          "4": "finished",
+          "1": "good",
+          "3": "stopped",
+          "2": "examination",
+          "5": "God",
+          "6": "has",
+          "7": "ended",
+          "8": "my",
+          "9": "completed"
+        },
+        "answers":[[1,5,8,2,6,4]]
+    },
+    {
+        "question": "আঁকা শেষ করেছ, এবার বৃত্তটা কি সম্পূর্ণ করবে ?",
+        "words": {
+          "4": "have",
+          "1": "complete",
+          "3": "now",
+          "2": "drawing",
+          "5": "the",
+          "6": "ended",
+          "7": "You",    
+          "8": "you",
+          "9": "finish",
+          "10": "finished",
+          "11": "will",
+          "12": "completed",
+          "13": "circle",
+          "14": "end"
+        },
+        "answers":[[8,4,10,2,11,7,1,5,13,3],[7,4,10,2,11,8,1,5,13,3]]
+    },
+    {
+        "question": "যখন পুলিশ থামতে বলবে তখন থামতে হবে",
+        "words": {
+          "4": "stop",
+          "1": "police",
+          "3": "finish",
+          "2": "you",
+          "5": "stand",
+          "6": "Stop",
+          "7": "have",
+          "8": "the",
+          "9": "when",
+          "10": "complete",
+          "11": "to",
+          "12": "says"
+        },
+        "answers":[[2,7,11,6,9,1,12,4],[2,7,11,4,9,1,12,6]]
+    },
+    {
+        "question": "কীভাবে বাক্যটাকে শেষ করবে ?",
+        "words": {
+          "4": "end",
+          "1": "how",
+          "3": "stop",
+          "2": "the",
+          "5": "finish",
+          "6": "you",
+          "7": "sentence",
+          "8": "complete",
+          "9": "will"
+        },
+        "answers":[[1,9,6,4,2,7]]
+    },
+    {
+        "question": "রাস্তাটা একটা নদীতে শেষ হয়েছে",
+        "words": {
+          "4": "the      ",
+          "1": "finished",
+          "3": "in",
+          "2": "has",
+          "5": "stopped",
+          "6": "completed",
+          "7": "road",
+          "8": "river",
+          "9": "have",
+          "10": "ended",
+          "11": "a"
+        },
+        "answers":[[4,7,2,10,3,11,8]]
+    },
+    {
+        "question": "প্রাতরাশ খাওয়া শেষ করেছ ?",
+        "words": {
+          "4": "finished",
+          "1": "breakfast",
+          "3": "have    ",
+          "2": "completed",
+          "5": "your",
+          "6": "stopped",
+          "7": "you",
+          "8": "ended"
+        },
+        "answers":[[3,7,4,5,1]]
+    },
+    {
+        "question": "নতুন অধিবেশন জুন থেকে শুরু হবে",
+        "words": {
+          "4": "will",
+          "1": "introduce",
+          "3": "from",
+          "2": "settle",
+          "5": "session",
+          "6": "the",
+          "7": "launch",
+          "8": "commence",
+          "9": "new",
+          "10": "June",
+          "11": "start"
+        },
+        "answers":[[6,9,5,4,8,3,10]]
+    },
+    {
+        "question": "এইভাবে আমরা একটা গাড়ি চালু করি",
+        "words": {
+          "4": "start",
+          "1": "is",
+          "3": "begin",
+          "2": "a",
+          "5": "open",
+          "6": "we",
+          "7": "the",
+          "8": "how",
+          "9": "commence",
+          "10": "car",
+          "11": "this"
+        },
+        "answers":[[11,1,8,6,4,2,10]]
+    }
+]
